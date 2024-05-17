@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>01 序幕</title>
+  <style type="text/css">
+  body {
+  font-family: sans-serif, Verdana;
+  margin-top: 3ex;
+  margin-left: 0;
+  text-align: center;
+  margin-right: 0;
+  background-color: #000;
+  color: #eee;
+}
+
+.hilite {
+  background-color: #951;
+}
+
+.sl {
+  margin-left: 10ex;
+  margin-bottom: 2ex;
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 90%;
+  white-space: nowrap;
+}
+
+.mid {
+  margin: 0 auto;
+  max-width: 980px;
+  text-align: left;
+}
+
+.content {
+  min-height: 25em;
+  margin-bottom: 0.5em;
+}
+
+.tab {
+  padding: 0 1ex;
+  float: left;
+  position: relative;
+  top: 1px;
+  margin: 0;
+  margin-left: 3px;
+  display: block;
+}
+
+.atab {
+  border: 1px solid #b80;
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+}
+
+.ntab {
+  border: 1px solid #b80;
+  background-color: #eec;
+}
+
+.ntab:hover {
+  background-color: #fff;
+}
+
+.subtab {
+  background-color: #eec;
+  padding: 0 3px;
+}
+
+.subtab:hover {
+  background-color: #fff;
+}
+
+.tab a,
+.atab a,
+.tab a:hover,
+.atab a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.tabs {
+  width: 100%;
+  border-bottom: 1px solid #b80;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+  min-width: 40ex;
+}
+
+.tabs ul {
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #970;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #c00;
+}
+
+.warning {
+  margin-top: 4ex;
+  border: 1px solid #b80;
+  background-color: #ff9;
+  padding: 1ex;
+}
+
+.adt {
+  text-decoration: none
+}
+
+body {
+  position: relative;
+}
+
+#tip {
+  border: 1px solid #333;
+  background-color: #111;
+  padding: 5px;
+  font: normal 1em sans-serif, arial;
+  z-index: 10001;
+  visibility: hidden;
+  position: absolute;
+  _width: 15ex;
+}
+
+font {
+  z-index: 10000;
+}
+
+.ann {
+  cursor: default;
+  z-index: 99;
+}
+
+.iann {
+  text-align: center;
+  white-space: nowrap;
+  display: -moz-inline-box;
+  display: inline-table;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.sann {
+  margin: 0 0.3ex;
+}
+
+.nann {
+  vertical-align: bottom;
+}
+
+#url {
+  width: 99%;
+}
+
+#annotated {
+  padding: 2ex;
+  margin: 0;
+}
+
+#translated {
+  border: 1px solid #b80;
+  padding: 2ex;
+  padding-bottom: 1ex;
+  margin-top: 2ex;
+}
+
+#intro {
+  margin-top: 1ex;
+}
+
+.py {
+  font-size: 80%;
+  color: #c00;
+  display: table-row;
+}
+
+.zy {
+  font-size: 60%;
+  color: #c00;
+  display: table-row;
+}
+
+.zh {
+  display: table-row;
+}
+
+#show_vocab {
+  margin-top: 1em;
+}
+
+#vocab_table {
+  border: 0px;
+  margin: 5px 5px;
+  padding-left: 5px;
+  text-align: left;
+}
+
+#vocab>tr:nth-child(even) {
+  background-color: #111;
+}
+
+.nw {
+  white-space: nowrap;
+}
+
+.nw_num {
+  font-size: small;
+}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/javascript">
+  const text_vocabulary = {"要":[["yào","yāo"],["important/vital/to want/to ask for/will/going to (as future auxiliary)/may/must/(used in a comparison) must be/probably/if","to demand/to request/to coerce"],3,1.0,691,"要"],"一":[["yī"],["one/1/single/a (article)/as soon as/entire/whole/all/throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yāo] for greater clarity when spelling out numbers digit by digit"],2,1.0,856,"一"],"早死":[["zǎosǐ"],["early demise/untimely death"],5,0.16311354478201692,35,"早死"],"买卖":[["mǎimài"],["buying and selling/business/business transactions/CL:樁|桩[zhuāng],次[cì]"],2,0.6184109557071719,675,"買賣"],"招待":[["zhāodài"],["to receive (guests)/to entertain/reception"],2,0.3207729052282472,530,"招待"],"体格":[["tǐgé"],["bodily health/one's physical state/physique"],5,0.26022836555207457,115,"體格"],"师":[["shī","Shī"],["teacher/master/expert/model/army division/(old) troops/to dispatch troops","surname Shi"],4,0.23926274309557283,594,"師"],"而":[["ér"],["and/as well as/and so/but (not)/yet (not)/(indicates causal relation)/(indicates change of state)/(indicates contrast)"],2,1.0,54,"而"],"文集":[["wénjí"],["collected works"],5,0.42123745026132076,4,"文集"],"承袭":[["chéngxí"],["to inherit/to follow/to adopt"],5,0.24391164039046198,796,"承襲"],"发财":[["fācái"],["to get rich"],4,0.2566627511144237,282,"發財"],"林":[["Lín","lín"],["surname Lin/Japanese surname Hayashi","woods/forest/CL:片[piàn]/circle(s) (i.e. specific group of people)/a collection (of similar things)"],5,1.0,416,"林"],"阔":[["kuò"],["rich/wide/broad/variant of 闊|阔[kuò]"],3,0.0,227,"濶"],"酒席":[["jiǔxí"],["feast/banquet"],5,0.18369972151291056,608,"酒席"],"刘":[["Liú","liú"],["surname Liu","(classical) a type of battle-ax/to kill/to slaughter"],5,0.829206960911162,168,"劉"],"些":[["xiē"],["classifier indicating a small amount or small number greater than 1: some, a few, several"],1,0.6601030804813676,378,"些"],"多":[["duō"],["many/much/often/a lot of/numerous/more/in excess/how (to what extent)/multi-/Taiwan pr. [duó] when it means \"how\""],1,1.0,124,"多"],"宝":[["bǎo"],["jewel/gem/treasure/precious/variant of 寶|宝[bǎo]"],3,0.0,522,"寳"],"我们":[["wǒmen"],["we/us/ourselves/our"],1,1.0,25,"我們"],"茶房":[["cháfáng"],["waiter/steward/porter/teahouse"],5,0.19073271059876254,855,"茶房"],"就":[["jiù"],["at once/right away/only/just (emphasis)/as early as/already/as soon as/then/in that case/as many as/even if/to approach/to move towards/to undertake/to engage in/to suffer/subjected to/to accomplish/to take advantage of/to go with (of foods)/with regard to/concerning"],3,1.0,40,"就"],"麻子":[["mázi"],["pockmark"],5,0.1785198658736747,169,"麻子"],"两":[["liǎng"],["two/both/some/a few/tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jīn] (old)"],2,0.862780494174906,857,"兩"],"评书":[["píngshū"],["pingshu, a folk art where a single performer narrates stories from history or fiction"],5,0.0,624,"評書"],"被":[["bèi"],["quilt/by/(indicates passive-voice clauses)/(literary) to cover/to meet with/(coll.) (since c. 2009) used before a verb that does not accurately represent what actually happened, to describe with black humor how sb or sth was dealt with by the authorities (as in 被自殺|被自杀[bèi zì shā])"],1,1.0,348,"被"],"巡警":[["xúnjǐng"],["police patrol/patrol officer/police officer (old)"],5,0.14658208054903643,380,"巡警"],"大力":[["dàlì"],["energetically/vigorously"],3,0.41937214635898046,395,"大力"],"太监":[["tàijiàn"],["court eunuch/palace eunuch"],5,0.1980617299297952,275,"太監"],"话剧":[["huàjù"],["stage play/modern drama/CL:臺|台[tái],部[bù]"],3,0.30331315070354725,12,"話劇"],"嘴":[["zuǐ"],["mouth/beak/nozzle/spout (of teapot etc)/CL:張|张[zhāng],個|个[gè]"],1,0.45206723240469754,61,"嘴"],"康":[["kāng","Kāng"],["healthy/peaceful/abundant","surname Kang"],5,0.24047254493286888,186,"康"],"小学":[["xiǎoxué"],["elementary school/primary school/CL:個|个[gè]"],2,0.5271488121420929,754,"小學"],"方":[["fāng","Fāng"],["square/power or involution (math.)/upright/honest/fair and square/direction/side/party (to a contract, dispute etc)/place/method/prescription (medicine)/just when/only or just/classifier for square things/abbr. for square or cubic meter","surname Fang"],3,0.2627373682086572,651,"方"],"常":[["cháng","Cháng"],["always/ever/often/frequently/common/general/constant","surname Chang"],1,0.2408369066830804,90,"常"],"洋教":[["yángjiào"],["foreign religion (esp. Western Christianity in Qing China)"],5,0.0,163,"洋教"],"宋":[["Sòng"],["surname Song/the Song dynasty (960-1279)/also Song of the Southern dynasties 南朝宋 (420-479)"],5,0.19147137888758503,304,"宋"],"爷":[["yé"],["grandpa/old gentleman"],5,0.3755054082947875,77,"爺"],"勇":[["yǒng"],["brave"],5,0.5227878804611977,764,"勇"],"报童":[["bàotóng"],["paperboy"],5,0.0,387,"報童"],"陈":[["Chén","chén"],["surname Chen/Chen (c. 1045 - 479 BC), a Zhou dynasty state/Chen (557-589), one of the Southern Dynasties 南朝[Nán Cháo]","to lay out/to exhibit/to display/to narrate/to state/to explain/to tell/old/stale"],5,1.0,427,"陳"],"有":[["yǒu"],["to have/there is/there are/to exist/to be"],1,1.0,532,"有"],"说媒":[["shuōméi"],["to act as a matchmaker"],5,0.11657243802242272,177,"說媒"],"李":[["Lǐ","lǐ"],["surname Li","plum"],5,0.9791160140438244,118,"李"],"发":[["fā","fà"],["to send out/to show (one's feeling)/to issue/to develop/to make a bundle of money/classifier for gunshots (rounds)","hair/Taiwan pr. [fǎ]"],1,0.44741528107663053,19,"髮"],"改":[["gǎi"],["to change/to alter/to transform/to correct"],1,0.6438644091772784,647,"改"],"包办":[["bāobàn"],["to undertake to do everything by oneself/to run the whole show"],4,0.23434979924867952,607,"包辦"],"福":[["fú","Fú"],["good fortune/happiness/luck","surname Fu/abbr. for Fujian province 福建省[Fú jiàn shěng]"],4,0.25595445707152004,614,"福"],"相依为命":[["xiāngyīwéimìng"],["mutually dependent for life (idiom); to rely upon one another for survival/interdependent"],5,0.18244572521044278,413,"相依為命"],"卖":[["mài"],["to sell/to betray/to spare no effort/to show off or flaunt"],1,0.7089529334564411,349,"賣"],"发展":[["fāzhǎn"],["development/growth/to develop/to grow/to expand"],1,1.0,556,"發展"],"四":[["sì"],["four/4"],1,1.0,91,"四"],"后":[["hòu","Hòu"],["back/behind/rear/afterwards/after/later/post-/empress/queen/(archaic) monarch/ruler","surname Hou"],1,0.14599220105695304,409,"后"],"贫农":[["pínnóng"],["poor peasant"],5,0.10533508856274564,195,"貧農"],"男的":[["nánde"],["man"],5,0.3339284396781223,853,"男的"],"见面":[["jiànmiàn"],["to meet/to see each other/CL:次[cì]"],1,0.39735558503222695,26,"見面"],"车":[["chē","Chē","jū"],["car/vehicle/CL:輛|辆[liàng]/machine/to shape with a lathe/Kangxi radical 159","surname Che","war chariot (archaic)/rook (in Chinese chess)/rook (in chess)"],1,0.8831455227955288,666,"車"],"表":[["biǎo"],["exterior surface/family relationship via females/to show (one's opinion)/a model/a table (listing information)/a form/a meter (measuring sth)/wrist or pocket watch"],1,0.44145542361699,15,"錶"],"宪兵":[["xiànbīng"],["military police"],5,0.2571166215891927,841,"憲兵"],"马":[["mǎ","Mǎ"],["horse/CL:匹[pǐ]/horse or cavalry piece in Chinese chess/knight in Western chess","surname Ma/abbr. for Malaysia 馬來西亞|马来西亚[Mǎ lái xī yà]"],1,0.2473434357012893,152,"馬"],"维新":[["wéixīn"],["(political) reform/revitalization/modernization"],5,0.3375873617948782,232,"維新"],"押":[["yā"],["to mortgage/to pawn/to detain in custody/to escort and protect/(literary) to sign"],3,0.3818805846138371,897,"押"],"附设":[["fùshè"],["annexed to/attached to/associated"],5,0.5444996659832299,463,"附設"],"买":[["mǎi"],["to buy/to purchase"],1,0.7452036909867114,404,"買"],"想":[["xiǎng"],["to think/to believe/to suppose/to wish/to want/to miss (feel wistful about the absence of sb or sth)"],1,0.8896527170446138,285,"想"],"出卖":[["chūmài"],["to offer for sale/to sell/to sell out or betray"],3,0.32928648608181144,257,"出賣"],"某处":[["mǒuchù"],["somewhere"],5,0.2191913354978724,843,"某處"],"为人":[["wéirén","wèirén"],["to conduct oneself/behavior/conduct/personal character","for sb/for others' interest"],5,0.41318596553731024,490,"為人"],"掌柜":[["zhǎngguì"],["shopkeeper"],5,0.31278661790275053,47,"掌櫃"],"老人":[["lǎorén"],["old man or woman/the elderly/one's aged parents or grandparents"],2,0.5649565723885099,236,"老人"],"小鼓":[["xiǎogǔ"],["snare drum"],5,0.1414307697211989,661,"小鼓"],"松":[["sōng","Sōng"],["pine/CL:棵[kē]/loose/to loosen/to relax/floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)","surname Song"],2,0.20982572432128213,75,"松"],"十一":[["Shí Yī","shíyī"],["PRC National Day (October 1st)","eleven/11"],5,0.5945516316470416,7,"十一"],"吃":[["chī"],["to eat/to consume/to eat at (a cafeteria etc)/to eradicate/to destroy/to absorb/to suffer/to stammer (Taiwan pr. for this sense is [jí])/variant of 吃[chī]"],1,0.2552864937394283,162,"喫"],"的":[["de","dì","dī","dí"],["of/~'s (possessive particle)/(used after an attribute)/(used to form a nominal expression)/(used at the end of a declarative sentence for emphasis)/also pr. [dì] or [di] in poetry and songs","aim/clear","see 的士[dī shì]","really and truly"],1,1.0,46,"的"],"第一":[["dìyī"],["first/number one/primary"],5,0.860579674338915,221,"第一"],"老婆":[["lǎopó"],["(coll.) wife"],3,0.44620767146564505,287,"老婆"],"特务":[["tèwu"],["special assignment (military)/special agent/operative/spy"],3,0.22941335398235743,314,"特務"],"丫环":[["yāhuan"],["servant girl/maid"],5,0.13862877270947882,712,"丫環"],"主顾":[["zhǔgù"],["client/customer"],5,0.12900860949480153,111,"主顧"],"小":[["xiǎo"],["small/tiny/few/young"],1,1.0,165,"小"],"世袭":[["shìxí"],["succession/inheritance/hereditary"],5,0.17575127744367153,820,"世襲"],"教员":[["jiàoyuán"],["teacher/instructor/CL:個|个[gè]"],2,0.24548703964887753,755,"教員"],"四十":[["sìshí"],["forty/40"],5,0.0,191,"四十"],"五":[["wǔ"],["five/5"],1,0.9910604277376485,153,"五"],"之后":[["zhīhòu"],["afterwards/following/later/after"],2,0.8040055032311744,283,"之後"],"周":[["zhōu","Zhōu"],["to make a circuit/to circle/circle/circumference/lap/cycle/complete/all/all over/thorough/to help financially/week/weekly/variant of 周[zhōu]","surname Zhou/Zhou Dynasty (1046-256 BC)"],1,0.2331570180585858,493,"周"],"个":[["gè"],["individual/this/that/size/classifier for people or objects in general/variant of 個|个[gè]"],1,0.2470326797285494,858,"箇"],"厚":[["hòu"],["thick/deep or profound/kind/generous/rich or strong in flavor/to favor/to stress"],2,0.4689982285300192,745,"厚"],"正直":[["zhèngzhí"],["upright/upstanding/honest"],5,0.25246521547157663,113,"正直"],"修道":[["xiūdào"],["to practice Daoism"],5,0.24904944035455767,457,"修道"],"纤":[["qiàn","xiān"],["boatman's tow-rope","fine/delicate/minute"],5,0.44118687107036647,179,"縴"],"国会议员":[["guóhuìyìyuán"],["member of congress/congressman"],5,0.3115217856173746,454,"國會議員"],"天":[["tiān"],["day/sky/heaven"],1,0.9921888359935203,593,"天"],"难民":[["nànmín"],["refugee"],4,0.28942882310293294,864,"難民"],"继承":[["jìchéng"],["to inherit/to succeed to (the throne etc)/to carry on (a tradition etc)"],3,0.4120908433572594,552,"繼承"],"十二":[["shí'èr"],["twelve/12"],5,0.6719771996020791,399,"十二"],"芬":[["fēn"],["perfume/fragrance"],5,0.701739369017002,358,"芬"],"是":[["shì"],["is/are/am/yes/to be/variant of 是[shì]/(used in given names)"],1,0.0,107,"昰"],"唱":[["chàng"],["to sing/to call loudly/to chant"],1,0.5154174056439105,648,"唱"],"成了":[["chéngle"],["to be done/to be ready/that's enough!/that will do!"],5,0.4718071693345013,231,"成了"],"小心眼":[["xiǎoxīnyǎn"],["narrow-minded/petty"],5,0.1534179563078256,823,"小心眼"],"精明":[["jīngmíng"],["astute/shrewd"],5,0.2510183638390198,49,"精明"],"鸦片":[["yāpiàn"],["opium (loanword)"],4,0.31126696185763625,73,"鴉片"],"费":[["fèi","Fèi"],["to cost/to spend/fee/wasteful/expenses","surname Fei"],2,0.24598998855970988,561,"費"],"若干":[["ruògān"],["a certain number or amount/how many?/how much?"],3,0.4279713447732855,848,"若干"],"人":[["rén"],["person/people/CL:個|个[gè],位[wèi]"],1,1.0,849,"人"],"住":[["zhù"],["to live/to dwell/to stay/to reside/to stop/(suffix indicating firmness, steadiness, or coming to a halt)"],1,0.6574386614197634,459,"住"],"十":[["shí"],["ten/10"],1,0.9305044907432463,266,"十"],"黄":[["huáng","Huáng"],["yellow/pornographic/to fall through","surname Huang or Hwang"],1,0.3066813124525022,197,"黃"],"识":[["shí","zhì"],["to know/knowledge/Taiwan pr. [shì]","to record/to write a footnote"],4,0.5743219586555408,535,"識"],"京郊":[["Jīngjiāo"],["suburbs of Beijing"],5,0.0,194,"京郊"],"之":[["zhī"],["(possessive particle, literary equivalent of 的[de])/him/her/it"],3,1.0,549,"之"],"春":[["chūn","Chūn"],["spring (season)/gay/joyful/youthful/love/lust/life/old variant of 春[chūn]","surname Chun"],1,0.2171989179247407,701,"旾"],"老舍":[["Lǎo Shě"],["Lao She (1899-1966), Chinese novelist and dramatist"],5,0.0,3,"老舍"],"后来":[["hòulái"],["afterwards/later"],2,0.5929710964982561,230,"後來"],"打":[["dǎ","dá"],["to beat/to strike/to hit/to break/to type/to mix up/to build/to fight/to fetch/to make/to tie up/to issue/to shoot/to calculate/to play (a game)/since/from","dozen (loanword)"],3,0.7096213813889228,660,"打"],"毒":[["dú"],["poison/to poison/poisonous/malicious/cruel/fierce/narcotics"],3,0.5624652563810656,184,"毒"],"头子":[["tóuzi"],["boss/gang leader"],4,0.16485832285020727,207,"頭子"],"取":[["qǔ"],["to take/to get/to choose/to fetch"],2,0.6779326751340065,559,"取"],"恶霸":[["èbà"],["evil tyrant"],5,0.1512412636248082,166,"惡霸"],"司令部":[["sīlìngbù"],["headquarters/military command center"],4,0.25003971611009607,842,"司令部"],"十九":[["shíjiǔ"],["nineteen/19"],5,0.5995049995128441,706,"十九"],"胆小":[["dǎnxiǎo"],["cowardice/timid"],5,0.21620844539649794,85,"膽小"],"因":[["yīn"],["cause/reason/because/old variant of 因[yīn]"],4,0.0,33,"囙"],"住客":[["zhùkè"],["hotel guest/tenant"],5,0.0,889,"住客"],"来":[["lái"],["to come/to arrive/to come round/ever since/next"],2,1.0,66,"來"],"大兵":[["dàbīng"],["soldier/large army/powerful army/(old) large-scale war"],5,0.28974565863266744,878,"大兵"],"秦":[["Qín"],["surname Qin/Qin dynasty (221-207 BC) of the first emperor 秦始皇[Qín Shǐ huáng]/abbr. for 陝西|陕西[Shǎn xī]"],5,0.16097993713828934,209,"秦"],"卷":[["juǎn","juàn"],["to roll up/roll/classifier for small rolled things (wad of paper money, movie reel etc)/to roll (up)/to sweep up/to carry on/roll","scroll/book/volume/chapter/examination paper/classifier for books, paintings: volume, scroll"],3,0.6866532352324203,8,"捲"],"杂货":[["záhuò"],["groceries/miscellaneous goods"],5,0.3718184764155167,724,"雜貨"],"六":[["liù"],["six/6"],1,0.9214041278734236,187,"六"],"差":[["chà","chā","chāi"],["to differ from/to fall short of/lacking/wrong/inferior/Taiwan pr. [chā]","difference/discrepancy/to differ/error/to err/to make a mistake","to send/to commission/messenger/mission"],2,0.6023416294497222,150,"差"],"泰":[["Tài","tài"],["Mt Tai 泰山[Tài Shān] in Shandong/abbr. for Thailand","safe/peaceful/most/grand"],5,0.7379016083990246,44,"泰"],"厨师":[["chúshī"],["cook/chef"],4,0.34015775858733854,610,"廚師"],"兵":[["bīng"],["soldiers/a force/an army/weapons/arms/military/warlike/CL:個|个[gè]"],2,0.49380996244261044,901,"兵"],"更":[["gèng","gēng"],["more/even more/further/still/still more","to change or replace/to experience/one of the five two-hour periods into which the night was formerly divided/watch (e.g. of a sentry or guard)"],1,0.9626638926532206,375,"更"],"穷":[["qióng"],["poor/destitute/to use up/to exhaust/thoroughly/extremely/(coll.) persistently and pointlessly"],2,0.3673994430258211,255,"窮"],"资本家":[["zīběnjiā"],["capitalist"],3,0.24954605187388407,234,"資本家"],"老式":[["lǎoshì"],["old-fashioned/old type/outdated"],5,0.2098423804614666,313,"老式"],"侄媳妇":[["zhíxífu"],["brother's son's wife/nephew's wife"],5,0.07448315541960297,699,"姪媳婦"],"好":[["hào","hǎo"],["to be fond of/to have a tendency to/to be prone to","good/well/proper/good to/easy to/very/so/(suffix indicating completion or readiness)/(of two people) close/on intimate terms/(after a personal pronoun) hello"],2,0.9876039497964554,116,"好"],"自私":[["zìsī"],["selfish/selfishness"],3,0.30051733952803866,52,"自私"],"岁":[["suì"],["classifier for years (of age)/year/year (of crop harvests)/variant of 歲|岁[suì], year/years old"],1,0.0,31,"嵗"],"丁":[["dīng","Dīng"],["fourth of the ten Heavenly Stems 十天干[shí tiān gān]/fourth in order/letter \"D\" or Roman \"IV\" in list \"A, B, C\", or \"I, II, III\" etc/ancient Chinese compass point: 195°/butyl/cubes (of food)","surname Ding"],3,0.18166790484995018,521,"丁"],"说话":[["shuōhuà"],["to speak/to say/to talk/to gossip/to tell stories/talk/word"],5,0.5521534659499916,88,"說話"],"傅":[["fù","Fù"],["(bound form) instructor/(literary) to instruct/to attach/to apply (makeup etc)","surname Fu"],5,0.15725611189645836,611,"傅"],"师弟":[["shīdì"],["young disciple (of the same master)/younger or junior male schoolmate"],5,0.20283772890484963,640,"師弟"],"妇":[["fù"],["woman/old variant of 婦|妇[fù]"],5,0.0,247,"媍"],"淑":[["shū"],["warm and virtuous/(used in given names)/Taiwan pr. [shú]"],5,0.7513557125778794,357,"淑"],"京戏":[["Jīngxì"],["Beijing opera/CL:齣|出[chū]"],2,0.041884956323018266,649,"京戲"],"王":[["wáng","wàng","Wáng"],["king or monarch/best or strongest of its type/grand/great","to rule/to reign over","surname Wang"],4,0.30727179793447523,17,"王"],"十七":[["shíqī"],["seventeen/17"],5,0.7031379485882435,526,"十七"],"无倚无靠":[["wúyǐwúkào"],["variant of 無依無靠|无依无靠[wú yī wú kào]"],5,0.0,244,"無倚無靠"],"与":[["yǔ","yù","yú"],["and/to give/together with","to take part in","variant of 歟|欤[yú]"],2,1.0,24,"與"],"唐":[["táng","Táng"],["to exaggerate/empty/in vain/old variant of 螗[táng]","Tang dynasty (618-907)/surname Tang"],5,0.18946709969764106,59,"唐"],"崔":[["Cuī","cuī"],["surname Cui","high mountain/precipitous"],5,0.40556015995584765,442,"崔"],"得":[["děi","de","dé"],["to have to/must/ought to/to need to","structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc","to obtain/to get/to gain/to catch (a disease)/proper/suitable/proud/contented/to allow/to permit/ready/finished"],1,0.9759943473260287,256,"得"],"皇后":[["huánghòu"],["empress/imperial consort"],4,0.3110115107094866,693,"皇后"],"沈":[["Shěn","chén","shěn"],["surname Shen/place name","variant of 沉[chén]","liquid/to pour"],5,0.16131090848761323,833,"瀋"],"十三":[["shísān"],["thirteen/13"],5,0.5769440410262021,513,"十三"],"业":[["yè","Yè"],["line of business/industry/occupation/job/employment/school studies/enterprise/property/(Buddhism) karma/deed/to engage in/already","surname Ye"],5,0.3518139576091565,554,"業"],"最初":[["zuìchū"],["first/primary/initial/original/at first/initially/originally"],1,0.37993144034515586,23,"最初"],"心眼好":[["xīnyǎnhǎo"],["well-intentioned/good-natured/kindhearted"],5,0.0,135,"心眼好"],"谢":[["xiè","Xiè"],["to thank/to apologize/to wither (of flowers, leaves etc)/to decline","surname Xie"],5,0.24646931761337051,763,"謝"],"年轻":[["niánqīng"],["young"],1,0.5361097366078267,39,"年輕"],"丈夫":[["zhàngfu"],["husband/CL:個|个[gè]"],2,0.3947547074794841,374,"丈夫"],"在":[["zài"],["(located) at/(to be) in/to exist/in the middle of doing sth/(indicating an action in progress)"],1,1.0,220,"在"],"傻":[["shǎ"],["foolish"],2,0.38229439838826196,915,"傻"],"丑恶":[["chǒu'è"],["ugly/repulsive"],4,0.19904469674270714,689,"醜惡"],"第":[["dì"],["(prefix indicating ordinal number, e.g. first, number two etc)/order/(old) rank in the imperial examinations/mansion/(literary) but/just"],1,1.0,6,"第"],"远":[["yuǎn","yuàn"],["far/distant/remote/(intensifier in a comparison) by far/much (lower etc)","to distance oneself from (classical)"],1,0.7395810973692244,615,"遠"],"花":[["huā","Huā"],["flower/blossom/CL:朵[duǒ],支[zhī],束[shù],把[bǎ],盆[pén],簇[cù]/fancy pattern/florid/to spend (money, time)/(coll.) lecherous/lustful/variant of 花[huā]/flower/blossom/also pr. [wěi]/old variant of 花[huā]","surname Hua"],1,0.24827377085030775,495,"芲"],"相面":[["xiàngmiàn"],["fortune telling based on the subject's face"],5,0.07448315541960297,69,"相面"],"电灯":[["diàndēng"],["electric light/CL:盞|盏[zhǎn]"],1,0.2689492250522651,560,"電燈"],"为生":[["wéishēng"],["to make a living"],5,0.24121607040464027,70,"為生"],"小牛":[["xiǎoniú"],["calf/(coll.) lower-priced model of Lamborghini"],5,0.0,289,"小牛"],"祥":[["xiáng"],["auspicious/propitious"],5,0.733924598074974,317,"祥"],"德":[["Dé","dé"],["Germany/German/abbr. for 德國|德国[Dé guó]","virtue/goodness/morality/ethics/kindness/favor/character/kind/variant of 德[dé]/variant of 德[dé]"],5,0.0,138,"惪"],"娶":[["qǔ"],["to take a wife/to marry (a woman)"],3,0.31353821311148583,286,"娶"],"邹":[["Zōu"],["surname Zou/vassal state during the Zhou Dynasty (1046-256 BC) in the southeast of Shandong Province"],5,0.1289727588287046,613,"鄒"],"妻":[["qī","qì"],["wife","to marry off (a daughter)"],5,0.40841358029271724,354,"妻"],"为":[["wèi","wéi"],["because of/for/to/variant of 為|为[wèi], because of/for/to","as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/variant of 為|为[wéi]/as (i.e. in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do"],1,0.0,353,"爲"],"逃兵":[["táobīng"],["army deserter"],5,0.19073271059876254,424,"逃兵"],"吴":[["Wú"],["surname Wu/area comprising southern Jiangsu, northern Zhejiang and Shanghai/name of states in Southern China at different historical periods"],5,0.28780946096388227,316,"吳"],"铁":[["tiě","Tiě"],["iron (metal)/arms/weapons/hard/strong/violent/unshakeable/determined/close/tight (slang)","surname Tie"],2,0.21296938521671632,60,"鐵"],"数来宝":[["shǔláibǎo"],["folk theater consisting of recitation accompanied by clapper board rhythm"],5,0.12526523677825885,920,"數來寶"],"有些":[["yǒuxiē"],["some/somewhat"],3,0.6731406256588897,51,"有些"],"军官":[["jūnguān"],["officer (military)"],3,0.3464332197460063,468,"軍官"],"过":[["guo","guò","Guò"],["(experienced action marker)","to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too-","surname Guo"],1,0.2763323429479666,453,"過"],"狠":[["hěn"],["ruthless/fierce/ferocious/determined/to harden (one's heart)/old variant of 很[hěn]"],3,0.41947642888509484,182,"狠"],"拉":[["lā"],["to pull/to play (a bowed instrument)/to drag/to draw/to chat/(coll.) to empty one's bowels"],1,0.7319508503763513,178,"拉"],"先":[["xiān"],["early/prior/former/in advance/first"],1,0.8091958372458417,642,"先"],"父":[["fù"],["father"],5,0.46166787596121306,553,"父"],"二":[["èr"],["two/2/(Beijing dialect) stupid"],1,1.0,76,"二"],"子":[["zǐ","zi"],["son/child/seed/egg/small thing/1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat/Viscount, fourth of five orders of nobility 五等爵位[wǔ děng jué wèi]/ancient Chinese compass point: 0° (north)","(noun suffix)"],3,0.9817611943895352,139,"子"],"梅":[["méi","Méi"],["plum/plum flower/Japanese apricot (Prunus mume)/variant of 梅[méi]/old variant of 梅[méi]","surname Mei"],5,0.19378574999713583,702,"槑"],"小二":[["xiǎo'èr"],["waiter"],5,0.20729836631331278,727,"小二"],"裕":[["yù"],["abundant"],5,0.7282736818682397,43,"裕"],"吸":[["xī"],["to breathe/to suck in/to absorb/to inhale"],2,0.4988443538060877,72,"吸"],"给":[["gěi","jǐ"],["to/for/for the benefit of/to give/to allow/to do sth (for sb)/(grammatical equivalent of 被)/(grammatical equivalent of 把)/(sentence intensifier)","to supply/to provide"],1,1.0,350,"給"],"跑堂":[["pǎotáng"],["waiter (old)"],5,0.09802534525044107,130,"跑堂"],"作":[["zuò","zuō"],["to do/to grow/to write or compose/to pretend/to regard as/to feel/writings or works","worker/workshop/(slang) troublesome/high-maintenance (person)"],1,0.9563578566006375,41,"作"],"令":[["lìng","Líng","líng","lǐng"],["to order/to command/an order/warrant/writ/to cause/to make sth happen/virtuous/honorific title/season/government position (old)/type of short song or poem","see 令狐[Líng hú]","see 脊令[jí líng]","classifier for a ream of paper"],3,0.6924033241744825,899,"令"],"明":[["míng","Míng"],["bright/opposite: dark 暗[àn]/(of meaning) clear/to understand/next/public or open/wise/generic term for a sacrifice to the gods","Ming Dynasty (1368-1644)/surname Ming/Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yán dì] descended from Shennong 神農|神农[Shén nóng] Farmer God"],5,0.30521163939730933,598,"明"],"奶奶的":[["nǎinaide"],["damn it!/blast it!"],5,0.0,711,"奶奶的"],"童":[["tóng","Tóng"],["child","surname Tong"],5,0.18716283969179398,302,"童"],"书":[["shū","Shū"],["book/letter/document/CL:本[běn],冊|册[cè],部[bù]/to write","abbr. for 書經|书经[Shū jīng]"],1,0.30466622152079453,301,"書"],"当当":[["dāngdāng","Dāngdāng","dàngdàng"],["(onom.) ding dong","Dangdang (online retailer)","to pawn"],5,0.1785198658736747,667,"當當"],"杨":[["yáng","Yáng"],["poplar","surname Yang"],5,0.26290266389796707,715,"楊"],"师傅":[["shīfu"],["master/qualified worker/respectful form of address for older men/CL:個|个[gè],位[wèi],名[míng]"],1,0.32307911339852585,599,"師傅"],"流氓":[["liúmáng"],["rogue/hoodlum/gangster/immoral behavior"],3,0.2919349341914002,206,"流氓"],"打手":[["dǎshou"],["hired thug"],5,0.20190938541701017,742,"打手"],"处长":[["chùzhǎng"],["department head/section chief"],5,0.4086392855904053,834,"處長"],"茶":[["chá"],["tea/tea plant/CL:杯[bēi],壺|壶[hú]"],1,0.6372186504827407,846,"茶"],"义子":[["yìzǐ"],["adopted son"],5,0.13862877270947882,407,"義子"],"都":[["dōu","Dū","dū"],["all/both/entirely/(used for emphasis) even/already/(not) at all","surname Du","capital city/metropolis"],1,1.0,106,"都"],"公寓":[["gōngyù"],["apartment building/block of flats/CL:套[tào]"],5,0.4506446987216621,465,"公寓"],"老":[["lǎo"],["prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity/old (of people)/venerable (person)/experienced/of long standing/always/all the time/of the past/very/outdated/(of meat etc) tough"],2,0.7443469409315999,415,"老"],"仁":[["rén"],["humane/kernel"],5,0.7480138768237983,765,"仁"],"善":[["shàn"],["good (virtuous)/benevolent/well-disposed/good at sth/to improve or perfect"],4,0.6267954009894017,146,"善"],"了":[["liǎo","le","liào"],["to finish/to achieve/variant of 瞭|了[liǎo]/to understand clearly/(of eyes) bright/clear-sighted/to understand clearly","(completed action marker)/(modal particle indicating change of state, situation now)/(modal particle intensifying preceding clause)","unofficial variant of 瞭[liào]"],1,0.29377302037137937,42,"瞭"],"三":[["sān","Sān"],["three/3","surname San"],1,0.38514741250016377,10,"三"],"很":[["hěn"],["(adverb of degree)/quite/very/awfully"],1,0.9625517508672614,38,"很"],"洋":[["yáng"],["ocean/vast/foreign/silver dollar or coin"],3,0.5732629958555981,677,"洋"],"把":[["bǎ","bà"],["to hold/to contain/to grasp/to take hold of/handle/particle marking the following noun as a direct object/classifier for objects with handle/classifier for small objects: handful","handle"],3,0.9437425210177675,439,"把"],"不":[["bù"],["(negative prefix)/not/no"],1,1.0,56,"不"],"心":[["xīn"],["heart/mind/intention/center/core/CL:顆|颗[kē],個|个[gè]"],1,0.9276742668122973,181,"心"],"意":[["yì","Yì"],["idea/meaning/thought/to think/wish/desire/intention/to expect/to anticipate","Italy/Italian/abbr. for 意大利[Yì dà lì]"],5,0.22622492709402833,183,"意"],"于":[["yú","Yú"],["in/at/to/from/by/than/out of/to go/to take/sentence-final interrogative particle/variant of 於|于[yú]","surname Yu"],2,0.16297152153480388,744,"于"],"少":[["shǎo","shào"],["few/less/to lack/to be missing/to stop (doing sth)/seldom","young"],1,0.7121486698404418,228,"少"],"父亲":[["fùqīn"],["father/also pr. [fù qin]/CL:個|个[gè]"],1,0.512698625619666,34,"父親"],"奶奶":[["nǎinai"],["(informal) grandma (paternal grandmother)/(respectful) mistress of the house/CL:位[wèi]/(coll.) boobies/breasts"],2,0.3142844418235614,682,"奶奶"],"三十":[["sānshí"],["thirty/30"],5,0.6883816314417436,65,"三十"],"长子":[["Zhǎngzǐ","zhǎngzǐ"],["Zhangzi county in Shanxi 山西[Shān xī]","eldest son"],5,0.24754150359762814,488,"長子"],"十五":[["shíwǔ"],["fifteen/15"],5,0.6012825941822071,340,"十五"],"喜":[["xǐ"],["to be fond of/to like/to enjoy/to be happy/to feel pleased/happiness/delight/glad"],4,0.5950269954272972,630,"喜"],"弟":[["dì","tì"],["younger brother/junior male/I (modest word in letter)","variant of 悌[tì]"],5,0.4680255859866106,440,"弟"],"庞":[["Páng","páng"],["surname Pang","huge/enormous/tremendous"],5,0.34624801079463036,274,"龐"],"奸诈":[["jiānzhà"],["treachery/devious/a rogue"],5,0.16819047763276113,664,"奸詐"],"营":[["yíng"],["camp/barracks/battalion/to build/to operate/to manage/to strive for"],4,0.8702894502506564,148,"營"],"茶馆":[["cháguǎn"],["teahouse/CL:家[jiā]"],3,0.35447646672822053,45,"茶館"],"峰":[["fēng"],["(of a mountain) high and tapered peak or summit/mountain-like in appearance/highest level/classifier for camels/old variant of 峰[fēng]"],5,0.0,444,"峯"],"利":[["lì","Lì"],["sharp/favorable/advantage/benefit/profit/interest/to do good to/to benefit","surname Li"],3,0.2677026272431145,18,"利"],"中":[["zhōng","zhòng","Zhōng"],["within/among/in/middle/center/while (doing sth)/during/(dialect) OK/all right","to hit (the mark)/to be hit by/to suffer/to win (a prize, a lottery)","China/Chinese/surname Zhong"],1,0.4624914171624137,339,"中"],"同事":[["tóngshì"],["colleague/co-worker/CL:個|个[gè],位[wèi]"],4,0.3867601051362327,329,"同事"],"名手":[["míngshǒu"],["master/famous artist or sportsman"],5,0.14658208054903643,626,"名手"],"数":[["shǔ","shù","shuò"],["to count/to count as/to regard as/to enumerate (sb's shortcomings)","number/figure/several/CL:個|个[gè]","frequently/repeatedly"],1,0.9876518727373301,865,"數"],"爱":[["ài"],["to love/to be fond of/to like/affection/to be inclined (to do sth)/to tend to (happen)"],1,0.8761596552342934,87,"愛"],"现":[["xiàn"],["to appear/present/now/existing/current"],3,0.7980322506158947,676,"現"],"男":[["nán"],["male/Baron, lowest of five orders of nobility 五等爵位[wǔ děng jué wèi]/CL:個|个[gè]"],1,0.7633982345875872,21,"男"],"心眼":[["xīnyǎn"],["heart/intention/conscience/consideration/cleverness/tolerance"],5,0.1785198658736747,55,"心眼"],"老师":[["lǎoshī"],["teacher/CL:個|个[gè],位[wèi]"],1,0.8583253374017609,761,"老師"],"序幕":[["xùmù"],["prologue"],5,0.26152846445824957,1,"序幕"],"妞":[["niū"],["girl"],5,0.3793689940358816,262,"妞"],"顺子":[["shùnzi"],["a straight (poker, mahjong)"],5,0.0,332,"順子"],"儿":[["rén","r","ér"],["variant of 人[rén]/\"person\" radical in Chinese characters (Kangxi radical 10), occurring in 兒, 兀, 兄 etc","non-syllabic diminutive suffix/retroflex final","child/son"],5,0.684120033565453,290,"儿"],"拴":[["shuān"],["to tie up"],3,0.1785198658736747,477,"拴"],"秀":[["xiù"],["handsome/refined/elegant/graceful/superior/show (loanword)/CL:場|场[cháng]/(literary) to grow/to bloom/(of crops) to produce ears"],5,0.7173117195396036,494,"秀"],"八十":[["bāshí"],["eighty/80"],5,1.0,240,"八十"],"左右":[["zuǒyòu"],["left and right/nearby/approximately/attendant/to control/to influence"],2,0.5979995042235928,483,"左右"],"久":[["jiǔ"],["(long) time/(long) duration of time"],1,0.6163181644260421,443,"久"],"人物":[["rénwù"],["person/character (in a play, novel etc)/protagonist/CL:個|个[gè]"],2,0.6581145527835455,14,"人物"],"胆":[["dǎn"],["gall bladder/courage/guts/gall/inner container (e.g. bladder of a football, inner container of a thermos)"],3,0.39107627058230077,533,"膽"],"义":[["yì","Yì"],["justice/righteousness/meaning/foster (father etc)/adopted/artificial (tooth, limb etc)/relationship/friendship","surname Yi/(Tw) abbr. for 義大利|义大利[Yì dà lì], Italy"],5,0.2597335701469955,211,"義"],"才":[["cái"],["ability/talent/sb of a certain type/a capable individual/then and only then/just now/(before an expression of quantity) only/(variant of 才[cái]) just now/(before an expression of quantity) only"],3,0.27725754541895764,29,"纔"],"里":[["lǐ","Lǐ"],["lining/interior/inside/internal/also written 裏|里[lǐ]/li, ancient measure of length, approx. 500 m/neighborhood/ancient administrative unit of 25 families/(Tw) borough, administrative unit between the township 鎮|镇[zhèn] and neighborhood 鄰|邻[lín] levels/variant of 裡|里[lǐ]","Li (surname)"],1,0.2394142729683562,223,"里"],"坏":[["huài"],["bad/spoiled/broken/to break down/(suffix) to the utmost"],1,0.5060622351515945,57,"壞"],"扑":[["pū"],["to throw oneself at/to pounce on/to devote one's energies/to flap/to flutter/to dab/to pat/to bend over"],2,0.3200712468414392,147,"撲"],"当":[["dàng","dāng"],["at or in the very same.../suitable/adequate/fitting/proper/to replace/to regard as/to think/to pawn/(coll.) to fail (a student)","to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/(onom.) dong/ding dong (bell)"],2,0.28718128558814754,149,"噹"],"客":[["kè"],["customer/visitor/guest"],3,0.8924153429312901,847,"客"],"幕":[["mù"],["curtain or screen/canopy or tent/headquarters of a general/act (of a play)/old variant of 幕[mù]/curtain/screen"],3,0.2510183638390198,11,"幙"],"比":[["bǐ","Bǐ","bī"],["to compare/(followed by a noun and adjective) more {adj.} than {noun}/ratio/to gesture/(Taiwan pr. [bì] in some compounds derived from Classical Chinese)","Belgium/Belgian/abbr. for 比利時|比利时[Bǐ lì shí]","euphemistic variant of 屄[bī]"],1,0.8584226642360047,373,"比"],"他":[["tā"],["he or him/(used for either sex when the sex is unknown or unimportant)/(used before sb's name for emphasis)/(used as a meaningless mock object)/other/another"],1,1.0,28,"他"],"女儿":[["nǚ'ér"],["daughter"],1,0.4749981773960219,259,"女兒"],"斋":[["zhāi"],["to fast or abstain from meat, wine etc/vegetarian diet/study room/building/to give alms (to a monk)/old variant of 齋|斋[zhāi]"],5,0.0,746,"亝"],"勤恳":[["qínkěn"],["diligent and attentive/assiduous/sincere"],4,0.10533508856274564,133,"勤懇"],"公平":[["gōngpíng"],["fair/impartial"],4,0.5732221491564287,376,"公平"],"乡":[["xiāng"],["country or countryside/native place/home village or town/township (PRC administrative unit)"],2,1.0,246,"鄉"],"胖子":[["pàngzi"],["fat person/fatty"],4,0.24121607040464027,198,"胖子"],"房东":[["fángdōng"],["landlord"],4,0.3335143924595086,218,"房東"],"愿望":[["yuànwàng"],["desire/wish"],2,0.3855575198611414,596,"願望"],"大":[["dà","dài"],["big/huge/large/major/great/wide/deep/older (than)/oldest/eldest/greatly/very much/(dialect) father/father's elder or younger brother","see 大夫[dài fu]"],1,1.0,476,"大"],"恩":[["ēn"],["favor/grace/kindness/variant of 恩[ēn]"],4,0.0,305,"㤙"],"卫":[["wèi","Wèi"],["to guard/to protect/to defend/abbr. for 衛生|卫生, hygiene/health/abbr. for 衛生間|卫生间, toilet","surname Wei/vassal state during the Zhou Dynasty (1066-221 BC), located in present day Henan and Hebei Provinces"],5,0.20471091936781122,628,"衛"],"十六":[["shíliù"],["sixteen/16"],5,0.6429110255693364,391,"十六"],"女":[["nǚ","rǔ"],["female/woman/daughter","archaic variant of 汝[rǔ]"],1,0.788255624414569,249,"女"],"仲":[["zhòng","Zhòng"],["second month of a season/middle/intermediate/second amongst brothers","surname Zhong"],5,0.1993270510712009,210,"仲"],"说":[["shuō","shuì"],["to speak/to say/to explain/to scold/to tell off/a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)/variant of 說|说[shuō]","to persuade"],1,1.0,623,"説"],"二十多":[["èrshíduō"],["over 20"],5,0.0,30,"二十多"],"七":[["qī"],["seven/7"],1,0.8933125535325395,902,"七"],"好友":[["hǎoyǒu"],["close friend/pal/(social networking website) friend/CL:個|个[gè]"],5,0.44818646799053063,104,"好友"],"五十":[["wǔshí"],["fifty"],5,0.6516215052330775,603,"五十"]}; ;
+  /* exported sP */
+/* global text_vocabulary */
+
+'use strict';
+
+const dI = {
+  over: function (el) {
+    $(el).addClass('hilite');
+  },
+  out: function (el) {
+    $(el).removeClass('hilite');
+  },
+  getX: function (obj) {
+    return (obj.offsetLeft || 0) + (obj.offsetParent && this.getX(obj.offsetParent) || 0);
+  },
+  getY: function (obj) {
+    return (obj.offsetTop || 0) + (obj.offsetParent && this.getY(obj.offsetParent) || 0);
+  },
+  positiontip: function (el, tip) {
+    const innerWidth = window.innerWidth ||
+                       document.documentElement.clientWidth ||
+                       document.body.clientWidth;
+    const innerHeight = window.innerHeight ||
+                        document.documentElement.clientHeight ||
+                        document.body.clientHeight;
+    const scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const elx = this.getX(el);
+    const ely = this.getY(el);
+    if (tip.offsetWidth > 300) {
+      tip.style.width = '300px';
+    }
+    const shift = Math.abs(el.offsetWidth) > 40 ? 40 : Math.abs(el.offsetWidth) / 2;
+    if (innerWidth + scrollLeft - elx - el.offsetWidth < tip.offsetWidth) {
+      tip.style.left = elx + shift - tip.offsetWidth + 'px';
+    } else {
+      tip.style.left = elx + shift + 'px';
+    }
+    if (innerHeight + scrollTop - ely - el.offsetHeight < tip.offsetHeight + 15) {
+      tip.style.top = ely - 3 - tip.offsetHeight + 'px';
+    } else {
+      tip.style.top = ely + 3 + el.offsetHeight + 'px';
+    }
+  },
+  ie: document.all
+};
+
+function sP(el, ev, zh) {
+  const tip = $('#tip')[0];
+  el.onmouseout = function () {
+    tip.style.visibility = 'hidden';
+    tip.style.left = '-1000px';
+    tip.style.top = '-1000px';
+    tip.style.backgroundColor = '';
+    tip.style.width = '';
+    dI.out(el);
+  };
+  dI.over(el);
+  let zh_fallback;
+  if (zh) {
+    zh_fallback = zh;
+  } else if (el.lastChild.nodeValue) {
+    zh_fallback = el.lastChild.nodeValue;
+  } else {
+    zh_fallback = el.lastChild.lastChild.nodeValue;
+  }
+  const item = dI.vocab[zh_fallback];
+  const py = item[0];
+  const en = item[1];
+  const oh = item[5];
+  let other = '';
+  if (zh_fallback !== oh) {
+    for (let i = 0; i < zh_fallback.length; ++i) {
+      other += zh_fallback[i] === oh[i] ? '-' : oh[i];
+    }
+    other = ' [' + other + ']';
+  }
+  let tip_html = `<div style="font-size:150%;color:lightblue">${zh_fallback}${other}</div>`;
+  for (let i = 0; i < py.length; ++i) {
+    const enstr = '• ' + en[i].replace(/([^<])\//g, '$1<br />• ');
+    tip_html += '<div style="font-weight:bold">' + py[i] +
+      '</div><div style="text-align:left;font-size:90%">' + enstr + '</div>';
+  }
+  tip.innerHTML = tip_html;
+  dI.positiontip(el, tip);
+  tip.style.visibility = 'visible';
+}
+
+dI.vocab = text_vocabulary;
+  /* exported show_words */
+/* global text_vocabulary */
+
+'use strict';
+
+const by = {
+  ord: function (a, b) {
+    return a[3] - b[3];
+  },
+  py: function (a, b) {
+    const l = a[1].toLowerCase();
+    const r = b[1].toLowerCase();
+    if (l > r) {
+      return 1;
+    }
+    return l < r ? -1 : 0;
+  },
+  rad: function (a, b) {
+    if (a[0] > b[0]) {
+      return 1;
+    }
+    return a[0] < b[0] ? -1 : 0;
+  },
+  freq: function (a, b) {
+    return b[4] - a[4];
+  }
+};
+
+function vocab_sort(vocab_list, cmp) {
+  const cmp_op = typeof cmp === 'undefined' ? 'ord' : cmp;
+  vocab_list.sort(by[cmp_op]);
+}
+
+// 历史上 ->	歷--
+function create_traditional_item(simplified, traditional) {
+  if (traditional === simplified) {
+    return '';
+  }
+  let result = '';
+  for (let i = 0; i < traditional.length; ++i) {
+    if (i >= simplified.length) {
+      result += traditional[i];
+      continue;
+    }
+    result += simplified[i] === traditional[i] ? '-' : traditional[i];
+  }
+  return result;
+}
+
+function fill_vocab(vocab_list) {
+  const pclass = 'py';
+  $('#vocab').empty();
+  if (vocab_list.length) {
+    $('#vocab').append('<tr><th>№</th><th>Слово (упрощ. иероглифы)</th>' +
+      '<th>Слово (трад. иероглифы)</th><th>Произношение</th><th>Значение</th></tr>');
+  }
+  for (let i = 0, l = vocab_list.length; i < l; ++i) {
+    const trad = create_traditional_item(vocab_list[i][0], vocab_list[i][5]);
+    $('#vocab').append('<tr>' +
+      '<td class="nw_num">' + (i + 1) + '</td>' +
+      '<td class="nw">' + vocab_list[i][0] + '</td>' +
+      '<td class="nw">' + trad + '</td>' +
+      '<td class="nw voc' + pclass + '">' + vocab_list[i][1] + '</td>' +
+      '<td class="nw_def">' + vocab_list[i][2] + '</td>' +
+      '</tr>');
+  }
+}
+
+function add_to_list(vocab_list, vocab_item) {
+  for (let i = 0, l = vocab_item.pronunciations.length; i < l; ++i) {
+    let py = vocab_item.pronunciations[i].replace(/ ([aeoāáǎàēéěèōóǒò])/g, '\'$1');
+    py = py.replace(/ ([^A-Z])/g, '$1');
+    const en = vocab_item.definitions[i].replace(/\//g, ' / ');
+    vocab_list.push([vocab_item.word, py, en, vocab_item.order,
+      vocab_item.frequency, vocab_item.traditional]);
+  }
+}
+
+function show_words() {
+  const vocab = text_vocabulary;
+
+  const vocab_list = [];
+  const vocab_th = parseInt($('#vocab_ls').val(), 10);
+  const sort_by = $('#sort_ls').val();
+
+  for (let k in vocab) {
+    if (!vocab.hasOwnProperty(k)) {
+      continue;
+    }
+    const item = vocab[k];
+    const level = vocab[k][2];
+    const vocab_item = {
+      word: k,
+      pronunciations: item[0],
+      definitions: item[1],
+      frequency: item[3],
+      order: item[4],
+      traditional: item[5],
+      level: level
+    };
+
+    if (level < vocab_th) {
+      continue;
+    }
+    add_to_list(vocab_list, vocab_item);
+  }
+
+  vocab_sort(vocab_list, sort_by);
+  fill_vocab(vocab_list);
+}
+  </script>
+</head>
+<body>
+  <div id="content" class="content mid">
+    <div id="tip" style="text-align: center"></div>
+    <div id="annotated">
+              <span class="ann  " onmouseover="sP(this, event)">序幕</span><span class="nann"><br /><br /></span><span class="ann  " onmouseover="sP(this, event)">老舍</span><span class="ann  " onmouseover="sP(this, event)">文集</span><span class="nann">（</span><span class="ann  " onmouseover="sP(this, event)">第</span><span class="ann  " onmouseover="sP(this, event)">十一</span><span class="ann  " onmouseover="sP(this, event)">卷</span><span class="nann">）<br /><br />（</span><span class="ann  " onmouseover="sP(this, event)">三</span><span class="ann  " onmouseover="sP(this, event)">幕</span><span class="ann  " onmouseover="sP(this, event)">话剧</span><span class="nann">）<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">人物</span><span class="ann  " onmouseover="sP(this, event)">表</span><span class="nann"><br /><br /></span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">利</span><span class="ann  " onmouseover="sP(this, event)">发</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">最初</span><span class="ann  " onmouseover="sP(this, event)">与</span><span class="ann  " onmouseover="sP(this, event)">我们</span><span class="ann  " onmouseover="sP(this, event)">见面</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">才</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">因</span><span class="ann  " onmouseover="sP(this, event)">父亲</span><span class="ann  " onmouseover="sP(this, event)">早死</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">年轻</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">作</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">裕</span><span class="ann  " onmouseover="sP(this, event)">泰</span><span class="ann  " onmouseover="sP(this, event)">茶馆</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">掌柜</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">精明</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">有些</span><span class="ann  " onmouseover="sP(this, event)">自私</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">心眼</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">坏</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">唐</span><span class="ann  " onmouseover="sP(this, event)">铁</span><span class="ann  " onmouseover="sP(this, event)">嘴</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">相面</span><span class="ann  " onmouseover="sP(this, event)">为生</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">吸</span><span class="ann  " onmouseover="sP(this, event)">鸦片</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">松</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">爷</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">胆小</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">爱</span><span class="ann  " onmouseover="sP(this, event)">说话</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">常</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="ann  " onmouseover="sP(this, event)">爷</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">松</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">爷</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">好友</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">裕</span><span class="ann  " onmouseover="sP(this, event)">泰</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">主顾</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">正直</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">体格</span><span class="ann  " onmouseover="sP(this, event)">好</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">李</span><span class="ann  " onmouseover="sP(this, event)">三</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">裕</span><span class="ann  " onmouseover="sP(this, event)">泰</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">跑堂</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">勤恳</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">心眼好</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">德</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">善</span><span class="ann  " onmouseover="sP(this, event)">扑</span><span class="ann  " onmouseover="sP(this, event)">营</span><span class="ann  " onmouseover="sP(this, event)">当</span><span class="ann  " onmouseover="sP(this, event)">差</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">马</span><span class="ann  " onmouseover="sP(this, event)">五</span><span class="ann  " onmouseover="sP(this, event)">爷</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">吃</span><span class="ann  " onmouseover="sP(this, event)">洋教</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">恶霸</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">刘</span><span class="ann  " onmouseover="sP(this, event)">麻子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">说媒</span><span class="ann  " onmouseover="sP(this, event)">拉</span><span class="ann  " onmouseover="sP(this, event)">纤</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">心</span><span class="ann  " onmouseover="sP(this, event)">狠</span><span class="ann  " onmouseover="sP(this, event)">意</span><span class="ann  " onmouseover="sP(this, event)">毒</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">康</span><span class="ann  " onmouseover="sP(this, event)">六</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">京郊</span><span class="ann  " onmouseover="sP(this, event)">贫农</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">黄</span><span class="ann  " onmouseover="sP(this, event)">胖子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">流氓</span><span class="ann  " onmouseover="sP(this, event)">头子</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">秦</span><span class="ann  " onmouseover="sP(this, event)">仲</span><span class="ann  " onmouseover="sP(this, event)">义</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">掌柜</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">房东</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">第一</span><span class="ann  " onmouseover="sP(this, event)">幕</span><span class="ann  " onmouseover="sP(this, event)">里</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">阔</span><span class="ann  " onmouseover="sP(this, event)">少</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">后来</span><span class="ann  " onmouseover="sP(this, event)">成了</span><span class="ann  " onmouseover="sP(this, event)">维新</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">资本家</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">老人</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">八十</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">无倚无靠</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">乡</span><span class="ann  " onmouseover="sP(this, event)">妇</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">穷</span><span class="ann  " onmouseover="sP(this, event)">得</span><span class="ann  " onmouseover="sP(this, event)">出卖</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">女儿</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">妞</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">乡</span><span class="ann  " onmouseover="sP(this, event)">妇</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">女儿</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">太监</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">发财</span><span class="ann  " onmouseover="sP(this, event)">之后</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">娶</span><span class="ann  " onmouseover="sP(this, event)">老婆</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小牛</span><span class="ann  " onmouseover="sP(this, event)">儿</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">太监</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">书</span><span class="ann  " onmouseover="sP(this, event)">童</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">宋</span><span class="ann  " onmouseover="sP(this, event)">恩</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">老式</span><span class="ann  " onmouseover="sP(this, event)">特务</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">吴</span><span class="ann  " onmouseover="sP(this, event)">祥</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">宋</span><span class="ann  " onmouseover="sP(this, event)">恩</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">同事</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">康</span><span class="ann  " onmouseover="sP(this, event)">顺子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">第一</span><span class="ann  " onmouseover="sP(this, event)">幕</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">十五</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">康</span><span class="ann  " onmouseover="sP(this, event)">六</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">女儿</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">被</span><span class="ann  " onmouseover="sP(this, event)">卖</span><span class="ann  " onmouseover="sP(this, event)">给</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">太监</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="ann  " onmouseover="sP(this, event)">妻</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">淑</span><span class="ann  " onmouseover="sP(this, event)">芬</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">利</span><span class="ann  " onmouseover="sP(this, event)">发</span><span class="ann  " onmouseover="sP(this, event)">掌柜</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">妻</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">比</span><span class="ann  " onmouseover="sP(this, event)">丈夫</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">公平</span><span class="ann  " onmouseover="sP(this, event)">正直</span><span class="ann  " onmouseover="sP(this, event)">些</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">巡警</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二十多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">报童</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十六</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">康</span><span class="ann  " onmouseover="sP(this, event)">大力</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十二</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">太监</span><span class="ann  " onmouseover="sP(this, event)">买</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">义子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">后</span><span class="ann  " onmouseover="sP(this, event)">与</span><span class="ann  " onmouseover="sP(this, event)">康</span><span class="ann  " onmouseover="sP(this, event)">顺子</span><span class="ann  " onmouseover="sP(this, event)">相依为命</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">老</span><span class="ann  " onmouseover="sP(this, event)">林</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">逃兵</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">老</span><span class="ann  " onmouseover="sP(this, event)">陈</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">逃兵</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">老</span><span class="ann  " onmouseover="sP(this, event)">林</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="ann  " onmouseover="sP(this, event)">弟</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">崔</span><span class="ann  " onmouseover="sP(this, event)">久</span><span class="ann  " onmouseover="sP(this, event)">峰</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">作</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">国会议员</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">后来</span><span class="ann  " onmouseover="sP(this, event)">修道</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">住</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">裕</span><span class="ann  " onmouseover="sP(this, event)">泰</span><span class="ann  " onmouseover="sP(this, event)">附设</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">公寓</span><span class="ann  " onmouseover="sP(this, event)">里</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">军官</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">大</span><span class="ann  " onmouseover="sP(this, event)">拴</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="ann  " onmouseover="sP(this, event)">左右</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">掌柜</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">长子</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">为人</span><span class="ann  " onmouseover="sP(this, event)">正直</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">周</span><span class="ann  " onmouseover="sP(this, event)">秀</span><span class="ann  " onmouseover="sP(this, event)">花</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">大</span><span class="ann  " onmouseover="sP(this, event)">拴</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">妻</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">花</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十三</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">大</span><span class="ann  " onmouseover="sP(this, event)">拴</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">女儿</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">丁</span><span class="ann  " onmouseover="sP(this, event)">宝</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十七</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="ann  " onmouseover="sP(this, event)">招待</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">胆</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">识</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">刘</span><span class="ann  " onmouseover="sP(this, event)">麻子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">刘</span><span class="ann  " onmouseover="sP(this, event)">麻子</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">继承</span><span class="ann  " onmouseover="sP(this, event)">父</span><span class="ann  " onmouseover="sP(this, event)">业</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">发展</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">取</span><span class="ann  " onmouseover="sP(this, event)">电灯</span><span class="ann  " onmouseover="sP(this, event)">费</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">唐</span><span class="ann  " onmouseover="sP(this, event)">铁</span><span class="ann  " onmouseover="sP(this, event)">嘴</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">唐</span><span class="ann  " onmouseover="sP(this, event)">铁</span><span class="ann  " onmouseover="sP(this, event)">嘴</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">继承</span><span class="ann  " onmouseover="sP(this, event)">父</span><span class="ann  " onmouseover="sP(this, event)">业</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">作</span><span class="ann  " onmouseover="sP(this, event)">天</span><span class="ann  " onmouseover="sP(this, event)">师</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">愿望</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">明</span><span class="ann  " onmouseover="sP(this, event)">师傅</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">五十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">包办</span><span class="ann  " onmouseover="sP(this, event)">酒席</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">厨师</span><span class="ann  " onmouseover="sP(this, event)">傅</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">邹</span><span class="ann  " onmouseover="sP(this, event)">福</span><span class="ann  " onmouseover="sP(this, event)">远</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">评书</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">名手</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">卫</span><span class="ann  " onmouseover="sP(this, event)">福</span><span class="ann  " onmouseover="sP(this, event)">喜</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">邹</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">师弟</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">先</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">评书</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">后</span><span class="ann  " onmouseover="sP(this, event)">改</span><span class="ann  " onmouseover="sP(this, event)">唱</span><span class="ann  " onmouseover="sP(this, event)">京戏</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">方</span><span class="ann  " onmouseover="sP(this, event)">六</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">打</span><span class="ann  " onmouseover="sP(this, event)">小鼓</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">奸诈</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">车</span><span class="ann  " onmouseover="sP(this, event)">当当</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="ann  " onmouseover="sP(this, event)">左右</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">买卖</span><span class="ann  " onmouseover="sP(this, event)">现</span><span class="ann  " onmouseover="sP(this, event)">洋</span><span class="ann  " onmouseover="sP(this, event)">为生</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="ann  " onmouseover="sP(this, event)">奶奶</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">丑恶</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">作</span><span class="ann  " onmouseover="sP(this, event)">皇后</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">太监</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="ann  " onmouseover="sP(this, event)">侄媳妇</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">春</span><span class="ann  " onmouseover="sP(this, event)">梅</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十九</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">庞</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="ann  " onmouseover="sP(this, event)">奶奶的</span><span class="ann  " onmouseover="sP(this, event)">丫环</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">老</span><span class="ann  " onmouseover="sP(this, event)">杨</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">卖</span><span class="ann  " onmouseover="sP(this, event)">杂货</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小二</span><span class="ann  " onmouseover="sP(this, event)">德</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">德</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">打手</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">于</span><span class="ann  " onmouseover="sP(this, event)">厚</span><span class="ann  " onmouseover="sP(this, event)">斋</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小学</span><span class="ann  " onmouseover="sP(this, event)">教员</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">王</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">花</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">老师</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">谢</span><span class="ann  " onmouseover="sP(this, event)">勇</span><span class="ann  " onmouseover="sP(this, event)">仁</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">与</span><span class="ann  " onmouseover="sP(this, event)">于</span><span class="ann  " onmouseover="sP(this, event)">厚</span><span class="ann  " onmouseover="sP(this, event)">斋</span><span class="ann  " onmouseover="sP(this, event)">同事</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">宋</span><span class="ann  " onmouseover="sP(this, event)">恩</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">宋</span><span class="ann  " onmouseover="sP(this, event)">恩</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">承袭</span><span class="ann  " onmouseover="sP(this, event)">父</span><span class="ann  " onmouseover="sP(this, event)">业</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">作</span><span class="ann  " onmouseover="sP(this, event)">特务</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">小</span><span class="ann  " onmouseover="sP(this, event)">吴</span><span class="ann  " onmouseover="sP(this, event)">祥</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">三十</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">吴</span><span class="ann  " onmouseover="sP(this, event)">祥</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="ann  " onmouseover="sP(this, event)">之</span><span class="ann  " onmouseover="sP(this, event)">子</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">世袭</span><span class="ann  " onmouseover="sP(this, event)">特务</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">小心眼</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">十九</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="ann  " onmouseover="sP(this, event)">招待</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">沈</span><span class="ann  " onmouseover="sP(this, event)">处长</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">四十</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">宪兵</span><span class="ann  " onmouseover="sP(this, event)">司令部</span><span class="ann  " onmouseover="sP(this, event)">某处</span><span class="ann  " onmouseover="sP(this, event)">处长</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">茶</span><span class="ann  " onmouseover="sP(this, event)">客</span><span class="ann  " onmouseover="sP(this, event)">若干</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">男的</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">茶房</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">两</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">男的</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">难民</span><span class="ann  " onmouseover="sP(this, event)">数</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">女</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">老</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">少</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">大兵</span><span class="ann  " onmouseover="sP(this, event)">三</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">五</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">男的</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">公寓</span><span class="ann  " onmouseover="sP(this, event)">住客</span><span class="ann  " onmouseover="sP(this, event)">数</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">男的</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">押</span><span class="ann  " onmouseover="sP(this, event)">大</span><span class="ann  " onmouseover="sP(this, event)">令</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">兵</span><span class="ann  " onmouseover="sP(this, event)">七</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">男的</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">宪兵</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">傻</span><span class="ann  " onmouseover="sP(this, event)">杨</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">男</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">数来宝</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span> 
+    </div>
+    <div id="show_vocab">
+      <div id="vocab_rg">
+       <label for="vocab">
+          Показать слова
+          <select name="vocab" id="vocab_ls" style="margin-top:.7ex">
+             <option value="1">все</option>
+             <option value="2">HSK 2 и выше</option>
+             <option value="3" selected="selected">HSK 3 и выше</option>
+             <option value="4">HSK 4 и выше</option>
+             <option value="5">вне HSK</option>
+             <option value="6">ничего</option>
+          </select>
+       </label>
+       <label for="sort">
+          Сортировать по 
+          <select name="sort" id="sort_ls" style="margin-top:.7ex">
+             <option value="ord" selected="selected">первому появлению</option>
+             <option value="py">произношению</option>
+             <option value="rad">ключу иероглифа</option>
+             <option value="freq">частоте</option>
+          </select>
+       </label>
+      </div>
+      <button type="button" onclick="show_words()">Показать слова</button>
+    </div>
+  </div>
+    <table id="vocab_table" style="border:0">
+      <tbody id="vocab"> </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+Intro 1: Good morning (A0001)
+A:	早上好！
+B:	早上好！你好吗？
+A:	我很好，你呢？
+B:	我也很好。谢谢。
+
+Intro 2: What's your name? (A0002)
+A:	你好。
+B:	你好，你叫什么名字？
+A:	我叫王平。你呢？
+B:	我叫李丽。
+
+Intro 3: Where are you from? (A0003)
+A:	你是中国人吗？
+B:	对，我是中国人。你呢？
+A:	我是英国人。
+B:	欢迎！
+
+Intro 4: Do you like China? (A0004)
+A:	你喜欢中国吗？
+B:	喜欢。
+A:	你喜欢什么？
+B:	中国菜。
+
+
+Intro 5: Do you have a menu? (A0005)
+A:	请问有菜单吗？
+B:	有的。请稍等。
+A:	好的。
+
+
+Intro 6: I want to buy this one (A0006)
+A:	你好，我要买面包。
+B:	好的。
+A:	多少钱？
+B:	5块钱。
+
+Basic Greetings (A0007)
+A	你好吗？
+B	很好，谢谢。
+A	你是中国人吗？
+B	不是，我是美国人。
+
+Where are you from? (A0008)
+A	他是美国人吗？
+B	不是，他是英国人。
+A	他很忙吗？
+B	对，他很忙。
+
+Where are you going? (A0009)
+A	王先生，你好吗？
+B	我很好，李小姐，你呢？
+A	我也很好。你去哪里？
+B	我去学校。
+
+How are you feeling? (A0010)
+A:	你今天好吗?
+B:	很好，谢谢。你呢?
+A:	马马虎虎。我今天很累。
+B:	真的吗？为什么？
+A:	因为我很忙。
+
+I'm upset (A0011)
+A:	你怎么了？
+B:	我很难过。
+A:	真的吗？为什么？
+B:	对不起，我不能说。
+
+Can you speak Chinese? (A0012)
+A	你会说普通话吗？
+B	我会说一点，你会说英语吗？
+A	英语？我不会说。
+
+I can sing, but I can't dance (A0013)
+A	普通话你懂吗？
+B	我懂一点点。
+A	你会说吗？
+B	我不会说。
+A	你会唱歌吗？
+B	我会唱歌，但是我不会跳舞。
+
+Mr. Li is busy at the office today (A0014)
+李先生不是美国人。
+他是英国人。
+他不会说普通话。
+但是他懂。
+他今天在办公室。
+他很忙。
+他昨天在家。
+他昨天不忙。
+
+I would like to buy a pen (A0015)
+你好,你想买什么?
+我想买笔.有没有？
+对不起,我没有笔.
+没关系.
+
+Ordering Food (A0017)
+先生，你想吃什么？
+我想吃面。
+好的，等一下。
+谢谢。
+
+It's delicious! (A0018)
+A	你在吃什么？
+B	我在吃水果。
+A	好吃吗？
+B	好吃。
+
+待完成 19-99

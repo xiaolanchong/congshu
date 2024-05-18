@@ -1,0 +1,777 @@
+You look exhausted! (C0043)
+好像		hǎoxiàng		seem to be
+累		lèi		tired
+麻烦		máfan		troublesome
+下班		xiàbān		to get off work
+哎呀		āiyā		good gracious
+差不多		chàbuduō		more or less
+应该		yīnggāi		should
+休息		xiūxi		to rest
+办法		bànfǎ		way;method
+注意身体		zhùyì shēntǐ		pay attention to your health
+几乎		jīhū		almost
+赚钱		zhuànqián		to earn money
+熬夜		áoyè		stay up late or all night
+脸色		liǎnsè		complexion
+苍白		cāngbái		pale
+
+Weather, Man (C0049)
+明天		míngtiān		tomorrow
+干		gàn		to do
+不一定		bù yīdìng		not certain
+如果		rúguǒ		if
+下雨		xiàyǔ		to rain
+天气		tiānqì		weather
+出去		chūqù		to go out
+打算		dǎsuàn		plan
+计划		jìhuà		to plan
+决定		juédìng		to decide
+天气预报		tiānqìyùbào		weather forecast
+晴天		qíngtiān		sunny
+雨天		yǔtiān		rainy
+阴天		yīntiān		cloudy day
+多云		duōyún		cloudy
+大雾		dàwù		thick fog
+郊游		jiāoyóu		field trip
+
+City Comparison (C0054)
+去年		qùnián		last year
+搬到		bān dào		to move to
+认为		rènwéi		to think that
+现代化		xiàndàihuà		modernized
+搬家		bānjiā		move from one home to another
+时尚		shíshàng		fashion
+绿化		lǜhuà		afforest
+人口		rénkǒu		population
+公共交通		gōnggòng jiāotōng		public transportation
+社区		shèqū		community
+医疗		yīliáo		medical treatment
+
+Chinese Celebrity: Bruce Lee (C0059)
+有名		yǒumíng		famous
+明星		míngxīng		star
+当然		dāngrán		of course
+大师		dàshī		master
+电影		diànyǐng		movie
+成为		chéngwéi		to become
+巨星		jùxīng		giant star
+招牌		zhāopái		signature moves
+声		shēng		sound
+影帝		yǐngdì		king of the silver screen
+影后		yǐnghòu		film queen
+武打片		wǔdǎpiàn		kungfu films
+恐怖片		kǒngbùpiàn		horror film
+动作片		dòngzuòpiàn		action movie
+搞笑片		gǎoxiàopiàn		comedy
+喜剧		xǐjù		comedy
+悲剧		bēijù		tragedy
+
+China’s Supergirl (C0060)
+火		huǒ		all the rage
+电视节目		diànshì jiémù		television program
+超级女声		chāojí nǚshēng		Super Girls
+就像		jiùxiàng		just like
+偶像		ǒuxiàng		idol
+选秀		xuǎnxiù		contestant
+节目		jiémù		program
+选出		xuǎnchū		to select
+出色		chūsè		outstanding
+胜利者		shènglì zhě		winner
+女歌手		nǚ gēshǒu		female singer
+成名		chéngmíng		become famous
+冠军		guànjūn		champion
+初赛		chūsài		initial heat
+复赛		fùsài			semifinals
+决赛		juésài		finals
+选拔		xuǎnbá		select sb. for promotion or special assignment
+
+Talking about Illness (C0063)
+怎么了		zěnmele		what\'s wrong
+舒服		shūfu		comfortable
+头疼		tóuténg		to have a headache
+喉咙		hóulóng		throat
+疼		téng		to hurt
+感冒了		gǎnmào le		to catch cold
+吃药		chīyào		to take medicine
+感冒药		gǎnmàoyào		cold medicine
+中药		zhōngyào		traditional Chinese medicine
+西药		xīyào		western medicine
+给		gěi		to give
+一些		yīxiē		some
+打针		dǎzhēn		injection
+发烧		fāshāo		fever
+体温		tǐwēn		(body) temperature
+休息		xiūxi		rest
+咳嗽		késou		cough
+流鼻涕		liú bítì		run at the nose
+乏力		fálì		fatigue
+
+Future Plans (C0066)
+毕业		bìyè		graduate
+专业		zhuānyè		major
+商务		shāngwù		commercial
+管理		guǎnlǐ		management
+打算		dǎsuàn		plan
+继续		jìxù		to continue
+考研		kǎoyán		take the master degree entrance exam
+面试		miànshì		interview
+公务员		gōngwùyuán		government employee
+研究生		yánjiūshēng		(post-) graduate student
+会计		kuàijì		accounting
+外资		wàizī		foreign capital
+
+Shopping (C0068)
+搬到		bān dào		to move to
+方便		fāngbiàn		convenient
+百货公司		bǎihuògōngsī		department store
+除了……以外		chúle ... yǐwài		except for; aside from
+价钱		jiàqian		price
+合理		hélǐ		reasonable
+市场		shìchǎng		market
+如果		rúguǒ		if
+必须		bìxū		must
+信用卡		xìnyòngkǎ		credit card
+现金		xiànjīn		cash
+比较		bǐjiào		comparatively
+其他		qítā		other
+商场		shāngchǎng		shopping mall
+超市		chāoshì		supermarket
+购物中心		gòuwù zhōngxīn		shopping center
+昂贵		ángguì		expensive; costly
+逛街		guàngjiē		to go shopping
+
+Christmas (C0069)
+期盼		qīpàn		to look forward to
+圣诞节		Shèngdànjié		Christmas
+所有		suǒyǒu		all
+家人		jiārén		family
+要		yào		must
+拜访		bàifǎng		to visit
+亲戚		qīnqi		relative
+无聊		wúliáo		boring
+糟糕		zāogāo		awful
+礼物		lǐwù		gift
+得到		dédào		to get
+牙刷		yáshuā		ya2shua1
+盼望		pànwàng		long for
+好运		hǎoyùn		good luck
+看望		kànwàng		visit
+聚会		jùhuì		gathering
+酒会		jiǔhuì		party
+装饰		zhuāngshì		decorate
+
+Discussing Work (C0070)
+好像		hǎoxiàng		to seem to be
+压力		yālì		pressure
+有可能		yǒu kěnéng		possibly
+下班		xiàbān		to get off work
+周末		zhōumò		weekends
+加班		jiābān		to work overtime
+薪水		xīnshuǐ		salary
+满意		mǎnyì		satisfied
+换		huàn		to change
+考虑		kǎolǜe		think about
+跳槽		tiàocáo		change to a better job
+工资		gōngzī		salary
+奖金		jiǎngjīn		money award
+福利		fúlì		welfare
+待遇		dàiyù		pay
+
+Celebration Plans and New Year’s Resolutions (C0074)
+新年夜		xīnniányè		New Year
+仍然		réngrán		still
+决定		juédìng		to decide
+市中心		shì zhōngxīn		city center
+聚会		jùhuì		party
+美好		měihǎo		happy
+时光		shíguāng		time
+昂贵		ángguì		expensive
+举办		jǔbàn		to conduct
+公寓		gōngyù		apartment
+邀请		yāoqǐng		to invite
+度过		dùguò		to pass
+考虑		kǎolǜ		to consider
+取决		qǔjué		to be up to
+主意		zhǔyi		idea
+愿望		yuànwàng		wish
+健康		jiànkāng		health
+打算		dǎsuàn		to plan
+戒烟		jièyān		to quit smoking
+以及		yǐjí		as well as
+体育		tǐyù		sports
+旅游		lǚyóu		travel
+探亲访友		tànqīnfǎngyǒu		visit relatives and friends
+许愿		xǔyuàn		make a vow (to a god)
+压岁钱		yāsuìqián		New Year money gift to children
+放鞭炮		fàng biānpào		burn firecrackers
+
+Business Style (C0076)
+下个月		xiàgeyuè		next month
+去		qù		to go to
+出差		chūchāi		to take a business trip
+听说		tīngshuō		to have heard it said that
+边...边...		biān ... biān ...		... and ... simultaneously
+做生意		zuòshēngyì		to do business
+生意人		shēngyìrén		businessmen
+之前		zhīqián		before
+花		huā		to spend
+时间		shíjiān		time
+了解		liǎojiě		to understand
+对方		duìfāng		counterpart
+意味着		yìwèi zhe		to imply
+将		jiāng		will
+谈		tán		to discuss
+来往		láiwǎng		to interact
+但是		dànshì		but
+重要		zhòngyào		important
+依靠		yīkào		depend on
+良好		liánghǎo		good
+关系		guānxi		relation; relationship
+理解		lǐjiě		understand
+确保		quèbǎo		ensure; guarantee
+建立		jiànlì		establish
+浪费		làngfèi		waste
+关照		guānzhào		look after
+办事		bànshì		handle affairs
+客户		kèhù		customer
+情谊		qíngyì		friendship
+友好		yǒuhǎo		friendly
+
+Describing Travels (C0078)
+下个		xiàge		next
+度假		dùjià		go on holiday
+建议		jiànyì		suggestions
+决定		juédìng		to decide
+待		dāi		stay
+名胜古迹		míngshènggǔjī		scenic spots and historical places
+比如说		bǐrú shuō		for example
+颐和园		yíhéyuán		Summer Palace
+听说		tīngshuō		to hear it said that
+一定要		yīdìng yào		absolutely must
+时尚		shíshàng		fashionable
+都市		dūshì		city
+等不及		děngbují		can’t wait to
+旅游胜地		lǚyóu shèngdì		tourist site
+风味小吃		fēngwèi xiǎochī		local flavor snacks
+导游		dǎoyóu		guide
+游客		yóukè		tourist
+自助游		zìzhùyóu		do-it-yourself tour
+
+Finding a Supermarket (C0082)
+刚		gāng		recently
+搬到		bāndào		to move
+建议		jiànyì		suggestions
+除了……以外		chúle ... yǐwài		aside from
+省		shěng		to save
+又……又		yòu ... yòu		both
+合理		hélǐ		reasonable
+不仅……而且		bùjǐn ... érqiě		not only…but also
+肯定		kěndìng		sure
+打折		dǎzhé		discount
+超市		chāoshì		supermarket
+百货公司		bǎihuògōngsī		department store
+熟悉		shúxī		to know sth. or sb. well
+参观		cānguān		to visit
+大卖场		dàmàichǎng		shopping center
+便利店		biànlìdiàn		convenient store
+交通		jiāotōng		traffic
+优惠		yōuhuì		preferential
+促销		cùxiāo		sales promotion
+
+Keeping in Touch (C0084)
+有时间		yǒu shíjiān		to have time
+跟……见面		gēn ... jiànmiàn		to meet
+要紧		yàojǐn		important
+打不通		dǎ bù tōng		to dial, but not get through
+接		jiē		to pick up
+改		gǎi		to change
+发		fā		to send
+收		shōu		to receive
+有空		yǒukòng		to have free time
+联系		liánxì		to get in contact with
+帮		bāng		to help
+办法		bànfǎ		means
+还有		háiyǒu		and
+联系不上		liánxì bushàng		can contact with
+空号		kōnghào		empty number
+手机停机		shǒujī tíngjī		cell phone
+出故障		chū gùzhàng		to have trouble
+失踪		shīzōng		to be missing
+当面		dāngmiàn		in front of someone's face
+面谈		miàntán		to chat person-to-person
+紧急		jǐnjí		emergency
+重要		zhòngyào		important
+要事		yàoshì		important thing
+约个时间		yuē ge shíjiān		have a date
+
+Pop Music and Pop Culture (C0085)
+年轻人		niánqīngrén		young people
+流行音乐		liúxíng yīnyuè		popular music
+比如说		bǐrú shuō		for example
+最		zuì		most
+受欢迎		shòuhuānyíng		popular
+火		huǒ		hot
+泡吧		pàobā		to kill time in a bar
+迪厅		dítīng		disco hall
+酒吧		jiǔbā		bar
+愿意		yuànyì		to be willing to
+习惯		xíguàn		to be used to
+社交		shèjiāo		to interact socially
+经常		jīngcháng		often
+新鲜		xīnxiān		fresh
+事物		shìwù		thing
+网吧		wǎngbā		internet cafe
+古典		gǔdiǎn		classical
+排行榜		páihángbǎng		a list of names arranged according to seniority or place in a competition
+网络游戏		wǎngluò yóuxì		online game
+交流		jiāoliú		exchange
+
+Apartment Hunting (C0086)
+介绍		jièshào		to introduce
+间		jiān		/
+厨房		chúfáng		kitchen
+旁边		pángbiān		side
+卫生间		wèishēngjiān		toilet
+客厅		kètīng		living room
+后面		hòumian		behind
+卧室		wòshì		bedroom
+还可以		hái kěyǐ		all right
+暗		àn		dark
+租		zū		to rent
+考虑		kǎolǜ		to consider
+餐厅		cāntīng		dining-hall
+书房		shūfáng		study
+阳台		yángtái		balcony
+光线		guāngxiàn		optical line
+环境		huánjìng		environment
+设施		shèshī		facilities
+齐全		qíquán		complete
+电器		diànqì		electrical appliance
+
+Buying a Computer (C0096)
+台		tái		measure word (for performances/engines/etc.)
+笔记本电脑		bǐjìběndiànnǎo		notebook computer
+品牌		pǐnpái		brand
+预算		yùsuàn		budget
+最新款		zuìxīnkuǎn		newest model
+超出		chāochū		to come out above
+外接电源		wàijiēdiànyuán		external electrical power supply
+包括		bāokuò		to include
+不算在内		bùsuànzàinèi		not in price
+显示器		xiǎnshìqì		monitor
+主机		zhǔjī		core
+硬盘		yìngpán		hard drive
+内存		nèicún		memory
+硬件		yìngjiàn		hardware
+软件		ruǎnjiàn		software
+
+Negotiating Price (C0100)
+看上去		kàn shangqu		to look; to appear
+带		dài		to carry
+包括		bāokuò		to include
+价钱		jiàqian		price
+折扣		zhékòu		discount
+打折		dǎzhé		to discount
+现金		xiànjīn		cash
+必须		bìxū		must
+贵		guì		expensive
+送		sòng		to give free of charge
+最低价		zuìdī jià		lowest price
+刷卡		shuākǎ		to swipe a card
+成本		chéngběn		cost
+赔本		péiběn		to suffer losses in business
+优惠		yōuhuì		preferential
+额外		éwài		extra
+
+A Disappointment (C0102)
+心情		xīnqíng		mood
+上周		shàngzhōu		last week
+考试		kǎoshì		exam
+通过		tōngguò		pass
+失望		shīwàng		to be disappointed
+下功夫		xià gōngfu		to concentrate one
+花时间		huā shíjiān		to spend time
+图书馆		túshūguǎn		library
+题目		tímù		subject
+练习		liànxí		exercise
+可能		kěnéng		possibility
+的时候		de shíhou		when
+紧张		jǐnzhāng		nervous
+决心		juéxīn		be determined to
+以后		yǐhòu		later
+得		de		/
+复习		fùxí		review
+熬夜		áoyè		stay up late or all night
+绝望		juéwàng		despair
+放松		fàngsōng		relax
+检查		jiǎnchá		check
+马虎		mǎhu		be careless
+
+Future Goals (C0104)
+上进		shàngjìn		eager to make progress
+愿意		yuànyì		to be willing
+努力		nǔlì		to strive
+以后		yǐhòu		afterwards
+目标		mùbiāo		goal
+之一		zhīyī		one of
+做生意		zuòshēngyi		to do business
+成立		chénglì		to establish
+打算		dǎsuàn		to plan
+金融		jīnróng		banking; finance
+投资		tóuzī		to invest
+证券		zhèngquàn		financial securities
+代理		dàilǐ		agent
+总裁		zǒngcái		director of a business
+周游世界		zhōuyóu shìjiè		travel all over the world
+
+Chinese Tea (C0114)
+要		yào		to want
+去		qù		to go
+准备好		zhǔnbèi hǎo		to be ready
+买		mǎi		to buy
+什么		shénme		what
+好		hǎo		good
+哪		nǎ		which
+种		zhǒng		kind
+呢		ne		/
+尤其		yóuqí		especially
+一般		yībān		usually
+上		shàng		to advance
+年纪		niánjì		age
+红茶		hóngchá		black tea
+茶馆		cháguǎn		teahouse
+茶壶		cháhú		teapot
+茶杯		chábēi		teacup
+泡茶		pāochá		to make tea
+
+Shanghai Fashion (C0116)
+被		bèi		by
+重视		zhòngshì		to regard as important
+时髦		shímáo		fashionable
+配饰		pèishì		accessory
+打折		dǎzhé		to discount
+品味		pǐnwèi		taste
+有名		yǒumíng		famous
+外表		wàibiǎo		external appearance
+百货商店		bǎihuòshāngdiàn		department store
+排队		páiduì		lined up
+赶时髦		gǎn shímáo		to follow fashion
+流行		liúxíng		popular
+潮流		cháoliú		trend
+折扣		zhékòu		discount
+名牌		míngpái		famous brand
+
+Traditional Chinese Medicine (C0120)
+老		lǎo		always
+暖和		nuǎnhuo		warm
+尤其		yóuqí		especially
+其它		qítā		other
+听说		tīngshuō		to hear tell
+有用		yǒuyòng		useful
+好处		hǎochu		benefits
+试试		shìshi		to have a try
+调理		tiáolǐ		recuperate
+养生		yǎngshēng		nourish one's vital principle
+滋补		zībǔ		nourishing
+药效		yàoxiào		efficacy of a drug
+缓慢		huǎnmàn		slow
+副作用		fù zuòyòng		side-effect
+
+A Promotion (C0123)
+消息		xiāoxi		news
+升职		shēngzhí		to promote
+想到		xiǎngdào		to think of
+态度		tàidu		attitude
+从来没有		cónglái méiyǒu		have never
+出色		chūsè		remarkable
+百分之……		bǎifēnzhī ...		... percent
+降职		jiàngzhí		demotion
+辞职		cízhí		to resign
+跳槽		tiàocáo		to change companies
+炒鱿鱼		chǎo yóuyú		fire;dismiss
+加薪		jiāxīn		raise sb's pay
+
+Family Life (C0125)
+传统		chuántǒng		traditional
+观念		guānniàn		concept
+父亲		fùqin		father
+应该		yīnggāi		should
+承担		chéngdān		to bear
+养家糊口		yǎngjiāhūkǒu		to support the family
+责任		zérèn		responsibility
+让		ràng		to let
+好日子		hǎo rìzi		good day
+母亲		mǔqīn		mother
+照顾		zhàogu		to attend to
+孝敬		xiàojìng		to respect
+长辈		zhǎngbèi		elders
+重视		zhòngshì		to regard as important
+教育		jiàoyù		education
+期望		qīwàng		expectation; hope
+依靠		yīkào		to depend on
+赚钱		zhuànqián		to make money
+相夫教子		xiàngfūjiàozǐ		assist one's husband and educate the children (of a virtuous woman)
+有出息		yǒuchūxi		have good prospects; will go far
+寄托		jìtuō		to push
+望子成龙		wàngzǐchénglóng		hope one's children will have bright futures
+
+Complaining to the Waiter (C0132)
+讨厌		tǎoyàn		to hate
+抽烟		chōuyān		to smoke a cigarette
+投诉		tóusù		to complain
+处理		chǔlǐ		to handle
+尴尬		gāngà		embarassed
+办法		bànfǎ		method
+小费		xiǎofèi		tip
+非吸烟区		fēixīyānqū		non-smoking area
+厌恶		yànwù		detest
+反映		fǎnyìng		report
+态度		tàidù		attitude
+理睬		lǐcǎi		pay attention to
+影响		yǐngxiǎng		influence
+声誉		shēngyù		fame
+
+Stop speeding! (C0137)
+糟糕		zāogāo		awful
+司机		sījī		driver
+总是		zǒngshì		always
+开		kāi		to drive
+粗心		cūxīn		careless
+负责任		fùzérén		responsible
+注意		zhùyì		to pay attention
+交通		jiāotōng		traffic
+规则		guīzé		rule
+从来没		cónglái méi		never
+收到		shōudào		receive
+罚单		fádān		fine
+超速		chāosù		speeding
+张		zhāng		/
+甚至		shènzhì		even
+闯		chuǎng		to run
+红灯		hóngdēng		red light
+变		biàn		to change
+刚刚		gānggāng		just now, a moment ago
+搞错		gǎo cuò		mistake sth. for sth. else
+违反		wéifǎn		violation
+酒后驾驶		jiǔhòujiàshǐ		to drive under the influence
+不熟练		bù shúliàn		not experienced
+乱停车		luàn tíngchē		crudely to stop
+危险		wēixiǎn		danger
+急躁		jízào		edginess
+
+How's business? (C0144)
+竞争		jìngzhēng		competition
+激烈		jīliè		intense
+万一		wànyī		just in case
+放缓		fànghuǎn		to slow down
+看法		kànfǎ		point of view
+只要……就		zhǐyào ... jiù		as long as
+吸引		xīyǐn		to attract
+优势		yòushì		superiority
+景气		jǐngqì		prosperity
+不景气		bù jǐngqì		not prosperity
+经济危机		jīngjì wēijī		economic crisis
+降低		jiàngdī		to reduce
+成本		chéngběn		cost
+提高		tígāo		to raise
+利润		lìrùn		profit
+受欢迎		shòu huānyíng		popular
+价廉物美		jiàliánwùměi		a bargain buy
+
+Studying Chinese (C0157)
+困扰		kūnrǎo		disturbed
+目标		mùbiāo		goal
+流利		liúlì		fluent
+词汇量		cíhuìliàng		vocabulary
+有限		yǒuxiàn		limited
+改善		gǎishàn		to improve
+提高		tígāo		to enhance
+术语		shùyǔ		technical term
+外地		wàidì		place other than where one is
+糟糕		zāogāo		bad
+口音		kǒuyīn		accent
+进步		jìnbù		progress
+标准		biāozhǔn		standard
+
+Calligraphy (C0158)
+欣赏		xīnshǎng		to appreciate
+享受		xiǎngshòu		to enjoy
+流畅		liúchàng		fluid
+别扭		bièniǔ		awkward
+临摹		línmó		to copy (a model of calligraphy)
+专门		zhuānmén		specially
+用心		yòngxīn		sincere
+推荐		tuījiàn		to recommend
+字帖		zìtiě		copybook for calligraphy
+端正		duānzhèng		upright
+秀气		xiùqì		delicate
+文房四宝		wénfángsìbǎo		calligrapher
+毛笔		máobǐ		writing brush
+墨水		mòshuǐ		ink
+砚台		yàntái		ink-stone
+笔锋		bǐfēng		the tip of a writing brush
+有劲		yǒujìn		with strength
+撇		piě		cast away
+竖		shù		to erect
+字体		zìtǐ		font
+楷体		kǎitǐ		regular script
+隶书		lìshū		Han style of calligraphy
+艺术		yìshù		art
+坚持		jiānchí		to insist
+毅力		yìlì		perseverance
+
+Street Food (C0162)
+路边		lùbiān		roadside
+小吃		xiǎochī		snack
+早饭		zǎofàn		breakfast
+路边摊		lùbiāntān		street food stalls
+换		huàn		to change
+花样		huāyàng		variety
+有的时候		yǒudeshíhou		sometimes
+包子		bāozi		steamed stuffed bun
+有时		yǒushí		sometimes
+大饼		dàbǐng		Chinese flat cake
+油条		yóutiáo		deep-fried twisted dough sticks
+夜宵		yèxiāo		nighttime snack
+麻辣烫		mālàtàng		hot and spicy soup
+羊肉串		yángròuchuàn		mutton kebab
+出差		chūchāi		to go abroad on business
+看到		kàndào		to see
+许多		xǔduō		several
+冰糖葫芦		bīngtáng húlu		candied haws on a stick
+肉夹馍		ròujiámó		meat-stuffed pita sandwiches
+摊子		tānzi		booth
+南北		nánběi		north and south
+品种		pǐnzhǒng		variety
+主要		zhǔyào		main
+臭豆腐		chòu dòufu		strong-smelling preserved beancurd; stinky tofu/
+烤红薯		kǎo hóngshǔ		toasted sweet potato
+烤鱿鱼		kǎo yóuyú		roasted sleeve-fish
+香菜		xiāngcài		parsley;coriander
+煎饼		jiānbǐng		thin pancake
+小笼包		xiǎolóngbāo		small steamed meat-filled buns
+
+Girly Talk (C0169)
+讨厌		tǎoyàn		to hate
+讨厌		tǎoyàn		disgusting
+等		děng		to wait
+还		hái		still
+大概		dàgài		roughly
+已经		yǐjīng		already
+撒娇		sājiāo		coquette
+做作		zuòzuo		affected
+啰嗦		luōsuo		wordy
+也许		yěxǔ		perhaps
+可能		kěnéng		maybe, probably
+
+Introducing Hotels (C0174)
+预算		yùsuàn		budget
+方便		fāngbiàn		convenient
+设施		shèshī		facilities
+位置		wèizhi		position
+淡季		dànjì		off-season
+连锁		liánsuǒ		chain
+海景房		hǎijǐng fáng		a room with an ocean view
+无线上网		wúxiàn shàngwǎng		wireless internet
+建议		jiànyì		proposal
+单人房		dānrén fáng		single room
+双人房		shuāngrén fáng		double room
+标准间		biāozhǔn jiān		standard room
+豪华间		háohuá jiān		luxurious room
+商务套房		shāngwù tàofáng		business suites
+总统套房		zǒngtǒng tàofáng		Presidential suites
+国际连锁		guójì liánsuǒ		international chain
+齐全		qíquán		extensive
+享受		xiǎngshòu		to enjoy
+经济头脑		jīngjì tóunao		economy head, clever with money
+精明		jīngmíng		bright; canniness/
+旺季		wàngjì		busy season
+打折		dǎzhé		to discount
+有线电视		yǒuxiàn diànshì		cable television;CATV
+数字电视		shùzì diànshì		digital television;DTV
+
+Standing in Line (C0176)
+讨厌		tǎoyàn		to hate
+银行		yínháng		bank
+取钱		qǔqián		to withdraw money
+总是		zǒngshì		always
+填		tián		to fill in
+表格		biǎogé		form
+插队		chāduì		to cut in line
+排队		páiduì		to stand in line
+基本上		jīběnshang		basically
+态度		tàidu		attitude
+耐心		nàixīn		patiently
+办理		bànlǐ		to process
+交易		jiāoyì		transaction
+中国银行		Zhōngguó Yínháng		Bank of China
+水平		shuǐpíng		level
+前几年		qián jǐ nián		a few years ago
+提高		tígāo		to raise
+市场		shìchǎng		market
+竞争		jìngzhēng		competition
+激烈		jīliè		fierce
+外资		wàizī		foreign capital
+营业点		yíngyè diǎn		business office
+受益		shòuyì		benefit from
+秩序		zhìxù		order
+维持		wéichí		to keep
+自觉		zìjué		self-knowledge
+推出		tuīchū		to release
+自助服务		zìzhù fúwù		self-help service/
+柜台		guìtái		counter
+程序		chéngxù		program
+缩短		suōduǎn		to shorten
+效率		xiàolǜ		efficiency
+
+Buying a Drink (C0188)
+服务员		fúwùyuán		waiter
+需要		xūyào		need
+哪些		nǎxiē		which
+生啤		shēngpí		draught beer
+青岛		Qīngdǎo		Qingdao (beer)
+嘉士伯		Jiāshìbó		Carlsberg (beer)
+杯		bēi		/
+威士忌		wēishìjì		whiskey
+加		jiā		to add
+冰块儿		bīngkuàir5		ice cubes
+份		fèn		/
+爆米花		bàomǐhuā		popcorn
+稍等		shāoděng		wait a moment
+以为		yǐwéi		to think mistakenly
+换		huàn		to change
+冰		bīng		icy
+算了		suànle		forget it
+买单		mǎidān		to pay the bill
+葡萄酒		pútaojiǔ		wine
+白酒		báijiǔ		Chinese white wine
+白兰地		báilándi		brandy
+鸡尾酒		jīwěijiǔ		cocktail
+
+Old Friend (C0194)
+顺利		shùnlì		smooth
+变化		biànhuà		change
+搬家		bānjiā		move house
+毕业		bìyè		to graduate
+约		yuē		to make an appointment with
+外地		wàidì		another city
+休假		xiūjià		to be on holiday
+发福		fāfú		to put on some weight
+碰到		pèngdào		to meet sb. by chance
+客气		kèqi		be polite
+中庸之道		zhōngyōngzhīdào		doctrine of the mean
+聪明		cōngming		smart
+天才		tiāncái		genius
+专注于		zhuānzhù yú		devote one’s mind to
+旅途		lǚtú		on one’s journey
+建议		jiànyì		to make suggestion
+鼓励		gǔlì		to encourage
+单独		dāndú		alone
+称赞		chēngzàn		to praise
+时机		shíjī		opportunity
+掌握		zhǎngwò		to master, to grasp
+谈恋爱		tiánliànài		to date
+爱面子		àimiànzi		be self-conscious (lit. to love face)
+自大		zìdà		arrogant
+气色		qìsè		complexion
+一路顺风		yīlùshùnfēng		have a nice trip

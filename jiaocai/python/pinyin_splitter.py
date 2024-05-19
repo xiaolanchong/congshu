@@ -90,7 +90,7 @@ class PinyinSplitter:
     def split(self, pinyin: str) -> list[Syllable]:
         alternatives = []
         def split_recursively(pos, before:list[str]):
-            
+            pass
 
 
 a = PinyinSplitter()

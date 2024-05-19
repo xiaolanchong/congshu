@@ -65,9 +65,10 @@ def convert(filename: str, title: str):
     template = environment.from_string(template_str)
     lessons = []
     with open(filename, encoding='utf8') as file:
-        delimiter = '\t\t'
+
         for line in file.readlines():
             line = line.strip()
+            delimiter = '\t\t' if '\t\t' in line else '\t'
             if len(line) == 0 and len(lessons) and len(lessons[-1].definitions):
                 pass
             elif delimiter not in line:
@@ -87,9 +88,12 @@ def convert(filename: str, title: str):
 
 def convert_all():
     # 初 中 高 高中
-    convert('../zhongwenboke/zhong0000words.txt', '中级1-200生词')
-    convert('../zhongwenboke/gaozhong0000words.txt', '高中级1-200生词')
-    convert('../zhongwenboke/gao0000words.txt', '高级1-200生词')
+    #convert('../zhongwenboke/zhong0000words.txt', '中级1-200生词')
+    #convert('../zhongwenboke/gaozhong0000words.txt', '高中级1-200生词')
+    #convert('../zhongwenboke/gao0000words.txt', '高级1-200生词')
+    #convert('../zhongwenboke/gaozhong0200words.txt', '高中级200-400生词')
+    #convert('../zhongwenboke/zhong0200words.txt', '中级200-400生词')
+    convert('../zhongwenboke/zhong0400words.txt', '中级400-600生词')
 
 
 convert_all()

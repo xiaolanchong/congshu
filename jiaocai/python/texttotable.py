@@ -1,7 +1,6 @@
 import jinja2
 import dataclasses as dc
 
-
 template_str = """
 <!DOCTYPE html>
 <head lang="zh-Hans">
@@ -13,9 +12,18 @@ template_str = """
     <style>
         body { font-family: Verdana, Arial, sans-serif; }
         table { border-width: 0 }
-        td { padding-right: 2em }
+        @media (min-width: 900px) {
+            td { padding-right: 2em }
+        }
+        /* hanzi */
+        td:nth-child(1) {
+            text-wrap: nowrap;
+        }
+        /* pinyin */
+        td:nth-child(2) {  
+            color: lightgray;
+        }
         section { margin: 1em 1em }
-        .pinyin { color: lightgray; }
     </style>
     <body>
         {% for lesson in lessons %}
@@ -26,7 +34,7 @@ template_str = """
                 {% for word in lesson.definitions %}
                   <tr>
                     <td>{{word.hanzi}}</td>
-                    <td class="pinyin">{{word.pinyin}}</td>
+                    <td>{{word.pinyin}}</td>
                     <td>{{word.definition}}</td>
                   </tr>
                 {% endfor %}
@@ -52,17 +60,15 @@ class Lesson:
     definitions: [WordDefinition]
 
 
-def convert():
+def convert(filename: str, title: str):
     environment = jinja2.Environment()
     template = environment.from_string(template_str)
-    filename = '../zhongwenboke/zhong0000words.txt'
-    title = '中级1-200生词'
     lessons = []
     with open(filename, encoding='utf8') as file:
         delimiter = '\t\t'
         for line in file.readlines():
             line = line.strip()
-            if len(line) == 0:
+            if len(line) == 0 and len(lessons) and len(lessons[-1].definitions):
                 pass
             elif delimiter not in line:
                 lessons.append(Lesson(name=line, definitions=[]))
@@ -79,4 +85,11 @@ def convert():
     print(len(lessons))
 
 
-convert()
+def convert_all():
+    # 初 中 高 高中
+    convert('../zhongwenboke/zhong0000words.txt', '中级1-200生词')
+    convert('../zhongwenboke/gaozhong0000words.txt', '高中级1-200生词')
+    convert('../zhongwenboke/gao0000words.txt', '高级1-200生词')
+
+
+convert_all()

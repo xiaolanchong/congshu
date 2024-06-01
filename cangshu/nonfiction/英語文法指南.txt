@@ -1,0 +1,3204 @@
+英語文法指南
+
+https://www.ef.com.tw/english-guide/english-grammar/
+
+您是否常遇到文法的問題呢？像是不確定該用分號還是逗號、不清楚副詞該放在句首、句中還是句尾？如果是這樣的話，您就來對地方了。這些頁面提供了完整的英語文法指南，有詳盡的英語用法規則。每一種文法規則都有中文解說（您也可以參考英文原文），以及許多參考例句，必要的時候也會給予相反的例子，幫助您做比較。此文法指南包含的內容有以下幾大類，並不是每個英語文法都那麼好理解，但使用此文法指南，您就能熟記英語用法的規則，讓您在英語口說或寫作上都能夠充滿自信。
+名詞
+
+名詞是人、事物、地方等，會告訴我們談的是何物。像是 cat、Jack、rock、Africa 和 it 等字詞，都是名詞。
+形容詞
+
+形容詞是用來修飾或描述名詞。像是 tall、beautiful、irresponsible 和 boring 等字詞都是形容詞。
+副詞
+
+副詞修飾形容詞、動詞或其他副詞，會告訴我們事情是如何、何時或在何處發生的。副詞可以表達數量、程度、頻率和意見。
+限定詞
+
+冠詞、量詞等限定詞是用來修飾名詞，在這方面跟形容詞相似。限定詞幫助我們表達談論的事物。
+動詞和時態
+
+動詞即動作的詞，會告訴我們發生了什麼事；而時態透露發生的時間（過去、現在、未來）。動詞也可以表達可能性和條件。
+敘述
+
+當我們要敘述某人說過的話，可以直接引述或間接引述（轉述）。間接引述的規則在文法上是很重要的一環。
+標點符號
+
+標點符號雖然不是口語文法的一部份，但在英語寫作上必須掌握各種標點符號的用法。
+關係子句
+
+在英語中，我們會用關係子句來造更複雜、更確切的句子。
+文法測驗
+
+測驗您的英語情境文法，包含聽力和閱讀技巧。
+
+----------------
+
+名詞
+
+英語中的名詞有特定的規則，例外情況並不多，因此基本上只要把規則記熟，就能正確地使用名詞。利用以下幾頁的內容來認識名詞的性、名詞的複數形、可數和不可數名詞、大寫的規則、國籍和民族的寫法、所有格的形成等文法規則。
+英語中的名詞
+
+    名詞的性
+    單複數名詞，包括不規則複數名詞
+    可數和不可數名詞
+    指定代名詞
+    不定代名詞
+    複合名詞
+    名詞的大寫規則
+    國籍與民族的寫法
+    如何形成所有格
+
+==========
+名詞的性别
+
+名詞回答了「What is it?」和「Who is it?」等問句，賦予人、事物和地點等名稱。
+舉例
+
+    dog
+    bicycle
+    Mary
+    girl
+    beauty
+    France
+    world
+
+一般在英文的名詞當中，並不像有些其他語言會區分男性（陽性）或女性（陰性）。然而，在論及人或動物時，會經由不同形式或字詞透露名詞的性。
+舉例
+男性 	女性 	中性
+man 	woman 	person
+father 	mother 	parent
+boy 	girl 	child
+uncle 	aunt 	 
+husband 	wife 	spouse
+actor 	actress 	 
+prince 	princess 	 
+waiter 	waitress 	server
+rooster 	hen 	chicken
+stallion 	mare 	horse
+
+有許多意指人的角色和工作的名詞，沒有性別之分；例如 cousin、teenager、teacher、doctor、student、friend、colleague 等。
+舉例
+
+    Mary is my friend. She is a doctor.
+    Peter is my cousin. He is a doctor.
+    Arthur is my friend. He is a student.
+    Jane is my cousin. She is a student.
+
+如果非得區分這些名詞的性別，就在名詞前加 male 或 female 即可。
+舉例
+
+    Sam is a female doctor.
+    No, he is not my boyfriend, he is just a male friend.
+    I have three female cousins and two male cousins.
+
+當描述的事物本身不具有性別（例如交通工具、國家等），有時候人們會用性別代名詞來稱呼，表達親密和熟悉感。但要用中性代名詞 (it) 來稱呼，當然也是正確的。
+舉例
+
+    I love my car. She (the car) is my greatest passion.
+    France is popular with her (France's) neighbours at the moment.
+    I travelled from England to New York on the Queen Elizabeth; she (the Queen Elizabeth) is a great ship.
+
+名詞的單數與複數
+規則名詞
+
+大多數的規則名詞只要在字尾加 s 即可形成複數。
+測驗您的知識
+舉例
+單數 	複數
+boat 	boats
+house 	houses
+cat 	cats
+river 	rivers
+
+而以 s、x、z、ch、sh 結尾之單數名詞，則要在字尾加上 es 來形成複數。
+舉例
+單數 	複數
+bus 	buses
+wish 	wishes
+pitch 	pitches
+box 	boxes
+
+以子音 y 結尾之單數名詞，先去掉  y 再加上 ies，即可形成複數。
+舉例
+單數 	複數
+penny 	pennies
+spy 	spies
+baby 	babies
+city 	cities
+daisy 	daisies
+不規則名詞
+
+在名詞中有幾個不規則複數型態，最常見的幾種如下。
+舉例
+單數 	複數
+woman 	women
+man 	men
+child 	children
+tooth 	teeth
+foot 	feet
+person 	people
+leaf 	leaves
+mouse 	mice
+goose 	geese
+half 	halves
+knife 	knives
+wife 	wives
+life 	lives
+elf 	elves
+loaf 	loaves
+potato 	potatoes
+tomato 	tomatoes
+cactus 	cacti
+focus 	foci
+fungus 	fungi
+nucleus 	nuclei
+syllabus 	syllabi/syllabuses
+analysis 	analyses
+diagnosis 	diagnoses
+oasis 	oases
+thesis 	theses
+crisis 	crises
+phenomenon 	phenomena
+criterion 	criteria
+datum 	data
+
+有些名詞的單數和複數同形。
+舉例
+單數 	複數
+sheep 	sheep
+fish 	fish
+deer 	deer
+species 	species
+aircraft 	aircraft
+不規則動詞/名詞的一致
+
+有些名詞具有複數型態，但使用單數型態的動詞。
+使用單數形動詞的複數名詞 	例句
+news 	The news is at 6.30 p.m.
+athletics 	Athletics is good for young people.
+linguistics 	Linguistics is the study of language.
+darts 	Darts is a popular game in England.
+billiards 	Billiards is played all over the world.
+
+有些名詞具有固定的複數型態且使用複數型態的動詞。這些名詞一般不會被用在單數的情況，或即使是單數型態，也會有不同的意思。這類名詞包括：trousers、jeans、glasses、savings、thanks、steps、stairs、customs、congratulations、tropics、wages、spectacles、outskirts、goods、wits 等。
+使用複數形動詞的複數名詞 	例句
+trousers 	My trousers are too tight.
+jeans 	Her jeans are black.
+glasses 	Those glasses are his.
+
+================
+
+ 可數名詞
+
+可數名詞可以用數字來計算。這種名詞有單數和複數形；單數形的限定詞可以用 a 或 an。如果要詢問某個可數名詞的數量有多少，可以用「How many?」來問，再搭配可數名詞的複數形。
+單數 	複數
+one dog 	two dogs
+one horse 	two horses
+one man 	two men
+one idea 	two ideas
+one shop 	two shops
+例句
+
+    She has three dogs.
+    I own a house.
+    I would like two books please.
+    How many friends do you have?
+
+不可數名詞
+
+不可數名詞無法用數字來計算。這類名詞可能是抽象的概念，或者太小、非固態的物體（液體、粉狀物、氣體等）。不可數名詞會使用動詞單數形，通常沒有複數形。
+舉例
+
+    tea
+    sugar
+    water
+    air
+    rice
+    knowledge
+    beauty
+    anger
+    fear
+    love
+    money
+    research
+    safety
+    evidence
+
+我們不能在不可數名詞前面加 a 或 an，如要表達它的數量，就得用 some、a lot of、much、a bit of、a great deal of 之類的量詞來表達，要更確切的話還可以用 a cup of、a bag of、1kg of、1L of、a handful of、a pinch of、an hour of、a day of 等量詞或測量單位。如果想詢問數量，可以用「How much...?」來問。
+例句
+
+    There has been a lot of research into the causes of this disease.
+    He gave me a great deal of advice before my interview.
+    Can you give me some information about uncountable nouns?
+    He did not have much sugar left.
+    Measure 1 cup of water, 300g of flour, and 1 teaspoon of salt.
+    How much rice do you want?
+
+微妙之處
+
+有些名詞在別的語言中可數，但在英語中卻不可數，因此得遵循不可數名詞的規則。這類名詞最常見的有：
+accommodation, advice, baggage, behavior, bread, furniture, information, luggage, news, progress, traffic, travel, trouble, weather, work
+例句
+
+    I would like to give you some advice.
+    How much bread should I bring?
+    I didn't make much progress today.
+    This looks like a lot of trouble to me.
+    We did an hour of work yesterday.
+
+要特別留意的是 hair 這個名詞，在英語中一般是不可數的，因此通常不會用複數形，只有在特指單根頭髮時才會是可數名詞。
+例句
+
+    She has long blond hair.
+    The child's hair was curly.
+    I washed my hair yesterday.
+    My father is getting a few grey hairs now.（指的是一根根的頭髮）
+    I found a hair in my soup!（指的是單根的頭髮）
+
+===============
+代名詞
+
+代名詞取代了名詞。會需要用上不同的代名詞，取決於兩個要素：第一是被取代的名詞，第二是名詞在句中的作用。在英語中，只有第三人稱單數的代名詞才會表明名詞的性別。而第二人稱複數與第二人稱單數相同，反身代名詞則除外。
+測驗您的知識
+  	主格代名詞 	受格代名詞 	所有格形容詞（限定詞） 	所有格代名詞 	反身代名詞或強調代名詞
+第一人稱單數 	I 	me 	my 	mine 	myself
+第二人稱單數 	you 	you 	your 	yours 	yourself
+第三人稱單數（男性/陽性） 	he 	him 	his 	his 	himself
+第三人稱單數（女性/陰性） 	she 	her 	her 	hers 	herself
+第三人稱單數（中性） 	it 	it 	its 	  	itself
+第一人稱複數 	we 	us 	our 	ours 	ourselves
+第二人稱複數 	you 	you 	your 	yours 	yourselves
+第三人稱複數 	they 	them 	their 	theirs 	themselves
+主格代名詞
+
+主格代名詞取代了句中的主詞。通常使用第三人稱的主格代名詞，是為了要避免重複稱呼原主詞。
+例句
+
+    I am 16.
+    You seem lost.
+    Jim is angry, and he wants Sally to apologize.
+    This table is old. It needs to be repainted.
+    We aren't coming.
+    They don't like pancakes.
+
+受格代名詞
+
+受格代名詞用來取代句中的直接受詞或間接受詞。
+例句
+
+    Give the book to me.
+    The teacher wants to talk to you.
+    Jake is hurt because Bill hit him.
+    Rachid recieved a letter from her last week.
+    Mark can't find it.
+    Don't be angry with us.
+    Tell them to hurry up!
+
+所有格形容詞（限定詞）
+
+所有格形容詞並不是代名詞，而是限定詞。但認識代名詞的同時，不妨也一起認識限定詞，因為限定詞的型態跟所有格代名詞很相似。所有格形容詞的作用就如形容詞，因此它的位置是放在其修飾的名詞前，並不會像代名詞一樣取代了名詞。
+例句
+
+    Did mother find my shoes?
+    Mrs. Baker wants to see your homework.
+    Can Jake bring over his baseball cards?
+    Samantha will fix her bike tomorrow.
+    The cat broke its leg.
+    This is our house.
+    Where is their school?
+
+所有格代名詞
+
+所有格代名詞取代了名詞的所有格，成為句中的主詞或受詞。由於原來的名詞被代名詞取代了，因此務必確認對方知道它指的是何者，才能直接用代名詞。
+例句
+
+    This bag is mine.
+    Yours is not blue.
+    That bag looks like his.
+    These shoes are not hers.
+    That car is ours.
+    Theirs is parked in the garage.
+
+反身代名詞和強調代名詞
+
+反身代名詞和強調代名詞看起來完全一樣，但在句中卻有不同的作用。
+
+反身代名詞會重新提及語句中的主詞，因為做出該動作的主詞本身也是直接受格或間接受格。只有特定的動詞可以用反身代名詞。您不能將反身代名詞從句中移除，因為這樣會導致其餘的句子文法有誤。
+例句
+
+    I told myself to calm down.
+    You cut yourself on this nail?
+    He hurt himself on the stairs.
+    She found herself in a dangerous part of town.
+    The cat threw itself under my car!
+    We blame ourselves for the fire.
+    The children can take care of themselves.
+
+強調代名詞強調語中的主詞，它並不是動作的受詞。強調代名詞一律可從句中移除，而且也不會嚴重影響了整句話的意思。強調代名詞可緊接在主詞後，或是放在句尾。
+例句
+
+    I made these cookies myself.
+    You yourself asked Jake to come.
+    The Pope himself pardoned Mr. Brown.
+    My teacher didn't know the answer herself.
+    The test itself wasn't scary, but my teacher certainly is.
+    We would like to finish the renovation before Christmas ourselves.
+    They themselves told me the lost shoe wasn't a problem.
+
+測驗您的知識
+
+================
+
+不定代名詞
+
+不定代名詞指的是不特定的人、地方或事物。在英語中，有些不定代名詞是用量詞或個別詞形成，這類不定代名詞是以 any、some、every 和 no 開頭。
+測驗您的知識
+  	人 	地方 	事物
+所有 	everyone
+everybody 	everywhere 	everything
+部分（肯定） 	someone
+somebody 	somewhere 	something
+部分（否定） 	anyone
+anybody 	anywhere 	anything
+無 	no one
+nobody 	nowhere 	nothing
+
+以 some 和 any 開頭的不定代名詞描述不定、不完整的量，就如單獨使用 some 和 any 的方式一樣。
+
+不定代名詞在句中的位置跟名詞一樣。
+名詞 	不定代名詞
+I would like to go to Paris this summer. 	I would like to go somewhere this summer.
+Jim gave me this book. 	Someone gave me this book.
+I won't tell your secret to Sam. 	I won't tell your secret to anyone.
+I bought my school supplies at the mall. 	I bought everything at the mall.
+肯定句
+
+在肯定句中，以 some 開頭的不定代名詞描述的是不定的量。以 every 開頭的不定代名詞是描述完整的量。而以 no 開頭的不定代名詞則是描述不存在、不在場的人或事物；通常會用在具有否定意思的肯定句，但這類句子並不是否定句，畢竟句中沒有 not 這個字。
+例句
+ 
+
+    Everyone is sleeping in my bed.
+    Someone is sleeping in my bed.
+    No one is sleeping in my bed.
+    I gave everything to Sally.
+    He saw something in the garden.
+    There is nothing to eat.
+    I looked everywhere for my keys.
+    Keith is looking for somewhere to live.
+    There is nowhere as beautiful as Paris.
+
+以 any 開頭的不定代名詞可以用在肯定句，跟 every 的意思很接近：任何人、任何地方、任何事物。
+例句
+
+    They can choose anything from the menu.
+    You may invite anybody you want to your birthday party.
+    We can go anywhere you'd like this summer.
+    He would give anything to get into Oxford.
+    Fido would follow you anywhere.
+
+否定句
+
+否定句只能用 any 開頭的不定代名詞。
+例句
+
+    I don't have anything to eat.
+    She didn't go anywhere last week.
+    I can't find anyone to come with me.
+
+在很多情況下，當句中含有 any 開頭的不定代名詞，只要將原先的不定代名詞改為以 no 開頭的不定代名詞，就可以變成帶有否定意義的肯定句。不過這樣的改寫會改變句子的意思。句中若含有 no 開頭的不定代名詞，語氣會變得更強烈，而且會傳達出防衛、絕望、憤怒等情緒。
+舉例
+
+    I don't know anything about it. = 中立
+    I know nothing about it. = 防衛
+    I don't have anybody to talk to. = 中立
+    I have nobody to talk to. = 絕望
+    There wasn't anything we could do. = 中立
+    There was nothing we could do. = 防衛/憤怒
+
+否定問句
+
+以 every、some、和 any 開頭的不定代名詞可以用在否定問句上，這類問句一般可以用 Yes/No 來回答。
+
+以 any 和 every 開頭的不定代名詞會被用在 Yes/No 問句上；而以 some 開頭的不定代名詞，會透露出我們已知道該問題的答案、或對答案有所懷疑。
+例句
+
+    Is there anything to eat?
+    Did you go anywhere last night?
+    Is everyone here?
+    Have you looked everywhere?
+
+只要在問句加上否定的縮寫 n't，即成為反問句。當說話的人丟出這樣類型的問句，其實是想得到否定的答案。
+例句
+
+    Isn't there anything to eat?
+    Didn't you go anywhere last night?
+    Isn't everyone here?
+    Haven't you looked everywhere?
+
+以 some 開頭的代名詞只用在問句上。通常我們會知道問句的答案，或者不會得到 Yes/No 的回答（例如在提出邀請、要求等），問這類問題的人，通常會想得到肯定的回答。
+例句
+
+    Are you looking for someone?
+    Have you lost something?
+    Are you going somewhere?
+    Could somebody help me, please? = 要求
+    Would you like to go somewhere this weekend? = 邀請
+
+如果這些問句被改為反問句，語氣就會變得更絕對。在這種情況下，發問者百分之百確認他會得到肯定的回答。
+例句
+
+    Aren't you looking for someone?
+    Haven't you lost something?
+    Aren't you going somewhere?
+    Couldn't somebody help me, please?
+    Wouldn't you like to go somewhere this weekend?
+
+================
+複合名詞
+
+不同單字可以結合為複合名詞。這些名詞都相當常見，而且幾乎天天都有新的複合名詞被創造而出。複合名詞通常有兩個部分，第一部分會透露名詞的類別或用途，第二部分則是表明指的是何物或何人。複合名詞常有多種意思，而且比拆開的兩個字本身還要有更具體的意義。
+第一部分：類別或用途 	第二部分：何人或何物 	複合名詞
+police 	man 	policeman
+boy 	friend 	boyfriend
+fish 	tank 	water tank
+dining 	table 	dining-table
+
+您可能已經注意到，複合名詞可以寫成一個單字、兩個單字、或帶有連字號的單字，而在這方面是沒有明確規則的。按照經驗法則，就是將所有最常見的複合名詞寫成一個單字，至於其他則寫為兩個單字。
+
+複合名詞的詞素在英語中有相當多樣的變化。
+複合詞素 	舉例
+名詞 + 名詞 	bedroom
+water tank
+motorcycle
+printer cartridge
+名詞 + 動詞 	rainfall
+haircut
+train-spotting
+名詞 + 副詞 	hanger-on
+passer-by
+動詞 + 名詞 	washing machine
+driving licence
+swimming pool
+動詞 + 副詞 	lookout
+take-off
+drawback
+副詞 + 名詞 	onlooker
+bystander
+形容詞 + 動詞 	dry-cleaning
+public speaking
+形容詞 + 名詞 	greenhouse
+software
+redhead
+副詞 + 動詞 	output
+overthrow
+upturn
+input
+發音
+
+在發音上，必須留意重音落在哪個音節；因為重音可以區分單字是複合名詞，還是形容詞接名詞。複合名詞的重音通常會落在第一個音節。
+舉例
+
+    a 'greenhouse = place where we grow plants（複合名詞）
+    a green 'house = house painted green（形容詞和名詞）
+    a 'bluebird = type of bird（複合名詞）
+    a blue 'bird = any bird with blue feathers（形容詞和名詞）
+
+
+==============
+
+大寫的規則
+測驗您的知識
+
+在特定名詞類型、句子的特定位置以及某些形容詞當中，會用到大寫字母。必須使用大寫字母的情況為：
+
+句子的第一個字
+舉例
+
+    Dogs are noisy.
+    Children are noisy too.
+
+第一人稱代名詞「我」
+舉例
+
+    Yesterday, I went to the park.
+    He isn't like I am.
+
+人的名字和職稱
+舉例
+
+    Winston Churchill
+    Marilyn Monroe
+    the Queen of England
+    the President of the United States
+    the Headmaster of Eton
+    Doctor Mathews
+    Professor Samuels
+
+作品、書籍、電影等名稱
+舉例
+
+    War and Peace
+    The Merchant of Venice
+    Crime and Punishment
+    Spider Man II
+
+一年之中的月份
+舉例
+
+    January
+    July
+    February
+    August
+
+一星期當中的日子
+舉例
+
+    Monday
+    Friday
+    Tuesday
+    Saturday
+
+ 
+
+節日
+舉例
+
+    Christmas
+    Easter
+    New Year's Day
+    Thanksgiving Day
+
+國家和大洲名稱
+舉例
+
+    America
+    England
+    Scotland
+    China
+
+區域、州、地區等地名
+舉例
+
+    Sussex
+    California
+    Provence
+    Tuscany
+
+城市、城鎮、村莊等地名
+舉例
+
+    London
+    Cape Town
+    Florence
+    Vancouver
+
+河流、大洋、海洋、湖等名稱
+舉例
+
+    the Atlantic
+    the Pacific
+    Lake Victoria
+    the Rhine
+    the Thames
+
+地理構成的名稱
+舉例
+
+    the Himalayas
+    the Alps
+    the Sahara
+
+與國籍相關的形容詞
+舉例
+
+    French music
+    Australian animals
+    German literature
+    Arabic writing
+
+民族的集合名詞
+舉例
+
+    the French
+    the Germans
+    the Americans
+    the Chinese
+
+語言名稱
+舉例
+
+    I speak Chinese.
+    He understands English.
+
+街道、建築、公園名稱
+舉例
+
+    Park Lane
+    Sydney Opera House
+    Central Park
+    the Empire State Building
+    Wall Street
+
+
+=============
+
+英語中的國籍和民族
+
+在英文中，要根據國家名稱來形成國籍的形容詞和名詞，並不是所有規則都一致。論及某國的所有國民時，大部分是用 ese 或 ish 結尾的國籍形容詞，再接動詞的複數型態。此處的形容詞有時也可以是該國語言的名詞，並不是所有情況都如此。
+舉例
+
+    國家：I live in Japan.
+    形容詞：He likes Japanese food.
+    出身：She is a Japanese person. = She is from Japan. = She is Japanese.
+    語言：She speaks Japanese.
+    描述一群人：Spaniards often drink wine. = Spanish people often drink wine.
+    描述一群人：The Chinese enjoy fireworks. = Chinese people enjoy fireworks.
+
+在某些情況下，由於歷史或政治上的因素，有些國籍或民族的名詞對某些人來說可能會有負面的聯想。在這種情況，多數人就不會去使用它，而是改用較為中立的「形容詞 + people」或 「people from + 國家名稱」來表示。以下帶星號的字詞就是這個情況的例子，而括號裡的寫法則是避免冒犯的說法。
+地理區域/大洲 	形容詞 	名詞
+Africa 	African 	an African* (an African person, someone from Africa)
+Asia 	Asian 	an Asian* (an Asian person, someone from Asia)
+Europe 	European 	a European
+Central America 	Central American 	a Central American
+Middle East 	Middle Eastern 	a Middle Easterner
+North Africa 	North African 	a North African
+South America 	South American 	a South American
+Southeast Asia 	Southeast Asian 	a Southeast Asian person
+國家或地區 	形容詞 	名詞
+Afghanistan 	Afghan 	an Afghan
+Algeria 	Algerian 	an Algerian
+Angola 	Angolan 	an Angolan
+Argentina 	Argentine 	an Argentine
+Austria 	Austrian 	an Austrian
+Australia 	Australian 	an Australian
+Bangladesh 	Bangladeshi 	a Bangladeshi
+Belarus 	Belarusian 	a Belarusian
+Belgium 	Belgian 	a Belgian
+Bolivia 	Bolivian 	a Bolivian
+Bosnia and Herzegovina 	Bosnian/Herzegovinian 	a Bosnian/a Herzegovinian
+Brazil 	Brazilian 	a Brazilian
+Britain 	British 	a Briton（非正式：a Brit）
+Bulgaria 	Bulgarian 	a Bulgarian
+Cambodia 	Cambodian 	a Cambodian
+Cameroon 	Cameroonian 	a Cameroonian
+Canada 	Canadian 	a Canadian
+Central African Republic 	Central African 	a Central African
+Chad 	Chadian 	a Chadian
+China 	Chinese 	a Chinese person
+Colombia 	Colombian 	a Colombian
+Costa Rica 	Costa Rican 	a Costa Rican
+Croatia 	Croatian 	a Croat
+the Czech Republic 	Czech 	a Czech person
+Democratic Republic of the Congo 	Congolese 	a Congolese person（註：這也指來自剛果共和國的人）
+Denmark 	Danish 	a Dane
+Ecuador 	Ecuadorian 	an Ecuadorian
+Egypt 	Egyptian 	an Egyptian
+El Salvador 	Salvadoran 	a Salvadoran（Salvadorian 和 Salvadorean 也被接受的寫法）
+England 	English 	an Englishman/Englishwoman
+Estonia 	Estonian 	an Estonian
+Ethiopia 	Ethiopian 	an Ethiopian
+Finland 	Finnish 	a Finn
+France 	French 	a Frenchman/Frenchwoman
+Germany 	German 	a German
+Ghana 	Ghanaian 	a Ghanaian
+Greece 	Greek 	a Greek
+Guatemala 	Guatemalan 	a Guatemalan
+Holland 	Dutch 	a Dutchman/Dutchwoman
+Honduras 	Honduran 	a Honduran
+Hungary 	Hungarian 	a Hungarian
+Iceland 	Icelandic 	an Icelander
+India 	Indian 	an Indian
+Indonesia 	Indonesian 	an Indonesian
+Iran 	Iranian 	an Iranian
+Iraq 	Iraqi 	an Iraqi
+Ireland 	Irish 	an Irishman/Irishwoman
+Israel 	Israeli 	an Israeli
+Italy 	Italian 	an Italian
+Ivory Coast 	Ivorian 	an Ivorian
+Jamaica 	Jamaican 	a Jamaican
+Japan 	Japanese 	a Japanese person
+Jordan 	Jordanian 	a Jordanian
+Kazakhstan 	Kazakh 	a Kazakhstani（用為名詞，「a Kazakh」指的是民族而非國籍）
+Kenya 	Kenyan 	a Kenyan
+Laos 	Lao 	a Laotian（用為名詞，「a Lao」指的是民族而非國籍）
+Latvia 	Latvian 	a Latvian
+Libya 	Libyan 	a Libyan
+Lithuania 	Lithuanian 	a Lithuanian
+Madagascar 	Malagasy 	a Malagasy
+Malaysia 	Malaysian 	a Malaysian
+Mali 	Malian 	a Malian
+Mauritania 	Mauritanian 	a Mauritanian
+Mexico 	Mexican 	a Mexican*（在美國可能會有冒犯性，改稱「someone from Mexico」較好。）
+Morocco 	Moroccan 	a Moroccan
+Namibia 	Namibian 	a Namibian
+New Zealand 	New Zealand 	a New Zealander
+Nicaragua 	Nicaraguan 	a Nicaraguan
+Niger 	Nigerien 	a Nigerien
+Nigeria 	Nigerian 	a Nigerian
+Norway 	Norwegian 	a Norwegian
+Oman 	Omani 	an Omani
+Pakistan 	Pakistani 	a Pakistani*（在英國可能會有冒犯性，改稱「someone from Pakistan」較好。）
+Panama 	Panamanian 	a Panamanian
+Paraguay 	Paraguayan 	a Paraguayan
+Peru 	Peruvian 	a Peruvian
+The Philippines 	Philippine 	a Filipino* (someone from the Philippines)
+Poland 	Polish 	a Pole* (someone from Poland, a Polish person)
+Portugal 	Portuguese 	a Portuguese person
+Republic of the Congo 	Congolese 	a Congolese person（註：這也指來自剛果民主共和國的人）
+Romania 	Romanian 	a Romanian
+Russia 	Russian 	a Russian
+Saudi Arabia 	Saudi, Saudi Arabian 	a Saudi, a Saudi Arabian
+Scotland 	Scottish 	a Scot
+Senegal 	Senegalese 	a Senegalese person
+Serbia 	Serbian 	a Serbian（ 用為名詞，「a Serb」指的是民族而非國籍）
+Singapore 	Singaporean 	a Singaporean
+Slovakia 	Slovak 	a Slovak
+Somalia 	Somalian 	a Somalian
+South Africa 	South African 	a South African
+Spain 	Spanish 	a Spaniard* (a Spanish person, someone from Spain)
+Sudan 	Sudanese 	a Sudanese person
+Sweden 	Swedish 	a Swede
+Switzerland 	Swiss 	a Swiss person
+Syria 	Syrian 	a Syrian
+Thailand 	Thai 	a Thai person
+Tunisia 	Tunisian 	a Tunisian
+Turkey 	Turkish 	a Turk
+Turkmenistan 	Turkmen 	a Turkmen / the Turkmens
+Ukraine 	Ukranian 	a Ukranian
+The United Arab Emirates 	Emirati 	an Emirati
+The United States 	American 	an American
+Uruguay 	Uruguayan 	a Uruguayan
+Vietnam 	Vietnamese 	a Vietnamese person
+Wales 	Welsh 	a Welshman/Welshwoman
+Zambia 	Zambian 	a Zambian
+Zimbabwe 	Zimbabwean 	a Zimbabwean
+
+城市名稱也可改為形容詞和名詞，但改寫的規則很不一定，而且有些名詞並不全然被認同（可能有幾個是）。以下為您示範幾個城市名稱改寫成形容詞和名詞：
+城市 	形容詞 	名詞
+Paris 	Parisian 	a Parisian
+New York 	New York 	a New Yorker
+Sydney 	Sydney 	a Sydney-sider
+London 	London 	a Londoner
+São Paulo 	São Paulo 	a Paulistano
+New Delhi 	New Delhi 	a Delhiite
+Cape Town 	Cape Town 	a Capetonian
+
+=========
+
+所有格的形成
+
+所有格與名詞連用，即表示一個物體與另一物體的從屬關系。如要形成所有格，則在名詞字尾加「's」即可。如果名詞為複數，或字尾是 s，就只要在字尾後加撇號即可。
+測驗您的知識
+舉例
+
+    the car of John = John's car
+    the room of the girls = the girls' room
+    clothes for men = men's clothes
+    the boat of the sailors = the sailors' boat
+
+對於以 s 結尾的名字，可以選擇在字尾加撇號和 s，或只加一個撇號，前者較為常用。在所有格的名字上，我們會在名字的尾音加上 /z/ 音。
+舉例
+
+    Thomas's book (或 Thomas' book)
+    James's shop (或 James' shop)
+    the Smiths's house (或 the Smiths' house)
+
+所有格的作用
+
+所有格最常表達的關係是「屬於」或「擁有」。
+舉例
+
+    John owns a car. = It is John's car.
+    America has some gold reserves. = They are America's gold reserves.
+
+所有格也可以表達某人工作、讀書或消磨時間的地方。
+舉例
+
+    John goes to this school. = This is John's school.
+    John sleeps in this room. = This is John's room.
+
+所有格可以表達兩人之間的關係。
+舉例
+
+    John's mother is running late.
+    Mrs Brown's colleague will not be coming to the meeting.
+
+所有格也可以用於表達無形的事物。
+舉例
+
+    John's patience is running out.
+    The politician's hypocrisy was deeply shocking.
+
+固定表達方式
+
+有幾種固定表達方式會用所有格。
+帶有時間的例子
+
+    a day's work
+    a month's pay
+    today's newspaper
+    in a year's time
+
+其他例子
+
+    For God's sake!（= 惱怒的驚嘆詞）
+    a stone's throw away（= 非常近）
+    at death's door（= 病得很重）
+    in my mind's eye（= 就我的想像）
+
+也可用職稱或人名的所有格來表達某人創立的店家、餐廳、教堂和大學等機構。
+舉例
+
+    Shall we go to Luigi's for lunch?
+    I've got an appointment at the dentist's at eleven o'clock.
+    Is Saint Mary's an all-girls school?
+
+測驗您的知識
+
+=========
+
+所有格的形成
+
+所有格與名詞連用，即表示一個物體與另一物體的從屬關系。如要形成所有格，則在名詞字尾加「's」即可。如果名詞為複數，或字尾是 s，就只要在字尾後加撇號即可。
+測驗您的知識
+舉例
+
+    the car of John = John's car
+    the room of the girls = the girls' room
+    clothes for men = men's clothes
+    the boat of the sailors = the sailors' boat
+
+對於以 s 結尾的名字，可以選擇在字尾加撇號和 s，或只加一個撇號，前者較為常用。在所有格的名字上，我們會在名字的尾音加上 /z/ 音。
+舉例
+
+    Thomas's book (或 Thomas' book)
+    James's shop (或 James' shop)
+    the Smiths's house (或 the Smiths' house)
+
+所有格的作用
+
+所有格最常表達的關係是「屬於」或「擁有」。
+舉例
+
+    John owns a car. = It is John's car.
+    America has some gold reserves. = They are America's gold reserves.
+
+所有格也可以表達某人工作、讀書或消磨時間的地方。
+舉例
+
+    John goes to this school. = This is John's school.
+    John sleeps in this room. = This is John's room.
+
+所有格可以表達兩人之間的關係。
+舉例
+
+    John's mother is running late.
+    Mrs Brown's colleague will not be coming to the meeting.
+
+所有格也可以用於表達無形的事物。
+舉例
+
+    John's patience is running out.
+    The politician's hypocrisy was deeply shocking.
+
+固定表達方式
+
+有幾種固定表達方式會用所有格。
+帶有時間的例子
+
+    a day's work
+    a month's pay
+    today's newspaper
+    in a year's time
+
+其他例子
+
+    For God's sake!（= 惱怒的驚嘆詞）
+    a stone's throw away（= 非常近）
+    at death's door（= 病得很重）
+    in my mind's eye（= 就我的想像）
+
+也可用職稱或人名的所有格來表達某人創立的店家、餐廳、教堂和大學等機構。
+舉例
+
+    Shall we go to Luigi's for lunch?
+    I've got an appointment at the dentist's at eleven o'clock.
+    Is Saint Mary's an all-girls school?
+
+--------------
+
+形容詞
+
+形容詞可以修飾人、地方、事物等。在以下幾個頁面中，您會學到形容詞的用法規則，讓您更確切地用英語描述事物。
+認識英語中的形容詞
+
+    形容詞的定義
+    辨識句中的形容詞以及形容詞在句中的位置
+    在句中使用多個形容詞的順序
+    如何形成形容詞比較級和最高級
+    用形容詞來比較特性
+    描述相等分量的形容詞
+    描述不相等分量的形容詞
+
+===========
+形容詞的作用
+測驗您的知識
+
+形容詞描述了人們對名詞的觀點，而這種描述方式稱為「修飾」。形容詞可以：
+
+描述感覺或特性
+舉例
+
+    He is a lonely man.
+    They are honest.
+
+透露出國籍或起源地
+舉例
+
+    I heard a French song.
+    This clock is German.
+    Our house is Victorian.
+
+描述某物的特徵
+舉例
+
+    That is a flashy car.
+    The knife is sharp.
+
+透露出年紀
+舉例
+
+    He's a young man.
+    My coat is old.
+
+透露出外型，如大小、尺寸等
+舉例
+
+    John is a tall man.
+    This film is long.
+
+透露出顏色
+舉例
+
+    Paul wore a red shirt.
+    The sunset was crimson.
+
+透露出材質
+舉例
+
+    The table is wooden.
+    She wore a cotton dress.
+
+透露出形狀
+舉例
+
+    I sat at a round table.
+    The envelope is square.
+
+表達評價或價值
+舉例
+
+    That was a fantastic film.
+    Grammar is complicated.
+
+=============
+
+在英語中使用形容詞
+
+在英語中，無論名詞的性別和數量為何，都不會改變形容詞的型態。
+測驗您的知識
+舉例
+
+    This is a hot potato.
+    Those are some hot potatoes.
+
+若要強調或加強形容詞的意思，就在形容詞前加上 very 或 really 等副詞來強調它的程度。
+舉例
+
+    This is a very hot potato
+    Those are some really hot potatoes.
+
+形容詞通常會放在要修飾的名詞前面。
+舉例
+
+    The beautiful girl ignored me.
+    The fast red car drove away.
+
+形容詞也可以放在狀態動詞和感官動詞後，像是 to be、to seem、to look 以及 to taste 等。
+舉例
+
+    Italy is beautiful.
+    I don't think she seems nice at all.
+    You look tired.
+    This meat tastes funny.
+
+例外情況
+
+在某些固定用語中，形容詞會放在動詞後。
+舉例
+
+    The Princess Royal is visiting Oxford today.
+    The President elect made a speech last night.
+    He received a court martial the following week.
+
+如 involved、present 和 concerned 等形容詞可以放在其修飾的名詞前或後，但擺放的位置也會影響整體上的意思。
+舉例
+形容詞置於名詞後 	意思 	形容詞置於名詞前 	意思
+I want to see the people involved. 	我想看到與此事有關聯的人。 	It was an involved discussion. 	這場討論很縝密。
+Here is a list of the people present at the meeting. 	這是參與會議的名單。 	The present situation is not sustainable. 	目前的情況持續不了。
+I need to see the man concerned by this accusation. 	我需要看到那位被控告的男人。 	A concerned father came to see me today. 	今天有位憂心忡忡的父親來找我。
+
+==========
+
+比較級和最高級
+形容詞比較級
+
+形容詞比較級可以對兩個物體做比較，如較大、較小、較快、較高等。這類形容詞只能比較兩個名詞，公式如下：
+
+名詞（主格）+ 動詞 + 形容詞比較級 + than + 名詞（受格）。
+
+如果被比較的事物已經很明確，就無需再重複（請見以下最後一個例句）。
+測驗您的知識
+舉例
+
+    My house is larger than hers.
+    This box is smaller than the one I lost.
+    Your dog runs faster than Jim's dog.
+    The rock flew higher than the roof.
+    Jim and Jack are both my friends, but I like Jack better.（要講出「than Jim」也可以，但前面已透露另一個受詞「Jim」，因此可省略不提）
+
+形容詞最高級
+
+形容詞最高級描述的事物，是處於某些特性的上限或下限，如最高、最小、最快、最高等。當句中的主詞同時與多個受詞一起比較，就會用到這類形容詞。
+
+名詞（主格）+ 動詞 + the + 形容詞最高級 + 名詞（受格）。
+
+如果被比較的事物已經很明確，就無需再重複（請見以下最後一個例句）。
+舉例
+
+    My house is the largest one in our neighborhood.
+    This is the smallest box I've ever seen.
+    Your dog ran the fastest of any dog in the race.
+    We all threw our rocks at the same time. My rock flew the highest.（要講出「of all the rocks」也可以，但前句話已提過，因此可省略不提）
+
+如何形成規則比較級和最高級
+
+要形成比較級和最高級，只要遵循幾個簡單的規則即可；比較級和最高級的型態取決於形容詞原型的音節數。
+單音節形容詞
+
+如果形容詞只有一個音節，在字尾加 er 即成為比較級，而在字尾加 est 則成為最高級。如果形容詞的拼音形式為「子音 + 單母音 + 子音」，則必須重複最後一個子音再加這些字尾。
+形容詞 	比較級 	最高級
+tall 	taller 	tallest
+fat 	fatter 	fattest
+big 	bigger 	biggest
+sad 	sadder 	saddest
+兩個音節的形容詞
+
+若形容詞有兩個音節，形成比較級有兩種方法：第一種是在字尾加 er；第二種則是在形容詞前加 more。而形成最高級也是用這樣的方式：在形容詞字尾加 est，或在形容詞前加 most。一般來說會有一種寫法比較普遍，但兩種形式其實都正確。如果不確定形容詞能否用這樣的字尾來形成比較級或最高級，最保守的作法是一律在形容詞前加 more 或 most。對於字尾為 y 的形容詞，就要先把 y 改為 i，再加上比較級或最高級的字尾。
+形容詞 	比較級 	最高級
+happy 	happier 	happiest
+simple 	simpler 	simplest
+busy 	busier 	busiest
+tilted 	more tilted 	most tilted
+tangled 	more tangled 	most tangled
+有三個或更多音節的形容詞
+
+具有三個或更多音節的形容詞，只要在形容詞前加上 more，即可形成比較級；而在形容詞前加上 most，則形成最高級。
+形容詞 	比較級 	最高級
+important 	more important 	most important
+expensive 	more expensive 	most expensive
+不規則比較級和最高級
+
+這些都是常見的不規則形容詞比較級和最高級。
+形容詞 	比較級 	最高級
+good 	better 	best
+bad 	worse 	worst
+little 	less 	least
+much 	more 	most
+far 	further / farther 	furthest / farthest
+舉例
+
+    Today is the worst day I've had in a long time.
+    You play tennis better than I do.
+    This is the least expensive sweater in the store.
+    This sweater is less expensive than that one.
+    I ran pretty far yesterday, but I ran even farther today.
+
+
+===========
+
+特徵的比較
+
+在對兩種事物的特徵做比較時，我們會用到一套標準規則。
+測驗您的知識
+特徵相等時
+
+要比較兩個具有相等特徵的事物非常簡單，我們會用這樣的公式來表達：
+
+as + 描述特徵的形容詞 + as
+舉例
+
+    Tom is as tall as his brother.
+    I am as hungry as you are.
+    Sally is as nice as Jane.
+
+特徵不相等時
+
+如果兩個特徵不相等，可以用以下三種句型來表達，無論用哪一種，意思都是差不多的。
+
+第一種：
+
+not as + 描述特徵的形容詞 + as
+
+第二種：
+
+less + 描述特徵的形容詞 + than：這種句型會頻繁地用在某些形容詞。
+
+第三種：
+
+形容詞比較級 + than：此結構需要改變詞組的順序，或用相對的形容詞來表達。
+舉例
+
+    Mont Blanc is not as high as Mount Everest.
+    Mont Blanc is less high than Mount Everest.
+    Mont Blanc is lower than Mount Everest.
+    Mount Everest is higher than Mont Blanc.
+    Norway is not as sunny as Thailand.
+    Norway is less sunny than Thailand.
+    Thailand is sunnier than Norway.
+    Norway is cloudier than Thailand.
+
+=====
+
+比較相等分量的形容詞
+
+若要在兩個相等數量的事物上做比較，我們會套用這個公式：
+
+as + 表明分量的形容詞  +（名詞）+ as
+
+至於要使用的分量形容詞為何，取決於比較的名詞是可數還是不可數。
+可數名詞
+
+若比較的名詞是可數的，則用 as many 以及 as few。要注意，當前面的句子已表明比較的事物為何，就可以不重複，下面最後一個例句針對此情況來示範。
+舉例
+
+    They have as many children as we do.
+    We have as many customers as they do.
+    Tom has as few books as Jane.
+    There are as few houses in his village as in mine.
+    You know as many people as I do.
+    I have visited the States as many times as he has.
+    I have three brothers. That's as many as you have.（從第一個句子可看出要比較的事物是「brothers」）
+
+不可數名詞
+
+若比較的名詞是不可數的，則用 as much 以及 as little。要注意，當前面的句子已表明比較的事物為何，就可以不重複，下面最後一個例句針對此情況來示範。
+舉例
+
+    John eats as much food as Peter.
+    Jim has as little patience as Sam.
+    You've heard as much news as I have.
+    He's had as much success as his brother has.
+    They've got as little water as we have.
+    I'm not hungry. I've had as much as I want.（由第一個句子可知，後面要比較的事物是「food」）
+
+===========
+
+比較不相等分量的形容詞
+
+若要比較兩件份量不相等的事物，我們會用到這樣的句型：
+
+表達分量的的形容詞 +（名詞）+ than
+
+要用哪一個分量形容詞，取決於比較的名詞是可數還是不可數。
+可數名詞
+
+若名詞是可數的，就要用 more 和 fewer。要注意，當比較的事物已經很明確，就可以省略不再提。下面最後一個例句針對此情況示範。
+舉例
+
+    They have more children than we do.
+    We have more customers than they do.
+    Tom has fewer books than Jane.
+    There are fewer houses in his village than in mine.
+    You know more people than I do.
+    I have visited the States more times than he has.
+    I have three brothers. That's more than you have.（由第一個句子可知，後面要比較的是「brothers」）
+
+不可數名詞
+
+若名詞是不可數的，就用 more 或 less。要注意，當比較的事物已經很明確，就可以省略不再提。下面最後一個例句針對此情況示範。
+舉例
+
+    John eats more food than Peter.
+    Jim has less patience than Sam.
+    You've heard more news than I have.
+    He's had more success than his brother has.
+    They've got less water than we have.
+    I'm not hungry at all. I've had more than I want.（由第一個句子可知，後面要比較的是「food」）
+
+
+----------
+
+副詞
+
+副詞的種類非常廣泛，可用來形容某件事如何發生、在哪發生或何時發生。副詞可表達說話的人對某動作的觀點，也可表達形容詞或另一個副詞的程度，功用非常多種。以下這幾頁會教您副詞的文法，讓您在談話、寫作上能夠描述得更加鉅細靡遺。
+英語中的副詞
+
+    副詞的定義與用途
+    由形容詞形成副詞
+    如何形成副詞的比較級和最高級
+    地方副詞
+    時間副詞
+    情狀副詞
+    程度副詞
+    確定性副詞
+    觀點副詞和評論性副詞
+    關係副詞
+    疑問副詞
+
+===========
+
+在英語中使用副詞
+
+副詞可以修飾動詞、形容詞、副詞，加以描述某個字詞。副詞大部分修飾動詞，傳達某件事情發生的方式、頻率、時間和地點等，位置擺在修飾的動詞後面。
+測驗您的知識
+舉例
+
+    The bus moved slowly.
+    The bears ate greedily.
+    The car drove fast.
+
+有時候副詞也會修飾形容詞，例如加強或弱化整體的意思。
+舉例
+
+    You look absolutely fabulous!
+    He is slightly overweight.
+    You are very persistent.
+
+有幾種副詞可以修飾其他副詞，例如描述副詞的程度。
+舉例
+
+    She played the violin extremely well.
+    You're speaking too quietly.
+
+
+======
+
+由形容詞形成副詞
+測驗您的知識
+
+在多數情況下，只要在形容詞字尾加 ly 即可形成副詞。
+形容詞 	副詞
+cheap 	cheaply
+quick 	quickly
+slow 	slowly
+
+如果形容詞字尾是 y，則去掉 y 再加 ly 即可。
+形容詞 	副詞
+easy 	easily
+angry 	angrily
+happy 	happily
+lucky 	luckily
+
+如果形容詞是以 able、ible 或 le 結尾，則把 e 去掉再加 y 即可。
+形容詞 	副詞
+probable 	probably
+terrible 	terribly
+gentle 	gently
+
+如果形容詞是以 ic 結尾，就加上 ally。但有例外：public -> publicly
+形容詞 	副詞
+basic 	basically
+tragic 	tragically
+economic 	economically
+
+有些副詞和形容詞同形：early、fast、hard、high、late、near、straight 以及 wrong
+舉例
+
+    It is a fast car.
+    He drives very fast.
+    This is a hard exercise.
+    He works hard.
+    We saw many high buildings.
+    The bird flew high in the sky.
+
+well 也是副詞，相當於形容詞的 good。
+舉例
+
+    He is a good student.
+    He studies well.
+    She is a good pianist.
+    She plays the piano well.
+    They are good swimmers.
+    They swim well.
+
+===========
+
+副詞的比較級與最高級
+
+如果副詞是以 ly 結尾，就必須在副詞前加 more 來形成比較級，最高級則是在副詞前加 most。
+副詞 	比較級 	最高級
+quietly 	more quietly 	most quietly
+slowly 	more slowly 	most slowly
+seriously 	more seriously 	most seriously
+舉例
+
+    The teacher spoke more slowly to help us to understand.
+    Could you sing more quietly please?
+
+對於單音節、沒有 ly 字尾的副詞，其比較級和最高級的型態跟形容詞的規則是一樣的：在字尾加 er 即形成比較級，而在字尾加 est 即形成最高級。如果副詞字尾是 e，就先將它去掉，再加比較級或最高級字尾。
+副詞 	比較級 	最高級
+hard 	harder 	hardest
+fast 	faster 	fastest
+late 	later 	latest
+舉例
+
+    Jim works harder than his brother.
+    Everyone in the race ran fast, but John ran the fastest of all.
+
+有些副詞有不規則型態的比較級和最高級。
+副詞 	比較級 	最高級
+badly 	worse 	worst
+far 	farther/further 	farthest/furthest
+little 	less 	least
+well 	better 	best
+舉例
+
+    The little boy ran farther than his friends.
+    You're driving worse today than yesterday!
+    He played the best of any player.
+
+============
+
+地方副詞
+
+地方副詞會透露某事發生的大約位置，一般會放在主要動詞之後，或者是該副詞修飾的語句後。地方副詞並不會修飾形容詞或其他副詞。
+舉例
+
+    John looked around but he couldn't see the monkey.
+    I searched everywhere I could think of.
+    I'm going back to school.
+    Come in!
+    They built a house nearby.
+    She took the child outside.
+
+「這裡」和「那裡」
+
+here 和 there 是常見的地方副詞，會透露出與講話者的距離。當這類副詞與行進動詞一起使用時，here 有「朝向講話者」、「和講話者一起」之意；而 there 有「遠離講話者」、「沒有和講話者一起」之意 。
+例句 	意思
+Come here! 	向我走過來。
+The table is in here. 	跟我一起來，我們會一起去看到它。
+Put it there. 	把它放到遠離我的地方。
+The table is in there. 	走進去；你會自己看到。
+
+here 和 there 會與介系詞搭配使用，形成許多常見的副詞片語。
+舉例
+
+    What are you doing up there?
+    Come over here and look at what I found!
+    The baby is hiding down there under the table.
+    I wonder how my driver's license got stuck under here.
+
+當句子以驚嘆號結尾，或是需要做出強調語氣時，here 和 there 就會放在句首。如果主詞是名詞，句型會是副詞 + 動詞 + 主詞；但如果主詞是代名詞，句型就會是副詞 + 代名詞 + 動詞。
+舉例
+
+    Here comes the bus!
+    There goes the bell!
+    There it is!
+    Here they are!
+
+可用作介系詞的地方副詞
+
+許多地方副詞也可以用作介系詞。當它被用為介系詞的時候，後面就必須接一個名詞。
+字詞 	用作地方副詞，修飾動詞 	用作介系詞
+around 	The marble rolled around in my hand. 	I am wearing a necklace around my neck.
+behind 	Hurry! You are getting behind. 	Let's hide behind the shed.
+down 	Mary fell down. 	John made his way carefully down the cliff.
+in 	We decided to drop in on Jake. 	I dropped the letter in the mailbox.
+off 	Let's get off at the next stop. 	The wind blew the flowers off the tree.
+on 	We rode on for several more hours. 	Please put the books on the table.
+over 	He turned over and went back to sleep. 	I think I will hang the picture over my bed.
+以 where 結尾的地方副詞
+
+以 where 結尾的地方副詞表達出位置的概念，而非特指一個地點或方向。
+舉例
+
+    I would like to go somewhere warm for my vacation.
+    Is there anywhere I can find a perfect plate of spaghetti around here?
+    I have nowhere to go.
+    I keep running in to Sally everywhere!
+
+以 wards 結尾的地方副詞
+
+以 wards 結尾的地方副詞表達某個動作以特定方向移動。
+舉例
+
+    Cats don't usually walk backwards.
+    The ship sailed westwards.
+    The balloon drifted upwards.
+    We will keep walking homewards until we arrive.
+
+要注意：towards 是介系詞，而不是副詞；因此它的後面一律要接名詞或代名詞。
+舉例
+
+    He walked towards the car.
+    She ran towards me.
+
+表達動作和地點的地方副詞
+
+有些地方副詞可以同時表達動作和地點。
+舉例
+
+    The child went indoors.
+    He lived and worked abroad.
+    Water always flows downhill.
+    The wind pushed us sideways.
+
+===========
+
+時間副詞
+
+時間副詞會透露某個動作發生的時間、持續多久、頻率多寡。
+測驗您的知識
+透露何時發生的副詞
+
+這類時間副詞一般會放在句尾。
+舉例
+
+    Goldilocks went to the Bears' house yesterday.
+    I'm going to tidy my room tomorrow.
+    I saw Sally today.
+    I will call you later.
+    I have to leave now.
+    I saw that movie last year.
+
+把這類時間副詞放在句尾，屬於中立的作法；但這些副詞也可以放在其他位置，只是強調的事情會不太一樣。如果把這類副詞放在句首，則是強調時間的要素。在正式書寫上，有些時間副詞也可以放在主要動詞前，而其他時間副詞則不能放在這個位置。
+舉例
+
+    Later Goldilocks ate some porridge.（時間很重要）
+    Goldilocks later ate some porridge.（這種寫法較正式，類似警察做的筆錄）
+    Goldilocks ate some porridge later.（中立的寫法，沒有特別強調哪個字）
+
+透露持續時間的副詞
+
+這類副詞通常會放在句尾。
+舉例
+
+    She stayed in the Bears' house all day.
+    My mother lived in France for a year.
+    I have been going to this school since 1996.
+
+在這類副詞片語中，for 的後面一律接一段時間；而 since 後面一律接一個時間點。
+舉例
+
+    I stayed in Switzerland for three days.
+    I am going on vacation for a week.
+    I have been riding horses for several years.
+    The French monarchy lasted for several centuries.
+    I have not seen you since Monday.
+    Jim has been working here since 1997.
+    There has not been a more exciting discovery since last century.
+
+透露頻率多寡的副詞
+
+這類副詞透露某個動作發生的頻率，一般放在主要動詞前，或是助動詞（如 be、have、may、must 等）之後。唯一的例外，就是當主要動詞為 Be 動詞時，副詞才會接在主要動詞後。
+舉例
+
+    I often eat vegetarian food.
+    He never drinks milk.
+    You must always fasten your seat belt.
+    I am seldom late.
+    He rarely lies.
+
+這類副詞有些可放在句首或句尾，有些則不行。當這些副詞被放在句首或句尾時，副詞的意思就會顯得更強烈。
+可用於兩種位置的副詞 	意思顯得較強烈的位置 	意思顯得較弱的位置
+frequently 	I visit France frequently. 	I frequently visit France.
+generally 	Generally, I don't like spicy foods. 	I generally don't like spicy foods.
+normally 	I listen to classical music normally. 	I normally listen to classical music.
+occasionally 	I go to the opera occasionally. 	I occasionally go to the opera.
+often 	Often, I jog in the morning. 	I often jog in the morning.
+regularly 	I come to this museum regularly. 	I regularly come to this museum.
+sometimes 	I get up very early sometimes. 	I sometimes get up very early.
+usually 	I enjoy being with children usually. 	I usually enjoy being with children.
+
+有些頻率副詞則表達動作發生的確切次數，這些副詞通常會放在句尾。
+舉例
+
+    This magazine is published monthly.
+    He visits his mother once a week.
+    I work five days a week.
+    I saw the movie seven times.
+
+yet 的用法
+
+yet 用在問句或否定句，放在 not 的後面，則表示某件事尚未發生；而放在問句的句尾，則是詢問某件可能還沒發生、卻期待發生的事。
+舉例
+
+    Have you finished your work yet? (= 單純詢問資訊)
+    No, not yet. (= 單純否定答句)
+    They haven't met him yet. (= 單純否定陳述句)
+    Haven't you finished yet? (= 表達驚訝)
+
+still 的用法
+
+still 表達的是持續性。在肯定句中，still 會放在主要動詞前，或是 be、have、might、will 等助動詞後。但如果主要動詞是 Be 動詞，則將 still 放在助動詞後。在問句中，still 就要放在主要動詞前。
+舉例
+
+    She is still waiting for you.
+    Jim might still want some.
+    Do you still work for the BBC?
+    Are you still here?
+    I am still hungry.
+
+時間副詞的順序
+
+如果要在一個句子中使用多個時間副詞，就使用此順序：
+
+1: 多久 2: 頻率 3: 何時
+舉例
+
+    1 + 2 : I work (1) for five hours (2) every day
+    2 + 3 : The magazine was published (2) weekly (3) last year.
+    1 + 3 : I was abroad (1) for two months (3) last year.
+    1 + 2 + 3 : She worked in a hospital (1) for two days (2) every week (3) last year.
+
+=========
+
+情狀副詞
+
+Adverbs of manner tell us how something happens. They are usually placed either after the main verb or after the object.
+測驗您的知識
+
+情狀副詞透露某件事是如何發生的，一般會放在主要動詞或受詞後。
+舉例
+
+    He swims well.
+    He ran quickly.
+    She spoke softly.
+    James coughed loudly to attract her attention.
+    He plays the flute beautifully.（在直接受詞後）
+    He ate the chocolate cake greedily.（在直接受詞後）
+
+情狀副詞並不能放在動詞和直接受詞之間，必須放在動詞前或句尾。
+舉例
+
+    He ate greedily the chocolate cake. [不正確]
+    He ate the chocolate cake greedily. [正確]
+    He greedily ate the chocolate cake. [正確]
+    He gave us generously the money. [不正確]
+    He gave us the money generously. [正確]
+    He generously gave us the money. [正確]
+
+如果動詞的受格前有個介系詞，就要將情狀副詞放在介系詞前或受詞後。
+舉例
+
+    The child ran happily towards his mother.
+    The child ran towards his mother happily.
+
+如果動詞沒有受詞（不及物動詞），情狀副詞就一律應緊接在動詞之後。
+舉例
+
+    The town grew quickly after 1997.
+    He waited patiently for his mother to arrive.
+
+這些常見的情狀副詞 well、badly、hard、fast 幾乎都是緊接在動詞後。
+舉例
+
+    He swam well despite being tired.
+    The rain fell hard during the storm.
+
+當句中有多個動詞，副詞的位置就會變得很重要。如果副詞放在主要動詞前或後，就只會修飾那個動詞。如果副詞放在語句後，則會修飾該語句描述的整個動作。從以下例句中，您會發現意思的差異。
+例句 	意思
+She quickly agreed to re-type the letter. 	迅速地同意
+She agreed quickly to re-type the letter. 	迅速地同意
+She agreed to re-type the letter quickly. 	迅速地重新打
+He quietly asked me to leave the house. 	安靜地詢問
+He asked me quietly to leave the house. 	安靜地詢問
+He asked me to leave the house quietly. 	安靜地離開
+文學上的用法
+
+有時候情狀副詞會放在動詞 + 受詞之前，增添強調的意味。
+舉例
+
+    He gently woke the sleeping woman.
+    She angrily slammed the door.
+
+有些作家會把情狀副詞放在句首，引起我們的注意或好奇。
+舉例
+
+    Slowly she picked up the knife.
+    Roughly he grabbed her arm.
+
+
+========
+
+程度副詞
+
+程度副詞透露動詞、形容詞或另一個副詞的強度或程度；通常放在其修飾的字詞前，不過底下還會再探討幾個例外情況。
+測驗您的知識
+程度副詞 	修飾 	舉例
+extremely 	形容詞 	The water was extremely cold.
+quite 	形容詞 	The movie is quite interesting.
+just 	動詞 	He was just leaving.
+almost 	動詞 	She has almost finished.
+very 	副詞 	She is running very fast.
+too 	副詞 	You are walking too slowly.
+enough 	副詞 	You are running fast enough.
+enough 的用法
+
+enough 可用作副詞，也可以用作限定詞。
+用作副詞的 enough
+
+有「某程度必要性」之意的副詞 enough， 會放在其修飾的形容詞或副詞後，而不是像其他副詞一樣放在前面。enough 可以用在肯定句和否定句。
+
+    Is your coffee hot enough?
+    This box isn't big enough.
+    He didn't work hard enough.
+    I got here early enough.
+
+enough 後面通常會接 to + 不定詞。
+舉例
+
+    He didn't work hard enough to pass the exam.
+    Is your coffee hot enough to drink?
+    She's not old enough to get married.
+    I got here early enough to sign up.
+
+enough 後面也可以接 for + 某人或 for + 某物。
+舉例
+
+    The dress was big enough for me.
+    She's not experienced enough for this job.
+    Is the coffee hot enough for you?
+    He didn't work hard enough for a promotion.
+
+用作限定詞的 enough
+
+有「足夠」之意的限定詞 enough 會放在其修飾的名詞前面；與可數名詞複數或不可數名詞連用。
+舉例
+
+    We have enough bread.
+    You have enough children.
+    They don't have enough food.
+    I don't have enough apples.
+
+too 的用法
+
+too 向來都是個副詞，但它具有兩個截然不同的意思，每個都有特定的用法。
+意指「也」的 too
+
+有「也」之意的副詞 too 會放在其修飾的片語後。
+舉例
+
+    I would like to go swimming too, if you will let me come.
+    Can I go to the zoo too?
+    Is this gift for me too?
+    I'm not going to clean your room too!
+
+意指「過於」的 too
+
+有「過於」之意的副詞 too，會放在其修飾的形容詞或副詞前。too 可以用在肯定句和否定句。
+舉例
+
+    This coffee is too hot.
+    He works too hard.
+    Isn't she too young?
+    I am not too short!
+
+too 後面經常接 to + 不定詞。
+舉例
+
+    The coffee was too hot to drink.
+    You're too young to have grandchildren!
+    I am not too tired to go out tonight.
+    Don't you work too hard to have any free time?
+
+too 後面也可以接 for + 某人或 for + 某物。
+舉例
+
+    The coffee was too hot for me.
+    The dress was too small for her.
+    He's not too old for this job.
+    Sally's not too slow for our team.
+
+very 的用法
+
+very 會放在副詞或形容詞之前，用來加強意思。
+舉例
+
+    The girl was very beautiful.
+    The house is very expensive.
+    He worked very quickly.
+    She runs very fast.
+
+如果想表達形容詞或副詞的相反意思，有幾種方式：可以在動詞加上 not，若要委婉、更有禮貌的說法則是用 not very，或者乾脆用反義的形容詞或副詞來表達。這幾種說法都可以表達否定或反義，但意思上不盡相同。
+舉例
+原始說法 	以 not 表達相反的意思 	以 not very 表達相反的意思 	以反義字表達相反的意思
+The girl was beautiful. 	The girl was not beautiful. 	The girl was not very beautiful. 	The girl was ugly.
+He worked quickly. 	He did not work quickly. 	He did not work very quickly. 	He worked slowly.
+very 和 too 在意思上的不同
+
+too 和 very 之間的意思有很大的不同；very 表達的是事實，也是個人可接受的範圍；而 too 則是透露某件事有問題，超出個人可接受的範圍。
+舉例
+
+    He speaks very quickly.
+    He speaks too quickly for me to understand.
+    It is very hot outside.
+    It is too hot outside to go for a walk.
+
+類似 very 的其他副詞
+
+有些常見的副詞跟 very 的用法類似，用來加強形容詞和副詞的程度。
+表達非常強烈的感覺 	表達強烈的感覺 	表達有點含糊的感覺
+extremely, terribly, amazingly, wonderfully, insanely 	especially, particularly, uncommonly, unusually, remarkably, quite 	pretty, rather, fairly, not especially, not particularly
+The movie was amazingly interesting. 	The movie was particularly interesting. 	The movie was fairly interesting.
+She sang wonderfully well. 	She sang unusually well. 	She sang pretty well.
+The lecture was terribly boring. 	The lecture was quite boring. 	The lecture was rather boring.
+帶有否定副詞的倒裝句
+
+一般主詞都會在動詞之前，但有些否定副詞放在句首時，就會造成倒裝。在此情況下字序會相反，且動詞會出現在主詞前。倒裝句一般用在書面上，口語上不太會這樣用。
+副詞 	一般字序 	倒裝
+Never 	I have never seen such courage. 	Never have I seen such courage.
+Rarely 	She rarely left the house. 	Rarely did she leave the house.
+Not only 	She did not only the cooking but the cleaning as well. 	Not only did she do the cooking, but the cleaning as well.
+Scarcely 	I scarcely closed the door before he started talking. 	Scarcely did I close the door before he started talking.
+Seldom 	We seldom cross the river after sunset. 	Seldom do we cross the river sunset.
+
+==========
+
+確定性副詞
+
+確定性副詞會透露講話者對某件事的確信度。確定性副詞會出現在主要動詞前，但如果主要動詞是 Be 動詞時則放在後面。這類副詞有 certainly、definitely、probably、undoubtedly、surely 等。
+測驗您的知識
+舉例
+
+    He definitely left the house this morning.
+    He surely won't forget.
+    He is probably in the park.
+    He is certainly a smart man.
+
+如果有助動詞，確定性副詞就會放在助動詞和主要動詞之間。
+舉例
+
+    He has certainly forgotten the meeting.
+    He will probably remember tomorrow.
+    He is definitely running late.
+
+有時這類副詞也可以放在句首。
+舉例
+
+    Undoubtedly, Winston Churchill was a great politician.
+    Certainly, I will be there.
+    Probably, he has forgotten the meeting.
+
+當確定性副詞 surely 放在句首，就表示講話者認定某件事是真實的，但期望得到確認。
+舉例
+
+    Surely you've got a bicycle.
+    Surely you're not going to wear that to the party.
+
+
+=========
+
+觀點副詞和評論性副詞
+
+有些副詞和副詞片語會表達講話者對某件事的觀點，或對某件事做評論。這類副詞和其他副詞不同之處，在於它不會告訴我們某件事是如何發生的。評論性副詞和觀點副詞修飾的是整個句子，而不是單修飾動詞、副詞或形容詞。評論性副詞和觀點副詞之間並沒有實質的差別，只有在句中的位置不同而已。許多觀點副詞也可以用作評論性副詞；然而在某些情況下，副詞的性質會更偏向其中一種。
+句中的位置
+
+觀點副詞會放在句首，只有在少數情況下會放在句尾，通常會以一個逗號來與其餘句子隔開。評論性副詞則是放在主要動詞前，但如果動詞是 Be 動詞，副詞則會放在動詞前或後。在少數情況下，主要動詞前的評論性副詞會用逗號來與其餘句子隔開。在以下的例句中，觀點副詞和評論性副詞在句中的位置都是正確的。如果副詞在句中的位置很不尋常、不自然，或在口語上過於文鄒鄒，就會標上星號。
+觀點副詞或評論性副詞 	在句首 	在主要動詞後 	在句尾
+clearly 	Clearly, he doesn't know what he is doing. 	He clearly doesn't know what he is doing. 	He doesn't know what he is doing, clearly.
+obviously 	Obviously, you are acting silly. 	You are obviously acting silly 	You are acting silly, obviously.
+personally 	Personally, I'd rather go by train. 	I'd personally rather go by train. 	I'd rather go by train, personally.
+presumably 	Presumably, he didn't have time to go to the post office. 	He presumably didn't have time to go to the post office. 	He didn't have time to go to the post office, presumably.
+seriously 	Seriously, I can't give this speech. 	I seriously can't give this speech. 	I can't give this speech, seriously.
+surely 	Surely you tried to get here on time. 	You surely tried to get here on time. 	You tried to get here on time, surely.
+technically 	Technically, we cannot fly to Mars and back. 	We technically cannot fly to Mars and back. 	We cannot fly to Mars and back, technically.
+undoubtedly 	Undoubtedly, he has a good reason not to come. 	He undoubtedly has a good reason not to come. 	He has a good reason not to come, undoubtedly.
+bravely 	Bravely, I kept on walking. 	I bravely kept on walking. 	*I kept on walking, bravely.
+carelessly 	Carelessly, she threw her book into the pond. 	She carelessly threw her book into the pond. 	*She threw her book into the pond, carelessly.
+certainly 	Certainly you should be there. 	You certainly should be there. / You should certainly be there. 	You should be there, certainly.
+cleverly 	Cleverly, Sally hid the jellybeans. 	Sally cleverly hid the jellybeans. 	*Sally hid the jellybeans, cleverly.
+definitely 	*Definitely, you are smart. 	You defintely are smart. / You are definitely smart. 	*You are smart, definitely.
+foolishly 	Foolishly, they cried out. 	They foolishly cried out. 	They cried out, foolishly.
+generously 	Generously, he donated the money. 	He generously donated the money. 	*He donated the money, generously.
+stupidly 	Stupidly, they played in the street. 	They stupidly played in the street. 	*They played in the street, stupidly.
+obviously 	Obviously, we are lost. 	We are obviously lost. / *We obviously are lost. 	We are lost, obviously.
+kindly 	Kindly, she fed the cat first. 	She kindly fed the cat first. 	She fed the cat first, kindly.
+luckily 	Luckily, you got here on time. 	You luckily got here on time. 	You got here on time, luckily.
+fortunately 	Fortunately, we found the boat. 	We fortunately found the boat. 	We found the boat, fortunately.
+naturally 	Naturally, you cannot be in the circus now. 	You naturally cannot be in the circus now. 	You cannot be in the circus now, naturally.
+wisely 	Wisely, she stayed home to take a nap. 	She wisely stayed home to take a nap. 	She stayed home to take a nap, wisely.
+confidentially 	Confidentially, I never gave him the envelope. 	  	I never gave him the envelope, confidentially.
+theoretically 	Theoretically, we could send astronauts to Mars. 	We could theoretically send astronauts to Mars. / We theoretically could send astronauts to Mars. 	We could send astronauts to Mars, theoretically.
+truthfully 	Truthfully, I don't like chocolate much. 	I truthfully don't like chocolate much. 	I don't like chocolate much, truthfully.
+disappointingly 	Disappointingly, she got fourth place. 	She disappointingly got fourth place. 	She got fourth place, disappointingly.
+thoughtfully 	Thoughtfully, I turned away. 	I thoughtfully turned away. 	I turned away, thoughtfully.
+simply 	*Simply, I don't want to come. 	I simply don't want to come. 	 
+unbelievably 	Unbelievably, she showed up late again. 	She unbelievably showed up late again. 	She showed up late again, unbelievably.
+unfortunately 	Unfortunately, there is no more room. 	There is unfortunately no more room. / There unfortunately is no more room. 	There is no more room, unfortunately.
+
+=========
+
+關係副詞
+
+關係副詞 where、when 和 why 可以放在句中，也可以加在子句。在正式書寫上，一般會用到「介系詞 + which」的句型，用關係副詞則是較普遍的用法。
+引導關係子句的「介系詞 + which」結構，較正式 	使用關係副詞的結構，較為普遍
+That's the restaurant in which we met for the first time. 	That's the restaurant where we met for the first time.
+That picture was taken in the park at which I used to play. 	That picture was taken in the park where I used to play.
+I remember the day on which we first met. 	I remember the day when we first met.
+There was a very hot summer the year in which he was born. 	There was a very hot summer the year when he was born.
+Tell me the reason for which you came home late. 	Tell me (the reason) why you came home late.
+Do you want to know the reason for which he is angry with Sally? 	Do you want to know (the reason) why he is angry with Sally?
+
+======
+
+疑問副詞
+
+疑問副詞 why、where、how、when 等，會放在句首。這些問句的回答可以是完整的句子，也可以只用介詞片語回答。在疑問副詞形成的問句上，必須將主詞和動詞的位置互調，也就是說動詞會先出現。
+舉例
+
+    Why are you so late? There was a lot of traffic.
+    Where is my passport? In the drawer.
+    How are you? I'm fine.
+    When does the train arrive? At 11:15.
+
+how 的使用
+
+用 how 形成問句的方法有四種；而單獨用 how 則是意指「以何種方式」。
+舉例
+
+    How did you make this sauce?
+    How do you start the car?
+    How can I get to your house?
+
+how 可以和形容詞連用來詢問某個特性的程度。
+舉例
+
+    How tall are you?
+    How old is your house?
+    How angry is mother?
+
+how 可以和 much 或 many 連用來詢問數量。much 後面接的是不可數名詞，而 many 接的是可數名詞。
+舉例
+
+    How many people are coming to the party?
+    How much flour do I need?
+    How much are these tomatoes?
+
+how 可以和其他副詞連用來詢問某個動作的頻率或程度。
+舉例
+
+    How quickly can you read this?
+    How often do you go to London?
+    How loudly does your brother scream?
+
+
+--------------
+
+限定詞
+
+限定詞置於名詞之前，作用在於限定名詞的意涵。以下這幾頁的內容會幫助您正確使用限定詞。
+英語中的限定詞
+
+    定冠詞 : the
+    不定冠詞 : a, an
+    指示詞 : this, that, these, those
+    代名詞和物主限定詞 : my, your, his, her, its, our, their
+    量詞 : a few, a little, much, many, a lot of, most, some, any, enough
+    數字 : one, ten, thirty
+    個別詞 : all, both, half, either, neither, each, every
+    區別詞 : other, another
+    前置限定詞 : such, what, rather, quite
+
+==============
+
+定冠詞
+
+the 這個字是英語中極為常見的字，也是唯一的定冠詞。當發言者認為對方已經知道他指的是什麼，就會在名詞前加定冠詞。至於用定冠詞的時機有很多，以下為您列舉幾種：
+測驗您的知識
+何時要用 the
+基本規則
+
+如果先前已提過某件事物，後面要再提及時，就在前面加 the，以表示限定某物。
+舉例
+
+    On Monday, an unarmed man stole $1,000 from the bank. The thief hasn't been caught yet.
+    I was walking past Benny's Bakery when I decided to go into the bakery to get some bread.
+    There's a position available in my team. The job will involve some international travel.
+
+在假定某物只有某個地方才有時，縱使前面完全沒提過，還是可以在名詞前加 the，因為對方一聽就知道指的是何物。
+舉例
+
+    We went on a walk in the forest yesterday.
+    Where is the bathroom?
+    Turn left and go to number 45. Our house is across from the Italian restaurant.
+    My father enjoyed the book you gave him.
+
+若句中有特別限定或確定某物，就用 the。
+舉例
+
+    The man who wrote this book is famous.
+    I scratched the red car parked outside.
+    I live in the small house with a blue door.
+    He is the doctor I came to see.
+
+用 the 來指獨一無二的人或物。
+舉例
+
+    The sun rose at 6:17 this morning.
+    You can go anywhere in the world.
+    Clouds drifted across the sky.
+    The president will be speaking on TV tonight.
+    The CEO of Total is coming to our meeting.
+
+在形容詞最高級和序數前用 the。
+舉例
+
+    This is the highest building in New York.
+    She read the last chapter of her new book first.
+    You are the tallest person in our class.
+    This is the third time I have called you today.
+
+在形容詞前用 the 來指整個群體。
+舉例
+
+    The French enjoy cheese.
+    The elderly require special attention.
+    She has given a lot of money to the poor.
+
+在年代前用 the 。
+舉例
+
+    He was born in the seventies.
+    This is a painting from the 1820's.
+
+若子句是由 only 引導，則在前面加 the。
+舉例
+
+    This is the only day we've had sunshine all week.
+    You are the only person he will listen to.
+    The only tea I like is black tea.
+
+專有名詞
+
+在區域、河流、山區、群島、峽谷和海洋等地理名詞前用 the 。
+舉例
+
+    They are travelling in the Arctic.
+    Our ship crossed the Atlantic in 7 days.
+    I will go on a cruise down the Nile.
+    Hiking across the Rocky Mountains would be difficult.
+
+在有複數形的國名前用 the 。
+舉例
+
+    I have never been to the Netherlands.
+    Do you know anyone who lives in the Philippines?
+
+在含有 republic、kingdom、states 的國名前用 the。
+舉例
+
+    She is visiting the United States.
+    James is from the Republic of Ireland.
+
+在報刊名稱前用 the。
+舉例
+
+    I read it in the Guardian.
+    She works for the New York Times.
+
+在知名建築物、藝術作品、博物館、紀念碑前用 the 。
+舉例
+
+    Have you been to the Vietnam Memorial?
+    We went to the Louvre and saw the Mona Lisa.
+    I would like to visit the Eiffel Tower.
+    I saw King Lear at the Globe.
+
+在飯店和餐廳名稱前用 the，但如果是以人名來命名，就不加。
+舉例
+
+    They are staying at the Hilton on 6th street.
+    We ate at the Golden Lion.
+
+在家族姓氏前用 the，但單指一個人的名字則不加。
+舉例
+
+    We're having dinner with the Smiths tonight.
+    The Browns are going to the play with us.
+
+何時不用 the
+
+除了上述幾個國家，其他國名則不用 the。
+舉例
+
+    Germany is an important economic power.
+    He's just returned from Zimbabwe.
+
+語言名稱前不用 the 。
+舉例
+
+    French is spoken in Tahiti.
+    English uses many words of Latin origin.
+    Indonesian is a relatively new language.
+
+三餐名稱前面不用加 the 。
+舉例
+
+    Lunch is my favorite meal.
+    I like to eat breakfast early.
+
+在人名前不用加 the。
+舉例
+
+    John is coming over later.
+    Mary Carpenter is my boss.
+
+當稱謂或職稱與名字連用時，就不用加 the。
+舉例
+
+    Prince Charles is Queen Elizabeth's son.
+    President Kennedy was assassinated in Dallas.
+
+在有 's 的所有格後面不用加 the。
+舉例
+
+    His brother's car was stolen.
+    Peter's house is over there.
+
+職業或專業名稱前不用加 the。
+舉例
+
+    Engineering is a well-paid career.
+    He'll probably study medicine.
+
+在店家名稱前不用加 the。
+舉例
+
+    I'll get the card at Smith's.
+    Can you go to Boots for me?
+
+在年份前不用加 the。
+舉例
+
+    1948 was a wonderful year.
+    He was born in 1995.
+
+在不可數名詞前不用加 the。
+舉例
+
+    Rice is an important food in Asia.
+    Milk is often added to tea in England.
+    War is destructive.
+
+在獨立的山、湖、島嶼等名稱前不用加 the。
+舉例
+
+    Mount McKinley is the highest mountain in Alaska.
+    She lives near Lake Windermere.
+    Have you visited Long Island?
+
+在市鎮、街道、車站、機場等名稱前，大多數都不用加 the。
+舉例
+
+    Victoria Station is in the centre of London.
+    Can you direct me to Bond Street?
+    She lives in Florence.
+    They're flying into Heathrow.
+
+===========
+
+不定冠詞
+
+不定冠詞有兩個：a 和 an 。不定冠詞就跟其他冠詞一樣，沒有型態上的變化。至於要選用哪一個不定冠詞，要取決於名詞第一個字母或第一個音節的發音。當名詞是子音開頭，或是以 u 或 eu 開頭（發音上接近「you」），就用 a；而當名詞是以母音開頭，或是以不發音的 h 開頭，則用 an。
+測驗您的知識
+舉例
+
+    a boy
+    an apple
+    a car
+    a helicopter
+    an elephant
+    a big elephant
+    an itchy sweater
+    an ugly duck
+    a european
+    a university
+    a unit
+    an hour
+    an honor
+
+初次提及某物時，會在名詞前用不定冠詞。有時特指群體中的一個成員時，也會用不定冠詞。以下提供幾個使用的時機和例句：
+
+第一次提及某物時，用不定冠詞。
+舉例
+
+    Would you like a drink?
+    I've finally got a good job.
+    An elephant and a mouse fell in love.
+
+特指群體的某個成員
+
+在職業名前加不定冠詞。
+舉例
+
+    John is a doctor.
+    Mary is training to be an engineer.
+    He wants to be a dancer.
+
+在單數的國籍或宗教名稱前加不定冠詞。
+舉例
+
+    John is an Englishman.
+    Kate is a Catholic.
+
+如果沒有特指任何一週的某個日子時，就在那個日子前用不定冠詞。
+舉例
+
+    I was born on a Thursday.
+    Could I come over on a Saturday sometime?
+
+用不定冠詞指某件事的例子。
+舉例
+
+    The mouse had a tiny nose .
+    The elephant had a long trunk .
+    It was a very strange car .
+
+在 what 和 such 後的單數名詞前用不定冠詞。
+舉例
+
+    What a shame !
+    She's such a beautiful girl .
+    What a lovely day !
+
+在指單個人或物或者單個測量單位時，就用 a 來表示「一個」。在這些句子中，a 並不是不定冠詞，但在文法上是正確的。這種用法強調了數量，也表達數字間的對比。
+舉例
+
+    I'd like an orange and two lemons please.
+    I'd like one orange and two lemons please.
+    The burglar took a diamond necklace and some valuable paintings.
+    I can think of a hundred reasons not to come.
+    I need a kilogram of sugar.
+    I need one kilogram of sugar.
+    You can't run a mile in 5 minutes!
+
+==========
+
+指示詞
+
+Demonstratives show where an object, event, or person is in relation to the speaker. They can refer to a physical or a psychological closeness or distance. When talking about events, the near demonstratives are often used to refer to the present while the far demonstratives often refer to the past.
+測驗您的知識
+
+指示詞表達某物與說話者之間的關係，可以表達實際上或心理上的遠或近。當談到某些事物時，近指地點指示詞（如 here）常用來指目前的事物，而遠指地點指示詞（如 there）常用來指過去的事物。
+  	距離說話者近 	距離說話者遠
+副詞 	Here 	There
+與單數名詞和不可數名詞連用的指示詞 	This 	That
+與複數可數名詞連用的指示詞 	These 	Those
+指示詞的用法
+舉例
+距離說話者近 	距離說話者遠
+Is this John's house? 	Is that John's house over there?
+This is a nice surprise! 	That must have been a nice surprise for you.
+These apples are mine. 	Those apples are yours.
+What are you up to these days? 	Those days are long gone.
+This time I won't be late. 	We really surprised you that time.
+This sugar is for my crepes. 	You can use that sugar for your cake.
+在句中的位置
+
+指示詞可以放在名詞前，或是放在修飾名詞的形容詞前。
+舉例
+
+    This blue car needs to be washed next.
+    Those people were here first.
+    That metal rod should work.
+    These oranges are delicious.
+
+如果在語境中已經確知名詞為何，就可以直接在數字前加指示詞。
+舉例
+
+    I'd like to try on that one.
+    This one is broken.
+    I'll take these three.
+    Those two are not as pretty as these two.
+
+如果已經確知指示詞修飾的名詞為何，則可以單獨使用，省略名詞。
+舉例
+
+    I'll never forget this.
+    That has nothing to do with me.
+    I didn't ask for these.
+    Those aren't mine.
+
+================
+
+量詞
+
+量詞是形容詞，也是片語的一種，它會對「How much」、「How many」等問句給予粗略或具體的答案。在以下幾個頁面中，您會進一步認識不同的量詞，還有各種量詞的用法。
+
+英語中的數字
+
+基數（one、two、three.. 等）是論數量的形容詞，而序數（first、second、third.. 等）則是論分配。
+測驗您的知識
+數字 	基數 	序數
+1 	one 	first
+2 	two 	second
+3 	three 	third
+4 	four 	fourth
+5 	five 	fifth
+6 	six 	sixth
+7 	seven 	seventh
+8 	eight 	eighth
+9 	nine 	ninth
+10 	ten 	tenth
+11 	eleven 	eleventh
+12 	twelve 	twelfth
+13 	thirteen 	thirteenth
+14 	fourteen 	fourteenth
+15 	fifteen 	fifteenth
+16 	sixteen 	sixteenth
+17 	seventeen 	seventeenth
+18 	eighteen 	eighteenth
+19 	nineteen 	nineteenth
+20 	twenty 	twentieth
+21 	twenty-one 	twenty-first
+22 	twenty-two 	twenty-second
+23 	twenty-three 	twenty-third
+24 	twenty-four 	twenty-fourth
+25 	twenty-five 	twenty-fifth
+26 	twenty-six 	twenty-sixth
+27 	twenty-seven 	twenty-seventh
+28 	twenty-eight 	twenty-eighth
+29 	twenty-nine 	twenty-ninth
+30 	thirty 	thirtieth
+31 	thirty-one 	thirty-first
+40 	forty 	fortieth
+50 	fifty 	fiftieth
+60 	sixty 	sixtieth
+70 	seventy 	seventieth
+80 	eighty 	eightieth
+90 	ninety 	ninetieth
+100 	one hundred 	hundredth
+500 	five hundred 	five hundredth
+1,000 	one thousand 	thousandth
+1,500 	one thousand five hundred, or fifteen hundred 	one thousand five hundredth
+100,000 	one hundred thousand 	hundred thousandth
+1,000,000 	one million 	millionth
+舉例
+
+    There are twenty-five people in the room.
+    He was the fourteenth person to win the award.
+    Six hundred thousand people were left homeless after the earthquake.
+    I must have asked you twenty times to be quiet.
+    He went to Israel for the third time this year.
+
+小數的讀法
+
+小數點的英文是「point」，先讀 point，再個別讀每個小數的數字。但金額並不是這樣的讀法。
+寫法 	讀法
+0.5 	point five
+0.25 	point two five
+
+0.73
+	point seven three
+
+0.05
+	point zero five
+
+0.6529
+	point six five two nine
+
+2.95
+	two point nine five
+分數的讀法
+
+分數的讀法，是先用基數來讀出分子，再用序數來讀出分母。如果分子大於一，序數則是複數。這種讀法可以用在所有分數上，但除了數字 2，當分母為 2 時，則讀作「half」；而如果其分子大於 1，分母則變成複數「halves」。
+寫法 	讀法
+1/3 	one third
+3/4 	three fourths
+5/6 	five sixths
+1/2 	one half
+3/2 	three halves
+百分比的讀法
+
+要用英語讀百分比很簡單，只要先唸數字在加上「percent」這個字即可。
+寫法 	讀法
+5% 	five percent
+25% 	twenty-five percent
+36.25% 	thirty-six point two five percent
+100% 	one hundred percent
+400% 	four hundred percent
+金額的讀法
+
+若要用英語唸出金額，首先要先讀整個數字，再加上貨幣的名稱即可。但如果金額帶有小數，則在唸出整數部分後，再將小數點後的數字以整數方式唸出。如果幣制在貨幣單位上另有名稱，則在最後加上那個字。
+寫法 	讀法
+25$ 	twenty-five dollars
+52€ 	fifty-two euros
+140₤ 	one hundred and forty pounds
+$43.25 	forty-three dollars and twenty-five cents（在日常口語上會縮減為「forty-three twenty-five」）
+€12.66 	twelve euros sixty-six
+₤10.50 	ten pounds fifty
+測量單位的讀法
+
+先唸出數字，再唸測量單位的名稱。通常測量單位在書寫上會用縮寫來表示。
+寫法 	讀法
+60m 	sixty meters
+25km/h 	twenty-five kilometers per hour
+11ft 	eleven feet
+2L 	two liters
+3tbsp 	three tablespoons
+1tsp 	one teaspoon
+年份的讀法
+
+英語中的年份讀法相當複雜。一般來說，當年份有四位數時，先將前面兩位數以整數方式來唸，後面兩位數則另外以整數方式來唸。但在這個規則有少數的例外；在西元兩千年的前一百年內，即使年份也帶有四個數字，但可以用整數方式來唸，或者以一般「兩位數兩位數」的方式來唸。西元一千年則一律以整數方式來唸，否則發音會拗口。西元世紀則以一百年為單位來唸。在兩千年以前的世紀，都不會用到 thousand 這個字。
+
+有三位數的年份可以用一般數字的方式唸出，或者先唸第一個數字，再把後面兩個數字當整數來唸。而有二位數的年份則以整數來讀。為了要確切表達您的意思，可以在任何年份前面加 the year，這種方法對二位數和三位數的年份尤其常見。 而在西元前的年份則在數字後加 BC，讀音就如字母發音一樣。
+
+有趣的是，這些規則也運用在地址中的數字上。
+寫法 	讀法
+2014 	twenty fourteen or two thousand fourteen
+2008 	two thousand eight
+2000 	two thousand
+1944 	nineteen forty-four
+1908 	nineteen o eight
+1900 	nineteen hundred
+1600 	sixteen hundred
+1256 	twelve fifty-six
+1006 	ten o six
+866 	eight hundred sixty-six or eight sixty-six
+25 	twenty-five
+3000 BC 	three thousand BC
+3250 BC 	thirty two fifty BC
+0 的讀法
+
+數字 0 在不同情況會有不同讀法。麻煩的是，同樣是英語系國家，但每個國家會有不同的使用情況。這些讀音運用於美式英語上。
+讀音 	使用的情況
+zero 	用來讀數字、讀小數、百分比、手機號碼以及某些固定用語上。
+o （字母名稱） 	用在讀年份、地址、時間以及溫度
+nil 	用在報導體育比賽分數
+nought 	在美國不使用
+舉例
+寫法 	讀法
+3.04+2.02=5.06 	Three point zero four plus two point zero two makes five point zero six.
+There is a 0% chance of rain. 	There is a zero percent chance of rain.
+The temperature is -20⁰C. 	The temperature is twenty degrees below zero.
+You can reach me at 0171 390 1062. 	You can reach me at zero one seven one, three nine zero, one zero six two
+I live at 4604 Smith Street. 	I live at forty-six o four Smith Street
+He became king in 1409. 	He became king in fourteen o nine.
+I waited until 4:05. 	I waited until four o five.
+The score was 4-0. 	The score was four nil.
+
+------------
+
+選擇正確的量詞
+
+在回答「How much」和「How many」的問句時，有些量詞必須接可數名詞（如 friends、cups、people），有些則必須接不可數名詞（如 sugar、tea、money），也有幾種不限名詞可不可數。
+測驗您的知識
+只接不可數名詞 	可接所有類型的名詞 	只接可數名詞
+a little 	no, none, not any 	a few
+a bit of 	some 	a number of
+  	any 	several
+a great deal of 	a lot of, lots of 	a great number of
+a large amount of 	plenty of 	a large number of
+舉例
+
+    Would you like some tea and a few cookies?
+    I always put a little milk and some carrots in my soup.
+    He has several apples. I don't have any fruit at all.
+    She has plenty of clothes for the winter.
+    I recieved a large amount of feedback from my survey.
+
+much 和 many 的用法
+
+much 和 many 主要用在疑問句和否定句上。在肯定句和否定句上，這些量詞也會和 too 和 so 一起連用。注意：many 這個字可以單獨用在肯定句，但 much 不能。在肯定句中，much 會被 a lot of 或 lots of 取代（這些詞也可取代 many）。
+不可數名詞 	可數名詞
+How much sugar do you have? 	How many people came to the concert?
+There's not much sugar at the store. 	Not many people came to the concert.
+I have too much sugar at home. 	There were too many people at the concert.
+I don't know what to do with so much sugar. 	It's a problem when there are so many people.
+I wish there was not so much sugar here. 	There were not so many people last year.
+There is a lot of sugar in candy. 	There are many people who want to come. = There are a lot of people who want to come.
+
+表達對數量的看法
+
+few 和 a few 以及 little 和 a little，這些量詞看似幾乎一樣，但其實兩者之間有很大的不同。無論是在肯定句還是否定句上，這些措辭都會顯示出講話的人對數量的看法。
+測驗您的知識
+積極的態度
+
+a few（用於可數名詞）和 a little（用於不可數名詞）以積極的態度來描述數量，意指說話的人在某方面雖然沒有很多，但足夠了。
+舉例
+
+    I've got a few friends. = 我還有足夠的朋友。
+    I have a few flowers in my garden. = 我還有足夠的花。
+    I've got a little money. = 我還有足夠的錢。
+    I have a little free time on Thursdays. = 我還有足夠的空閒。
+
+消極的態度
+
+few（用於可數名詞）和 little（用於不可數名詞）以消極的態度來描述數量。這些量詞實際上可能是指某件事物的缺乏，但以這種說法來表達會比較有禮貌。
+舉例
+
+    Few people visited him in hospital. = 他幾乎沒有訪客，或可能根本沒有訪客
+    I've seen few birds around here. = 那裡幾乎沒有鳥，或可能一隻鳥也沒有
+    He had little money for treats. = 幾乎沒錢，或可能根本沒有錢
+    I have little time for TV = 幾乎沒時間，或可能根本沒有時間
+
+
+不定、不完整的量
+
+當要描述一個不定或不完整的量時，可以在可數和不可數名詞前用 some 和 any。
+測驗您的知識
+some 的用法
+
+some 可以用於描述句。
+例句
+
+    I had some rice for lunch.
+    He got some books from the library.
+    I will have some news next week.
+    Philip wants some help with his exams.
+    There is some butter in the fridge.
+
+當您對問題的答案已經心裡有數，就可以在疑問句用 some。
+例句
+
+    Did he give you some tea? = 我認為他給了。
+    Is there some fruit juice in the fridge? = 我認為有。
+    Would you like some help? = 你可能想。
+    Will you have some roast beef? = 你可能要。
+
+要求對方提供某物，可以在疑問句用 some。
+例句
+
+    Could I have some books, please?
+    Why don't you take some apples home with you?
+    Would you like some tea?
+    Will you have some cake?
+
+any 的用法
+
+當不知道答案時，疑問句中會用到 any。
+例句
+
+    Do you have any friends in London?
+    Do they have any children?
+    Do you want any groceries from the shop?
+    Are there any problems with your work?
+
+any 和 not 也可以同時出現在否定句中，any 可以強調了整句的否定性，讓語氣更絕對。
+例句
+
+    She doesn't want any kitchen appliances for Christmas.
+    They don't need any help moving to their new house.
+    I don't want any cake.
+    There isn't any reason to complain.
+
+
++++++++++++
+
+分級量詞
+
+分級量詞讓我們能對兩件事的量做比較，但不會具體指出兩件事的確切數量。分級量詞後接的是名詞，而可數名詞和不可數名詞會需要用上不同的量詞。有時候，如果從語境中可以明確地知道比較的名詞是何物，則可以省略名詞。
+測驗您的知識
+
+分級量詞有比較級和最高級之分，其比較的是某個特性（形容詞）的程度，或比較做某件事情的方式（副詞）程度。分級量詞（如比較級和最高級）在增加或減少的等級上，都有相應的位置。句中最高級量詞前面一律加 the。
+量詞 	比較級 	最高級
+如果後面是複數的可數名詞
+many 	more 	most
+few 	fewer 	fewest
+如果後面是不可數名詞
+much 	more 	most
+little 	less 	least
+舉例
+
+    There are many people in England, more people in India, but the most people live in China.
+    Much time and money is spent on education, more on health services but the most is spent on national defence.
+    Few rivers in Europe are not polluted.
+    Fewer people die young now than in the seventeenth century.
+    The country with the fewest people per square kilometre must be Australia.
+    Scientists have little hope of finding a complete cure for cancer before the year 2020.
+    She had less time to study than Paul but had better results.
+    Give that dog the least opportunity and it will bite you.
+
++++++++++++
+
+不定、不完整的量
+
+當要描述一個不定或不完整的量時，可以在可數和不可數名詞前用 some 和 any。
+測驗您的知識
+some 的用法
+
+some 可以用於描述句。
+例句
+
+    I had some rice for lunch.
+    He got some books from the library.
+    I will have some news next week.
+    Philip wants some help with his exams.
+    There is some butter in the fridge.
+
+當您對問題的答案已經心裡有數，就可以在疑問句用 some。
+例句
+
+    Did he give you some tea? = 我認為他給了。
+    Is there some fruit juice in the fridge? = 我認為有。
+    Would you like some help? = 你可能想。
+    Will you have some roast beef? = 你可能要。
+
+要求對方提供某物，可以在疑問句用 some。
+例句
+
+    Could I have some books, please?
+    Why don't you take some apples home with you?
+    Would you like some tea?
+    Will you have some cake?
+
+any 的用法
+
+當不知道答案時，疑問句中會用到 any。
+例句
+
+    Do you have any friends in London?
+    Do they have any children?
+    Do you want any groceries from the shop?
+    Are there any problems with your work?
+
+any 和 not 也可以同時出現在否定句中，any 可以強調了整句的否定性，讓語氣更絕對。
+例句
+
+    She doesn't want any kitchen appliances for Christmas.
+    They don't need any help moving to their new house.
+    I don't want any cake.
+    There isn't any reason to complain.
+
++++++++++++
+
+將 enough 用作量詞
+
+enough 可以用在肯定句和否定句上。當它出現在任何名詞之前，就是個量詞。enough 表明所需或必要的量。
+測驗您的知識
+舉例
+
+    There is enough bread for lunch.
+    She has enough money.
+    There are not enough apples for all of us.
+    I don't have enough sugar to make a cake.
+
+enough 這個字也可以是程度副詞；在這樣的情況下，它就不會出現在名詞之前。
+
+++++++++++++
+
+分配詞
+測驗您的知識
+
+分配詞（分配限定詞）可以指一群人或事物，也可指群體之中的個別成員。這些限定詞會以不同方式來看待群體之中的個體，也表達某事物是如何被分配、共有或區分。
+使用個別詞
+
+    用 each 和 every 來談一個群體中的個體
+    用 all 來談一整個群體
+    用 half 來談一個被劃分的群體
+    用 both、either 和 neither 來談兩組人或事物
+
++++++++++++
+
+使用 each 和 every
+
+each 是將群體視為個體，而 every 則是將群體視為一個個的成員。這些分配詞後面只能接可數名詞，而且通常是單數名詞。在多數情況下，兩者都可以互換。
+測驗您的知識
+舉例
+
+    Each child received a present.
+    Every child received a present.
+    I gave each plant some water.
+    I gave every plant some water.
+
+each 可以接複數名詞和複數代名詞，但中間必須加 of。every 則不能接複數名詞。
+舉例
+
+    Each of the children received a present.
+    I gave each of the plants some water.
+    He told each of us our jobs.
+    I gave each of them a kiss.
+
+every 可以表達連續的事物，尤其常用於表達時間。each 也有這樣的用法，但較不常見。
+舉例
+
+    Every morning John goes jogging.
+    This magazine is published every week.
+    I have my coffee here every day.
+    I go visit my mother each week.
+    Each Monday, he buys a kilo of apples.
+
+++++++++++++++
+
+將 all 用為分配詞
+
+分配限定詞 all 談的是一整個群體，特別強調沒有任何事物被排除在外。all 用於分配詞的形式有很多種。
+
+all 可以接不可數名詞和可數名詞；在這種用法上，all 是以群體的概念來論及事物，而非指獨立的個體。
+舉例
+
+    All cheese contains protein.
+    I like all dogs.
+    All children need affection.
+    This soap is for all purposes.
+
+all 可以接有定冠詞 the 為首的不可數名詞和可數名詞複數，或接所有格代名詞。在這種情況下，它論及的是一個具體、實質的群體，而不是指概念上的群體。在這樣的用法上，of 可以緊接在 all 後，意思並不會改變。
+舉例
+
+    All the people in the room were silent.
+    All of the birds flew away.
+    Have you eaten all the bread?
+    I will need all of the sugar.
+    I've invited all my friends to the party.
+    I've used up all of our eggs.
+    You wasted all your time.
+
+all 可以接 of + 代名詞複數形。
+舉例
+
+    All of us are going.
+    He scolded all of you.
+    Did you find all of them?
+
+all 可以用於問句和感嘆句，後面接單數指定代名詞 this 或 that + 可數名詞。在這樣的用法上，of 可以緊接在 all 後，意思並不會改變。
+舉例
+
+    Who has left all this paper on my desk?
+    Look at all this snow!
+    Why is all of that sugar on the floor?
+    Where did all of this confetti come from?
+
+all 可以用於問句和感嘆句，後面接複數指定代名詞 these 或 those + 可數名詞。在這樣的用法上，of 可以緊接在 all 後，意思並不會改變。
+舉例
+
+    Look at all those balloons!
+    Where did all of those books come from?
+    Why are all these children crying?
+
+++++++++++++
+
+將 half 用作分配詞
+
+分配限定詞 half 用來談論一個劃分為二的群體，在用作分配詞的形式有很多種。其它部分也可以用於相同的形式，只是較為少見。
+
+half 後可以接不定冠詞（a 或 an）為首的測量單位，在這種用法上，分配限定詞為一種測量法。
+舉例
+
+    I had half a cup of milk left.
+    I bought half a kilo of flour.
+    He ran half a mile this morning.
+    I will be back in half a minute.
+
+half 可以接名詞，但兩者之中必須夾帶定冠詞、不定冠詞、指示代名詞或所有格代名詞。在這種情況下，它指的是一個具體、實質上的劃分。而 half 接 of 並不會改變意思。
+舉例
+
+    Half the people have already left.
+    Half of an apple isn't very much lunch.
+    Did you use half my sugar?
+    I will need half of the flour for my cake.
+    I earned half of that money last summer.
+    She found half these frogs in the river.
+    I spent half that time on my project.
+    You can take half of those books back.
+    I've invited half my friends to the party.
+    I've used up half of our eggs.
+    You wasted half your money on that!
+
+half 後可以接 of + 複數代名詞。
+舉例
+
+    Half of us are going.
+    He scolded half of you but he let the rest off.
+    You couldn't find half of them?
+
++++++++++++++
+
+用於一對物體的分配詞
+
+分配限定詞 both、either 和 neither 論及的是一對物體的分配。一般來說，這些字詞不能用來談論任何超過兩個個體的群體，也不能用來指不定大小的群體，只能用來論及可數名詞。
+測驗您的知識
+both 的用法
+
+both 同時指一對事物，相當於「其一和另一」。both 可以接複數名詞，或者接 of +（定冠詞）+ 複數名詞。當 both 後面要接一個複數代名詞時，一定要在中間加上 of 來隔開。both 不能接單數名詞，因為這個分配詞涉及的是兩個物體。
+舉例
+
+    Both children were born in Italy.
+    Both the children were born in Italy.
+    Both of the children were born in Italy.
+    Both my parents have fair hair.
+    Both of my parents have fair hair.
+    Both of us like skiing.
+    I told both of them to calm down.
+
+either 的用法
+
+either 用於肯定句。當單獨使用時，指的是兩者整體，意思相當於「其一或另一」。由於 either 指的只是兩者之間的其中一者，就必須接單數名詞。但如果後面接了 of，則可以接複數名詞或複數代名詞。
+舉例
+
+    I can stay at either hotel.
+    Either day is fine for me.
+    There are two chairs here. You can take either of them.
+    Either of you can come.
+    Either of the hotels will be fine.
+    I can eat either of the salads.
+
+當依次談到兩件事物，就可以用 either... or... 的句型。這種結構並不會改變意思，但在此種情況下，either 的作用就不是分配詞，而是連接詞。
+舉例
+
+    You can have either ice cream or chocolate cake.
+    I will come on either Thursday or Friday.
+    You can either come inside or put on your raincoat.
+
+neither 的用法
+
+neither 用於否定句。當單獨使用時，指的是兩者整體，意思相當於「不是其中一個也不是另外一個」。由於 neither 指的只是兩者之間的其中一者，因此必須接單數名詞。但如果後面接了 of，就可以接複數名詞或複數代名詞。
+舉例
+
+    Neither chair is any good.
+    Neither brother came.
+    Which bag do you want? Neither of them.
+    Neither of us were on time.
+    I think neither of these dresses fits me.
+    Neither of the children wanted to go.
+
+當依次談到兩個事物時，就可以用 neither... nor... 的句型。這種結構並不會改變意思，但在此種情況下，neither 的作用就不是分配詞，而是連接詞。
+舉例
+
+    You can have neither cookies nor candy.
+    It is neither raining nor snowing.
+    She is neither tall nor short.
+
+++++++++++++++
+
+區別限定詞
+
+限定詞 other 和 another 指的是剩餘或其他的事。兩者都是放在名詞前，the other 則不混為一談，因為它的用法稍有不同。
+Other 	可數名詞複數以及所有不可數名詞
+Another 	可數名詞單數
+The other 	任何可以用定冠詞 「the」的名詞
+other 的用法
+
+other 可以放在 some、any、no 等限定詞後。
+舉例
+
+    Do you have other shoes?
+    There are other jobs you could try.
+    Is there any other bread?
+    I have some other sugar we could use.
+    We have no other ideas.
+
+當 other 前面是限定詞，而且後面接的是可數名詞複數形，當語境已經很清楚名詞為何物，則可直接省略不提。在這種情況下，other 會成為複數形 others。這種情形也會發生 other 單獨和可數名詞連用的時候，只是較不常見。
+舉例
+
+    Do you have any others?
+    I know some others who might like to come.
+    There are no others in this box.
+    I know others like vanilla, but I prefer chocolate.
+    She doesn't have to wear that dress. She has others.
+
+使用 another
+
+another 與可數名詞單數形連用。至於不可數名詞，another 通常會接單數的測量詞。
+舉例
+
+    Have another cookie.
+    Would you like another cup of tea?
+    He has another brother.
+    I don't have another car.
+    I'll come by another time.
+
+使用 the other
+
+當 the other 修飾的是可數名詞複數形時，而且語境已經很清楚名詞為何物，則可直接省略。在這種情況下，other 會成為複數形。
+舉例
+
+    Where is the other box of cereal?
+    I work on the weekend and go to school on the other days of the week.
+    May I use the other honey for my recipe?
+    I enjoyed the first book but I didn't read the other books in the series.
+    Have you seen the others?
+    Jim ate two cookies. I ate the others.
+
++++++++++++++++
+
+前置限定詞
+
+前置限定詞一般會接不定冠詞 + 形容詞 + 名詞，表達對名詞的看法。such 和 what 都會表達出驚喜或其他情感。
+測驗您的知識
+舉例
+
+    What a lovely day!
+    She's such a beautiful woman.
+    You can't imagine what an incredible meal I just ate.
+    I've had such a good time today!
+
+rather 和 quite 均為評論性字詞，對修飾名詞的形容詞表達某特性的程度。兩者表達的可能是失望、喜悅等情感，這要視形容詞而定。在英式英語中，rather 被用作前置限定詞。而在美式英語中，rather 僅被用作副詞。以下的例句均屬於英式英語。
+舉例
+
+    It was quite a nice day.
+    He's had quite a bad accident.
+    It's rather a small car.
+    I've just met rather a nice man.
+
+
+----------------
+
+動詞
+
+在英語中，要能夠選擇正確的動詞時態並能正確地在動詞上做詞形變化，並不是件容易事。點進以下各個動詞時態，您會深入了解到時態是如何形成，以及如何使用。您也可以先點進一個時間點，如現在、過去、未來等，一覽所有時態和各個介紹。
+英語中的現在式 	舉例
+現在簡單式 	They walk home.
+現在進行式 	They are walking home.
+英語中的過去式 	 
+過去簡單式 	Peter lived in China in 1965.
+過去進行式 	I was reading when she arrived.
+英語中的完成式 	 
+現在完成式 	I have lived here since 1987.
+現在完成進行式 	I have been living here for years.
+過去完成式 	We had been to see her several times before she visited us.
+過去完成進行式 	He had been watching her for some time when she turned and smiled.
+未來完成式 	We will have arrived in the States by the time you get this letter.
+未來完成進行式 	By the end of your course, you will have been studying for five years.
+英語中的未來時態 	 
+未來簡單式 	They will go to Italy next week.
+未來進行式 	I will be travelling by train.
+英語中的條件式 	 
+零條件句 	If ice gets hot it melts.
+第一類條件句 	If he is late I will be angry.
+第二類條件句 	If he was in Australia he would be getting up now.
+第三類條件句 	She would have visited me if she had had time.
+混合條件句 	I would be playing tennis if I hadn't broken my arm.
+英語中的 -ing 型態 	 
+動名詞 	I like swimming.
+現在分詞 	She goes running every morning.
+不定詞 	 
+被動語態 	 
+
+============
+
+英語中有四種現在式。現在式是用來談論發生於現在的事情、現在的事實、恆定的事物等。
+
+    現在簡單式表達嗜好和真理。
+    現在進行式談的是現在正發生的事。
+    現在完成式用於重複的動作、發生時間並不重要的動作，以及始於過去但還沒結束的動作。
+    現在完成進行式談的是持續進行的動作，強調動作的過程和結果。
+
+++++++++++
+
+現在簡單式
+使用現在簡單式的情況：
+
+    表達嗜好、真理、重複性的動作或不變的情況、情感和願望：
+    I smoke（嗜好）；I work in London（不變的情況）；London is a large city（真理）
+    給予指令或指導：
+    You walk for two hundred meters, then you turn left.
+    表達已敲定的安排，現在或未來的安排都可用現在簡單式來表達：
+    Your exam starts at 09.00.
+    表達未來的時間，用於特定連接詞之後：after, when, before, as soon as, until
+    He'll give it to you when you come next Saturday.
+
+測驗您的知識
+但要注意！現在簡單式並不會用來表達現在正發生的事。
+舉例
+
+    嗜好
+    He drinks tea at breakfast.
+    She only eats fish.
+    They watch television regularly.
+    重複的動作或事件
+    We catch the bus every morning.
+    It rains every afternoon in the hot season.
+    They drive to Monaco every summer.
+    真理
+    Water freezes at zero degrees.
+    The Earth revolves around the Sun.
+    Her mother is Peruvian.
+
+    指令或指導
+    Open the packet and pour the contents into hot water.
+    You take the No.6 bus to Watney and then the No.10 to Bedford.
+    排定的事情
+    His mother arrives tomorrow.
+    Our holiday starts on the 26th March
+    未來的建設
+    She'll see you before she leaves.
+    We'll give it to her when she arrives.
+
+構成現在簡單式：以 to think 為例
+肯定 	疑問 	否定
+I think 	Do I think? 	I do not think
+You think 	Do you think? 	You do not think
+He thinks 	Does he think? 	He does not think
+She thinks 	Does she think? 	She does not think
+It thinks 	Does it think? 	It does not think
+We think 	Do we think? 	We do not think.
+They think 	Do they think? 	They do not think.
+現在簡單式的小筆記：第三人稱單數
+
+    在第三人稱單數時，動詞一律以 s 結尾：
+    he wants, she needs, he gives, she thinks.
+    否定句和疑問句要用 Does（= 助動詞 Do 的第三人稱動詞變化）+ 不帶 to 的不定詞。
+    He wants ice cream. Does he want strawberry? He does not want vanilla.
+    以 y 結尾的動詞：第三人稱動詞要將 y 改為 ies：
+    fly --> flies, cry --> cries
+    例外情況：字尾 -y 前面有母音：
+    play --> plays, pray --> prays
+    當動詞原型字尾是 ss、x、sh、ch 時，就在字尾加 es：
+    he passes, she catches, he fixes, it pushes
+
+舉例
+
+    He goes to school every morning.
+    She understands English.
+    It mixes the sand and the water.
+    He tries very hard.
+    She enjoys playing the piano.
+
+++++++++++++
+
+現在進行式
+測驗您的知識
+現在進行式的構成
+
+任何動詞的現在進行式都是以兩個部分所構成——Be 動詞的現在式 + 主要動詞的現在分詞。
+
+（現在分詞的結構為：動詞原型+ing，例如 talking、playing、moving、smiling）
+肯定句
+主詞 	+ Be 動詞 	+ 原型 + ing
+She 	is 	talking.
+否定句
+Subject 	+ Be 動詞 + not 	+ 原型 + ing
+She 	is not (isn't) 	talking.
+疑問句
+Be 動詞  	+ 主詞 	+ 原型 + ing
+Is 	she 	talking?
+舉例：TO GO 用於現在進行式
+肯定句 	否定句 	疑問句
+I am going. 	I am not going. 	Am I going?
+You are going. 	You aren't going. 	Are you going?
+He, she, it is going. 	He, she, it isn't going. 	Is he, she, it going?
+We are going. 	We aren't going. 	Are we going?
+You are going. 	You aren't going. 	Are you going?
+They are going. 	They aren't going. 	Are they going?
+
+註：也可使用否定形式的縮寫：I'm not going、you're not going、he's not going 等。
+現在進行式的作用
+
+就如所有英語中的時態一樣，說話者的態度與動作或事件發生的時間一樣重要。當某人使用了現在進行式，他們就是認為某件事未完成或不完整
+使用現在進行式的情況：
+
+    描述某個動作目前正在發生：You are using the Internet. You are studying English grammar.
+    描述某個動作正在這段時間或趨勢發生：Are you still working for the same company? More and more people are becoming vegetarian.
+    描述某個未來的動作或事件，而這個動作或事件已經是規劃或準備好的：We're going on holiday tomorrow. I'm meeting my boyfriend tonight. Are they visiting you next winter?
+    描述一個暫時的事件或情況：He usually plays the drums, but he's playing bass guitar tonight. The weather forecast was good, but it's raining at the moment.
+    用 always, forever, constantly 等副詞來描述和強調一個不斷反覆發生的動作：Harry and Sally are always arguing! You're constantly complaining about your mother-in-law!
+
+要注意！有些動詞通常不會用在進行式。
+通常不會用在進行式的動詞
+
+以下的動詞一般用在簡單式，因為這些動詞指的是狀態，而不是動作或過程。
+感覺 / 感知
+
+    to feel*
+    to hear
+    to see*
+    to smell
+    to taste
+
+意見
+
+    to assume
+    to believe
+    to consider
+    to doubt
+    to feel (= to think)
+    to find (= to consider)
+    to suppose
+    to think*
+
+心理狀態
+
+    to forget
+    to imagine
+    to know
+    to mean
+    to notice
+    to recognise
+    to remember
+    to understand
+
+情感 / 慾望
+
+    to envy
+    to fear
+    to dislike
+    to hate
+    to hope
+    to like
+    to love
+    to mind
+    to prefer
+    to regret
+    to want
+    to wish
+
+測量
+
+    to contain
+    to cost
+    to hold
+    to measure
+    to weigh
+
+其他
+
+    to look（= to resemble）
+    to seem
+    to be（在多數情況）
+    to have（當它的意思是「to possess」的時候）*
+
+例外情況
+
+感知動詞 (see, hear, feel, taste, smell) 時常與 can 連用：I can see... 這些動詞也可以用在進行式，但意思上會有些不同。
+
+    This coat feels nice and warm.（你對外套品質的感覺）
+    John's feeling much better now（他的健康狀況正在改善）
+    She has three dogs and a cat.（擁有）
+    She's having supper.（她正在吃）
+    I can see Anthony in the garden（知覺）
+    I'm seeing Anthony later（我們正打算要碰面）
+
+++++++++++
+
+現在完成式
+現在完成式的構成
+
+任何動詞的現在完成式都是以兩個要素構成：依人稱使用正確的助動詞 to have（現在式）的型態，加上主要動詞的過去分詞。規則動詞的過去分詞為動詞原型 + ed，例如 played、arrived、looked。至於不規則動詞，請參考「動詞」頁面上的不規則動詞表。
+測驗您的知識
+肯定句
+主詞 	to have 	過去分詞
+She 	has 	visited.
+否定句
+主詞 	to have + not 	過去分詞
+She 	has not (hasn't) 	visited.
+疑問句
+to have 	主詞 	過去分詞
+Has 	she 	visited?
+否定型疑問句
+to have + not 	主詞 	過去分詞
+Hasn't 	she 	visited?
+現在完成式，以 to walk 為例
+肯定句 	否定句 	疑問句
+I have walked. 	I haven't walked. 	Have I walked?
+You have walked. 	You haven't walked. 	Have you walked?
+He, she, it has walked. 	He, she, hasn't walked. 	Has he, she, it walked?
+We have walked. 	We haven't walked. 	Have we walked?
+You have walked. 	You haven't walked. 	Have you walked?
+They have walked. 	They haven't walked. 	Have they walked?
+現在完成式的作用
+
+現在完成式是用來表明現在與過去的連結。動作的時間是在過去，並沒有一個具體的時間點。我們往往更强调結果，而非动作本身。
+要留意！也許您的母語中也有相似的動詞時態，但意思不見得是一樣的。
+現在完成式是用來描述：
+
+    始於過去的動作或狀態，到目前仍持續著。I have lived in Bristol since 1984 (= 而且到現在還是。)
+    在一段時間內做過、但還沒有結束的動作。She has been to the cinema twice this week (= 而且這禮拜還沒過完。)
+    在過去到現在之間的一段不明確的時間內重複發生的動作。We have visited Portugal several times.
+    在不久前完成的動作，以「just」來表達。I have just finished my work.
+    發生時間並不重要的動作。He has read 'War and Peace'. (= 閱讀的結果很重要)
+
+注意：如果想要針對何時、何地、何人給予或詢問細節，我們會用過去簡單式。關於這方面可以參考這篇文章，了解如何在現在完成式和過去簡單式之間做選擇。
+始於過去且目前持續在做的動作
+
+    They haven't lived here for years.
+    She has worked in the bank for five years.
+    We have had the same car for ten years.
+    Have you played the piano since you were a child?
+
+當提及的時間點還沒結束
+
+    I have worked hard this week.
+    It has rained a lot this year.
+    We haven't seen her today.
+
+在過去到現在之間不具體的時間範圍內重複做的動作
+
+    They have seen that film six times
+    It has happened several times already.
+    She has visited them frequently.
+    We have eaten at that restaurant many times.
+
+剛結束的動作（加 just）
+
+    Have you just finished work?
+    I have just eaten.
+    We have just seen her.
+    Has he just left?
+
+當動作的確切時間並不重要或未知時
+
+    Someone has eaten my soup!
+    Have you seen 'Gone with the Wind'?
+    She's studied Japanese, Russian, and English.
+
+進一步了解如何在現在完成式中使用 ever、never、already 和 yet，以及在現在完成式中使用 for 和 since。
+
++++++++++++
+
+現在完成進行式
+現在完成進行式的構成
+
+現在完成進行式是由兩個要素構成：Be 動詞的現在完成式 (have/has been)，加上主要動詞（原型+ing）的現在分詞。
+測驗您的知識
+主詞 	has/have been 	動詞原型 + ing
+She 	has been 	swimming
+
+肯定句：She has been / She's been running.
+否定句：She hasn't been running.
+疑問句：Has she been running?
+否定型疑問句：Hasn't she been running?
+現在完成進行式，以「to live」為例：
+肯定句 	否定句 	疑問句
+I have been living 	I haven't been living 	Have I been living?
+You have been living 	You haven't been living 	Have you been living?
+He, she, it has been living 	He hasn't been living 	Has she been living?
+We have been living 	We haven't been living 	Have we been living?
+You have been living 	You haven't been living 	Have you been living?
+They have been living 	They haven't been living 	Have they been living?
+現在完成進行式的作用
+
+現在完成進行式涉及以前到現在一段不明確的時間，談的是某件已經發生的事，但也許還沒有結束，強調的是動作的過程和產生的結果，而且這個過程可能還會持續著，或者可能才剛結束。
+始於過去且當下仍在持續的動作
+
+She has been waiting for you all day (= 而且她現在還在等待).
+I've been working on this report since eight o'clock this morning (= 而且我還沒做完).
+They have been travelling since last October (= 而且他們還沒回家).
+剛結束的動作，但說話者要強調的是這個動作產生的結果，或對現在造成的影響
+
+She has been cooking since last night (= 而且桌上的食物看起來很美味).
+It's been raining (= 街道上還是濕的).
+Someone's been eating my chips (= 半包沒了).
+不用在進行式的動詞
+
+對於不用在進行式的動詞，就使用現在完成式。例如：I've wanted to visit China for years.
+She's known Robert since she was a child.
+I've hated that music since I first heard it.
+I've heard a lot about you recently.
+We've understood everything.
+we've heard this morning.
+
+----------------
+
+過去式
+
+英語中的過去式共有四種。學習用這些時態來談論始於過去且結束於過去的事，或者始於過去且持續到現在的事。
+
+    過去簡單式用來談論始於過去且結束於過去的事。
+    過去進行式用來談論始於過去且持續到現在的事。
+    過去完成式用來談論始於過去且結束於過去的事，且早於另一個同樣在過去發生的事。
+    過去完成進行式用來談論過去持續的事，直到另一個也在過去發生的事出現為止。
+
+ 
+https://www.ef.com.tw/english-guide/english-grammar/past/

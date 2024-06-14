@@ -1,0 +1,2 @@
+rem @forfiles /s /m *.txt /c "c:\tools\Python311\python.exe c:\project\python\chinese_annotation\annotate.py "
+for %%f in (*.txt) do c:\tools\Python311\python.exe c:\project\python\chinese_annotation\annotate.py "%%f" "%%~nf.htm"

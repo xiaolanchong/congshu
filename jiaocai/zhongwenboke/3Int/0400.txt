@@ -337,14 +337,14 @@ B: 啊？为什么？
 A: 因为您买的是打折机票。
 B: 好吧。我改到十二号走，十四号回来。
 A: 十二号没有座位了。我帮您申请候补。有位子马上通知您。
-B:	好的。谢谢！
-A:	Peter先生，您的机票已经确认了。
-B:	是吗？太好了！十二号走，十四号回来，没错吧？
-A:	没错。您要今天出票吗？
-B:	要。可以把机票送过来吗？
-A:	可以。您怎么付钱？
-B:	付现金给送票的人。
-A:	好的。
+B: 好的。谢谢！
+A: Peter先生，您的机票已经确认了。
+B: 是吗？太好了！十二号走，十四号回来，没错吧？
+A: 没错。您要今天出票吗？
+B: 要。可以把机票送过来吗？
+A: 可以。您怎么付钱？
+B: 付现金给送票的人。
+A: 好的。
 
 Going on a Diet (C0539)
 哎，今天真没劲。逛了一天，什么也没买到。
@@ -376,341 +376,341 @@ A: 噢……恭喜你们！看来，这次真的要跟你说再见了。
 B: 是啊。不过总有机会再见的。这里有我的家人，我肯定会回来的。
 
 Transferring a Call (C0552)
-A	你好，真美公司。
+A 你好，真美公司。
  
-	Hello, Truly Beautiful Incorporated.
-B	你好。请帮我转总经理办公室。
+ Hello, Truly Beautiful Incorporated.
+B 你好。请帮我转总经理办公室。
  
-	Hi. Please transfer me to the general manager's office.
-C	这里是总经理办公室，请问您哪位？
+ Hi. Please transfer me to the general manager's office.
+C 这里是总经理办公室，请问您哪位？
  
-	General manager's office, may I ask who's calling?
-B	我是五星公司的。前两天我跟你们王总约好了。不知道他现在方便通话吗？
+ General manager's office, may I ask who's calling?
+B 我是五星公司的。前两天我跟你们王总约好了。不知道他现在方便通话吗？
  
-	I'm from Five Star Incorporated. A couple days ago I made an appointment with Mr. Wang. Is he available to talk now?
-C	非常抱歉，王总正在开会。
+ I'm from Five Star Incorporated. A couple days ago I made an appointment with Mr. Wang. Is he available to talk now?
+C 非常抱歉，王总正在开会。
  
-	I'm very sorry, but Mr. Wang is in a meeting now.
-B	他什么时候能开完？
+ I'm very sorry, but Mr. Wang is in a meeting now.
+B 他什么时候能开完？
  
-	When will the meeting conclude?
-C	大概一个小时吧。
+ When will the meeting conclude?
+C 大概一个小时吧。
  
-	In about an hour.
-B	好的，那我一个小时以后再打来。
+ In about an hour.
+B 好的，那我一个小时以后再打来。
 
 She's Easy (C0557)
-A:	我昨天看到依依了。她的男朋友是不是年纪挺大的？
-	I saw Yiyi yesterday. Her boyfriend is quite elderly, isn't he?
+A: 我昨天看到依依了。她的男朋友是不是年纪挺大的？
+ I saw Yiyi yesterday. Her boyfriend is quite elderly, isn't he?
  
-B:	你说哪一个呀？她男朋友多了，什么年纪的都有。你在哪里看到她的？
-	Which one are you talking about? She has so many boyfriends, one of every age. Where did you see her?
+B: 你说哪一个呀？她男朋友多了，什么年纪的都有。你在哪里看到她的？
+ Which one are you talking about? She has so many boyfriends, one of every age. Where did you see her?
  
-A:	商店里。她从头到脚都是名牌，手里还拎着大包小包呢。
-	In a shop. She was wearing brand-name clothing from head to toe. Her hands were full of bags.
+A: 商店里。她从头到脚都是名牌，手里还拎着大包小包呢。
+ In a shop. She was wearing brand-name clothing from head to toe. Her hands were full of bags.
  
-B:	噢，怪不得和老男人在一起，原来是去血拼。
-	Oh, no wonder she was with an old guy--it's because she went on a shopping spree.
+B: 噢，怪不得和老男人在一起，原来是去血拼。
+ Oh, no wonder she was with an old guy--it's because she went on a shopping spree.
  
-A:	她好像很随便。前几天在酒吧，我还看到她和一个小白脸在一起。
-	It's seems like she's pretty easy. A few days ago at the bar I also saw her with a young, good-looking guy.
+A: 她好像很随便。前几天在酒吧，我还看到她和一个小白脸在一起。
+ It's seems like she's pretty easy. A few days ago at the bar I also saw her with a young, good-looking guy.
  
-B:	她就是这样。身边的男人一天换一个。总之她有什么需求，就会找什么样的男人。
-	That's so like her. She changes her men by the day. Basically, what ever whim she has, she'll go after that kind of guy.
+B: 她就是这样。身边的男人一天换一个。总之她有什么需求，就会找什么样的男人。
+ That's so like her. She changes her men by the day. Basically, what ever whim she has, she'll go after that kind of guy.
  
-A:	这种女人真恐怖。你认识她多久了？
-	That kind of woman is really scary. How long have you know her?
+A: 这种女人真恐怖。你认识她多久了？
+ That kind of woman is really scary. How long have you know her?
  
-B:	大学就认识。她那时候就是这样，今天找同学，明天找老板。
-	I knew her back in university. She was like that then -- today she was chasing a student, the next day a boss.
+B: 大学就认识。她那时候就是这样，今天找同学，明天找老板。
+ I knew her back in university. She was like that then -- today she was chasing a student, the next day a boss.
  
-A:	哎，她有工作吗？
-	Wow, does she work?
+A: 哎，她有工作吗？
+ Wow, does she work?
  
-B:	她才不需要呢。反正有人养。
+B: 她才不需要呢。反正有人养。
 
 Baby Care (C0563)
-A:	好久不见。当妈妈很开心吧？
-	Long time no see. Are you happy to be a mom?
+A: 好久不见。当妈妈很开心吧？
+ Long time no see. Are you happy to be a mom?
  
-B:	哎哟，别提了。我都快累死了。
-	Oh, don't bring it up. I'm about to die of exhaustion.
+B: 哎哟，别提了。我都快累死了。
+ Oh, don't bring it up. I'm about to die of exhaustion.
  
-A:	你妈妈不是在帮你带孩子吗？
-	Isn't your mom helping you with the child?
+A: 你妈妈不是在帮你带孩子吗？
+ Isn't your mom helping you with the child?
  
-B:	可是有好多事情还得我自己来呀。比如喂奶，因为我是母乳喂养，所以体力消耗特别大。
-	But there are a lot of things I still have to do myself. For example, nursing. I breast-feed, so it really consumes a lot of energy.
+B: 可是有好多事情还得我自己来呀。比如喂奶，因为我是母乳喂养，所以体力消耗特别大。
+ But there are a lot of things I still have to do myself. For example, nursing. I breast-feed, so it really consumes a lot of energy.
  
-A:	是啊。你老公帮你吗？
-	Yeah. Does your husband help you?
+A: 是啊。你老公帮你吗？
+ Yeah. Does your husband help you?
  
-B:	当然咯。他负责换尿布、哄孩子睡觉。
-	Of course. He's in charge of changing diapers and rocking the baby to sleep.
+B: 当然咯。他负责换尿布、哄孩子睡觉。
+ Of course. He's in charge of changing diapers and rocking the baby to sleep.
  
-A:	你会唱歌给宝宝听吗？
-	Do you sing for the baby?
+A: 你会唱歌给宝宝听吗？
+ Do you sing for the baby?
  
-B:	当然咯。他特别喜欢呢！哎，你知道我觉得最累的是什么吗？
-	Of course. He especially likes that! Hey, do you know what I find most tiring?
+B: 当然咯。他特别喜欢呢！哎，你知道我觉得最累的是什么吗？
+ Of course. He especially likes that! Hey, do you know what I find most tiring?
  
-A:	嗯，不知道。
-	Ummm... no.
+A: 嗯，不知道。
+ Ummm... no.
  
-B:	是夜里睡不好，孩子一哭，我们就得起来看看。
+B: 是夜里睡不好，孩子一哭，我们就得起来看看。
 
 Touring a Factory (C0566)
-A:	Peter，欢迎参观我们工厂！
-	Peter, welcome to our factory for a tour.
+A: Peter，欢迎参观我们工厂！
+ Peter, welcome to our factory for a tour.
  
-B:	李总，谢谢你的招待。厂房真气派啊！
-	Mr. Li, thank you for your reception. The factory buildings are very imposing!
+B: 李总，谢谢你的招待。厂房真气派啊！
+ Mr. Li, thank you for your reception. The factory buildings are very imposing!
  
-A:	不错吧！这是我们去年投资八千万造的。
-	Not bad, hey! This is what we invested 80,000,000 in last year to build.
+A: 不错吧！这是我们去年投资八千万造的。
+ Not bad, hey! This is what we invested 80,000,000 in last year to build.
  
-B:	你们的设备在国外也不多见。
-	Even overseas you don't often see facilities like yours.
+B: 你们的设备在国外也不多见。
+ Even overseas you don't often see facilities like yours.
  
-A:	我做事要么不做，要做就一定要做到最好。我们很早就通过ISO认证了。
-	I can do something or not--but if I'm going to do something, I will definitely do it the best. We've had ISO certification for a long time now.
+A: 我做事要么不做，要做就一定要做到最好。我们很早就通过ISO认证了。
+ I can do something or not--but if I'm going to do something, I will definitely do it the best. We've had ISO certification for a long time now.
  
-B:	李总，你们这个厂是什么时候创办的?
-	Mr. Li, when was this factory established?
+B: 李总，你们这个厂是什么时候创办的?
+ Mr. Li, when was this factory established?
  
-A:	十多年了。刚开始只有几个人，现在我们可是国内规模最大的工具生产商之一。
-	Over ten years ago. In the beginning there were only a few people. Now, however, we are one of the largest tool manufacturers in the country.
+A: 十多年了。刚开始只有几个人，现在我们可是国内规模最大的工具生产商之一。
+ Over ten years ago. In the beginning there were only a few people. Now, however, we are one of the largest tool manufacturers in the country.
  
-B:	真厉害。你们有多少员工？
-	Really amazing. How many employees do you have?
+B: 真厉害。你们有多少员工？
+ Really amazing. How many employees do you have?
  
-A:	三百多个。在你们加拿大，工厂可养不起那么多人。
-	Over 300. In your country, Canada, a factory definitely would not be able to support that many people.
+A: 三百多个。在你们加拿大，工厂可养不起那么多人。
+ Over 300. In your country, Canada, a factory definitely would not be able to support that many people.
  
-B:	没错。不过，我听说现在聘用中国员工的成本也高了。
-	You're right. But, I've heard that the cost of employing laborers in China is high now too.
+B: 没错。不过，我听说现在聘用中国员工的成本也高了。
+ You're right. But, I've heard that the cost of employing laborers in China is high now too.
  
-A:	是啊，不过那些都是国家规定的员工福利。不理它就行了。
-	Yeah! That's all because of the labor benefits stipulated by the government. You just ignore them and then it's fine.
+A: 是啊，不过那些都是国家规定的员工福利。不理它就行了。
+ Yeah! That's all because of the labor benefits stipulated by the government. You just ignore them and then it's fine.
  
-B:	不会有问题吗？
-	Won't that cause problems?
+B: 不会有问题吗？
+ Won't that cause problems?
  
-A:	那我怎么办？按他们说的做，我早就关门了。
-	Well, what can I do? If I did things according to how they say I should, I would have closed down a long time ago.
+A: 那我怎么办？按他们说的做，我早就关门了。
+ Well, what can I do? If I did things according to how they say I should, I would have closed down a long time ago.
  
-B:	啊？
+B: 啊？
 
 he Drug Dealer (C0573)
-A:	有货吗？
-	Do you have the goods?
+A: 有货吗？
+ Do you have the goods?
  
-B:	你说什么？
-	What are you talking about?
+B: 你说什么？
+ What are you talking about?
  
-A:	没事儿，我是大头介绍来的。知道你什么都有，所以特地过来瞧瞧。
-	Nothing. I've been sent by Big Head. I know that you've got everything, so I came over just to see.
+A: 没事儿，我是大头介绍来的。知道你什么都有，所以特地过来瞧瞧。
+ Nothing. I've been sent by Big Head. I know that you've got everything, so I came over just to see.
  
-B:	噢，自己人。你想要什么？我这儿大麻、摇头丸都不错。
-	Oh, you're one of us. What do you want? My marijuana and ecstacy are both good.
+B: 噢，自己人。你想要什么？我这儿大麻、摇头丸都不错。
+ Oh, you're one of us. What do you want? My marijuana and ecstacy are both good.
  
-A:	这种东西都玩腻了。给我点有劲儿的。
-	Those things aren't fun anymore. Give me something with a little punch.
+A: 这种东西都玩腻了。给我点有劲儿的。
+ Those things aren't fun anymore. Give me something with a little punch.
  
-B:	K粉、冰毒要吗？最近这些卖疯了。
-	Want K or Ice? They've been selling like hotcakes lately.
+B: K粉、冰毒要吗？最近这些卖疯了。
+ Want K or Ice? They've been selling like hotcakes lately.
  
-A:	好，让我看一下样品。
-	OK. Let me see the goods.
+A: 好，让我看一下样品。
+ OK. Let me see the goods.
  
-B:	你挺内行的，经常买吧。以后找我，货又多又新，而且价钱公道。
-	You're quite the expert. Come buy often, and look for me. I've got a lot of new stuff, and the price is decent.
+B: 你挺内行的，经常买吧。以后找我，货又多又新，而且价钱公道。
+ You're quite the expert. Come buy often, and look for me. I've got a lot of new stuff, and the price is decent.
  
-A:	嗯，是不错。白粉怎么卖？
-	Oh. It's not bad. How do you sell cocaine?
+A: 嗯，是不错。白粉怎么卖？
+ Oh. It's not bad. How do you sell cocaine?
  
-B:	可卡因不好进，海洛因要吗？好多人现在都吸这个。
-	It's hard to bring cocaine into the country, what about heroin? A lot of people are into herion now.
+B: 可卡因不好进，海洛因要吗？好多人现在都吸这个。
+ It's hard to bring cocaine into the country, what about heroin? A lot of people are into herion now.
  
-A:	也行。听大头说你生意做得很大，附近迪厅都是你的地盘。
-	All right. Big Head says that your business hasn't been bad lately, and that all the nearby discos are your turf.
+A: 也行。听大头说你生意做得很大，附近迪厅都是你的地盘。
+ All right. Big Head says that your business hasn't been bad lately, and that all the nearby discos are your turf.
  
-B:	还行吧。现在的人出来玩，一定要搞点东西吃才过瘾。有需求，就有市场。
-	It's OK. When people go out these days, they always want to get a little something to take so they can enjoy themselves to the full. Where there's demand, there's a market.
+B: 还行吧。现在的人出来玩，一定要搞点东西吃才过瘾。有需求，就有市场。
+ It's OK. When people go out these days, they always want to get a little something to take so they can enjoy themselves to the full. Where there's demand, there's a market.
  
-A:	不怕警察抓？
-	Aren't you afraid of being caught by the cops?
+A: 不怕警察抓？
+ Aren't you afraid of being caught by the cops?
  
-B:	市场经济，关他们屁事？
-	It's a market economy, what does it have to do with them?
+B: 市场经济，关他们屁事？
+ It's a market economy, what does it have to do with them?
  
-A:	是吗？今天我就让你看看我们怎么管你。
+A: 是吗？今天我就让你看看我们怎么管你。
 
 Snacks (C0579)
-A:	你在吃什么？
-	What are you eating?
+A: 你在吃什么？
+ What are you eating?
  
-B:	牛肉干。香辣的，特别好吃。你也来一块？
-	Beef jerky. It's spicy, and especially good. You want a piece?
+B: 牛肉干。香辣的，特别好吃。你也来一块？
+ Beef jerky. It's spicy, and especially good. You want a piece?
  
-A:	不要。零食我还是喜欢薯片和巧克力。
-	No. When it comes to snacks, I like potato chips and chocolate.
+A: 不要。零食我还是喜欢薯片和巧克力。
+ No. When it comes to snacks, I like potato chips and chocolate.
  
-B:	那些都是垃圾食品，热量很高的。
-	Those are junk food. They're high in calories.
+B: 那些都是垃圾食品，热量很高的。
+ Those are junk food. They're high in calories.
  
-A:	你爱吃的鸭脖子、鸡爪子也好不到哪儿去。
-	Those duck necks and chicken feet you like to eat aren't so great for you either.
+A: 你爱吃的鸭脖子、鸡爪子也好不到哪儿去。
+ Those duck necks and chicken feet you like to eat aren't so great for you either.
  
-B:	哎，这你就不懂了。这些东西可有营养了。还有瓜子、话梅，都是又好吃、 又健康的。
-	Ah, you just don't understand. Those things are quite nutritious. Also melon seeds and pickled plums. They're all delicious and healthy too.
+B: 哎，这你就不懂了。这些东西可有营养了。还有瓜子、话梅，都是又好吃、 又健康的。
+ Ah, you just don't understand. Those things are quite nutritious. Also melon seeds and pickled plums. They're all delicious and healthy too.
  
-A:	健康？吃零食才不会健康呢。还是少吃点好。
-	Healthy? Eating snacks is not going to be healthy. It's better to eat less of them.
+A: 健康？吃零食才不会健康呢。还是少吃点好。
+ Healthy? Eating snacks is not going to be healthy. It's better to eat less of them.
  
-B:	这就不用你操心了。我不会把它当饭吃的，零食本来就是闲的时候吃的嘛。
-	You don't need to worry about that. I won't make a meal out of them. Snacks are for munching on when you're bored.
+B: 这就不用你操心了。我不会把它当饭吃的，零食本来就是闲的时候吃的嘛。
+ You don't need to worry about that. I won't make a meal out of them. Snacks are for munching on when you're bored.
  
-A:	那我怎么看你一天到晚都在吃？
-	So how come I see you eating them all day long?
+A: 那我怎么看你一天到晚都在吃？
+ So how come I see you eating them all day long?
  
-B:	哎呀，现在零食的广告和包装都那么诱人，我看了就馋。每次去超市，本来不想买的，可是最后还是买了一大堆。买了当然要吃咯。
-	Geez, these days snack ads and packaging are so enticing, as soon as I see them I get the munchies. Every time I go to the grocery store, even though I'm not planning to buy them, I still end up with a whole pile of them. And if I buy them of course I'm going to eat them.
+B: 哎呀，现在零食的广告和包装都那么诱人，我看了就馋。每次去超市，本来不想买的，可是最后还是买了一大堆。买了当然要吃咯。
+ Geez, these days snack ads and packaging are so enticing, as soon as I see them I get the munchies. Every time I go to the grocery store, even though I'm not planning to buy them, I still end up with a whole pile of them. And if I buy them of course I'm going to eat them.
  
-A:	你真是头猪。
+A: 你真是头猪。
 
 It's Over (Again) (C0585)
-A:	丽丽，上次在酒吧实在抱歉。
-	Lili, I'm really sorry about last time in the bar.
-		
-B:	算了。一点小事，我没放在心上。有什么事你快说吧。
-	Forget about it. It's so minor; I didn't think it was a big deal. If you want to say something, just go ahead and say it.
-		
-A:	我觉得我们分手都是误会。我们和好吧！
-	I think our break-up was all a misunderstanding. Let's make up!
-		
-B:	张亮，我们还是做朋友好。
-	Zhang Liang, I think we should just be friends.
-		
-A:	是刘翔对吗？他不适合你。他不可能真心爱你的。
-	Is it Liu Xiang? He's not right for you. He can't possibly truly love you.
-		
-B:	你有什么权力这么说？你以为所有男人都和你一样吗？
-	What right do you have to say that? You think all men are like you?
-		
-A:	我怎么了？你今天把话说清楚。
-	And what am I like? Come out and say it.
-		
-B:	你和菲菲的事你自己知道。
-	You know what happened between you and Feifei.
-		
-A:	我们什么事也没有。是你故意冤枉我！因为这样你就有借口跟我分手，去找有钱人。
-	Nothing happened between us. You're purposely wrongfully accusing me! This way you have an excuse to break up and get with the rich guy.
-		
-B:	刘翔就是比你有本事、有钱。你除了会妒忌，还会什么？
-	Liu Xiang is more accomplished than you, and richer. What are you good at, besides being jealous?
-		
-A:	行了，我受够了！我对你全心全意，你却一直在玩弄我的感情。我今天总算看清你了。我们彻底分手！
-	All right, I've had enough! I was totally devoted to you, but you just toy with my emotions. I can finally see it clearly. We are really through.
-		
-B:	我们已经分手了！请你以后别再来找我！
-	We already broke up! Please don't contact me again.
+A: 丽丽，上次在酒吧实在抱歉。
+ Lili, I'm really sorry about last time in the bar.
+  
+B: 算了。一点小事，我没放在心上。有什么事你快说吧。
+ Forget about it. It's so minor; I didn't think it was a big deal. If you want to say something, just go ahead and say it.
+  
+A: 我觉得我们分手都是误会。我们和好吧！
+ I think our break-up was all a misunderstanding. Let's make up!
+  
+B: 张亮，我们还是做朋友好。
+ Zhang Liang, I think we should just be friends.
+  
+A: 是刘翔对吗？他不适合你。他不可能真心爱你的。
+ Is it Liu Xiang? He's not right for you. He can't possibly truly love you.
+  
+B: 你有什么权力这么说？你以为所有男人都和你一样吗？
+ What right do you have to say that? You think all men are like you?
+  
+A: 我怎么了？你今天把话说清楚。
+ And what am I like? Come out and say it.
+  
+B: 你和菲菲的事你自己知道。
+ You know what happened between you and Feifei.
+  
+A: 我们什么事也没有。是你故意冤枉我！因为这样你就有借口跟我分手，去找有钱人。
+ Nothing happened between us. You're purposely wrongfully accusing me! This way you have an excuse to break up and get with the rich guy.
+  
+B: 刘翔就是比你有本事、有钱。你除了会妒忌，还会什么？
+ Liu Xiang is more accomplished than you, and richer. What are you good at, besides being jealous?
+  
+A: 行了，我受够了！我对你全心全意，你却一直在玩弄我的感情。我今天总算看清你了。我们彻底分手！
+ All right, I've had enough! I was totally devoted to you, but you just toy with my emotions. I can finally see it clearly. We are really through.
+  
+B: 我们已经分手了！请你以后别再来找我！
+ We already broke up! Please don't contact me again.
 
 Introducing Oneself to the Family (C0589)
-A:	妈妈，这是我同学，婷婷。我们是一个寝室的。
-	Mom, this is my classmate, Tingting. We are in the same dorm room.
-		
-B:	阿姨好。啊，你们家真漂亮！不过还是阿姨您最漂亮！
-	Auntie, hello. Wow, your home is really beautiful. But, nevertheless, Auntie, you are more beautiful.
-		
-C:	哟，婷婷真会说话。我们妮妮经常提起你。你们住在一个房间，要互相照顾噢！
-	Oh, Tingting, you are a real sweet talker. Nini often speaks of you. You stay in the same room--you must take care of each other!
-		
-B:	那是一定的。哎，这位小朋友是嘟嘟吧。你表姐天天跟我说你又聪明又可爱！
-	That's for sure. Oh, this little friend must be Dudu. Your cousin tells me every day how smart and cute you are.
-		
-A:	嘟嘟，还不赶快叫人，再好好谢谢姐姐。
-	Dudu, why don't you hurry and greet our guest, and thank big sister?
-		
-D:	姐姐好。谢谢姐姐。我要吃糖。
-	Hello big sister. Thank you, big sister. I want a candy.
-		
-A:	你怎么这么馋。婷婷，不要理他，来见见我爷爷吧。爷爷，这是婷婷。
-	How can you be so greedy? Tingting, don't pay any attention to him, come and meet my grandpa. Grandpa, this is Tingting.
-		
-B:	爷爷好！您精神真好，一点都不显老。妮妮说您每天都锻炼，而且电脑还玩得很好呢!
-	Hello grandpa. You're so full of vitality--you don't show your age at all. Nini says that you exercise every day, and that you are good at playing on the computer.
-		
-E:	哈哈，人老了一定要找点事做。不过现在可是你们年轻人的天下了。别老站着，赶快坐呀。
-	Hah-hah. When you get old you have to find some things to keep busy. But, nowadays it's definitely you young people's world. Don't just stand there, here, have a seat.
-		
-B:	好的，谢谢爷爷。
-	OK, thank you grandpa.
+A: 妈妈，这是我同学，婷婷。我们是一个寝室的。
+ Mom, this is my classmate, Tingting. We are in the same dorm room.
+  
+B: 阿姨好。啊，你们家真漂亮！不过还是阿姨您最漂亮！
+ Auntie, hello. Wow, your home is really beautiful. But, nevertheless, Auntie, you are more beautiful.
+  
+C: 哟，婷婷真会说话。我们妮妮经常提起你。你们住在一个房间，要互相照顾噢！
+ Oh, Tingting, you are a real sweet talker. Nini often speaks of you. You stay in the same room--you must take care of each other!
+  
+B: 那是一定的。哎，这位小朋友是嘟嘟吧。你表姐天天跟我说你又聪明又可爱！
+ That's for sure. Oh, this little friend must be Dudu. Your cousin tells me every day how smart and cute you are.
+  
+A: 嘟嘟，还不赶快叫人，再好好谢谢姐姐。
+ Dudu, why don't you hurry and greet our guest, and thank big sister?
+  
+D: 姐姐好。谢谢姐姐。我要吃糖。
+ Hello big sister. Thank you, big sister. I want a candy.
+  
+A: 你怎么这么馋。婷婷，不要理他，来见见我爷爷吧。爷爷，这是婷婷。
+ How can you be so greedy? Tingting, don't pay any attention to him, come and meet my grandpa. Grandpa, this is Tingting.
+  
+B: 爷爷好！您精神真好，一点都不显老。妮妮说您每天都锻炼，而且电脑还玩得很好呢!
+ Hello grandpa. You're so full of vitality--you don't show your age at all. Nini says that you exercise every day, and that you are good at playing on the computer.
+  
+E: 哈哈，人老了一定要找点事做。不过现在可是你们年轻人的天下了。别老站着，赶快坐呀。
+ Hah-hah. When you get old you have to find some things to keep busy. But, nowadays it's definitely you young people's world. Don't just stand there, here, have a seat.
+  
+B: 好的，谢谢爷爷。
+ OK, thank you grandpa.
 
 Free Association (C0593)
-A:	今天我来考考你的自由联想。
-	Today I'm going to test your free associations.
-		
-B:	什么？
-	What?
-		
-A:	我会说一些词语，你只要告诉我联想到什么就行了。要完全放松。想到什么就说什么。
-	I'll say a word, and you just tell me what you associate it with. Relax completely. Just say whatever comes to mind.
-		
-B:	好的。
-	OK.
-		
-A:	准备好了吗？
-	Are you ready?
-		
-B:	好了。我们开始吧。
-	Yes. Let's start.
-		
-A:	包子。
-	Bun.
-		
-B:	食堂。我爸爸单位食堂的肉包子最好吃了。小时候，我只要考试成绩好，爸爸就会买肉包子奖励我。
-	Cafeteria. The meat buns at my dad's work unit cafeteria were the best. When I was little, if I got a good test score, Dad would buy a meat bun to reward me.
-		
-A:	你经常吃吗？
-	Did you eat them often?
-		
-B:	不是，我成绩不好。
-	No, my grades weren't good.
-		
-A:	我们再试一个。庙。
-	Let's try another one. Temple.
-		
-B:	难闻。我最怕烧香的味道了。真搞不懂为什么有那么多人要去求神拜佛。
-	Bad-smelling. The smell of burning incense is the worst. I just don't get why so many people pray to Buddha for help.
-		
-A:	你不相信宗教？
-	You don't believe in religion?
-		
-B:	我只相信看得到摸得到的东西，比如包子、钱。
-	I only believe in what I can see and touch, like buns and money.
-		
-A:	钱会让你想到什么？
-	What does money make you think of?
-		
-B:	快乐、悲伤。虽说钱不是万能的，但没有钱是万万不能的。
-	Happiness and sorrow. Although money can't do everything, without it you can't do anything.
-		
-A:	红色呢？会让你想到什么？
-	How about red? What does that make you think of?
-		
-B:	鞭炮。
-	Firecrackers.
-		
-A:	蓝色呢？
-	And blue?
-		
-B:	蓝色？海。不过我不喜欢海。
-	Blue? The ocean. But I don't like the ocean.
-		
-A:	好了，我们今天就到这儿。
-	OK, let's just stop here today.
-		
-B:	完了？我刚进入状态呢。这样吧，下次轮到我来考你。
-	It's over? Just when I was getting into it. How about this: next time it's my turn to test you.
+A: 今天我来考考你的自由联想。
+ Today I'm going to test your free associations.
+  
+B: 什么？
+ What?
+  
+A: 我会说一些词语，你只要告诉我联想到什么就行了。要完全放松。想到什么就说什么。
+ I'll say a word, and you just tell me what you associate it with. Relax completely. Just say whatever comes to mind.
+  
+B: 好的。
+ OK.
+  
+A: 准备好了吗？
+ Are you ready?
+  
+B: 好了。我们开始吧。
+ Yes. Let's start.
+  
+A: 包子。
+ Bun.
+  
+B: 食堂。我爸爸单位食堂的肉包子最好吃了。小时候，我只要考试成绩好，爸爸就会买肉包子奖励我。
+ Cafeteria. The meat buns at my dad's work unit cafeteria were the best. When I was little, if I got a good test score, Dad would buy a meat bun to reward me.
+  
+A: 你经常吃吗？
+ Did you eat them often?
+  
+B: 不是，我成绩不好。
+ No, my grades weren't good.
+  
+A: 我们再试一个。庙。
+ Let's try another one. Temple.
+  
+B: 难闻。我最怕烧香的味道了。真搞不懂为什么有那么多人要去求神拜佛。
+ Bad-smelling. The smell of burning incense is the worst. I just don't get why so many people pray to Buddha for help.
+  
+A: 你不相信宗教？
+ You don't believe in religion?
+  
+B: 我只相信看得到摸得到的东西，比如包子、钱。
+ I only believe in what I can see and touch, like buns and money.
+  
+A: 钱会让你想到什么？
+ What does money make you think of?
+  
+B: 快乐、悲伤。虽说钱不是万能的，但没有钱是万万不能的。
+ Happiness and sorrow. Although money can't do everything, without it you can't do anything.
+  
+A: 红色呢？会让你想到什么？
+ How about red? What does that make you think of?
+  
+B: 鞭炮。
+ Firecrackers.
+  
+A: 蓝色呢？
+ And blue?
+  
+B: 蓝色？海。不过我不喜欢海。
+ Blue? The ocean. But I don't like the ocean.
+  
+A: 好了，我们今天就到这儿。
+ OK, let's just stop here today.
+  
+B: 完了？我刚进入状态呢。这样吧，下次轮到我来考你。
+ It's over? Just when I was getting into it. How about this: next time it's my turn to test you.
 

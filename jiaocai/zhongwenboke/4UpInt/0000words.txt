@@ -1,4 +1,5 @@
 1949 (D0148)
+宣布		xuānbù		to declare
 代替		dàitì		to replace
 执政党		zhízhèngdǎng		ruling party
 社会主义		shèhuìzhǔyì		socialist
@@ -15,7 +16,7 @@
 三个代表		sāngedàibiǎo		The Three Represents
 八荣八耻		bāróngbāchǐ		The Eight-honor and Eight-shame
 人大		réndà		National Peoples Congress
-政协		zhèngxié		CPPCC
+政协		zhèngxié		Chinese People's Political Consultative Conference
 市场经济		shìchǎngjīngjì		market economy
 
 The Monkey King (D0151)

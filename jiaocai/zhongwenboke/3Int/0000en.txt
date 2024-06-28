@@ -157,37 +157,4 @@ How about this one? This is the latest Dell computer, but it is above your budge
 US$1,200. Does that include the power converter?
 Yes. The power converter is included, but the mouse is extra.
 
-Negotiating Price (C0100)
-This walkman looks good. Does it come with earphones?
-The earphones are included and the price is reasonable. It's only US$200.
-That seems a bit expensive to me. Is there any discount?
-Okay, but you must give me the batteries for free.
 
-A Disappointment (C0102)
-I’m not in a good mood today.
-Last week I had a Chinese test and today I found out that I didn’t pass.
-I’m very disappointed because I put forth a lot of effort.
-I spent a lot of time studying in the library, working on lots of exercises, and practicing with classmates.
- Maybe I was too nervous when I took the exam.
-I’m determined to do better in the future and pass the next test.
-
-Future Goals (C0104)
-I’m ambitious and I’m willing to work hard in the future.
-One of my goals is to go to China to do business.
-I want to set up my own company.
-I plan to export clothes from China to America.
-If I work hard, I think I will be successful.
-
-How was your date? (C0106)
-Tell me about your date last night. How did it go?
-It was great. I really like this girl. Not only is she beautiful, but she has a great personality.
-Yeah. I remember you broke up with your last girlfriend because she was too severe.
-That’s right. I’m looking for a girl who is funny and outgoing.
-
-Requesting a Raise (C0107)
-You look upset. What's up?
-I told my boss that my performance is good. I should be given a raise.
-He doesn't agree?
-He says that although my performance is good, I haven't been with the company for long.
-
-Chinese Tea (C0114)

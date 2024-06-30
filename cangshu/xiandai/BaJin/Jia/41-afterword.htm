@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>41-afterword</title>
+  <style type="text/css">
+  body {
+  font-family: sans-serif, Verdana;
+  margin-top: 3ex;
+  margin-left: 0;
+  text-align: center;
+  margin-right: 0;
+  background-color: #000;
+  color: #eee;
+}
+
+.hilite {
+  background-color: #951;
+}
+
+.sl {
+  margin-left: 10ex;
+  margin-bottom: 2ex;
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 90%;
+  white-space: nowrap;
+}
+
+.mid {
+  margin: 0 auto;
+  max-width: 980px;
+  text-align: left;
+}
+
+.content {
+  min-height: 25em;
+  margin-bottom: 0.5em;
+}
+
+.tab {
+  padding: 0 1ex;
+  float: left;
+  position: relative;
+  top: 1px;
+  margin: 0;
+  margin-left: 3px;
+  display: block;
+}
+
+.atab {
+  border: 1px solid #b80;
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+}
+
+.ntab {
+  border: 1px solid #b80;
+  background-color: #eec;
+}
+
+.ntab:hover {
+  background-color: #fff;
+}
+
+.subtab {
+  background-color: #eec;
+  padding: 0 3px;
+}
+
+.subtab:hover {
+  background-color: #fff;
+}
+
+.tab a,
+.atab a,
+.tab a:hover,
+.atab a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.tabs {
+  width: 100%;
+  border-bottom: 1px solid #b80;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+  min-width: 40ex;
+}
+
+.tabs ul {
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #970;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #c00;
+}
+
+.warning {
+  margin-top: 4ex;
+  border: 1px solid #b80;
+  background-color: #ff9;
+  padding: 1ex;
+}
+
+.adt {
+  text-decoration: none
+}
+
+body {
+  position: relative;
+}
+
+#tip {
+  border: 1px solid #333;
+  background-color: #111;
+  padding: 5px;
+  font: normal 1em sans-serif, arial;
+  z-index: 10001;
+  visibility: hidden;
+  position: absolute;
+  _width: 15ex;
+}
+
+font {
+  z-index: 10000;
+}
+
+.ann {
+  cursor: default;
+  z-index: 99;
+}
+
+.iann {
+  text-align: center;
+  white-space: nowrap;
+  display: -moz-inline-box;
+  display: inline-table;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.sann {
+  margin: 0 0.3ex;
+}
+
+.nann {
+  vertical-align: bottom;
+}
+
+#url {
+  width: 99%;
+}
+
+#annotated {
+  padding: 2ex;
+  margin: 0;
+}
+
+#translated {
+  border: 1px solid #b80;
+  padding: 2ex;
+  padding-bottom: 1ex;
+  margin-top: 2ex;
+}
+
+#intro {
+  margin-top: 1ex;
+}
+
+.py {
+  font-size: 80%;
+  color: #c00;
+  display: table-row;
+}
+
+.zy {
+  font-size: 60%;
+  color: #c00;
+  display: table-row;
+}
+
+.zh {
+  display: table-row;
+}
+
+#show_vocab {
+  margin-top: 1em;
+}
+
+#vocab_table {
+  border: 0px;
+  margin: 5px 5px;
+  padding-left: 5px;
+  text-align: left;
+}
+
+#vocab>tr:nth-child(even) {
+  background-color: #111;
+}
+
+.nw {
+  white-space: nowrap;
+}
+
+.nw_num {
+  font-size: small;
+}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/javascript">
+  const text_vocabulary = {"要":[["yào","yāo"],["to want; to need; to ask for/will; shall; about to/need to; should/if (same as 要是[yào shi])/(bound form) important","(bound form) to demand; to coerce"],3,1.0,98,"要"],"一":[["yī"],["one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yāo] for greater clarity when spelling out numbers digit by digit"],2,1.0,23,"一"],"激流":[["jīliú"],["torrent/torrential current/whitewater"],5,0.18731521914575697,37,"激流"],"美丽":[["měilì"],["beautiful"],2,0.6134719646526969,721,"美麗"],"那个":[["nàge"],["that one/that thing/that (as opposed to this)/(used before a verb or adjective for emphasis)/(used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word)/(used in speech as a filler, similar to \"umm\", \"you know\" etc)/(euph.) menstruation/sex/also pr. [nèi ge]"],1,0.6315223034869385,253,"那個"],"攻击":[["gōngjī"],["to attack/to accuse/to charge/an attack (terrorist or military)"],3,0.5094710458298825,397,"攻擊"],"出来":[["chūlái","chulai"],["to come out/to appear/to arise","(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"],1,0.6022359771003288,337,"出來"],"自然":[["zìrán"],["nature/natural/naturally"],2,0.7677877324190205,678,"自然"],"而":[["ér"],["and/as well as/and so/but (not)/yet (not)/(indicates causal relation)/(indicates change of state)/(indicates contrast)"],2,1.0,260,"而"],"序":[["xù"],["(bound form) order; sequence/(bound form) introductory; initial/preface"],5,0.5583116785821126,352,"序"],"有责任":[["yǒuzérèn"],["liable/responsible"],5,0.0,549,"有責任"],"成":[["chéng","Chéng"],["to succeed/to finish/to complete/to accomplish/to become/to turn into/to be all right/OK!/one tenth","surname Cheng"],3,0.30721343318948113,42,"成"],"掩饰":[["yǎnshì"],["to cover up/to conceal/to mask/to gloss over"],4,0.29377302037137937,601,"掩飾"],"长篇小说":[["chángpiānxiǎoshuō"],["novel"],5,0.291625188467036,10,"長篇小說"],"牺牲品":[["xīshēngpǐn"],["sacrificial victim/sb who is expendable/item sold at a loss"],5,0.17575127744367153,307,"犧牲品"],"写":[["xiě"],["to write"],1,0.7066310632448132,41,"寫"],"梅":[["méi","Méi"],["plum/plum flower/Japanese apricot (Prunus mume)/variant of 梅[méi]/old variant of 梅[méi]","surname Mei"],5,0.19378574999713583,278,"槑"],"多":[["duō"],["many; much/too many; in excess/(after a numeral) ... odd/how (to what extent) (Taiwan pr. [duó])/(bound form) multi-; poly-"],1,1.0,68,"多"],"可是":[["kěshì"],["but; however/(used for emphasis) indeed"],1,0.7273756239655171,125,"可是"],"就":[["jiù"],["(after a suppositional clause) in that case; then/(after a clause of action) as soon as; immediately after/(same as 就是[jiù shì]) merely; nothing else but; simply; just; precisely; exactly/only; as little as/as much as; as many as/to approach; to move towards/to undertake; to engage in/(often followed by 著|着[zhe]) taking advantage of/(of food) to go with/with regard to; concerning/(pattern: 就[jiù] ... 也[yě] ...) even if ... still .../(pattern: 不[bù] ... 就[jiù] ...) if not ... then must be ..."],3,1.0,120,"就"],"不过":[["bùguò"],["only/merely/no more than/but/however/anyway (to get back to a previous topic)/cannot be more (after adjectival)"],2,0.8710472026380068,461,"不過"],"精力":[["jīnglì"],["energy"],2,0.3086836102083988,617,"精力"],"事情":[["shìqing"],["affair; matter; thing; business/CL:件[jiàn],樁|桩[zhuāng]"],1,0.5546955089814658,717,"事情"],"所以":[["suǒyǐ"],["therefore/as a result/so/the reason why"],1,0.9593608893555758,45,"所以"],"让":[["ràng"],["to yield/to permit/to let sb do sth/to have sb do sth/to make sb (feel sad etc)/by (indicates the agent in a passive clause, like 被[bèi])"],1,1.0,302,"讓"],"悲惨":[["bēicǎn"],["miserable/tragic"],4,0.3081590822130211,249,"悲慘"],"被":[["bèi"],["quilt/to cover (with)/(literary) to suffer (a misfortune)/used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb)/(since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅遊|被旅游[bèi lu:3 yóu] to \"go on a trip\", for example)"],1,1.0,234,"被"],"太":[["tài"],["highest/greatest/too (much)/very/extremely"],1,0.8122426220111564,431,"太"],"然而":[["rán'ér"],["however; but; yet"],2,0.6540000282610174,70,"然而"],"用字":[["yòngzì"],["to use letters/to use words/diction"],5,0.25198569722843234,661,"用字"],"许多":[["xǔduō"],["many/a lot of/much"],1,0.8286666198443128,145,"許多"],"目睹":[["mùdǔ"],["to witness/to see at first hand/to see with one's own eyes"],4,0.3094654238400561,237,"目睹"],"恶毒":[["èdú"],["malicious"],4,0.21771521561016638,268,"惡毒"],"个人":[["gèrén"],["individual/personal/oneself"],2,0.9382573999645397,427,"個人"],"痛苦":[["tòngkǔ"],["pain/suffering/painful/CL:個|个[gè]"],2,0.4755715015262317,261,"痛苦"],"机会":[["jīhuì"],["opportunity/chance/occasion/CL:個|个[gè]"],1,0.7410413217751242,335,"機會"],"月":[["yuè"],["moon/month/monthly/CL:個|个[gè],輪|轮[lún]"],1,1.0,749,"月"],"现在":[["xiànzài"],["now/at present/at the moment/modern/current/nowadays"],1,0.8882287598922212,386,"現在"],"逼":[["bī"],["to force (sb to do sth)/to compel/to press for/to extort/to press on towards/to press up to/to close in on/euphemistic variant of 屄[bī]/variant of 逼[bī]/to compel/to pressure"],2,0.11137829567821406,109,"偪"],"可爱":[["kě'ài"],["adorable/cute/lovely"],2,0.5595894392705536,188,"可愛"],"所":[["suǒ"],["actually/place/classifier for houses, small buildings, institutions etc/that which/particle introducing a relative clause or passive/CL:個|个[gè]"],2,1.0,134,"所"],"企图":[["qǐtú"],["to attempt/to try/attempt/CL:種|种[zhǒng]"],2,0.4324168907929959,597,"企圖"],"但":[["dàn"],["but; yet; however; still/merely; only; just"],2,1.0,263,"但"],"拿起":[["náqǐ"],["to pick up"],5,0.33516142719806397,112,"拿起"],"到现在":[["dàoxiànzài"],["up until now/to date"],5,0.0,217,"到現在"],"重":[["zhòng","chóng"],["heavy/serious/to attach importance to","to repeat/repetition/again/re-/classifier: layer"],1,0.7956599344392125,585,"重"],"遭":[["zāo"],["to meet by chance (usually with misfortune)/classifier for events: time, turn, incident"],3,0.5812232763902287,244,"遭"],"场面":[["chǎngmiàn"],["scene/spectacle/occasion/situation"],3,0.35447646672822053,146,"場面"],"本来":[["běnlái"],["original/originally/at first/it goes without saying/of course"],2,0.5163141770302626,642,"本來"],"日":[["rì","Rì"],["sun/day/date, day of the month","abbr. for 日本[Rì běn], Japan"],1,0.3958198289116487,751,"日"],"不合理":[["bùhélǐ"],["unreasonable"],5,0.0,327,"不合理"],"今天":[["jīntiān"],["today/the present time; now"],1,0.940947305925572,406,"今天"],"这":[["zhè"],["(pronoun) this; these/(bound form) this; the (followed by a noun)/(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"],1,1.0,60,"這"],"以至于":[["yǐzhìyú"],["down to/up to/to the extent that..."],5,0.2988016614033108,247,"以至於"],"感情":[["gǎnqíng"],["emotion; sentiment/affection; feelings between two persons/CL:個|个[gè],種|种[zhǒng]"],2,0.5300659524936492,286,"感情"],"记住":[["jìzhu"],["to remember/to bear in mind/to learn by heart"],5,0.3455041869271097,727,"記住"],"青春":[["qīngchūn"],["youth/youthfulness"],3,0.43947454164615074,719,"青春"],"不论":[["bùlùn"],["whatever/no matter what (who, how etc)/regardless of/not to discuss"],2,0.5412292498057553,445,"不論"],"代":[["dài"],["to substitute/to act on behalf of others/to replace/generation/dynasty/age/period/(historical) era/(geological) eon"],3,0.7546535432087249,351,"代"],"仿佛":[["fǎngfú"],["to seem/as if/alike/similar/variant of 彷彿|仿佛[fǎng fú]"],2,0.2811461083746683,167,"仿佛"],"请求":[["qǐngqiú"],["to request; to ask/request (CL:個|个[gè])"],2,0.49084400269889933,686,"請求"],"恨":[["hèn"],["to hate/to regret"],2,0.42806946958651315,141,"恨"],"始终":[["shǐzhōng"],["from beginning to end/all along"],2,0.4271839056610778,726,"始終"],"幼稚":[["yòuzhì"],["young/childish/puerile"],3,0.30495421951906604,559,"幼稚"],"要是":[["yàoshi"],["(coll.) if"],1,0.413076844712917,71,"要是"],"实在":[["shízài"],["really/actually/indeed/true/real/honest/dependable/(philosophy) reality"],2,0.5836764891397787,430,"實在"],"大胆":[["dàdǎn"],["brazen/audacious/outrageous/bold/daring/fearless"],2,0.3498970711628904,355,"大膽"],"想":[["xiǎng"],["to think (about)/to think of; to devise/to think (that); to believe (that)/to desire; to want (to)/to miss (feel wistful about the absence of)"],1,0.8896527170446138,584,"想"],"年前":[["niánqián"],["by the end of the year/at the end of the year; shortly before New Year"],5,0.501366490853471,604,"年前"],"年":[["nián","Nián"],["year/CL:個|个[gè]/grain/harvest (old)/variant of 年[nián]","surname Nian"],1,0.43152436501041286,34,"秊"],"时候":[["shíhou"],["time/length of time/moment/period"],1,0.6838074138224682,49,"時候"],"一样":[["yīyàng"],["same/like/equal to/the same as/just like"],1,0.7259921072194169,479,"一樣"],"前":[["qián"],["front/forward/ahead/first/top (followed by a number)/future/ago/before/BC (e.g. 前293年)/former/formerly"],1,1.0,281,"前"],"但是":[["dànshì"],["but; however"],1,0.9066846475383319,521,"但是"],"宽容":[["kuānróng"],["lenient/tolerant/indulgent/charitable/to forgive"],5,0.2693438691437914,690,"寬容"],"七":[["qī"],["seven/7"],1,0.8933125535325395,696,"七"],"对于":[["duìyú"],["regarding; as far as (sth) is concerned; with regard to"],2,0.8928805005170625,324,"對於"],"这种":[["zhèzhǒng"],["this kind of"],5,0.7853013220266348,379,"這種"],"的":[["de","dì","dī","dí"],["of; ~'s (possessive particle)/(used after an attribute)/(used to form a nominal expression)/(used at the end of a declarative sentence for emphasis)/also pr. [dì] or [di] in poetry and songs","(bound form) bull's-eye; target","a taxi; a cab (abbr. for 的士[dī shì])","really and truly"],1,1.0,7,"的"],"第一":[["dìyī"],["first/number one/primary"],5,0.860579674338915,8,"第一"],"有":[["yǒu"],["to have; there is/(bound form) having; with; -ful; -ed; -al (as in 有意[yǒu yì] intentional)"],1,1.0,121,"有"],"泉源":[["quányuán"],["springhead/fountainhead/(fig.) source"],5,0.2716760683001687,743,"泉源"],"和":[["hé","hú","hè","Hé","huò","huó"],["(joining two nouns) and; together with; with (Taiwan pr. [hàn])/(math.) sum/to make peace/(sports) to draw; to tie/(bound form) harmonious/(bound form) Japan; Japanese/old variant of 和[hé]/harmonious/old variant of 和[hé]","to complete a set in mahjong or playing cards","to compose a poem in reply (to sb's poem) using the same rhyme sequence/to join in the singing/to chime in with others","surname He","to mix (ingredients) together/to blend/classifier for rinses of clothes/classifier for boilings of medicinal herbs","to combine a powdery substance (flour, plaster etc) with water/Taiwan pr. [huò]"],1,1.0,138,"咊"],"重视":[["zhòngshì"],["to attach importance to sth; to value"],2,0.5916752198529429,564,"重視"],"常常":[["chángcháng"],["frequently/often"],1,0.563026535017024,233,"常常"],"路":[["lù","Lù"],["road (CL:條|条[tiáo])/journey/route/line (bus etc)/sort; kind","surname Lu"],1,0.3704397082319547,518,"路"],"明显":[["míngxiǎn"],["clear/distinct/obvious"],2,0.5842946276698296,469,"明顯"],"因为":[["yīnwèi"],["because/owing to/on account of"],1,1.0,258,"因為"],"一些":[["yīxiē"],["some/a few/a little/(following an adjective) slightly ...er"],1,0.8367288524010972,170,"一些"],"小说":[["xiǎoshuō"],["novel/fiction/CL:本[běn],部[bù]"],2,0.5982512102731044,62,"小說"],"经历":[["jīnglì"],["experience/CL:個|个[gè],次[cì]/to experience/to go through"],2,0.5856400075811901,155,"經歷"],"诅咒":[["zǔzhòu"],["to curse"],5,0.2619575527990865,270,"詛咒"],"作家":[["zuòjiā"],["author/CL:個|个[gè],位[wèi]"],2,0.5528378136370795,100,"作家"],"深":[["shēn"],["deep (lit. and fig.)/old variant of 深[shēn]"],2,0.0,432,"㴱"],"字句":[["zìjù"],["words/expressions/writing"],5,0.2510183638390198,674,"字句"],"看起来":[["kànqǐlai"],["seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be"],4,0.4557693020639421,463,"看起來"],"吧":[["ba","bā","biā"],["(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume.","bar (loanword) (serving drinks, or providing Internet access etc)/to puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tiē bā]","(onom.) smack!"],1,0.9003631400072085,308,"吧"],"没有":[["méiyǒu"],["haven't/hasn't/doesn't exist/to not have/to not be"],1,0.968136903890503,72,"沒有"],"为了":[["wèile"],["for; for the purpose of; in order to"],1,0.8041535078585486,97,"為了"],"成功":[["chénggōng","Chénggōng"],["to succeed/success/successful; fruitful","Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tái dōng Xiàn], southeast Taiwan"],2,0.23276142779602285,680,"成功"],"是":[["shì"],["to be (followed by substantives only)/correct; right; true/(respectful acknowledgement of a command) very well/(adverb for emphatic assertion)/variant of 是[shì]"],1,0.0,5,"昰"],"哀哭":[["āikū"],["to weep in sorrow"],5,0.0,199,"哀哭"],"新":[["xīn","Xīn"],["new/newly/meso- (chemistry)","abbr. for Xinjiang 新疆[Xīnjiāng]/abbr. for Singapore 新加坡[Xīnjiāpō]/surname Xin"],1,0.4168637510625872,620,"新"],"名字":[["míngzi"],["name (of a person or thing)/CL:個|个[gè]"],1,0.5928972750095555,56,"名字"],"向":[["xiàng","Xiàng"],["towards/to face/to turn towards/direction/to support/to side with/shortly before/formerly/always/all along/(suffix) suitable for .../oriented to .../to tend toward/to guide/variant of 向[xiàng]/variant of 向[xiàng]/direction/orientation/to face/to turn toward/to/towards/shortly before/formerly","surname Xiang"],1,0.28299064259645224,361,"曏"],"家":[["jiā"],["home/family/(polite) my (sister, uncle etc)/classifier for families or businesses/refers to the philosophical schools of pre-Han China/noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian/CL:個|个[gè]/used in 傢伙|家伙[jiā huo] and 傢俱|家俱[jiā jù]"],1,0.343243405646617,3,"傢"],"改":[["gǎi"],["to change/to alter/to transform/to correct"],1,0.6438644091772784,657,"改"],"没法":[["méifǎ"],["at a loss/unable to do anything about it/to have no choice"],5,0.27653268288988997,600,"沒法"],"异常":[["yìcháng"],["unusual; abnormal/extremely; exceptionally"],2,0.5054079070614222,219,"異常"],"地":[["dì","de"],["earth/ground/field/place/land/CL:片[piàn]","-ly/structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"],1,0.6514796327852348,356,"地"],"挖开":[["wākāi"],["to dig into/to cut a mine into"],5,0.10533508856274564,206,"挖開"],"索性":[["suǒxìng"],["you might as well (do it)/simply/just"],4,0.24337965981835777,637,"索性"],"或者":[["huòzhě"],["or/possibly; maybe; perhaps"],1,0.5844488561714927,153,"或者"],"明确":[["míngquè"],["clear-cut; definite; explicit/to clarify; to specify; to make definite"],2,0.4895375125328701,513,"明確"],"坟墓":[["fénmù"],["grave/tomb"],4,0.2701279935061151,211,"墳墓"],"自己":[["zìjǐ"],["oneself/one's own"],1,1.0,123,"自己"],"当时":[["dàngshí","dāngshí"],["at once/right away","then/at that time/while"],2,0.6767193568658061,447,"當時"],"同时":[["tóngshí"],["at the same time; simultaneously"],1,0.8477144486003418,264,"同時"],"一次":[["yīcì"],["first/first time/once/(math.) linear (of degree one)"],5,0.8094716046668415,306,"一次"],"魔爪":[["mózhǎo","Mózhǎo"],["evil clutches/claws","Monster (energy drink)"],5,0.05266754428137282,180,"魔爪"],"鲜明":[["xiānmíng"],["(of colors) bright; fresh and clear/clear-cut; distinct"],3,0.2990896633389511,220,"鮮明"],"三七":[["sānqī"],["pseudoginseng (Panax pseudoginseng), hemostatic herb"],5,0.3307847408210047,344,"三七"],"冷静":[["lěngjìng"],["calm; cool-headed; dispassionate/(of a place) deserted; quiet"],3,0.33057194898312386,482,"冷靜"],"十九":[["shíjiǔ"],["nineteen/19"],5,0.5995049995128441,75,"十九"],"也":[["yě","Yě"],["(adverb) also; both ... and ... (before predicates only)/(literary) particle having functions similar to 啊[a]","surname Ye"],1,0.4014006315415511,81,"也"],"爱憎":[["àizēng"],["love and hate"],5,0.1512412636248082,429,"愛憎"],"条":[["tiáo"],["strip/item/article/clause (of law or treaty)/classifier for long thin things (ribbon, river, road, trousers etc)"],1,0.9175538279507615,517,"條"],"说明":[["shuōmíng"],["to explain/to illustrate/to indicate/to show/to prove/explanation/directions/caption/CL:個|个[gè]"],1,0.9522320555852848,422,"說明"],"生命":[["shēngmìng"],["life (as the characteristic of living beings)/living being; creature (CL:個|个[gè],條|条[tiáo])"],2,0.7918443000173717,192,"生命"],"来":[["lái"],["to come/(used as a substitute for a more specific verb)/hither (directional complement for motion toward the speaker, as in 回來|回来[huílai])/ever since (as in 自古以來|自古以来[zìgǔ yǐlái])/for the past (amount of time)/(prefix) the coming ...; the next ... (as in 來世|来世[láishì])/(between two verbs) in order to/(after a round number) approximately/(used after 得[dé] to indicate possibility, as in 談得來|谈得来[tándelái], or after 不[bù] to indicate impossibility, as in 吃不來|吃不来[chībulái])"],2,1.0,114,"來"],"那种":[["nàzhǒng"],["that kind of"],5,0.5030672981398496,285,"那種"],"部":[["bù"],["ministry/department/section/part/division/troops/board/classifier for works of literature, films, machines etc"],2,0.9475187130055231,9,"部"],"可以":[["kěyǐ"],["can/may/possible/able to/not bad/pretty good"],2,1.0,421,"可以"],"知道":[["zhīdào"],["to know; to become aware of/also pr. [zhī dao]"],1,0.8716519838197005,202,"知道"],"不一定":[["bùyīdìng"],["not necessarily/maybe"],2,0.3558504322738275,119,"不一定"],"积愤":[["jīfèn"],["accumulated anger/pent-up fury"],5,0.0,321,"積憤"],"就是":[["jiùshì"],["exactly; precisely/only; simply; just/(used correlatively with 也[yě]) even; even if"],2,0.9238436053341522,377,"就是"],"一直":[["yīzhí"],["straight (in a straight line)/continuously; always; all the way through"],1,0.6792868483680626,310,"一直"],"用":[["yòng"],["to use/to employ/to have to/to eat or drink/expense or outlay/usefulness/hence/therefore"],1,1.0,50,"用"],"一块儿":[["yīkuàir"],["erhua variant of 一塊|一块[yī kuài]"],1,0.19073271059876254,172,"一塊兒"],"出":[["chū"],["to go out; to come out/to arise; to occur/to produce; to yield/to go beyond; to exceed/(used after a verb to indicate an outward direction or a positive result)/classifier for dramas, plays, operas etc/variant of 出[chū] (classifier for plays or chapters of classical novels)"],1,0.3628149429020934,84,"齣"],"周密":[["zhōumì"],["careful/thorough/meticulous/dense/impenetrable"],4,0.20900466960683142,486,"周密"],"控诉":[["kòngsù"],["to accuse/to denounce/to make a complaint against/denunciation"],4,0.3132882820933548,373,"控訴"],"吐露":[["tǔlù"],["to tell/to disclose/to reveal"],5,0.2064291716319876,336,"吐露"],"下面":[["xiàmiàn"],["below/under/next/the following/also pr. [xià mian]/to boil noodles"],2,0.11137829567821406,181,"下麵"],"它":[["tā"],["it"],1,0.8704411590998491,27,"它"],"横":[["héng","hèng"],["horizontal/across/crosswise/horizontal stroke (in Chinese characters)/to place (sth) flat (on a surface)/to cross (a river, etc)/in a jumble/chaotic/(in fixed expressions) harsh and unreasonable/violent","harsh and unreasonable/unexpected"],3,0.4630690085358193,243,"橫"],"里面":[["lǐmiàn"],["inside/interior/also pr. [lǐ mian]"],2,0.5653402153568836,118,"裡面"],"过去":[["guòqù","guòqu"],["(in the) past; former; previous/to go over; to pass by","(verb suffix)"],1,0.6882636629299764,106,"過去"],"至少":[["zhìshǎo"],["at least/(to say the) least"],2,0.6039197847060022,712,"至少"],"他":[["tā"],["he; him (used for either sex when the sex is unknown or unimportant)/(used before sb's name for emphasis)/(used as a meaningless mock object)/(literary) other"],1,1.0,295,"他"],"保留":[["bǎoliú"],["to keep/to retain/to have reservations (about sth)/to hold back (from saying sth)/to put aside for later"],2,0.5294967394427732,638,"保留"],"当然":[["dāngrán"],["only natural/as it should be/certainly/of course/without doubt"],1,0.7024951954536747,439,"當然"],"巴金":[["Bā Jīn"],["Ba Jin (1904-2005), novelist, author of the trilogy 家春秋[Jiā Chūn Qiū]"],5,0.0,745,"巴金"],"只是":[["zhǐshì"],["merely; only; just; nothing but/simply/but; however"],2,0.7723371357134126,22,"只是"],"笔":[["bǐ"],["pen/pencil/writing brush/to write or compose/the strokes of Chinese characters/classifier for sums of money, deals/CL:支[zhī],枝[zhī]"],1,0.7902900109321653,113,"筆"],"得":[["děi","de","dé"],["to have to/must/ought to/to need to","structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc","to obtain/to get/to gain/to catch (a disease)/proper/suitable/proud/contented/to allow/to permit/ready/finished"],1,0.9759943473260287,417,"得"],"还":[["huán","hái","Huán"],["to pay back/to return","still/still in progress/still more/yet/even more/in addition/fairly/passably (good)/as early as/even/also/else","surname Huan"],1,0.26997562487168064,556,"還"],"后记":[["hòujì"],["epilogue/afterword"],5,0.3046825451117726,1,"後記"],"最初":[["zuìchū"],["first/primary/initial/original/at first/initially/originally"],1,0.37993144034515586,46,"最初"],"受苦":[["shòukǔ"],["to suffer hardship"],5,0.27616810374142603,173,"受苦"],"罢了":[["bàle","bàliǎo"],["a modal particle indicating (that's all, only, nothing much)","a modal particle indicating (don't mind it, ok)"],5,0.37908683021552814,470,"罷了"],"之一":[["zhīyī"],["one of (sth)/one out of a multitude/one (third, quarter, percent etc)"],2,0.6875309007149079,40,"之一"],"年轻":[["niánqīng"],["young"],1,0.5361097366078267,190,"年輕"],"到":[["dào"],["to reach; to arrive/to leave for; to go to/to (a place); until (a time); up to (a point)/(verb complement indicating arriving at a place or reaching a point)/considerate; thoughtful; thorough"],1,1.0,311,"到"],"告诉":[["gàosu","gàosù"],["to tell; to inform; to let know","to press charges; to file a complaint"],1,0.759757634091972,713,"告訴"],"在":[["zài"],["to exist; to be alive/(of sb or sth) to be (located) at/(used before a verb to indicate an action in progress)"],1,1.0,12,"在"],"个":[["gè","gě"],["(classifier used before a noun that has no specific classifier)/(bound form) individual/variant of 個|个[gè]","used in 自個兒|自个儿[zì gě r]"],1,1.0,226,"箇"],"作为":[["zuòwéi"],["one's conduct/deed/activity/accomplishment/achievement/to act as/as (in the capacity of)/qua/to view as/to look upon (sth as)/to take sth to be"],2,0.70426405043499,35,"作為"],"本":[["běn"],["(bound form) root; stem/(bound form) origin; source/(bound form) one's own; this/(bound form) this; the current (year etc)/(bound form) original/(bound form) inherent/originally; initially/capital; principal/classifier for books, periodicals, files etc"],2,1.0,61,"本"],"花":[["huā","Huā"],["flower/blossom/CL:朵[duǒ],支[zhī],束[shù],把[bǎ],盆[pén],簇[cù]/fancy pattern/florid/to spend (money, time)/(coll.) lecherous/lustful/variant of 花[huā]/flower/blossom/also pr. [wěi]/old variant of 花[huā]","surname Hua"],1,0.24827377085030775,63,"芲"],"哥哥":[["gēge"],["older brother/CL:個|个[gè],位[wèi]"],1,0.42875446121308597,296,"哥哥"],"而且":[["érqiě"],["(not only ...) but also/moreover/in addition/furthermore"],1,0.788836245695563,467,"而且"],"回忆":[["huíyì"],["to recall/memories/CL:個|个[gè]"],2,0.45754684415216385,209,"回憶"],"读者":[["dúzhě"],["reader"],2,0.8306203525789932,522,"讀者"],"得到":[["dédào"],["to get; to obtain; to receive"],1,0.6459299426325474,248,"得到"],"事实上":[["shìshíshàng"],["in fact/in reality/actually/as a matter of fact/de facto/ipso facto"],5,0.5451657218655496,531,"事實上"],"去":[["qù"],["to go/to go to (a place)/(of a time etc) last/just passed/to send/to remove/to get rid of/to reduce/to be apart from in space or time/to die (euphemism)/to play (a part)/(when used either before or after a verb) to go in order to do sth/(after a verb of motion indicates movement away from the speaker)/(used after certain verbs to indicate detachment or separation)"],1,0.9668710018069903,64,"去"],"放弃":[["fàngqì"],["to renounce; to abandon; to give up"],2,0.5133255022288474,594,"放棄"],"更":[["gèng","gēng"],["more/even more/further/still/still more","to change or replace/to experience/one of the five two-hour periods into which the night was formerly divided/watch (e.g. of a sentry or guard)"],1,0.9626638926532206,465,"更"],"缺少":[["quēshǎo"],["lack/shortage of/shortfall/to be short (of)/to lack"],2,0.3451304663294871,481,"缺少"],"亲身":[["qīnshēn"],["personal/oneself"],4,0.32993109566463785,154,"親身"],"着":[["zhe","zháo","zhuó","zhāo"],["aspect particle indicating action in progress or ongoing state","to touch/to come in contact with/to feel/to be affected by/to catch fire/to burn/(coll.) to fall asleep/(after a verb) hitting the mark/succeeding in","to wear (clothes)/to contact/to use/to apply","(chess) move/trick/all right!/(dialect) to add"],1,0.8897947372408422,110,"著"],"心":[["xīn"],["heart/mind/intention/center/core/CL:顆|颗[kē],個|个[gè]"],1,0.9276742668122973,257,"心"],"其他":[["qítā"],["other/(sth or sb) else/the rest"],2,1.0,476,"其他"],"过":[["guo","guò","Guō"],["(experienced action marker)","to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too-","surname Guo"],1,0.2763323429479666,93,"過"],"早就":[["zǎojiù"],["already at an earlier time"],5,0.4109869201189937,91,"早就"],"年轻人":[["niánqīngrén"],["young people/youngster"],5,0.4208250783032937,699,"年輕人"],"面目":[["miànmù"],["appearance/facial features/look"],4,0.24230510969363922,644,"面目"],"爱怜":[["àilián"],["to show tenderness/to coo over/affection"],5,0.16131090848761323,259,"愛憐"],"二":[["èr"],["two/2/(Beijing dialect) stupid"],1,1.0,390,"二"],"地方":[["dìfang","dìfāng"],["area/place/space/room/territory/CL:處|处[chù],個|个[gè],塊|块[kuài]","region/regional (away from the central administration)/local"],1,0.7860311420115826,665,"地方"],"那些":[["nàxiē"],["those"],1,0.6526203318971381,128,"那些"],"重印":[["chóngyìn"],["to reprint"],5,0.16819047763276113,575,"重印"],"给":[["gěi","jǐ"],["to/for/for the benefit of/to give/to allow/to do sth (for sb)/(grammatical equivalent of 被)/(grammatical equivalent of 把)/(sentence intensifier)","to supply/to provide"],1,1.0,538,"給"],"发表":[["fābiǎo"],["to issue/to publish"],2,1.0,17,"發表"],"做":[["zuò"],["to make; to produce/to write; to compose/to do; to engage in; to hold (a party etc)/(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)/(of a thing) to serve as; to be used for/to assume (an air or manner)"],1,0.9285020240083228,99,"做"],"像":[["xiàng"],["to resemble/to be like/to look as if/such as/appearance/image/portrait/image under a mapping (math.)"],1,0.802640009909766,435,"像"],"跟":[["gēn"],["heel/to follow closely/to go with/(of a woman) to marry sb/with/compared with/to/towards/and (joining two nouns)"],1,0.7971982728328315,169,"跟"],"惨痛":[["cǎntòng"],["bitter/painful/deeply distressed"],5,0.21845701584717164,214,"慘痛"],"删去":[["shānqù"],["to delete"],5,0.18613336066193809,670,"刪去"],"以后":[["yǐhòu"],["after/later/afterwards/following/later on/in the future"],1,0.6710115300657536,392,"以後"],"鼓舞":[["gǔwǔ"],["heartening (news)/to boost (morale)/CL:個|个[gè]"],2,0.29407603575132324,741,"鼓舞"],"文学":[["wénxué"],["literature/CL:種|种[zhǒng]"],1,0.6510088427704306,573,"文學"],"书":[["shū","Shū"],["book/letter/document/CL:本[běn],冊|册[cè],部[bù]/to write","abbr. for 書經|书经[Shū jīng]"],1,0.30466622152079453,126,"書"],"叫":[["jiào"],["to shout/to call/to order/to ask/to be called/by (indicates agent in the passive mood)/variant of 叫[jiào]"],1,0.0,367,"呌"],"陪":[["péi"],["to accompany/to keep sb company/to assist/old variant of 賠|赔[péi]"],2,0.4948291834731836,185,"陪"],"充满":[["chōngmǎn"],["full of/brimming with/very full/permeated"],2,0.5279872224445052,267,"充滿"],"任务":[["rènwu"],["mission; assignment; task; duty; role/CL:項|项[xiàng],個|个[gè]"],2,0.5462546857004833,633,"任務"],"之前":[["zhīqián"],["before/prior to/ago/previously/beforehand"],2,0.6385230967160497,16,"之前"],"修改":[["xiūgǎi"],["to amend/to alter/to modify"],2,0.6810474337975224,651,"修改"],"对待":[["duìdài"],["to treat/treatment"],2,0.36708874554455445,692,"對待"],"说教":[["shuōjiào"],["to preach"],5,0.20190938541701017,506,"說教"],"却":[["què"],["but/yet/however/while/to go back/to decline/to retreat/nevertheless/even though/old variant of 卻|却[què]"],2,0.0,130,"㕁"],"眼见":[["yǎnjiàn"],["to see with one's own eyes/very soon"],5,0.29822314627678514,151,"眼見"],"甚至":[["shènzhì"],["even; so much so that"],3,0.7089313391178146,289,"甚至"],"都":[["dōu","Dū","dū"],["all; both; entirely/(used for emphasis) even/already/(not) at all","surname Du","capital city/metropolis"],1,1.0,131,"都"],"厉害":[["lìhai"],["(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding/(of a person) stern; strict; harsh; shrewd; tough/(of an animal) fierce/(of a resemblance) striking/(of liquor or chili pepper) strong/(of bacteria) virulent"],2,0.40038673970912114,418,"厲害"],"这样":[["zhèyàng"],["this kind of/so/this way/like this/such"],1,0.843797158783189,85,"這樣"],"垂死":[["chuísǐ"],["dying"],5,0.19904469674270714,364,"垂死"],"者":[["zhě"],["(after a verb or adjective) one who (is) .../(after a noun) person involved in .../-er/-ist/(used after a number or 後|后[hòu] or 前[qián] to refer to sth mentioned previously)/(used after a term, to mark a pause before defining the term)/(old) (used at the end of a command)/(old) this"],3,1.0,507,"者"],"制度":[["zhìdù"],["system (e.g. political, adminstrative etc)/institution/CL:個|个[gè]"],2,0.7050117946013079,328,"制度"],"了":[["liǎo","le","liào"],["to finish/to achieve/variant of 瞭|了[liǎo]/to understand clearly/(of eyes) bright/clear-sighted/to understand clearly","(completed action marker)/(modal particle indicating change of state, situation now)/(modal particle intensifying preceding clause)","unofficial variant of 瞭[liào]"],1,0.29377302037137937,51,"瞭"],"三":[["sān","Sān"],["three/3","surname San"],1,0.38514741250016377,32,"三"],"很":[["hěn"],["(adverb of degree)/quite/very/awfully"],1,0.9625517508672614,90,"很"],"看":[["kàn","kān"],["to see; to look at/to read/to watch/to visit; to call on/to consider; to regard as/to look after/to treat (a patient or illness)/to depend on/to feel (that)/(after a verb) to give it a try/to watch out for","to look after/to take care of/to watch/to guard"],1,0.9656770157574092,448,"看"],"把":[["bǎ","bà"],["to hold; to grasp/to hold a baby in position to help it urinate or defecate/handlebar/classifier: handful, bundle, bunch/classifier for things with handles/(used to put the object before the verb: 把[bǎ] + {noun} + {verb})","handle"],3,0.9437425210177675,649,"把"],"不":[["bù"],["no; not so/(bound form) not; un-"],1,1.0,83,"不"],"妥当":[["tuǒdang"],["appropriate/proper/ready"],3,0.28320090602678427,663,"妥當"],"我":[["wǒ"],["I; me; my"],1,1.0,6,"我"],"构思":[["gòusī"],["to design/to plot/to plan out/to compose/to draw a mental sketch/conception/plan/idea/composition"],4,0.2673530167315284,488,"構思"],"时间":[["shíjiān"],["(concept of) time/(duration of) time/(point in) time"],1,1.0,66,"時間"],"缺点":[["quēdiǎn"],["weak point/fault/shortcoming/disadvantage/CL:個|个[gè]"],2,0.43874753412552375,443,"缺點"],"东西":[["dōngxī","dōngxi"],["east and west","thing/stuff/person/CL:個|个[gè],件[jiàn]"],1,0.6562167773671985,622,"東西"],"累赘":[["léizhuì"],["superfluous/cumbersome/a burden on sb/a nuisance to sb/to inconvenience/to tie sb down/long-winded (of writing)/also pr. [léi zhui]"],5,0.17284529667709833,672,"累贅"],"已经":[["yǐjīng"],["already"],1,0.839850517471415,402,"已經"],"灭亡":[["mièwáng"],["to be destroyed; to become extinct; to perish; to die out/to destroy; to exterminate"],3,0.26973678611695256,20,"滅亡"],"篇":[["piān"],["sheet/piece of writing/bound set of bamboo slips used for record keeping (old)/classifier for written items: chapter, article"],1,0.8882287598922212,25,"篇"],"三部曲":[["sānbùqǔ"],["trilogy"],5,0.2543564728410864,38,"三部曲"],"孩子":[["háizi"],["child"],1,0.6871517823459506,227,"孩子"],"中":[["zhōng","zhòng","Zhōng"],["within; among; in/middle; center/while (doing sth); during/(dialect) OK; all right","to hit (the mark)/to be hit by/to suffer/to win (a prize, a lottery)","(bound form) China; Chinese/surname Zhong"],1,0.4624914171624137,127,"中"],"指出":[["zhǐchū"],["to indicate/to point out"],2,0.6586806965431417,515,"指出"],"爱":[["ài"],["to love; to be fond of; to like/affection/to be inclined (to do sth); to tend to (happen)"],1,0.8761596552342934,135,"愛"],"觉":[["jué","jiào"],["to feel/to find that/thinking/awake/aware","a nap/a sleep/CL:場|场[cháng]"],3,0.5583116785821126,275,"覺"],"亲":[["qīn","qìng"],["parent/one's own (flesh and blood)/relative/related/marriage/bride/close/intimate/in person/first-hand/in favor of/pro-/to kiss/(Internet slang) dear","parents-in-law of one's offspring"],3,0.6757240322767097,150,"親"],"喜欢":[["xǐhuan"],["to like; to be fond of"],1,0.7711150397222828,707,"喜歡"],"思考":[["sīkǎo"],["to reflect on/to ponder over"],3,0.6053469661129696,484,"思考"],"人":[["rén"],["person; people/CL:個|个[gè],位[wèi]"],1,1.0,171,"人"],"尽":[["jìn","jǐn"],["to use up/to exhaust/to end/to finish/to the utmost/exhausted/finished/to the limit (of sth)/all/entirely","to the greatest extent/(when used before a noun of location) furthest or extreme/to be within the limits of/to give priority to"],2,0.4206184369062052,627,"儘"],"人民":[["rénmín"],["the people/CL:個|个[gè]"],1,0.6256675030662531,572,"人民"],"欢笑":[["huānxiào"],["to laugh happily/a belly-laugh"],4,0.30023343052949397,193,"歡笑"],"次":[["cì"],["next in sequence/second/the second (day, time etc)/secondary/vice-/sub-/infra-/inferior quality/substandard/order/sequence/hypo- (chemistry)/classifier for enumerated events: time"],3,0.8251420651862554,571,"次"],"人物":[["rénwù"],["person; personage; figure (esp. sb of importance)/character (in a play, novel etc)/figure painting (as a genre of traditional Chinese painting)"],2,0.6581145527835455,129,"人物"],"又":[["yòu"],["(once) again/also/both... and.../and yet/(used for emphasis) anyway"],1,1.0,266,"又"],"不是":[["bùshi","bùshì"],["fault; blame","no/is not/not"],3,0.8118546593903092,96,"不是"],"消灭":[["xiāomiè"],["to put an end to/to annihilate/to cause to perish/to perish/annihilation (in quantum field theory)"],2,0.3775235522561749,403,"消滅"],"才":[["cái"],["ability; talent/sb of a certain type/a capable individual/then and only then/just now/(before an expression of quantity) only/(variant of 才[cái]) just now/(variant of 才[cái]) (before an expression of quantity) only"],3,0.27725754541895764,101,"纔"],"里":[["lǐ","Lǐ"],["lining/interior/inside/internal/also written 裏|里[lǐ]/li, ancient measure of length, approx. 500 m/neighborhood/ancient administrative unit of 25 families/(Tw) borough, administrative unit between the township 鎮|镇[zhèn] and neighborhood 鄰|邻[lín] levels/variant of 裡|里[lǐ]","Li (surname)"],1,0.2394142729683562,354,"里"],"出版社":[["chūbǎnshè"],["publishing house"],5,0.7276753461459909,574,"出版社"],"个中":[["gèzhōng"],["therein/in this"],5,0.3081590822130211,24,"個中"],"心情":[["xīnqíng"],["mood; frame of mind/CL:個|个[gè]"],2,0.6900502767149485,380,"心情"],"作品":[["zuòpǐn"],["work (of art)/opus/CL:部[bù],篇[piān]"],2,0.820891033011203,87,"作品"],"生活":[["shēnghuó"],["to live/life/livelihood"],1,1.0,78,"生活"],"一遍":[["yībiàn"],["one time (all the way through)/once through"],5,0.3275487658745388,653,"一遍"],"九":[["jiǔ"],["nine/9"],1,0.8607848343176411,31,"九"],"重读":[["zhòngdú"],["stress (on a syllable)"],5,0.25846400372591927,409,"重讀"],"还是":[["háishi"],["still (as before)/had better/unexpectedly/or"],1,0.8052904155986601,218,"還是"],"找":[["zhǎo"],["to try to find/to look for/to call on sb/to find/to seek/to return/to give change"],1,0.7514826598794012,528,"找"],"挣扎":[["zhēngzhá"],["to struggle"],3,0.33330678925126483,182,"掙扎"],"慧":[["huì"],["intelligent"],5,0.7033149499738388,276,"慧"],"二十":[["èrshí"],["twenty; 20"],5,0.8456353964672727,389,"二十"],"面前":[["miànqián"],["in front of/facing/(in the) presence (of)"],2,0.44784421003343083,297,"面前"],"激动":[["jīdòng"],["to move emotionally/to stir up (emotions)/to excite"],2,0.3207729052282472,416,"激動"],"这个":[["zhège"],["(pronoun) this/(adjective) this"],1,0.9449850114414161,596,"這個"],"他们":[["tāmen"],["they; them"],1,0.9202017753654927,198,"他們"],"并不":[["bìngbù"],["not at all; by no means"],5,0.6711388301663496,67,"並不"],"岁":[["suì"],["classifier for years (of age)/year/year (of crop harvests)/variant of 歲|岁[suì], year/years old"],1,0.0,697,"嵗"],"的话":[["dehuà"],["if (coming after a conditional clause)"],2,0.757926370338151,300,"的話"],"灵":[["líng"],["quick/alert/efficacious/effective/to come true/spirit/departed soul/coffin"],4,0.644612588076831,280,"靈"],"说":[["shuō","shuì"],["to speak; to talk; to say/to explain; to comment/to scold; to tell off/(bound form) theory; doctrine/variant of 說|说[shuō]","to persuade"],1,1.0,92,"説"],"起":[["qǐ"],["to rise/to raise/to get up/to set out/to start/to appear/to launch/to initiate (action)/to draft/to establish/to get (from a depot or counter)/verb suffix, to start/starting from (a time, place, price etc)/classifier for occurrences or unpredictable events: case, instance/classifier for groups: batch, group"],1,0.8903948407149332,283,"起"],"件":[["jiàn"],["item/component/classifier for events, things, clothes etc"],1,0.7417399282940528,716,"件"],"历史":[["lìshǐ"],["history/CL:門|门[mén],段[duàn]"],1,0.7944657752011539,631,"歷史"],"结局":[["jiéjú"],["conclusion/ending"],4,0.3600445385552043,251,"結局"],"摧残":[["cuīcán"],["to ravage/to ruin"],4,0.21991834824975054,245,"摧殘"],"能够":[["nénggòu"],["to be capable of/to be able to/can"],1,0.6964017042168732,512,"能夠"],"终于":[["zhōngyú"],["at last/in the end/finally/eventually"],2,0.6124362269013182,593,"終於"]}; ;
+  /* exported sP */
+/* global text_vocabulary */
+
+'use strict';
+
+const dI = {
+  over: function (el) {
+    $(el).addClass('hilite');
+  },
+  out: function (el) {
+    $(el).removeClass('hilite');
+  },
+  getX: function (obj) {
+    return (obj.offsetLeft || 0) + (obj.offsetParent && this.getX(obj.offsetParent) || 0);
+  },
+  getY: function (obj) {
+    return (obj.offsetTop || 0) + (obj.offsetParent && this.getY(obj.offsetParent) || 0);
+  },
+  positiontip: function (el, tip) {
+    const innerWidth = window.innerWidth ||
+                       document.documentElement.clientWidth ||
+                       document.body.clientWidth;
+    const innerHeight = window.innerHeight ||
+                        document.documentElement.clientHeight ||
+                        document.body.clientHeight;
+    const scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const elx = this.getX(el);
+    const ely = this.getY(el);
+    if (tip.offsetWidth > 300) {
+      tip.style.width = '300px';
+    }
+    const shift = Math.abs(el.offsetWidth) > 40 ? 40 : Math.abs(el.offsetWidth) / 2;
+    if (innerWidth + scrollLeft - elx - el.offsetWidth < tip.offsetWidth) {
+      tip.style.left = elx + shift - tip.offsetWidth + 'px';
+    } else {
+      tip.style.left = elx + shift + 'px';
+    }
+    if (innerHeight + scrollTop - ely - el.offsetHeight < tip.offsetHeight + 15) {
+      tip.style.top = ely - 3 - tip.offsetHeight + 'px';
+    } else {
+      tip.style.top = ely + 3 + el.offsetHeight + 'px';
+    }
+  },
+  ie: document.all
+};
+
+function sP(el, ev, zh) {
+  const tip = $('#tip')[0];
+  el.onmouseout = function () {
+    tip.style.visibility = 'hidden';
+    tip.style.left = '-1000px';
+    tip.style.top = '-1000px';
+    tip.style.backgroundColor = '';
+    tip.style.width = '';
+    dI.out(el);
+  };
+  dI.over(el);
+  let zh_fallback;
+  if (zh) {
+    zh_fallback = zh;
+  } else if (el.lastChild.nodeValue) {
+    zh_fallback = el.lastChild.nodeValue;
+  } else {
+    zh_fallback = el.lastChild.lastChild.nodeValue;
+  }
+  const item = dI.vocab[zh_fallback];
+  const py = item[0];
+  const en = item[1];
+  const oh = item[5];
+  let other = '';
+  if (zh_fallback !== oh) {
+    for (let i = 0; i < zh_fallback.length; ++i) {
+      other += zh_fallback[i] === oh[i] ? '-' : oh[i];
+    }
+    other = ' [' + other + ']';
+  }
+  let tip_html = `<div style="font-size:150%;color:lightblue">${zh_fallback}${other}</div>`;
+  for (let i = 0; i < py.length; ++i) {
+    const enstr = '• ' + en[i].replace(/([^<])\//g, '$1<br />• ');
+    tip_html += '<div style="font-weight:bold">' + py[i] +
+      '</div><div style="text-align:left;font-size:90%">' + enstr + '</div>';
+  }
+  tip.innerHTML = tip_html;
+  dI.positiontip(el, tip);
+  tip.style.visibility = 'visible';
+}
+
+dI.vocab = text_vocabulary;
+  /* exported show_words */
+/* global text_vocabulary */
+
+'use strict';
+
+const by = {
+  ord: function (a, b) {
+    return a[3] - b[3];
+  },
+  py: function (a, b) {
+    const l = a[1].toLowerCase();
+    const r = b[1].toLowerCase();
+    if (l > r) {
+      return 1;
+    }
+    return l < r ? -1 : 0;
+  },
+  rad: function (a, b) {
+    if (a[0] > b[0]) {
+      return 1;
+    }
+    return a[0] < b[0] ? -1 : 0;
+  },
+  freq: function (a, b) {
+    return b[4] - a[4];
+  }
+};
+
+function vocab_sort(vocab_list, cmp) {
+  const cmp_op = typeof cmp === 'undefined' ? 'ord' : cmp;
+  vocab_list.sort(by[cmp_op]);
+}
+
+// 历史上 ->	歷--
+function create_traditional_item(simplified, traditional) {
+  if (traditional === simplified) {
+    return '';
+  }
+  let result = '';
+  for (let i = 0; i < traditional.length; ++i) {
+    if (i >= simplified.length) {
+      result += traditional[i];
+      continue;
+    }
+    result += simplified[i] === traditional[i] ? '-' : traditional[i];
+  }
+  return result;
+}
+
+function fill_vocab(vocab_list) {
+  const pclass = 'py';
+  $('#vocab').empty();
+  if (vocab_list.length) {
+    $('#vocab').append('<tr><th>№</th><th>Слово (упрощ. иероглифы)</th>' +
+      '<th>Слово (трад. иероглифы)</th><th>Произношение</th><th>Значение</th></tr>');
+  }
+  for (let i = 0, l = vocab_list.length; i < l; ++i) {
+    const trad = create_traditional_item(vocab_list[i][0], vocab_list[i][5]);
+    $('#vocab').append('<tr>' +
+      '<td class="nw_num">' + (i + 1) + '</td>' +
+      '<td class="nw">' + vocab_list[i][0] + '</td>' +
+      '<td class="nw">' + trad + '</td>' +
+      '<td class="nw voc' + pclass + '">' + vocab_list[i][1] + '</td>' +
+      '<td class="nw_def">' + vocab_list[i][2] + '</td>' +
+      '</tr>');
+  }
+}
+
+function add_to_list(vocab_list, vocab_item) {
+  for (let i = 0, l = vocab_item.pronunciations.length; i < l; ++i) {
+    let py = vocab_item.pronunciations[i].replace(/ ([aeoāáǎàēéěèōóǒò])/g, '\'$1');
+    py = py.replace(/ ([^A-Z])/g, '$1');
+    const en = vocab_item.definitions[i].replace(/\//g, ' / ');
+    vocab_list.push([vocab_item.word, py, en, vocab_item.order,
+      vocab_item.frequency, vocab_item.traditional]);
+  }
+}
+
+function show_words() {
+  const vocab = text_vocabulary;
+
+  const vocab_list = [];
+  const vocab_th = parseInt($('#vocab_ls').val(), 10);
+  const sort_by = $('#sort_ls').val();
+
+  for (let k in vocab) {
+    if (!vocab.hasOwnProperty(k)) {
+      continue;
+    }
+    const item = vocab[k];
+    const level = vocab[k][2];
+    const vocab_item = {
+      word: k,
+      pronunciations: item[0],
+      definitions: item[1],
+      frequency: item[3],
+      order: item[4],
+      traditional: item[5],
+      level: level
+    };
+
+    if (level < vocab_th) {
+      continue;
+    }
+    add_to_list(vocab_list, vocab_item);
+  }
+
+  vocab_sort(vocab_list, sort_by);
+  fill_vocab(vocab_list);
+}
+  </script>
+</head>
+<body>
+  <div id="content" class="content mid">
+    <div id="tip" style="text-align: center"></div>
+    <div id="annotated">
+              <span class="ann  " onmouseover="sP(this, event)">后记</span><span class="nann"><br /><br />--------------------------------------------------------------------------------<br /><br />　　《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">第一</span><span class="ann  " onmouseover="sP(this, event)">部</span><span class="ann  " onmouseover="sP(this, event)">长篇小说</span><span class="nann">（</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">之前</span><span class="ann  " onmouseover="sP(this, event)">发表</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">灭亡</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">只是</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个中</span><span class="ann  " onmouseover="sP(this, event)">篇</span><span class="nann">）。</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">九</span><span class="ann  " onmouseover="sP(this, event)">三</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">年</span><span class="ann  " onmouseover="sP(this, event)">作为</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">激流</span><span class="ann  " onmouseover="sP(this, event)">三部曲</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">之一</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">成</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">所以</span><span class="ann  " onmouseover="sP(this, event)">最初</span><span class="ann  " onmouseover="sP(this, event)">发表</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">激流</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">名字</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="ann  " onmouseover="sP(this, event)">花</span><span class="ann  " onmouseover="sP(this, event)">去</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时间</span><span class="ann  " onmouseover="sP(this, event)">并不</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">然而</span><span class="ann  " onmouseover="sP(this, event)">要是</span><span class="ann  " onmouseover="sP(this, event)">没有</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">最初</span><span class="ann  " onmouseover="sP(this, event)">十九</span><span class="ann  " onmouseover="sP(this, event)">年</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">生活</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">出</span><span class="ann  " onmouseover="sP(this, event)">这样</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">作品</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">早就</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">为了</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">做</span><span class="ann  " onmouseover="sP(this, event)">作家</span><span class="ann  " onmouseover="sP(this, event)">才</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">过去</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">生活</span><span class="ann  " onmouseover="sP(this, event)">逼</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">拿起</span><span class="ann  " onmouseover="sP(this, event)">笔</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="nann">。《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">里面</span><span class="ann  " onmouseover="sP(this, event)">不一定</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">自己</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">可是</span><span class="ann  " onmouseover="sP(this, event)">书</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">那些</span><span class="ann  " onmouseover="sP(this, event)">人物</span><span class="ann  " onmouseover="sP(this, event)">却</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">所</span><span class="ann  " onmouseover="sP(this, event)">爱</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">所</span><span class="ann  " onmouseover="sP(this, event)">恨</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">许多</span><span class="ann  " onmouseover="sP(this, event)">场面</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">亲</span><span class="ann  " onmouseover="sP(this, event)">眼见</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">或者</span><span class="ann  " onmouseover="sP(this, event)">亲身</span><span class="ann  " onmouseover="sP(this, event)">经历</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">仿佛</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">跟</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="ann  " onmouseover="sP(this, event)">一块儿</span><span class="ann  " onmouseover="sP(this, event)">受苦</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">跟</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">人</span><span class="ann  " onmouseover="sP(this, event)">一块儿</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">魔爪</span><span class="ann  " onmouseover="sP(this, event)">下面</span><span class="ann  " onmouseover="sP(this, event)">挣扎</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">陪</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">那些</span><span class="ann  " onmouseover="sP(this, event)">可爱</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">年轻</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">生命</span><span class="ann  " onmouseover="sP(this, event)">欢笑</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">陪</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">他们</span><span class="ann  " onmouseover="sP(this, event)">哀哭</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">知道</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">挖开</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">回忆</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">坟墓</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">那些</span><span class="ann  " onmouseover="sP(this, event)">惨痛</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">回忆</span><span class="ann  " onmouseover="sP(this, event)">到现在</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">异常</span><span class="ann  " onmouseover="sP(this, event)">鲜明</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">孩子</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">常常</span><span class="ann  " onmouseover="sP(this, event)">被</span><span class="ann  " onmouseover="sP(this, event)">逼</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">目睹</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">可爱</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">年轻</span><span class="ann  " onmouseover="sP(this, event)">生命</span><span class="ann  " onmouseover="sP(this, event)">横</span><span class="ann  " onmouseover="sP(this, event)">遭</span><span class="ann  " onmouseover="sP(this, event)">摧残</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">以至于</span><span class="ann  " onmouseover="sP(this, event)">得到</span><span class="ann  " onmouseover="sP(this, event)">悲惨</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">结局</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">那个</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">心</span><span class="ann  " onmouseover="sP(this, event)">因为</span><span class="ann  " onmouseover="sP(this, event)">爱怜</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">痛苦</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">同时</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">又</span><span class="ann  " onmouseover="sP(this, event)">充满</span><span class="ann  " onmouseover="sP(this, event)">恶毒</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">诅咒</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">觉</span><span class="ann  " onmouseover="sP(this, event)">慧</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">梅</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">灵</span><span class="ann  " onmouseover="sP(this, event)">前</span><span class="ann  " onmouseover="sP(this, event)">所</span><span class="ann  " onmouseover="sP(this, event)">起</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">那种</span><span class="ann  " onmouseover="sP(this, event)">感情</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">甚至</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">觉</span><span class="ann  " onmouseover="sP(this, event)">慧</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">哥哥</span><span class="ann  " onmouseover="sP(this, event)">面前</span><span class="ann  " onmouseover="sP(this, event)">所</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">的话</span><span class="nann">：“</span><span class="ann  " onmouseover="sP(this, event)">让</span><span class="ann  " onmouseover="sP(this, event)">他们</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">做</span><span class="ann  " onmouseover="sP(this, event)">一次</span><span class="ann  " onmouseover="sP(this, event)">牺牲品</span><span class="ann  " onmouseover="sP(this, event)">吧</span><span class="nann">。”</span><span class="ann  " onmouseover="sP(this, event)">一直</span><span class="ann  " onmouseover="sP(this, event)">到</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">积愤</span><span class="nann">”，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">对于</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">不合理</span><span class="ann  " onmouseover="sP(this, event)">制度</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">积愤</span><span class="nann">”</span><span class="ann  " onmouseover="sP(this, event)">才</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">机会</span><span class="ann  " onmouseover="sP(this, event)">吐露</span><span class="ann  " onmouseover="sP(this, event)">出来</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">所以</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">九</span><span class="ann  " onmouseover="sP(this, event)">三七</span><span class="ann  " onmouseover="sP(this, event)">年</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">篇</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">代</span><span class="ann  " onmouseover="sP(this, event)">序</span><span class="nann">”</span><span class="ann  " onmouseover="sP(this, event)">里</span><span class="ann  " onmouseover="sP(this, event)">大胆</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">：“</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">向</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">垂死</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">制度</span><span class="ann  " onmouseover="sP(this, event)">叫</span><span class="ann  " onmouseover="sP(this, event)">出</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">‘</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">控诉</span><span class="nann">’。”<br />　　《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">就是</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">这种</span><span class="ann  " onmouseover="sP(this, event)">心情</span><span class="ann  " onmouseover="sP(this, event)">下面</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">成</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">现在</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">二十</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">年</span><span class="ann  " onmouseover="sP(this, event)">以后</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">所</span><span class="ann  " onmouseover="sP(this, event)">攻击</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">不合理</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">制度</span><span class="ann  " onmouseover="sP(this, event)">已经</span><span class="ann  " onmouseover="sP(this, event)">消灭</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">今天</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">重读</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">激动</span><span class="ann  " onmouseover="sP(this, event)">得</span><span class="ann  " onmouseover="sP(this, event)">厉害</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">说明</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">书</span><span class="ann  " onmouseover="sP(this, event)">里面</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">个人</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">爱憎</span><span class="ann  " onmouseover="sP(this, event)">实在</span><span class="ann  " onmouseover="sP(this, event)">太</span><span class="ann  " onmouseover="sP(this, event)">深</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">像</span><span class="ann  " onmouseover="sP(this, event)">这样</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">作品</span><span class="ann  " onmouseover="sP(this, event)">当然</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">许多</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">缺点</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">不论</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">当时</span><span class="ann  " onmouseover="sP(this, event)">看</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">今天</span><span class="ann  " onmouseover="sP(this, event)">看</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">缺点</span><span class="ann  " onmouseover="sP(this, event)">都</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">不过</span><span class="ann  " onmouseover="sP(this, event)">今天</span><span class="ann  " onmouseover="sP(this, event)">看起来</span><span class="ann  " onmouseover="sP(this, event)">缺点</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">而且</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">明显</span><span class="ann  " onmouseover="sP(this, event)">罢了</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">跟</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">其他</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">作品</span><span class="ann  " onmouseover="sP(this, event)">一样</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">缺少</span><span class="ann  " onmouseover="sP(this, event)">冷静</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">思考</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">周密</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">构思</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="nann">：“</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">说教</span><span class="ann  " onmouseover="sP(this, event)">者</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">所以</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">能够</span><span class="ann  " onmouseover="sP(this, event)">明确</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">指出</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">条</span><span class="ann  " onmouseover="sP(this, event)">路</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但是</span><span class="ann  " onmouseover="sP(this, event)">读者</span><span class="ann  " onmouseover="sP(this, event)">自己</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">里面</span><span class="ann  " onmouseover="sP(this, event)">去</span><span class="ann  " onmouseover="sP(this, event)">找</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="nann">。”</span><span class="ann  " onmouseover="sP(this, event)">事实上</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">明确</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">给</span><span class="ann  " onmouseover="sP(this, event)">年轻</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">读者</span><span class="ann  " onmouseover="sP(this, event)">指出</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">条</span><span class="ann  " onmouseover="sP(this, event)">路</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">有责任</span><span class="ann  " onmouseover="sP(this, event)">这样</span><span class="ann  " onmouseover="sP(this, event)">做</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">然而</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">当时</span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">年轻</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">幼稚</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">而且</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">太</span><span class="ann  " onmouseover="sP(this, event)">重视</span><span class="ann  " onmouseover="sP(this, event)">个人</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">爱憎</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。<br />　　</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">次</span><span class="ann  " onmouseover="sP(this, event)">人民</span><span class="ann  " onmouseover="sP(this, event)">文学</span><span class="ann  " onmouseover="sP(this, event)">出版社</span><span class="ann  " onmouseover="sP(this, event)">重印</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">重</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">可是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">终于</span><span class="ann  " onmouseover="sP(this, event)">放弃</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">这个</span><span class="ann  " onmouseover="sP(this, event)">企图</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">没法</span><span class="ann  " onmouseover="sP(this, event)">掩饰</span><span class="ann  " onmouseover="sP(this, event)">二十</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">年前</span><span class="ann  " onmouseover="sP(this, event)">自己</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">缺点</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">而且</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">以后</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">精力</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">新</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">东西</span><span class="nann">。《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">已经</span><span class="ann  " onmouseover="sP(this, event)">尽</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">历史</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">任务</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">索性</span><span class="ann  " onmouseover="sP(this, event)">保留</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">本来</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">面目</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">然而</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">修改</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">一遍</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">不过</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">改</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">只是</span><span class="ann  " onmouseover="sP(this, event)">那些</span><span class="ann  " onmouseover="sP(this, event)">用字</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">妥当</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">地方</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">同时</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">删去</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">累赘</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">字句</span><span class="nann">。<br />　　《</span><span class="ann  " onmouseover="sP(this, event)">家</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">自然</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">成功</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">作品</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">但是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">请求</span><span class="ann  " onmouseover="sP(this, event)">今天</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">读者</span><span class="ann  " onmouseover="sP(this, event)">宽容</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">对待</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">二十</span><span class="ann  " onmouseover="sP(this, event)">七</span><span class="ann  " onmouseover="sP(this, event)">岁</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">年轻人</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">自己</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">喜欢</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">因为</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">至少</span><span class="ann  " onmouseover="sP(this, event)">告诉</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">件</span><span class="ann  " onmouseover="sP(this, event)">事情</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">青春</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">美丽</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">东西</span><span class="nann">。<br />　　</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">始终</span><span class="ann  " onmouseover="sP(this, event)">记住</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">青春</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">美丽</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">东西</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">而且</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">一直</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">鼓舞</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">泉源</span><span class="nann">。<br />　　　　　　　　　　　　　　　　</span><span class="ann  " onmouseover="sP(this, event)">巴金</span><span class="nann">　１９５３</span><span class="ann  " onmouseover="sP(this, event)">年</span><span class="nann">３</span><span class="ann  " onmouseover="sP(this, event)">月</span><span class="nann">４</span><span class="ann  " onmouseover="sP(this, event)">日</span><span class="nann"> </span> 
+    </div>
+    <div id="show_vocab">
+      <div id="vocab_rg">
+       <label for="vocab">
+          Показать слова
+          <select name="vocab" id="vocab_ls" style="margin-top:.7ex">
+             <option value="1">все</option>
+             <option value="2">HSK 2 и выше</option>
+             <option value="3" selected="selected">HSK 3 и выше</option>
+             <option value="4">HSK 4 и выше</option>
+             <option value="5">вне HSK</option>
+             <option value="6">ничего</option>
+          </select>
+       </label>
+       <label for="sort">
+          Сортировать по 
+          <select name="sort" id="sort_ls" style="margin-top:.7ex">
+             <option value="ord" selected="selected">первому появлению</option>
+             <option value="py">произношению</option>
+             <option value="rad">ключу иероглифа</option>
+             <option value="freq">частоте</option>
+          </select>
+       </label>
+      </div>
+      <button type="button" onclick="show_words()">Показать слова</button>
+    </div>
+  </div>
+    <table id="vocab_table" style="border:0">
+      <tbody id="vocab"> </tbody>
+    </table>
+</body>
+</html>

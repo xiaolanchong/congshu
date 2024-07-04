@@ -1,0 +1,6 @@
+img { border: 0px; }
+body { font: 12pt 'Trebuchet MS', Arial, sans-serif; }
+#chapter-text td { padding: 10px 10px 10px 10px; } /* top right bottom left */
+a:link { color:#1961A9; }
+a:visited { color:#668; }
+a:hover { color:#c63; }

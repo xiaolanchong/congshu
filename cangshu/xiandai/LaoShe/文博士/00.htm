@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>00</title>
+  <style type="text/css">
+  body {
+  font-family: sans-serif, Verdana;
+  margin-top: 3ex;
+  margin-left: 0;
+  text-align: center;
+  margin-right: 0;
+  background-color: #000;
+  color: #eee;
+}
+
+.hilite {
+  background-color: #951;
+}
+
+.sl {
+  margin-left: 10ex;
+  margin-bottom: 2ex;
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 90%;
+  white-space: nowrap;
+}
+
+.mid {
+  margin: 0 auto;
+  max-width: 980px;
+  text-align: left;
+}
+
+.content {
+  min-height: 25em;
+  margin-bottom: 0.5em;
+}
+
+.tab {
+  padding: 0 1ex;
+  float: left;
+  position: relative;
+  top: 1px;
+  margin: 0;
+  margin-left: 3px;
+  display: block;
+}
+
+.atab {
+  border: 1px solid #b80;
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+}
+
+.ntab {
+  border: 1px solid #b80;
+  background-color: #eec;
+}
+
+.ntab:hover {
+  background-color: #fff;
+}
+
+.subtab {
+  background-color: #eec;
+  padding: 0 3px;
+}
+
+.subtab:hover {
+  background-color: #fff;
+}
+
+.tab a,
+.atab a,
+.tab a:hover,
+.atab a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.tabs {
+  width: 100%;
+  border-bottom: 1px solid #b80;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+  min-width: 40ex;
+}
+
+.tabs ul {
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #970;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #c00;
+}
+
+.warning {
+  margin-top: 4ex;
+  border: 1px solid #b80;
+  background-color: #ff9;
+  padding: 1ex;
+}
+
+.adt {
+  text-decoration: none
+}
+
+body {
+  position: relative;
+}
+
+#tip {
+  border: 1px solid #333;
+  background-color: #111;
+  padding: 5px;
+  font: normal 1em sans-serif, arial;
+  z-index: 10001;
+  visibility: hidden;
+  position: absolute;
+  _width: 15ex;
+}
+
+font {
+  z-index: 10000;
+}
+
+.ann {
+  cursor: default;
+  z-index: 99;
+}
+
+.iann {
+  text-align: center;
+  white-space: nowrap;
+  display: -moz-inline-box;
+  display: inline-table;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.sann {
+  margin: 0 0.3ex;
+}
+
+.nann {
+  vertical-align: bottom;
+}
+
+#url {
+  width: 99%;
+}
+
+#annotated {
+  padding: 2ex;
+  margin: 0;
+}
+
+#translated {
+  border: 1px solid #b80;
+  padding: 2ex;
+  padding-bottom: 1ex;
+  margin-top: 2ex;
+}
+
+#intro {
+  margin-top: 1ex;
+}
+
+.py {
+  font-size: 80%;
+  color: #c00;
+  display: table-row;
+}
+
+.zy {
+  font-size: 60%;
+  color: #c00;
+  display: table-row;
+}
+
+.zh {
+  display: table-row;
+}
+
+#show_vocab {
+  margin-top: 1em;
+}
+
+#vocab_table {
+  border: 0px;
+  margin: 5px 5px;
+  padding-left: 5px;
+  text-align: left;
+}
+
+#vocab>tr:nth-child(even) {
+  background-color: #111;
+}
+
+.nw {
+  white-space: nowrap;
+}
+
+.nw_num {
+  font-size: small;
+}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/javascript">
+  const text_vocabulary = {"要":[["yào","yāo"],["to want; to need; to ask for/will; shall; about to/need to; should/if (same as 要是[yào shi])/(bound form) important","(bound form) to demand; to coerce"],3,1.0,61,"要"],"一":[["yī"],["one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yāo] for greater clarity when spelling out numbers digit by digit"],2,1.0,18,"一"],"不学无术":[["bùxuéwúshù"],["without learning or skills (idiom); ignorant and incompetent"],5,0.13862877270947882,20,"不學無術"],"虽然":[["suīrán"],["although; even though (often used correlatively with 可是[kě shì] or 但是[dàn shì] etc)"],1,0.829436286343824,54,"雖然"],"超等":[["chāoděng"],["superior grade"],5,0.14407548022459526,245,"超等"],"诗":[["shī","Shī"],["poem/CL:首[shǒu]/poetry/verse","abbr. for Shijing 詩經|诗经[Shī jīng], the Book of Songs"],2,0.20768596233328956,237,"詩"],"言":[["yán"],["words/speech/to say/to talk"],4,0.7134022892257601,108,"言"],"出来":[["chūlái","chulai"],["to come out/to appear/to arise","(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"],1,0.6022359771003288,292,"出來"],"什么":[["shénme"],["what?/something; anything"],1,0.8906563242262705,210,"什麼"],"再":[["zài"],["again; once more; re-/second; another/then (after sth, and not until then)/no matter how ... (followed by an adjective or verb, and then (usually) 也[yě] or 都[dōu] for emphasis)"],1,1.0,295,"再"],"巴结":[["bājie"],["to fawn on/to curry favor with/to make up to"],4,0.18492855069173322,41,"巴結"],"序":[["xù"],["(bound form) order; sequence/(bound form) introductory; initial/preface"],5,0.5583116785821126,106,"序"],"儒":[["rú"],["scholar/Confucian"],5,0.45331135176913767,100,"儒"],"十五":[["shíwǔ"],["fifteen/15"],5,0.6012825941822071,342,"十五"],"写":[["xiě"],["to write"],1,0.7066310632448132,117,"寫"],"甚":[["shèn","shén"],["excessive; undue/to exceed; to be more than/very; extremely/(dialect) what; whatever (Taiwan pr. [shén])","variant of 什[shén]"],5,0.53186499007113,328,"甚"],"计":[["jì","Jì"],["to calculate/to compute/to count/to regard as important/to plan/ruse/meter/gauge","surname Ji"],3,0.2724060324520828,191,"計"],"就":[["jiù"],["(after a suppositional clause) in that case; then/(after a clause of action) as soon as; immediately after/(same as 就是[jiù shì]) merely; nothing else but; simply; just; precisely; exactly/only; as little as/as much as; as many as/to approach; to move towards/to undertake; to engage in/(often followed by 著|着[zhe]) taking advantage of/(of food) to go with/with regard to; concerning/(pattern: 就[jiù] ... 也[yě] ...) even if ... still .../(pattern: 不[bù] ... 就[jiù] ...) if not ... then must be ..."],3,1.0,65,"就"],"专员":[["zhuānyuán"],["assistant director/commissioner"],5,0.42787315241973783,49,"專員"],"题目":[["tímù"],["subject; title; topic (CL:個|个[gè])/exercise or exam question (CL:道[dào])"],2,0.545070720429188,265,"題目"],"信奉":[["xìnfèng"],["belief/to believe (in sth)"],5,0.23192097615900822,71,"信奉"],"交情":[["jiāoqing"],["friendship/friendly relations"],5,0.23192097615900822,165,"交情"],"另一":[["lìngyī"],["another/the other"],5,0.6625769642342578,254,"另一"],"到":[["dào"],["to reach; to arrive/to leave for; to go to/to (a place); until (a time); up to (a point)/(verb complement indicating arriving at a place or reaching a point)/considerate; thoughtful; thorough"],1,1.0,45,"到"],"人生":[["rénshēng"],["life (one's time on earth)"],4,0.6108558199189963,73,"人生"],"精于":[["jīngyú"],["skillful in/proficient in/adept at"],5,0.18369972151291056,22,"精於"],"文章":[["wénzhāng"],["article/essay/literary works/writings/hidden meaning/CL:篇[piān],段[duàn],頁|页[yè]"],1,1.0,122,"文章"],"喽":[["lou","lóu"],["(final particle equivalent to 了[le])/(particle calling attention to, or mildly warning of, a situation)","subordinates in gang of bandits"],3,0.3137875478716137,232,"嘍"],"逼":[["bī"],["to force (sb to do sth)/to compel/to press for/to extort/to press on towards/to press up to/to close in on/euphemistic variant of 屄[bī]/variant of 逼[bī]/to compel/to pressure"],2,0.11137829567821406,296,"偪"],"知道":[["zhīdào"],["to know; to become aware of/also pr. [zhī dao]"],1,0.8716519838197005,217,"知道"],"旁":[["páng"],["one side/other/different/lateral component of a Chinese character (such as 刂[dāo], 亻[rén] etc)"],2,0.5654679229548085,198,"旁"],"呀":[["ya"],["(particle equivalent to 啊 after a vowel, expressing surprise or doubt)"],1,0.6335895072448482,163,"呀"],"滇":[["Diān"],["abbr. for Yunnan Province 雲南|云南[Yún nán] in southwest China"],5,0.0984312559830886,360,"滇"],"但":[["dàn"],["but; yet; however; still/merely; only; just"],2,1.0,59,"但"],"简介":[["jiǎnjiè"],["summary/brief introduction"],5,1.0,3,"簡介"],"而":[["ér"],["and/as well as/and so/but (not)/yet (not)/(indicates causal relation)/(indicates change of state)/(indicates contrast)"],2,1.0,175,"而"],"为":[["wèi","wéi"],["because of/for/to/variant of 為|为[wèi]","as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/variant of 為|为[wéi]"],1,0.0,267,"爲"],"寒假":[["hánjià"],["winter vacation"],1,0.35238506887443893,136,"寒假"],"本领":[["běnlǐng"],["skill/ability/capability/CL:項|项[xiàng],個|个[gè]"],2,0.24954605187388407,240,"本領"],"这":[["zhè"],["(pronoun) this; these/(bound form) this; the (followed by a noun)/(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"],1,1.0,185,"這"],"四":[["sì"],["four/4"],1,1.0,352,"四"],"此":[["cǐ"],["this; these"],2,1.0,337,"此"],"信":[["xìn"],["letter/mail/CL:封[fēng]/to trust/to believe/to profess faith in/truthful/confidence/trust/at will/at random"],2,0.9485752104501382,143,"信"],"不可":[["bùkě"],["cannot; should not; must not"],3,0.6232343670223034,325,"不可"],"敢":[["gǎn"],["to dare/daring/(polite) may I venture"],1,0.4558505516084947,131,"敢"],"过":[["guo","guò","Guō"],["(experienced action marker)","to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too-","surname Guo"],1,0.2763323429479666,327,"過"],"要紧":[["yàojǐn"],["important/urgent"],2,0.2552864937394283,166,"要緊"],"答应":[["dāying"],["to answer; to respond/to answer positively; to agree; to accept; to promise"],2,0.39487972878018573,132,"答應"],"好久":[["hǎojiǔ"],["quite a while"],2,0.48174540292510154,263,"好久"],"想":[["xiǎng"],["to think (about)/to think of; to devise/to think (that); to believe (that)/to desire; to want (to)/to miss (feel wistful about the absence of)"],1,0.8896527170446138,170,"想"],"深知":[["shēnzhī"],["to know well; to be fully aware of"],5,0.2728199928324573,60,"深知"],"长篇":[["chángpiān"],["lengthy (report or speech)"],5,0.2743231901730485,229,"長篇"],"加官":[["jiāguān"],["to be promoted/additional government post"],5,0.13245186167740897,79,"加官"],"的":[["de","dì","dī","dí"],["of; ~'s (possessive particle)/(used after an attribute)/(used to form a nominal expression)/(used at the end of a declarative sentence for emphasis)/also pr. [dì] or [di] in poetry and songs","(bound form) bull's-eye; target","a taxi; a cab (abbr. for 的士[dī shì])","really and truly"],1,1.0,9,"的"],"万":[["wàn","Wàn","mò"],["ten thousand/a great number","surname Wan","used in 万俟[Mò qí]"],1,0.33798663790575073,343,"萬"],"决定":[["juédìng"],["to decide (to do something)/to resolve/decision/CL:個|个[gè],項|项[xiàng]/certainly"],1,0.7476459226189043,266,"決定"],"有":[["yǒu"],["to have; there is/(bound form) having; with; -ful; -ed; -al (as in 有意[yǒu yì] intentional)"],1,1.0,124,"有"],"丑类":[["chǒulèi"],["villain/evil person"],5,0.10533508856274564,104,"醜類"],"二":[["èr"],["two/2/(Beijing dialect) stupid"],1,1.0,83,"二"],"书社":[["shūshè"],["a reading group/press (i.e. publishing house)"],5,0.0,111,"書社"],"美":[["měi","Měi"],["beautiful/very satisfactory; good/to beautify/to be pleased with oneself","(bound form) the Americas (abbr. for 美洲[Měi zhōu])/(bound form) USA (abbr. for 美國|美国[Měi guó])"],2,0.32791161900333005,12,"美"],"五":[["wǔ"],["five/5"],1,0.9910604277376485,356,"五"],"小说":[["xiǎoshuō"],["novel/fiction/CL:本[běn],部[bù]"],2,0.5982512102731044,231,"小說"],"实在":[["shízài"],["really/actually/indeed/true/real/honest/dependable/(philosophy) reality"],2,0.5836764891397787,305,"實在"],"上脸":[["shàngliǎn"],["to turn red in the face (while drinking)/to become smug (when complimented)"],5,0.0,179,"上臉"],"香港":[["Xiānggǎng"],["Hong Kong"],5,0.24868002606865677,152,"香港"],"没有":[["méiyǒu"],["haven't/hasn't/doesn't exist/to not have/to not be"],1,0.968136903890503,197,"沒有"],"难倒":[["nándǎo"],["to baffle/to confound/to stump"],5,0.15944572903670082,222,"難倒"],"十二":[["shí'èr"],["twelve/12"],5,0.6719771996020791,354,"十二"],"道歉":[["dàoqiàn"],["to apologize"],2,0.4021728958922964,318,"道歉"],"是":[["shì"],["to be (followed by substantives only)/correct; right; true/(respectful acknowledgement of a command) very well/(adverb for emphatic assertion)/variant of 是[shì]"],1,0.0,10,"昰"],"讲":[["jiǎng"],["to speak/to explain/to negotiate/to emphasize/to be particular about/as far as sth is concerned/speech/lecture"],1,0.6321933254755202,8,"講"],"中国":[["Zhōngguó"],["China"],5,0.3088639535359822,98,"中國"],"算":[["suàn"],["to regard as/to figure/to calculate/to compute"],1,0.6174326090975235,347,"算"],"骗人":[["piànrén"],["to cheat sb/a scam"],5,0.27469515467500843,326,"騙人"],"十":[["shí"],["ten/10"],1,0.9305044907432463,157,"十"],"中的":[["zhòngdì"],["to hit the target/(fig.) to hit the nail on the head"],5,0.0,103,"中的"],"先生":[["xiānsheng"],["teacher/gentleman; sir; mister (Mr.)/husband/(dialect) doctor/CL:位[wèi]"],1,0.7916582682178521,141,"先生"],"位":[["wèi"],["position/location/place/seat/classifier for people (honorific)/classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)/(physics) potential"],1,0.8654516731708226,84,"位"],"老舍":[["Lǎo Shě"],["Lao She (1899-1966), Chinese novelist and dramatist"],5,0.0,87,"老舍"],"自己":[["zìjǐ"],["oneself/one's own"],1,1.0,214,"自己"],"问题":[["wèntí"],["question/problem/issue/topic/CL:個|个[gè]"],1,1.0,255,"問題"],"对":[["duì"],["right; correct/towards; at; for/concerning; regarding/to treat (sb a certain way)/to face/(bound form) opposite; facing; matching/to match together; to adjust/to fit; to suit/to answer; to reply/to add; to pour in (a fluid)/to check; to compare/classifier: couple; pair"],2,1.0,242,"對"],"打":[["dǎ","dá"],["to beat/to strike/to hit/to break/to type/to mix up/to build/to fight/to fetch/to make/to tie up/to issue/to shoot/to calculate/to play (a game)/since/from","dozen (loanword)"],3,0.7096213813889228,30,"打"],"留":[["liú"],["to leave (a message etc)/to retain/to stay/to remain/to keep/to preserve/old variant of 留[liú]/old variant of 留[liú]"],1,0.0,11,"畱"],"出版":[["chūbǎn"],["to publish"],2,0.9212959119894889,112,"出版"],"鞭挞":[["biāntà"],["to lash; (fig.) to castigate"],5,0.08857589837284535,95,"鞭撻"],"总是":[["zǒngshì"],["always"],1,0.5532472054774621,230,"總是"],"读":[["dú","dòu"],["to read out; to read aloud/to read/to attend (school); to study (a subject in school)/to pronounce","comma/phrase marked by pause"],1,0.6668472275387548,335,"讀"],"也":[["yě","Yě"],["(adverb) also; both ... and ... (before predicates only)/(literary) particle having functions similar to 啊[a]","surname Ye"],1,0.4014006315415511,55,"也"],"痞":[["pǐ"],["constipation/lump in the abdomen"],5,0.3613561979385416,26,"痞"],"来":[["lái"],["to come/(used as a substitute for a more specific verb)/hither (directional complement for motion toward the speaker, as in 回來|回来[huílai])/ever since (as in 自古以來|自古以来[zìgǔ yǐlái])/for the past (amount of time)/(prefix) the coming ...; the next ... (as in 來世|来世[láishì])/(between two verbs) in order to/(after a round number) approximately/(used after 得[dé] to indicate possibility, as in 談得來|谈得来[tándelái], or after 不[bù] to indicate impossibility, as in 吃不來|吃不来[chībulái])"],2,1.0,310,"來"],"部":[["bù"],["ministry/department/section/part/division/troops/board/classifier for works of literature, films, machines etc"],2,0.9475187130055231,113,"部"],"说破":[["shuōpò"],["to lay bare (actual facts, secrets etc)/to reveal"],5,0.14407548022459526,279,"說破"],"所以":[["suǒyǐ"],["therefore/as a result/so/the reason why"],1,0.9593608893555758,330,"所以"],"独":[["dú"],["alone/independent/single/sole/only"],4,0.5609892987105225,340,"獨"],"史":[["shǐ","Shǐ"],["history/annals/title of an official historian in ancient China","surname Shi"],4,0.24011207772373513,238,"史"],"内容":[["nèiróng"],["content/substance/details/CL:個|个[gè],項|项[xiàng]"],1,1.0,2,"內容"],"广告":[["guǎnggào"],["to advertise/a commercial/advertisement/CL:項|项[xiàng]"],2,0.9117823201883725,322,"廣告"],"在":[["zài"],["to exist; to be alive/(of sb or sth) to be (located) at/(used before a verb to indicate an action in progress)"],1,1.0,151,"在"],"继而":[["jì'ér"],["then/afterwards"],5,0.2673530167315284,168,"繼而"],"较":[["jiào"],["(bound form) to compare/(literary) to dispute/compared to/(before an adjective) relatively; comparatively; rather/also pr. [jiǎo]"],2,0.8860798969161835,119,"較"],"弄":[["nòng","lòng"],["to do/to manage/to handle/to play with/to fool with/to mess with/to fix/to toy with/old variant of 弄[nòng]","lane/alley/variant of 弄[lòng]"],2,0.20815676300176,62,"挵"],"文":[["wén","Wén"],["language/culture/writing/formal/literary/gentle/(old) classifier for coins/Kangxi radical 67","surname Wen"],4,0.34454690782093494,5,"文"],"招摇撞骗":[["zhāoyáozhuàngpiàn"],["(idiom) to dupe people by passing oneself off as a well-connected individual or a figure of authority"],5,0.12900860949480153,39,"招搖撞騙"],"戏剧":[["xìjù"],["a drama; a play; theater/script of a play"],3,0.5193617182408119,243,"戲劇"],"上":[["shàng","shǎng"],["(bound form) up; upper; above; previous/first (of multiple parts)/to climb; to get onto; to go up/to attend (class or university)/(directional complement) up/(noun suffix) on; above","used in 上聲|上声[shǎng shēng]"],1,1.0,361,"上"],"作者":[["zuòzhě"],["author; writer"],2,0.9170254695319835,110,"作者"],"做官":[["zuòguān"],["to take an official post/to become a government employee"],5,0.17284529667709833,67,"做官"],"得":[["děi","de","dé"],["to have to/must/ought to/to need to","structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc","to obtain/to get/to gain/to catch (a disease)/proper/suitable/proud/contented/to allow/to permit/ready/finished"],1,0.9759943473260287,66,"得"],"不能":[["bùnéng"],["cannot/must not/should not"],5,0.74911449367547,276,"不能"],"没":[["méi","mò"],["(negative prefix for verbs) have not; not","drowned/to end/to die/to inundate"],1,0.4398547807746251,290,"沒"],"权术":[["quánshù"],["art of politics/political tricks (often derog.)/power play/to play at politics/underhand trickery"],5,0.13862877270947882,23,"權術"],"吃饭":[["chīfàn"],["to have a meal/to eat/to make a living"],5,0.38021172931507385,153,"吃飯"],"请帖":[["qǐngtiě"],["invitation card/written invitation"],4,0.1743164531208161,148,"請帖"],"用":[["yòng"],["to use/to employ/to have to/to eat or drink/expense or outlay/usefulness/hence/therefore"],1,1.0,88,"用"],"个":[["gè","gě"],["(classifier used before a noun that has no specific classifier)/(bound form) individual/variant of 個|个[gè]","used in 自個兒|自个儿[zì gě r]"],1,1.0,19,"箇"],"钱":[["qián","Qián"],["coin/money/CL:筆|笔[bǐ]/unit of weight, one tenth of a tael 兩|两[liǎng]","surname Qian"],1,0.20008059089607655,57,"錢"],"哲学":[["zhéxué"],["philosophy/CL:個|个[gè]"],2,0.5733446630698438,74,"哲學"],"笔锋":[["bǐfēng"],["the tip of a writing brush/vigor of style in writing/stroke/touch"],5,0.15944572903670082,93,"筆鋒"],"路费":[["lùfèi"],["travel expenses/money for a voyage/toll"],5,0.16485832285020727,159,"路費"],"去":[["qù"],["to go/to go to (a place)/(of a time etc) last/just passed/to send/to remove/to get rid of/to reduce/to be apart from in space or time/to die (euphemism)/to play (a part)/(when used either before or after a verb) to go in order to do sth/(after a verb of motion indicates movement away from the speaker)/(used after certain verbs to indicate detachment or separation)"],1,0.9668710018069903,162,"去"],"大体上":[["dàtǐshàng"],["overall/in general terms"],5,0.2470326797285494,226,"大體上"],"眼":[["yǎn"],["eye/small hole/crux (of a matter)/CL:隻|只[zhī],雙|双[shuāng]/classifier for big hollow things (wells, stoves, pots etc)"],2,0.570672421474546,134,"眼"],"权贵":[["quánguì"],["influential officials/bigwigs"],5,0.18492855069173322,42,"權貴"],"着":[["zhe","zháo","zhuó","zhāo"],["aspect particle indicating action in progress or ongoing state","to touch/to come in contact with/to feel/to be affected by/to catch fire/to burn/(coll.) to fall asleep/(after a verb) hitting the mark/succeeding in","to wear (clothes)/to contact/to use/to apply","(chess) move/trick/all right!/(dialect) to add"],1,0.8897947372408422,31,"著"],"篇":[["piān"],["sheet/piece of writing/bound set of bamboo slips used for record keeping (old)/classifier for written items: chapter, article"],1,0.8882287598922212,118,"篇"],"早就":[["zǎojiù"],["already at an earlier time"],5,0.4109869201189937,114,"早就"],"外行":[["wàiháng"],["layman/amateur"],4,0.19291286697509585,246,"外行"],"办法":[["bànfǎ"],["means/method/way (of doing sth)/CL:條|条[tiáo],個|个[gè]"],1,0.8050840631369808,182,"辦法"],"一体":[["yītǐ"],["an integral whole/all concerned/everybody"],5,0.3600445385552043,85,"一體"],"便中":[["biànzhōng"],["at one's convenience/when it's convenient"],5,0.1414307697211989,189,"便中"],"看到":[["kàndào"],["to see"],5,0.7945578249207869,135,"看到"],"附着":[["fùzhuó"],["to adhere/attachment"],5,0.3167342330821479,147,"附著"],"钻营":[["zuānyíng"],["toadying for personal gain/to curry favor/to study in great depth"],5,0.13245186167740897,44,"鑽營"],"政客":[["zhèngkè"],["politician"],5,0.29407603575132324,27,"政客"],"不灵":[["bùlíng"],["not work/be ineffective"],5,0.17284529667709833,281,"不靈"],"呢":[["ne","ní"],["particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")/particle for inquiring about location (\"Where is ...?\")/particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")/(at the end of a declarative sentence) particle indicating continuation of a state or action/particle indicating strong affirmation","woolen material"],1,0.8535770952402457,183,"呢"],"英雄好汉":[["yīngxiónghǎohàn"],["heroes"],5,0.0,224,"英雄好漢"],"旧":[["jiù"],["old/opposite: new 新/former/worn (with age)"],1,0.5914893980217149,97,"舊"],"博士":[["bóshì"],["doctor (as an academic degree)/(old) person specialized in a skill or trade/(old) court academician"],3,0.7254687242427095,6,"博士"],"可":[["kě","kè"],["(prefix) can; may; able to; -able/to approve; to permit/to suit/(particle used for emphasis) certainly; very","used in 可汗[kè hán]"],2,1.0,200,"可"],"元":[["yuán","Yuán"],["currency unit (esp. Chinese yuan)/(bound form) first; original; primary/(bound form) basic; fundamental/(bound form) constituent; part/(prefix) meta-/(math.) argument; variable/era (of a reign)/(Tw) (geology) eon","surname Yuan/Yuan dynasty (1279-1368)"],1,0.3678129995173344,344,"元"],"却":[["què"],["but/yet/however/while/to go back/to decline/to retreat/nevertheless/even though/old variant of 卻|却[què]"],2,0.0,21,"㕁"],"好坏":[["hǎohuài"],["good or bad/good and bad/standard; quality/(coll.) very bad"],4,0.3122825282424519,252,"好壞"],"能":[["néng","Néng"],["can/to be able to/might possibly/ability/(physics) energy","surname Neng"],3,0.34671970792145124,177,"能"],"戏谑":[["xìxuè"],["to banter/to crack jokes/to ridicule"],5,0.16978487840324447,89,"戲謔"],"了":[["liǎo","le","liào"],["to finish/to achieve/variant of 瞭|了[liǎo]/to understand clearly/(of eyes) bright/clear-sighted/to understand clearly","(completed action marker)/(modal particle indicating change of state, situation now)/(modal particle intensifying preceding clause)","unofficial variant of 瞭[liào]"],1,0.29377302037137937,96,"瞭"],"洋":[["yáng"],["ocean/vast/foreign/silver dollar or coin"],3,0.5732629958555981,36,"洋"],"不":[["bù"],["no; not so/(bound form) not; un-"],1,1.0,130,"不"],"完":[["wán"],["to finish/to be over/whole/complete/entire"],1,0.6549332576863247,336,"完"],"于":[["yú","Yú"],["(of time or place) in; at; on/(indicating any indirect relation) to; toward; vis-à-vis; with regard to; for/(indicating a source) from; out of/(used in comparison) than/(used in the passive voice) by/to go/to take/sentence-final interrogative particle/variant of 於|于[yú]","surname Yu"],2,0.16297152153480388,359,"于"],"我":[["wǒ"],["I; me; my"],1,1.0,116,"我"],"上吊":[["shàngdiào"],["to hang oneself"],5,0.16654939869691412,300,"上吊"],"肥缺":[["féiquē"],["lucrative post"],5,0.07448315541960297,51,"肥缺"],"真":[["zhēn"],["really/truly/indeed/real/true/genuine"],1,0.866458847599498,221,"真"],"招牌":[["zhāopai"],["signboard/shop sign/reputation of a business"],5,0.37136860447696196,37,"招牌"],"还是":[["háishi"],["still (as before)/had better/unexpectedly/or"],1,0.8052904155986601,286,"還是"],"约":[["yuē","yāo"],["to make an appointment/to invite/approximately/pact/treaty/to economize/to restrict/to reduce (a fraction)/concise","to weigh in a balance or on a scale"],2,0.8444495748085933,115,"約"],"嘲讽":[["cháofěng"],["to sneer at/to ridicule/to taunt"],5,0.23612306412744327,90,"嘲諷"],"犀利":[["xīlì"],["sharp/incisive/penetrating"],5,0.23494535627210777,92,"犀利"],"爱":[["ài"],["to love; to be fond of; to like/affection/to be inclined (to do sth); to tend to (happen)"],1,0.8761596552342934,56,"愛"],"赔上":[["péishàng"],["to pay for sth with the loss of (one's health etc)/to have sth come at the cost of (one's reputation etc)"],5,0.18369972151291056,155,"賠上"],"说":[["shuō","shuì"],["to speak; to talk; to say/to explain; to comment/to scold; to tell off/(bound form) theory; doctrine/variant of 說|说[shuō]","to persuade"],1,1.0,201,"説"],"名利双收":[["mínglìshuāngshōu"],["both fame and fortune (idiom)/both virtue and reward"],5,0.1555057553547433,46,"名利雙收"],"只能":[["zhǐnéng"],["can only/obliged to do sth/to have no other choice"],4,0.5932661070852794,248,"只能"],"林":[["Lín","lín"],["surname Lin/Japanese surname Hayashi","(bound form) woods; forest/(bound form) circle(s) (i.e. specific group of people)/(bound form) a collection (of similar things)"],5,1.0,101,"林"],"因此":[["yīncǐ"],["thus; consequently; as a result"],2,0.920023979584752,69,"因此"],"圆":[["yuán"],["circle/round/circular/spherical/(of the moon) full/unit of Chinese currency (yuan)/tactful/to make consistent and whole (the narrative of a dream or a lie)"],1,0.6154948462233818,178,"圓"],"又":[["yòu"],["(once) again/also/both... and.../and yet/(used for emphasis) anyway"],1,1.0,144,"又"],"不是":[["bùshi","bùshì"],["fault; blame","no/is not/not"],3,0.8118546593903092,313,"不是"],"本位":[["běnwèi"],["standard/one's own department or unit"],5,0.30023343052949397,78,"本位"],"块":[["kuài"],["lump; chunk; piece/classifier for pieces of cloth, cake, soap etc/(coll.) classifier for money and currency units"],1,0.49584214513716485,158,"塊"],"他":[["tā"],["he; him (used for either sex when the sex is unknown or unimportant)/(used before sb's name for emphasis)/(used as a meaningless mock object)/(literary) other"],1,1.0,29,"他"],"九":[["jiǔ"],["nine/9"],1,0.8607848343176411,351,"九"],"来到":[["láidào"],["to arrive; to come"],5,0.5733854835936203,145,"來到"],"几":[["jǐ","jī"],["how much/how many/several/a few","almost/small table"],1,0.376950242246496,156,"几"],"出":[["chū"],["to go out; to come out/to arise; to occur/to produce; to yield/to go beyond; to exceed/(used after a verb to indicate an outward direction or a positive result)/classifier for dramas, plays, operas etc/variant of 出[chū] (classifier for plays or chapters of classical novels)"],1,0.3628149429020934,308,"齣"],"有没有":[["yǒuméiyǒu"],["(before a noun) Do (you, they etc) have ...?/Is there a ...?/(before a verb) Did (you, they etc) (verb, infinitive)?/Have (you, they etc) (verb, past participle)?"],5,0.6109570639466573,181,"有沒有"],"吧":[["ba","bā","biā"],["(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume.","bar (loanword) (serving drinks, or providing Internet access etc)/to puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tiē bā]","(onom.) smack!"],1,0.9003631400072085,195,"吧"],"种种":[["zhǒngzhǒng"],["all kinds of"],4,0.4586673100917964,125,"種種"],"约定":[["yuēdìng"],["to agree on sth (after discussion)/to conclude a bargain/to arrange/to promise/to stipulate/to make an appointment/stipulated (time, amount, quality etc)/an arrangement/a deal/appointment/undertaking/commitment/understanding/engagement/stipulation"],5,0.4239897832606442,150,"約定"],"答复":[["dáfù"],["to answer/to reply/Reply to: (in email header)/variant of 答覆|答复[dá fù]"],3,0.22682069650780332,309,"答復"],"使":[["shǐ"],["to make/to cause/to enable/to use/to employ/to send/to instruct sb to do sth/envoy/messenger"],2,1.0,128,"使"],"发牢骚":[["fāláosāo"],["to whine/to be grouchy"],5,0.1950215174742522,314,"發牢騷"],"长":[["cháng","zhǎng"],["length/long/forever/always/constantly","chief/head/elder/to grow/to develop/to increase/to enhance"],1,0.5511313413514751,120,"長"],"原因":[["yuányīn"],["cause/origin/root cause/reason/CL:個|个[gè]"],2,0.6889940921788097,126,"原因"]}; ;
+  /* exported sP */
+/* global text_vocabulary */
+
+'use strict';
+
+const dI = {
+  over: function (el) {
+    $(el).addClass('hilite');
+  },
+  out: function (el) {
+    $(el).removeClass('hilite');
+  },
+  getX: function (obj) {
+    return (obj.offsetLeft || 0) + (obj.offsetParent && this.getX(obj.offsetParent) || 0);
+  },
+  getY: function (obj) {
+    return (obj.offsetTop || 0) + (obj.offsetParent && this.getY(obj.offsetParent) || 0);
+  },
+  positiontip: function (el, tip) {
+    const innerWidth = window.innerWidth ||
+                       document.documentElement.clientWidth ||
+                       document.body.clientWidth;
+    const innerHeight = window.innerHeight ||
+                        document.documentElement.clientHeight ||
+                        document.body.clientHeight;
+    const scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const elx = this.getX(el);
+    const ely = this.getY(el);
+    if (tip.offsetWidth > 300) {
+      tip.style.width = '300px';
+    }
+    const shift = Math.abs(el.offsetWidth) > 40 ? 40 : Math.abs(el.offsetWidth) / 2;
+    if (innerWidth + scrollLeft - elx - el.offsetWidth < tip.offsetWidth) {
+      tip.style.left = elx + shift - tip.offsetWidth + 'px';
+    } else {
+      tip.style.left = elx + shift + 'px';
+    }
+    if (innerHeight + scrollTop - ely - el.offsetHeight < tip.offsetHeight + 15) {
+      tip.style.top = ely - 3 - tip.offsetHeight + 'px';
+    } else {
+      tip.style.top = ely + 3 + el.offsetHeight + 'px';
+    }
+  },
+  ie: document.all
+};
+
+function sP(el, ev, zh) {
+  const tip = $('#tip')[0];
+  el.onmouseout = function () {
+    tip.style.visibility = 'hidden';
+    tip.style.left = '-1000px';
+    tip.style.top = '-1000px';
+    tip.style.backgroundColor = '';
+    tip.style.width = '';
+    dI.out(el);
+  };
+  dI.over(el);
+  let zh_fallback;
+  if (zh) {
+    zh_fallback = zh;
+  } else if (el.lastChild.nodeValue) {
+    zh_fallback = el.lastChild.nodeValue;
+  } else {
+    zh_fallback = el.lastChild.lastChild.nodeValue;
+  }
+  const item = dI.vocab[zh_fallback];
+  const py = item[0];
+  const en = item[1];
+  const oh = item[5];
+  let other = '';
+  if (zh_fallback !== oh) {
+    for (let i = 0; i < zh_fallback.length; ++i) {
+      other += zh_fallback[i] === oh[i] ? '-' : oh[i];
+    }
+    other = ' [' + other + ']';
+  }
+  let tip_html = `<div style="font-size:150%;color:lightblue">${zh_fallback}${other}</div>`;
+  for (let i = 0; i < py.length; ++i) {
+    const enstr = '• ' + en[i].replace(/([^<])\//g, '$1<br />• ');
+    tip_html += '<div style="font-weight:bold">' + py[i] +
+      '</div><div style="text-align:left;font-size:90%">' + enstr + '</div>';
+  }
+  tip.innerHTML = tip_html;
+  dI.positiontip(el, tip);
+  tip.style.visibility = 'visible';
+}
+
+dI.vocab = text_vocabulary;
+  /* exported show_words */
+/* global text_vocabulary */
+
+'use strict';
+
+const by = {
+  ord: function (a, b) {
+    return a[3] - b[3];
+  },
+  py: function (a, b) {
+    const l = a[1].toLowerCase();
+    const r = b[1].toLowerCase();
+    if (l > r) {
+      return 1;
+    }
+    return l < r ? -1 : 0;
+  },
+  rad: function (a, b) {
+    if (a[0] > b[0]) {
+      return 1;
+    }
+    return a[0] < b[0] ? -1 : 0;
+  },
+  freq: function (a, b) {
+    return b[4] - a[4];
+  }
+};
+
+function vocab_sort(vocab_list, cmp) {
+  const cmp_op = typeof cmp === 'undefined' ? 'ord' : cmp;
+  vocab_list.sort(by[cmp_op]);
+}
+
+// 历史上 ->	歷--
+function create_traditional_item(simplified, traditional) {
+  if (traditional === simplified) {
+    return '';
+  }
+  let result = '';
+  for (let i = 0; i < traditional.length; ++i) {
+    if (i >= simplified.length) {
+      result += traditional[i];
+      continue;
+    }
+    result += simplified[i] === traditional[i] ? '-' : traditional[i];
+  }
+  return result;
+}
+
+function fill_vocab(vocab_list) {
+  const pclass = 'py';
+  $('#vocab').empty();
+  if (vocab_list.length) {
+    $('#vocab').append('<tr><th>№</th><th>Слово (упрощ. иероглифы)</th>' +
+      '<th>Слово (трад. иероглифы)</th><th>Произношение</th><th>Значение</th></tr>');
+  }
+  for (let i = 0, l = vocab_list.length; i < l; ++i) {
+    const trad = create_traditional_item(vocab_list[i][0], vocab_list[i][5]);
+    $('#vocab').append('<tr>' +
+      '<td class="nw_num">' + (i + 1) + '</td>' +
+      '<td class="nw">' + vocab_list[i][0] + '</td>' +
+      '<td class="nw">' + trad + '</td>' +
+      '<td class="nw voc' + pclass + '">' + vocab_list[i][1] + '</td>' +
+      '<td class="nw_def">' + vocab_list[i][2] + '</td>' +
+      '</tr>');
+  }
+}
+
+function add_to_list(vocab_list, vocab_item) {
+  for (let i = 0, l = vocab_item.pronunciations.length; i < l; ++i) {
+    let py = vocab_item.pronunciations[i].replace(/ ([aeoāáǎàēéěèōóǒò])/g, '\'$1');
+    py = py.replace(/ ([^A-Z])/g, '$1');
+    const en = vocab_item.definitions[i].replace(/\//g, ' / ');
+    vocab_list.push([vocab_item.word, py, en, vocab_item.order,
+      vocab_item.frequency, vocab_item.traditional]);
+  }
+}
+
+function show_words() {
+  const vocab = text_vocabulary;
+
+  const vocab_list = [];
+  const vocab_th = parseInt($('#vocab_ls').val(), 10);
+  const sort_by = $('#sort_ls').val();
+
+  for (let k in vocab) {
+    if (!vocab.hasOwnProperty(k)) {
+      continue;
+    }
+    const item = vocab[k];
+    const level = vocab[k][2];
+    const vocab_item = {
+      word: k,
+      pronunciations: item[0],
+      definitions: item[1],
+      frequency: item[3],
+      order: item[4],
+      traditional: item[5],
+      level: level
+    };
+
+    if (level < vocab_th) {
+      continue;
+    }
+    add_to_list(vocab_list, vocab_item);
+  }
+
+  vocab_sort(vocab_list, sort_by);
+  fill_vocab(vocab_list);
+}
+  </script>
+</head>
+<body>
+  <div id="content" class="content mid">
+    <div id="tip" style="text-align: center"></div>
+    <div id="annotated">
+              <span class="nann"> </span><span class="ann  " onmouseover="sP(this, event)">内容</span><span class="ann  " onmouseover="sP(this, event)">简介</span><span class="nann">：<br /><br />《</span><span class="ann  " onmouseover="sP(this, event)">文</span><span class="ann  " onmouseover="sP(this, event)">博士</span><span class="nann">》</span><span class="ann  " onmouseover="sP(this, event)">讲</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">留</span><span class="ann  " onmouseover="sP(this, event)">美</span><span class="ann  " onmouseover="sP(this, event)">博士</span><span class="ann  " onmouseover="sP(this, event)">文</span><span class="ann  " onmouseover="sP(this, event)">博士</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">不学无术</span><span class="ann  " onmouseover="sP(this, event)">却</span><span class="ann  " onmouseover="sP(this, event)">精于</span><span class="ann  " onmouseover="sP(this, event)">权术</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">文</span><span class="ann  " onmouseover="sP(this, event)">痞</span><span class="ann  " onmouseover="sP(this, event)">政客</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">打</span><span class="ann  " onmouseover="sP(this, event)">着</span><span class="ann  " onmouseover="sP(this, event)">留</span><span class="ann  " onmouseover="sP(this, event)">美</span><span class="ann  " onmouseover="sP(this, event)">博士</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">洋</span><span class="ann  " onmouseover="sP(this, event)">招牌</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">招摇撞骗</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">巴结</span><span class="ann  " onmouseover="sP(this, event)">权贵</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">钻营</span><span class="ann  " onmouseover="sP(this, event)">到</span><span class="ann  " onmouseover="sP(this, event)">名利双收</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">专员</span><span class="nann">”</span><span class="ann  " onmouseover="sP(this, event)">肥缺</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">虽然</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">爱</span><span class="ann  " onmouseover="sP(this, event)">钱</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">深知</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">弄</span><span class="ann  " onmouseover="sP(this, event)">钱</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">得</span><span class="ann  " onmouseover="sP(this, event)">做官</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">因此</span><span class="ann  " onmouseover="sP(this, event)">他</span><span class="ann  " onmouseover="sP(this, event)">信奉</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">人生</span><span class="ann  " onmouseover="sP(this, event)">哲学</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">钱</span><span class="ann  " onmouseover="sP(this, event)">本位</span><span class="ann  " onmouseover="sP(this, event)">加官</span><span class="ann  " onmouseover="sP(this, event)">本位</span><span class="nann">”</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">二</span><span class="ann  " onmouseover="sP(this, event)">位</span><span class="ann  " onmouseover="sP(this, event)">一体</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">老舍</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="ann  " onmouseover="sP(this, event)">戏谑</span><span class="ann  " onmouseover="sP(this, event)">嘲讽</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">犀利</span><span class="ann  " onmouseover="sP(this, event)">笔锋</span><span class="nann">,</span><span class="ann  " onmouseover="sP(this, event)">鞭挞</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">旧</span><span class="ann  " onmouseover="sP(this, event)">中国</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">儒</span><span class="ann  " onmouseover="sP(this, event)">林</span><span class="nann">”</span><span class="ann  " onmouseover="sP(this, event)">中的</span><span class="ann  " onmouseover="sP(this, event)">丑类</span><span class="nann">。<br /><br /> </span><span class="ann  " onmouseover="sP(this, event)">序</span><span class="nann"> </span><span class="ann  " onmouseover="sP(this, event)">言</span><span class="nann"><br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">作者</span><span class="ann  " onmouseover="sP(this, event)">书社</span><span class="ann  " onmouseover="sP(this, event)">出版</span><span class="ann  " onmouseover="sP(this, event)">部</span><span class="ann  " onmouseover="sP(this, event)">早就</span><span class="ann  " onmouseover="sP(this, event)">约</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">篇</span><span class="ann  " onmouseover="sP(this, event)">较</span><span class="ann  " onmouseover="sP(this, event)">长</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">文章</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">有</span><span class="ann  " onmouseover="sP(this, event)">种种</span><span class="ann  " onmouseover="sP(this, event)">原因</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">使</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">敢</span><span class="ann  " onmouseover="sP(this, event)">答应</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">眼</span><span class="ann  " onmouseover="sP(this, event)">看到</span><span class="ann  " onmouseover="sP(this, event)">寒假</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">出版</span><span class="ann  " onmouseover="sP(this, event)">部</span><span class="ann  " onmouseover="sP(this, event)">先生</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">信</span><span class="ann  " onmouseover="sP(this, event)">又</span><span class="ann  " onmouseover="sP(this, event)">来到</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">附着</span><span class="ann  " onmouseover="sP(this, event)">请帖</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">约定</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">香港</span><span class="ann  " onmouseover="sP(this, event)">吃饭</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">赔上</span><span class="ann  " onmouseover="sP(this, event)">几</span><span class="ann  " onmouseover="sP(this, event)">十</span><span class="ann  " onmouseover="sP(this, event)">块</span><span class="ann  " onmouseover="sP(this, event)">路费</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">得</span><span class="ann  " onmouseover="sP(this, event)">去</span><span class="ann  " onmouseover="sP(this, event)">呀</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">交情</span><span class="ann  " onmouseover="sP(this, event)">要紧</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">继而</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">赔上</span><span class="ann  " onmouseover="sP(this, event)">路费</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">圆</span><span class="ann  " onmouseover="sP(this, event)">上脸</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">有没有</span><span class="ann  " onmouseover="sP(this, event)">办法</span><span class="ann  " onmouseover="sP(this, event)">呢</span><span class="nann">？</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">便中</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">计</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">文章</span><span class="ann  " onmouseover="sP(this, event)">吧</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">没有</span><span class="ann  " onmouseover="sP(this, event)">旁</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">可</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">答应</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。<br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">答应</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">什么</span><span class="ann  " onmouseover="sP(this, event)">呢</span><span class="nann">？</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">自己</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">知道</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">可</span><span class="ann  " onmouseover="sP(this, event)">真</span><span class="ann  " onmouseover="sP(this, event)">难倒</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">英雄好汉</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">大体上</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">长篇</span><span class="ann  " onmouseover="sP(this, event)">总是</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="ann  " onmouseover="sP(this, event)">喽</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">没有</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">诗</span><span class="ann  " onmouseover="sP(this, event)">史</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">本领</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">对</span><span class="ann  " onmouseover="sP(this, event)">戏剧</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">超等</span><span class="ann  " onmouseover="sP(this, event)">外行</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">只能</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">小说</span><span class="nann">——</span><span class="ann  " onmouseover="sP(this, event)">好坏</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">另一</span><span class="ann  " onmouseover="sP(this, event)">问题</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">写</span><span class="ann  " onmouseover="sP(this, event)">什么</span><span class="ann  " onmouseover="sP(this, event)">呢</span><span class="nann">？</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">好久</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">题目</span><span class="ann  " onmouseover="sP(this, event)">决定</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="nann">《</span><span class="ann  " onmouseover="sP(this, event)">文</span><span class="ann  " onmouseover="sP(this, event)">博士</span><span class="nann">》。</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">什么</span><span class="ann  " onmouseover="sP(this, event)">呢</span><span class="nann">？</span><span class="ann  " onmouseover="sP(this, event)">不能</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">说破</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">不灵</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">内容</span><span class="nann">？</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">不能</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">没</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">出来</span><span class="ann  " onmouseover="sP(this, event)">呢</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">再</span><span class="ann  " onmouseover="sP(this, event)">逼</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">上吊</span><span class="ann  " onmouseover="sP(this, event)">去</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">实在</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">出</span><span class="ann  " onmouseover="sP(this, event)">答复</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">发牢骚</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">道歉</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">广告</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">广告</span><span class="ann  " onmouseover="sP(this, event)">不可</span><span class="ann  " onmouseover="sP(this, event)">骗人</span><span class="ann  " onmouseover="sP(this, event)">过</span><span class="ann  " onmouseover="sP(this, event)">甚</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">所以</span><span class="ann  " onmouseover="sP(this, event)">我</span><span class="ann  " onmouseover="sP(this, event)">不能</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="nann">：</span><span class="ann  " onmouseover="sP(this, event)">读</span><span class="ann  " onmouseover="sP(this, event)">完</span><span class="ann  " onmouseover="sP(this, event)">此</span><span class="ann  " onmouseover="sP(this, event)">篇</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">独</span><span class="ann  " onmouseover="sP(this, event)">得</span><span class="ann  " onmouseover="sP(this, event)">十五</span><span class="ann  " onmouseover="sP(this, event)">万</span><span class="ann  " onmouseover="sP(this, event)">元</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">算</span><span class="ann  " onmouseover="sP(this, event)">序</span><span class="nann">。<br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">九</span><span class="ann  " onmouseover="sP(this, event)">四</span><span class="nann">○，</span><span class="ann  " onmouseover="sP(this, event)">十二</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">五</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">老舍</span><span class="ann  " onmouseover="sP(this, event)">于</span><span class="ann  " onmouseover="sP(this, event)">滇</span><span class="ann  " onmouseover="sP(this, event)">上</span><span class="nann"><br />		</span> 
+    </div>
+    <div id="show_vocab">
+      <div id="vocab_rg">
+       <label for="vocab">
+          Показать слова
+          <select name="vocab" id="vocab_ls" style="margin-top:.7ex">
+             <option value="1">все</option>
+             <option value="2">HSK 2 и выше</option>
+             <option value="3" selected="selected">HSK 3 и выше</option>
+             <option value="4">HSK 4 и выше</option>
+             <option value="5">вне HSK</option>
+             <option value="6">ничего</option>
+          </select>
+       </label>
+       <label for="sort">
+          Сортировать по 
+          <select name="sort" id="sort_ls" style="margin-top:.7ex">
+             <option value="ord" selected="selected">первому появлению</option>
+             <option value="py">произношению</option>
+             <option value="rad">ключу иероглифа</option>
+             <option value="freq">частоте</option>
+          </select>
+       </label>
+      </div>
+      <button type="button" onclick="show_words()">Показать слова</button>
+    </div>
+  </div>
+    <table id="vocab_table" style="border:0">
+      <tbody id="vocab"> </tbody>
+    </table>
+</body>
+</html>

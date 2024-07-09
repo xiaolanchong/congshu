@@ -257,7 +257,7 @@ const dI = {
     }
     const shift = Math.abs(el.offsetWidth) > 40 ? 40 : Math.abs(el.offsetWidth) / 2;
     if (innerWidth + scrollLeft - elx - el.offsetWidth < tip.offsetWidth) {
-      tip.style.left = elx + shift - tip.offsetWidth + 'px';
+      tip.style.left = Math.max(elx + shift - tip.offsetWidth, 0) + 'px';
     } else {
       tip.style.left = elx + shift + 'px';
     }

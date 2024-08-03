@@ -1,237 +1,558 @@
-Mild Swearing (B0055)
+Elementary - Mild Swearing (B0055)
 不是很帅的小伙子：拿我的手机给你妈妈打个电话，说你今天会晚回家。
+bù shì hěn shuài de xiǎohuǒzi ：ná wǒ de shǒujī gěi nǐ māma dǎ ge diànhuà ，shuō nǐ jīntiān huì wǎn huíjiā 。
+Not terribly attractive boy: Call your mum with my mobile phone. Say you’re going to be home late today.
+
 很漂亮的女孩子：神经病！
+hěn piàoliang de nǚháizi ：shénjīngbìng ！
+Pretty girl: psycho!
 
 你觉得新来的小王怎么样？
+nǐ juéde xīn lái de Xiǎo Wáng zěnmeyàng ？
+What do you think of the newcomer, Xiao Wang?
+
 傻冒一个！
+shǎmào yī ge ！
+dumb!
 
 我这次肯定能通过考试！
+wǒ zhècì kěndìng néng tōngguò kǎoshì ！
+This time I’ll pass the exam for sure!
+
 你不是白痴吧？没上过课就去考试还能通过？
+nǐ bù shì báichī ba ？méi shàng guo kè jiù qù kǎoshì hái néng tōngguò ？
+Are you an idiot? Can you pass the exam without having ever attended class?
 
 我准备开古董店。
+wǒ zhǔnbèi kāi gǔdǒngdiàn 。
+I’m preparing to open an antique shop.
+
 你脑子坏了吧？你一点也不懂古董啊！
+nǐ nǎozi huài le ba ？nǐ yīdiǎnyěbù dǒng gǔdǒng a ！
+Is your brain broken? You know nothing about antiques!
 
 你没长眼睛吗？踩到我的脚了！
+nǐ méi zhǎng yǎnjing ma ？cǎi dào wǒ de jiǎo le ！
+Do you have eyes? You stepped on my toes!
+
 李先生最近怎么样？
+Lǐ xiānsheng zuìjìn zěnmeyàng ？
+How’s Mr. Li recently?
+
 戴了绿帽子啦！他漂亮的太太有情人的事大家都知道啦！
+dài le lǜmàozi la ！tā piàoliang de tàitai yǒu qíngrén de shì dàjiā dōu zhīdào la ！
+Wearing his green cuckold hat! Everyone knows his beautiful wife has a lover!
 
-The Traffic Jam (B0057)
+Vocabulary
+帅   shuài   handsome
+小伙子   xiǎohuǒzi   young man
+神经病   shénjīngbìng   crazy
+傻冒   shǎmào   idiotic
+白痴   báichī   idiot
+通过   tōngguò   to pass
+古董店   gǔdǒngdiàn   antique store
+脑子坏了   nǎozi huài le   one's brain is broken
+没长眼睛   méi zhǎng yǎnjing   have no eyes
+踩   cǎi   to step on
+戴绿帽子   dài lǜmàozi   be a cuckold
+二百五   érbǎiwu   stupid
+十三点   shísāndiǎn   half-cracked
+傻瓜   shǎguā   fool
+笨蛋   bèndàn   idiot
+蠢   chǔn   stupid; foolish; dull; clumsy
+
+Elementary - The Traffic Jam (B0057)
 上海的交通怎么样？
+Shànghǎi de jiāotōng zěnmeyàng ？
+What’s Shanghai’s traffic like?
+
 还可以。我每天坐地铁去上班。
+háikěyǐ 。wǒ měitiān zuò dìtiě qù shàngbān 。
+It’s OK. Every day I take the subway to work.
+
 你经常坐出租车吗？
+nǐ jīngcháng zuò chūzūchē ma ？
+Do you often take taxis?
+
 很少。虽然坐出租车很方便，但是很贵。
+hěn shǎo 。suīrán zuò chūzūchē hěn fāngbiàn ，dànshì hěn guì 。
+Very seldom. Although taking taxis is convenient, it’s expensive.
+
 哦。我明白你的意思。
+ō 。wǒ míngbai nǐ de yìsi 。
+Oh, I see what you mean.
 
-Finding an Apartment (B0079)
+Vocabulary
+交通   jiāotōng   traffic
+怎么样   zěnmeyàng   how about
+还可以   háikěyǐ   all right
+每天   měitiān   every day
+坐   zuò   to ride
+地铁   dìtiě   subway
+上班   shàngbān   to go to work
+经常   jīngcháng   often
+出租车   chūzūchē   taxi
+少   shǎo   seldom
+虽然   suīrán   although
+方便   fāngbiàn   convenient
+但是   dànshì   but
+贵   guì   expensive
+明白   míngbai   understand
+意思   yìsi   meaning
+公共汽车   gōnggòng qìchē   publlic bus
+走路   zǒulù   on foot
+拥挤   yōngjǐ   crowded
+节省   jiéshěng   save
+时间   shíjiān   time
+速度   sùdù   speed
+堵车   dǔchē   traffic jam
+
+Elementary - Which country are you from? (B0072)
+你是哪个国家的？
+nǐ shì nǎge guójiā de ？
+Which country are you from?
+
+我生在英国，但是我是在美国长大的。
+wǒ shēngzài Yīngguó ，dànshì wǒ shì zài Měiguó zhǎngdà de 。
+I was born in England, but I grew up in America.
+
+这是你第一次到中国来吗？
+zhè shì nǐ dìyīcì dào Zhōngguó lái ma ？
+Is this your first time in China?
+
+不是。我来过一次。我以前在北京学中文。
+bù shì 。wǒ lái guo yīcì 。wǒ yǐqián zài Běijīng xué Zhōngwén 。
+No. I’ve been here before. I studied in Beijing before.
+
+你去过香港吗？
+nǐ qù guo Xiānggǎng ma ？
+Have you been to Hong Kong?
+
+我还没去过。
+wǒ hái méi qù guo 。
+I haven’t been yet.
+
+Vocabulary
+国家   guójiā   country
+
+生在   shēngzài   to be born in
+
+长大   zhǎngdà   to grow up
+
+第一次   dìyīcì   first time
+
+到   dào   to
+
+来   lái   to come
+
+以前   yǐqián   before
+
+加拿大   Jiānádà   Canada
+
+读书   dúshū   study
+
+留学   liúxué   study abroad
+
+澳大利亚   Aòdàlìyà   Australia
+
+欧洲   Oūzhōu   Europe
+
+韩国   Hánguó   South Korea
+
+日本   Rìběn   Japan
+
+Elementary - Discussing Eating (B0075)
+今天晚上我想到餐厅去吃中餐。谁跟我去？
+jīntiān wǎnshang wǒ xiǎng dào cāntīng qù chī Zhōngcān 。shéi gēn wǒ qù ？
+Tonight I’d like to go to a restaurant to eat Chinese food. Who will go with me?
+
+我跟你去。
+wǒ gēn nǐ qù 。
+I’ll go with you.
+
+我们中国人都用筷子吃饭。你会用筷子吗？
+wǒmen zhōngguórén dōu yòng kuàizi chīfàn 。nǐ huì yòng kuàizi ma ？
+We Chinese use chopsticks to eat. Can you use chopsticks?
+
+一点都不会。
+yīdiǎn dōu bù huì 。
+Not even a little.
+
+那不要紧。我可以教你。
+nà bùyàojǐn 。wǒ kěyǐ jiāo nǐ 。
+Don’t worry. I can teach you.
+
+Vocabulary
+今天晚上   jīntiān wǎnshang   tonight
+
+到......去   dào...qù   to go to
+
+到餐厅   dào cāntīng   to go to a restaurant
+
+打篮球   dǎ lánqiú   to play basketball
+
+跟   gēn   with
+
+都   dōu   all
+
+用   yòng   to use
+
+一点都不会   yīdiǎn dōu bù huì   can't at all
+
+不要紧   bùyàojǐn   don't worry
+
+教   jiāo   to teach
+
+一双筷子   yī shuāng kuàizi   a pair of chopsticks
+
+学   xué   to learn
+
+拿   ná   to hold
+
+夹菜   jiā cài   to pick up food (with chopsticks)
+
+饭店   fàndiàn   restaurant
+
+Elementary - Finding an Apartment (B0079)
 你好。我想租房。
+nǐhǎo 。wǒ xiǎng zūfáng 。
+Hello. I’d like to rent an apartment.
+
 好的。你要多大的？
+hǎo de 。nǐ yào duō dà de ？
+Good. How big a house do you want?
+
 我想一个人住，所以一间卧室就可以了。你有合适的吗？
+wǒ xiǎng yī ge rén zhù ，suǒyǐ yī jiān wòshì jiù kěyǐ le 。nǐ yǒu héshì de ma ？
+I’d like to live alone, so one bedroom is enough. Do you have something suitable?
+
 有。你要看吗？
+yǒu 。nǐ yào kàn ma ？
+Yes. Do you want to have a look?
+
 好的。
+hǎo de 。
+Yes.
 
-Useful Phrases #3 (B0081)
+Vocabulary
+想   xiǎng   would like
+
+租   zū   to rent
+
+要   yào   to want
+
+多   duō   how
+
+住   zhù   to live
+
+所以   suǒyǐ   therefore
+
+间   jiān   (measure word for rooms)
+
+卧室   wòshì   bedroom
+
+可以   kěyǐ   can
+
+合适   héshì   suitable
+
+要求   yāoqiú   demand; request
+
+干净   gānjìng   clean
+
+卫生间   wèishēngjiān   washroom
+
+厨房   chúfáng   kitchen
+
+家具   jiājù   furniture
+
+电器   diànqì   electrical appliance
+
+安静   ānjìng   quiet
+
+交通   jiāotōng   traffic
+
+方便   fāngbiàn   convenient
+
+Elementary - Useful Phrases #3 (B0081)
 请问，洗手间在哪里？
+qǐng wèn ，xǐshǒujiān zài nǎli ？
+Excuse me, where is the bathroom?
+
 麻烦你，卫生间在哪里？
+máfan nǐ ，wèishēngjiān zài nǎli ？
+I’m sorry to bother you, where is the bathroom?
+
 我迟到了。不好意思。
+wǒ chídào le 。bùhǎoyìsi 。
+I’m late. Sorry.
+
 我忘了你的名字。不好意思。
+wǒ wàngle nǐde míngzi 。bùhǎoyìsi 。
+I forgot your name. Apologies.
+
 我没有钱，不好意思。
+wǒ méiyǒu qián ，bùhǎoyìsi 。
+I don’t have any money. Sorry.
 
-Hobbies: Music (B0087)
+Vocabulary
+洗手间   xǐshǒujiān   washroom
+
+哪里   nǎli   where
+
+麻烦   máfan   to bother
+
+卫生间   wèishēngjiān   toilet
+
+迟到   chídào   to arrive late
+
+不好意思   bùhǎoyìsi   sorry
+
+忘   wàng   to forget
+
+图书馆   túshūguǎn   library
+
+记住   jìzhù   remember
+
+也   yě   also
+
+知道   zhīdào   know
+
+多谢   duō xiè   thank you very much
+
+帮   bāng   help
+
+Elementary - Hobbies: Music (B0087)
 我上大学的时候很喜欢听音乐。
+wǒ shàng dàxué de shíhou hěn xǐhuan tīng yīnyuè 。
+When I was in college, I really liked listening to music.
+
 我也是。尤其是流行音乐。
+wǒ yě shì 。yóuqí shì liúxíng yīnyuè 。
+Me too. Especially pop music.
+
 但是现在我没有兴趣听音乐。
+dànshì xiànzài wǒ méiyǒu xìngqù tīng yīnyuè 。
+But now I’m not interested in listening to music.
+
 真的吗？我还是有兴趣听音乐。
+zhēnde ma ？wǒ hái shì yǒu xìngqù tīng yīnyuè 。
+Really? I’m still interested in listening to music.
 
-Football (Soccer) (B0089)
+Vocabulary
+上   shàng   to attend
+
+大学   dàxué   university
+
+听   tīng   to listen to
+
+流行   liúxíng   popular
+
+音乐   yīnyuè   music
+
+也   yě   also
+
+尤其   yóuqí   especially
+
+现在   xiànzài   now
+
+兴趣   xìngqù   interest
+
+还是   hái shì   still
+
+爱好   àihào   interest
+
+书法   shūfǎ   calligraphy
+
+下棋   xiàqí    to play chess
+
+画画   huàhuà   to draw
+
+钓鱼   diàoyú   to fish
+
+运动   yùndòng   sports
+
+跳舞   tiàowǔ   to dance
+
+唱歌   chànggē   to sing
+
+看书   kàn shū   to read books
+
+看电影   kàn diànyǐng   to watch films
+
+Elementary - Football (Soccer) (B0089)
 我喜欢看足球。你喜欢足球吗？
+wǒ xǐhuan kàn zúqiú 。nǐ xǐhuan zúqiú ma ？
+I like to watch soccer. Do you like soccer?
+
 我不太喜欢足球。
+wǒ bùtài xǐhuan zúqiú 。
+I don’t really like soccer.
+
 你为什么不喜欢足球？
+nǐ wèishénme bù xǐhuan zúqiú ？
+Why don’t you like soccer?
+
 因为足球很无聊。
+yīnwèi zúqiú hěn wúliáo 。
+Because soccer is boring.
 
-Mother's Birthday (B0091)
+Vocabulary
+喜欢   xǐhuan   to like
+
+足球   zúqiú   soccer
+
+不太   bùtài   not too much
+
+为什么   wèishénme   why
+
+因为   yīnwèi   because
+
+无聊   wúliáo   boring
+
+篮球   lánqiú   bascketball
+
+乒乓球   pīngpāngqiú   Ping-Pong
+
+羽毛球   yǔmáoqiú   badminton
+
+网球   wǎngqiú   tennis
+
+有意思   yǒuyìsi   funny
+
+比赛   bǐsài   competition
+
+Elementary - Mother's Birthday (B0091)
 明天是我妈妈的生日。
+míngtiān shì wǒ māma de shēngrì 。
+Tomorrow is my mother’s birthday.
+
 是吗？礼物买好了吗？
+shì ma ？lǐwù mǎihǎo le ma ？
+Is that right? Have you bought the gift?
+
 买好了。我买了一件时髦的外套送给她。
+mǎihǎo le 。 wǒ mǎi le yī jiàn shímáo de wàitào sònggěi tā 。
+I’ve bought one. I bought a fashionable coat to give her.
+
 她肯定很喜欢。
+tā kěndìng hěn xǐhuan 。
+She’ll certainly like it.
 
-Office Policy: Internet (B0093)
+Vocabulary
+明天   míngtiān   tomorrow
+
+生日   shēngrì   birthday
+
+礼物   lǐwù   gift
+
+买好   mǎihǎo   to have bought
+
+时髦   shímáo   fashion
+
+外套   wàitào   coat
+
+送给   sònggěi   to give to
+
+肯定   kěndìng   certainly
+
+祝   zhù   express good wishes
+
+快乐   kuàilè   happy
+
+开心   kāixīn   glad
+
+肯定   kěndìng   sure
+
+难忘   nánwàng   unforgettable
+
+Elementary - Office Policy: Internet (B0093)
 最近我们发现许多员工在工作时间内使用互联网聊天。员工不可以在上班时上网聊天。员工只能使用互联网工作或与客户联系。
+zuìjìn wǒmen fāxiàn xǔduō yuángōng zài gōngzuò shíjiān nèi shǐyòng hùliánwǎng liáotiān 。yuángōng bù kěyǐ zài shàngbān shí shàngwǎng liáotiān 。yuángōng zhǐnéng shǐyòng hùliánwǎng gōngzuò huò yǔ kèhù liánxì 。
+Recently we have discovered that many of our employees are using the Internet to chat during working hours. Employees can’t use the Internet to chat online at work. Employees can only use the Internet for work or to communicate with customers.
 
-Connecting with Email (B0098)
+Vocabulary
+最近   zuìjìn   recently
+
+发现   fāxiàn   to discover
+
+员工   yuángōng   employees
+
+在   zài   at
+
+工作时间   gōngzuò shíjiān   working time
+
+内   nèi   within
+
+使用   shǐyòng   to use
+
+互联网   hùliánwǎng   Internet
+
+聊天   liáotiān   to chat
+
+可以   kěyǐ   can
+
+上网   shàngwǎng   to go online
+
+只能   zhǐnéng   only to be able
+
+禁止   jìnzhǐ   prohibit
+
+网站   wǎngzhàn   website
+
+网页   wǎngyè   web page
+
+迟到   chídào   late
+
+早退   zǎotuì   leave early
+
+私事   sīshì   private or personal affair
+
+Elementary - Connecting with Email (B0098)
 王太太，我怎么跟你联系？你有手机吗？
+wáng tàitai wǒ zěnme gēn nǐ liánxì ？nǐ yǒu shǒujī ma ？
+Mrs. Wang, how can I get in touch with you? Do you have a mobile phone?
+
 我的手机坏了。最好发电子邮件给我。
+wǒde shǒujī huài le 。zuìhǎo fā diànzǐyóujiàn gěi wǒ 。
+My mobile is broken. It’s best is to send me an email.
+
 你收邮件方便吗？
+nǐ shōu yóujiàn fāngbiàn ma ？
+Is it convenient for you to receive email?
+
 很方便。我们以后可以用邮件联系。
+hěn fāngbiàn 。wǒmen yǐhòu kěyǐ yòng yóujiàn liánxì 。
+Very convenient. From now on let’s use email to get in touch.
 
-My boss isn't satisfied (B0101)
-我的老板对我的工作不满意。
-为什么？你工作不努力吗？
-我工作很努力，但是我电脑用得不太好。
-是吗？那你应该多学习用电脑。
+Vocabulary
+跟   gēn   with
 
-What would you like to drink? (B0105)
-A: 你要喝什么饮料？
-B: 我喝茶就好了。
-A: 茶就够了吗？不要可乐什么的？
-B: 不了。喝可乐容易饱。还是茶好。
-A: 那我也喝茶好了。
+联系   liánxì   to contact
 
-Calling in Sick (B0111)
-老板，对不起。我今天不能来上班了。
-为什么？你不舒服吗？
-对。我感冒了。
-好，那你好好照顾自己。明天见。
+坏了   huài le   broken
 
-What does she usually do? (B0112)
-我喜欢丽丽。她有男朋友吗？
-没有。她从不出去玩。她总是在图书馆里学习。
-是吗。我有时在校园酒吧里看到她。
-没错。她通常周五去校园酒吧。
+最好   zuìhǎo   best
 
-Discussing Loan Repayment (B0115)
-A 上个月，你从我这里借了两百五十块钱。
-B 真的吗？我不记得了。你肯定吗？
-A 对，我肯定。你什么时候还给我？
-B 我下个月还给你。
-A 不行！我下星期就要。
+发   fā   to send
 
-Disliking Others (B0118)
-你见过李太太的先生吗？
-见过。我不喜欢他。他很自私，也很懒惰。
-我同意。他还很无礼。我不知道李太太为什么嫁给他。
-我想是因为他很有钱。
+电子邮件   diànzǐyóujiàn   email
 
-What's your type? (B0127)
-你喜欢哪种男生？
-我喜欢的男生一定要浪漫。
-跟我妹妹一样。但是她说浪漫的人很难找。
-我同意。我找了很久也没找到。
+收   shōu   to receive
 
-Your turn to pay! (B0129)
-啊呀，对不起。我忘记带钱包了。你能付午饭的钱吗？
-你总是忘记带钱包。每一次都是我付钱。今天，我不付。你应该付。
-你说的不对。上次就是我付的。
-你没有。今天，你一定要付。我走了。
+方便   fāngbiàn   convenient
 
-I don't have time (B0131)
-你什么时候有空？
-我最近没有时间。
-你上班路上花多久？
-坐地铁很快，坐车很慢。
+以后   yǐhòu   from now on
 
-Surfing Online (B0135)
-我喜欢上网。我花很多时间浏览体育网站。
-我也经常上网。但是我看最近的新闻。
-你上网聊天吗？
-我有时用MSN和朋友聊天。
+用   yòng   to use
 
-A Ticket to Suzhou (B0139)
-请问，去苏州的火车票多少钱？
-单程还是往返？
-我要一张往返票。
-往返票50元。
+电话号码   diànhuà hàomǎ   phone number
 
-What do you do? (B0141)
-你有空的时候喜欢干什么？
-我通常看书，有时也看电视。
-真的吗？我从来不看书。我喜欢去酒吧。
-我觉得酒吧里太吵了。
+地址   dìzhǐ   address
 
-Where's my class? (B0143)
-对不起，我找不到教室。
-你上什么课？
-我上数学课。
-你的教室是24号。
+草稿箱   cǎogǎo xiāng   draft box
 
-Do you have vegetables? (B0146)
-你这里有蔬菜吗?
-有。你要什么蔬菜?
-我想买黄瓜，土豆，番茄和洋葱。
-好的。没问题。
+收件箱   shōujiànxiāng   inbox
 
-Do I look good in this? (B0149)
-这件衣服适合我吗？
-我觉得这个不好看。
-是吗？
-是的，这个颜色太暗了。
+发件箱   fājiànxiāng   sending box
 
-This room is too small (B0153)
-上个礼拜，我去看我的同学。他刚刚搬家。
-是吗？他的新房子怎么样？
-马马虎虎。但是我不喜欢。
-为什么？
-因为房间太小了。
-
-Have you been to Beijing? (B0156)
-你去过北京吗？
-当然，北京是中国的首都，也是中国的政治中心。
-那北京和上海有什么不一样？
-上海是一个经济中心。
-
-Haircuts (B0161)
-我想剪头发。多少钱？
-洗剪吹50元。请问你想剪什么样的？
-前面短一点，后面留长一点。
-没问题。你先洗头吧。
-
-Baby Talk: Your baby looks like you! (B0164)
-你的宝宝很像你。
-嗯，他也很像他爸爸。
-眼睛，鼻子像你。嘴巴像他爸爸。
-他真可爱。
-
-He's boring (B0167)
-我的邻居邀请我明天晚上去他家吃饭，但是我不想去。
-你为什么不想去？
-他很无聊，而且他太太菜做得很难吃。
-那你就说你没时间。
-
-Going to the Doctor (B0170)
-你哪里不舒服？
-我喉咙痛。
-还有什么不舒服？发烧吗？
-没有。不发烧。
-来，张开嘴让我看看。
-
-Cooking (B0173)
-我刚学会做宫保鸡丁。
-是吗？怎么做？
-先切鸡丁，然后炒，最后加花生。
-听起来很简单。我也试试。
-
-Here is your change (B0177)
-这盒巧克力多少钱？
-十五元。
-我只有五十元的。你有零钱吗？
-有的。这里是三十五元。
-
-A Walk in the Park (B0178)
-我经常去公园。
-是吗？你去干什么？
-我喜欢一边散步，一边看人练太极拳。
-我有时候去公园骑车。
-
-Musical Instruments (B0183)
-你会弹钢琴吗？
-不会。但是我会弹古筝。
-是吗？你可以教我吗？
-好的。没问题。
-
-Adding Credit to a Cell Phone (B0189)
-这里有手机充值卡吗？
-有。你要多少钱的？
-我只用一个星期。一百的够吗？
-够了。
-
-Going to Church (B0192)
-你信教吗？
-我不信。你呢？
-我信基督教。
-我的朋友也是。他每个星期天都去教堂。
-
-Getting a Date (B0197)
-A 你明天晚上有空吗？
-B 有的。什么事？
-A 我们一起去喝东西吧。
-B 好的。
-
+垃圾邮件   lājī yóujiàn   junk mail

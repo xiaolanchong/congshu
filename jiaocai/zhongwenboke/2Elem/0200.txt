@@ -17,25 +17,15 @@ This one is very good.
 
 Vocabulary
 有   yǒu   to have
-
 防晒霜   fángshàishuāng   sunscreen
-
 要   yào   to want
-
 最   zuì   most
-
 种   zhǒng   kind
-
 什么样   shénmeyàng   what kind of
-
 洗面奶   xǐmiànnǎi   cleansing milk
-
 润肤水   rùnfūshuǐ   skin refresher lotion
-
 乳液   rǔyè   emulsion
-
 护手霜   hùshǒushuāng   hand cream
-
 牌子   páizi   brand
 
 Elementary - Pets (B0208)
@@ -57,31 +47,18 @@ I like cats too.
 
 Vocabulary
 养   yǎng   to raise
-
 宠物   chǒngwù   house pet
-
 狗   gǒu   dog
-
 猫   māo   cat
-
 也   yě   also
-
 喜欢   xǐhuan   to like
-
 你呢   nǐ ne   what about you
-
 宠物医院   chǒngwù yīyuàn   animal hospital 
-
 宠物商店   chǒngwù shāngdiàn   pet store
-
 可爱   kěài   lovable
-
 乖   guāi   well-behaved
-
 漂亮   piàoliang   pretty
-
 品种   pǐnzhǒng   variety
-
 溜狗   liùgǒu    take a dog for a walk
 
 Elementary - How embarrassing! (B0214)
@@ -103,37 +80,21 @@ I doesn't matter. I'll pay.
 
 Vocabulary
 这次   zhè cì   this time
-
 请客   qǐngkè   to treat guests
-
 够   gòu   enough
-
 丢脸   diūliǎn   to lose face
-
 没关系   méiguānxi   to not matter
-
 这回   zhè huí   this time
-
 下回   xià huí   next time
-
 下次   xiàcì   next
-
 做东   zuòdōng   be the host; stand a treat
-
 买单   mǎidān   to order the bill
-
 AA制   AA zhì   each person pay his own bill
-
 各付各的   gè fù gè de   each person pay his own bill
-
 丢人   diūrén   to lose face
-
 出丑   chūchǒu   gaffe
-
 带   dài   to carry
-
 现金   xiànjīn   cash
-
 刷卡   shuākǎ   to swipe a card
 
 Elementary - The Doggy Bag (B0217)
@@ -155,29 +116,17 @@ No problem.
 
 Vocabulary
 服务员   fúwùyuán   waiter
-
 这些   zhèxiē   these
-
 打包   dǎbāo   to put food in a doggy bag
-
 汤   tāng   soup
-
 可以   kěyǐ   can
-
 没问题   méiwèntí   no problem
-
 打包盒   dǎbāo hé   doggy bag (container)
-
 给   gěi   to give
-
 分开   fēnkāi   to separate
-
 带走   dàizǒu   to lead away
-
 外带   wàidài   takeout
-
 堂吃   tángchī   eat it in the restaurant
-
 还是   háishi   or
 
 Elementary - Nationalities (B0223)
@@ -199,29 +148,17 @@ Australia is beautiful.
 
 Vocabulary
 哪里   nǎlǐ   where
-
 美国   Měiguó   American
-
 国家   guójiā   country
-
 澳大利亚   Aòdàlìyà   Australian
-
 美   měi   beautiful
-
 州   zhōu   state
-
 区   qū   district
-
 哪里   nǎlǐ   where
-
 地方   dìfang   place
-
 加拿大   Jiānádà   Canada
-
 加拿大人   Jiānádàrén   Canadian
-
 意大利   Yìdàlì   Italy
-
 意大利人   Yìdàlìrén   Italian
 
 Elementary - Morning Hygiene (B0227)
@@ -243,33 +180,19 @@ No, no time.
 
 Vocabulary
 早上   zǎoshang   early morning
-
 洗   xǐ   to wash
-
 洗脸   xǐliǎn   to wash one's face
-
 刷牙   shuāyá   to brush teeth
-
 要   yào   to take
-
 多久   duōjiǔ   how long
-
 分钟   fēnzhōng   minute
-
 洗头   xǐtóu   to wash hair
-
 洗澡   xǐzǎo   to take a shower
-
 没时间   méishíjiān   not to have time
-
 牙膏   yágāo   toothpaste
-
 牙刷   yáshuā   toothbrush
-
 刮胡子   guā húzi   shave
-
 剃须刀   tìxūdāo   shaver
-
 吹风机   chuīfēngjī   drier
 
 Elementary - Pronunciation Correction (B0232)
@@ -291,25 +214,15 @@ Yes. It’s “glasses”, not “eyes”.
 
 Vocabulary
 新   xīn   new
-
 眼睛   yǎnjīng   eye
-
 眼镜   yǎnjìng   spectacles
-
 错   cuò   wrong
-
 刚才   gāngcái   just
-
 应该   yīnggāi   should
-
 听错   tīngcuò   hear mistakenly
-
 看错   kàncuò   see/read mistakenly
-
 声调   shēngdiào   tone
-
 纠正   jiūzhèng   correct
-
 原来   yuánlái   originally
 
 Elementary - Having Food Delivered (B0236)
@@ -339,41 +252,23 @@ It will be delivered in 15 minutes.
 
 Vocabulary
 要   yào   want
-
 炒饭   chǎofàn   fried rice
-
 可以   kěyǐ   can
-
 送   sòng   to deliver
-
 几   jǐ   how many
-
 份   fèn   portion
-
 地址   dìzhǐ   address
-
 延安路   Yánān lù   Yanan Road
-
 10号   shí hào   number 10
-
 十五   shí wǔ   15
-
 分钟   fēnzhōng   minute
-
 送到   sòngdào   to be delivered
-
 外卖   wàimài   take-out food
-
 叫外卖   jiào wàimài   order take-out food
-
 多久   duōjiǔ   how long
-
 什么时候   shénme shíhou   when
-
 快点   kuài diǎn   more quickly
-
 催   cuī   urge
-
 以后   yǐhòu   after
 
 Elementary - Massage Therapy (B0241)
@@ -407,29 +302,17 @@ That feels good.
 
 Vocabulary
 舒服   shūfu   comfortable
-
 按   àn   to press
-
 轻   qīng   soft
-
 重   zhòng   hard
-
 太   tài   too
-
 很   hěn   very
-
 不太   bùtài   not too
-
 服务   fúwù   service
-
 按摩   ànmó   massage
-
 躺下   tǎngxia   lie down
-
 放松   fàngsōng   relax
-
 还是   háishi   or
-
 刚好   gānghǎo   exactly
 
 Elementary - Don't do that! (B0245)
@@ -451,29 +334,17 @@ You are so annoying! I can’t stand it! Stop singing!
 
 Vocabulary
 拉拉拉   lālālā   La la la
-
 不好意思   bùhǎoyìsi   Sorry
-
 可以   kěyǐ   can
-
 不要   bùyào   not
-
 唱   chàng   to sing
-
 烦死了   fán sǐ le   so annoying
-
 受不了   shòubuliǎo   to be unable to bear
-
 吵   chǎo   noisy
-
 有点吵   yǒudiǎn chǎo   a little noisy
-
 吵死了   chǎosǐ le   so noisy
-
 别   bié   don\'t
-
 安静   ānjìng   quiet
-
 嘘   xū   Shhh
 
 Elementary - I want to play (B0250)
@@ -499,27 +370,16 @@ All right...
 
 Vocabulary
 想   xiǎng   to want
-
 出去   chūqù   to go out
-
 玩   wán   to play
-
 作业   zuòyè   homework
-
 做好   zuò hǎo   to finish
-
 还   hái   still
-
 再   zài   then
-
 休息   xiūxi   rest
-
 先   xiān   first
-
 再   zài   again
-
 工作   gōngzuò   work
-
 一起   yīqǐ   together
 
 Elementary - I can't find my glasses! (B0254)
@@ -545,37 +405,21 @@ But now I can’t see anything!
 
 Vocabulary
 眼镜   yǎnjìng   spectacles
-
 找不到   zhǎobudào   to be unable to find
-
 戴   dài   to wear
-
 着呢   zhe ne   denotes an ongoing situation or state. Used at the end of sentence.
-
 可是   kěshì   but
-
 现在   xiànzài   right now
-
 看不见   kànbujiàn   to not see
-
 丢了   diū le   has been lost
-
 掉了   diào le   has been lost
-
 坏了   huài le   has been lost
-
 找得到   zhǎodedào   to be able to find
-
 不见了   bùjiàn le   disappear
-
 戴眼境   dài yǎnjìng   wear glasses
-
 看不见   kànbujiàn   unseen
-
 看得见   kàndejiàn   visible
-
 别着急   bié zháojí   Don’t worry.
-
 慢慢找   mànmàn zhǎo   take it easy looking for it
 
 Elementary - Borrowing and Returning (B0259)
@@ -597,39 +441,22 @@ It should be fine. Go ahead and ask him.
 
 Vocabulary
 支   zhī   /
-
 笔   bǐ   pen
-
 可以   kěyǐ   can
-
 借给   jiègěi   to loan to
-
 我的   wǒ de   mine
-
 现在   xiànzài   now
-
 得   děi   still must
-
 还给   huángěi   return to
-
 哦   ò   oh
-
 那   nà   in that case
-
 问   wèn   to ask
-
 借   jiè   to borrow
-
 应该   yīnggāi   should
-
 向……借   xiàng ... jiè   to borrow from ...
-
 不肯   bù kěn   to not willing to
-
 爱护   àihù   to cherish
-
 一定   yīdìng   certainly
-
 好借好还   hǎojiè hǎohuán   make it a point to return everything one has borrowed
 
 Elementary - Make-up (B0262)
@@ -697,39 +524,22 @@ How come? You can do it!
 
 Vocabulary
 怎么了   zěnme le   what\'s wrong
-
 高兴   gāoxìng   to be happy
-
 真   zhēn   really
-
 难   nán   difficult to
-
 找   zhǎo   find
-
 别   bié   to leave
-
 灰心   huīxīn   to get discouraged
-
 也许   yěxǔ   perhaps
-
 可   kě   but
-
 信心   xìnxīn   confidence
-
 怎么会   zěnme   how can it be
-
 一定   yīdìng   certainly
-
 行   xíng   can
-
 加油   jiāyóu   Go! You can do it!
-
 别放弃   bié fàngqì   Don’t give up.
-
 相信   xiāngxìn   trust, believe in
-
 信心   xìnxīn   confidence
-
 自信   zìxìn   be self-confident, self-confidence
 
 
@@ -764,33 +574,19 @@ I will, thank you.
 
 Vocabulary
 告诉   gàosu   to tell
-
 怀孕   huáiyùn   to be pregnant
-
 恭喜   gōngxǐ   congratulations
-
 不过   búguò   but
-
 激动   jīdòng   excited
-
 注意   zhùyì   to pay attention to
-
 紧张   jǐnzhāng   nervous
-
 孕妇   yùnfù   pregnant woman
-
 预产期   yùchǎnqī   expected date of childbirth
-
 产前检查   chǎnqián jiǎnchá   prenatal inspection
-
 产检   chǎnjiǎn   birth check
-
 生   shēng   to be born
-
 健康   jiànkāng   health
-
 注意   zhùyì   to pay attention
-
 营养   yíngyǎng   nutrition
 
 Elementary - Furniture (B0274)
@@ -820,65 +616,35 @@ I like sofas that are really comfortable to sit in.
 
 Vocabulary
 这   zhè   this
-
 张   zhāng   /
-
 桌子   zhuōzi   table
-
 真   zhēn   really
-
 漂亮   piàoliang   pretty
-
 把   bǎ   /
-
 椅子   yǐzi   chair
-
 也   yě   also
-
 不错   bùcuò   not bad
-
 还   hái   also
-
 需要   xūyào   to need
-
 沙发   shāfā   sofa
-
 但是   dànshì   but
-
 什么样   shénmeyàng   what kind
-
 坐起来   zuò qilai   to sit
-
 舒服   shūfu   comfortable
-
 家具   jiājù   furniture
-
 一套家具   yī tào jiājù   a set of furniture
-
 餐桌   cānzhuō   dinner table
-
 书桌   shūzhuō   writing table
-
 电脑桌   diànnǎozhuō   computer desk
-
 会议桌   huìyìzhuō   meeting table
-
 写字台   xiězìtái   writing/ business desk
-
 书柜   shūguì   bookrack
-
 衣柜   yīguì   garderobe
-
 床头柜   chuángtóuguì   bedside cabinet
-
 茶几   chájī   coffee table (lit. “tea table”)
-
 衣帽架   yīmào jià   clothing/hat rack
-
 单人床   dānrénchuáng   single bed
-
 双人床   shuāngrénchuáng   double bed
-
 儿童床   értóngchuáng   children’s bed
 
 Elementary - My computer froze! (B0278)
@@ -900,57 +666,31 @@ You’d better ask someone to take a look at it.
 
 Vocabulary
 糟糕   zāogāo   drat
-
 电脑   diànnǎo   computer
-
 死机   sǐjī   to freeze
-
 怎么会   zěnme huì   how could that have happened
-
 不知道   bù zhīdào   not to know
-
 一直   yīzhí   continuously
-
 都   dōu   all
-
 在   zài   at
-
 打   dǎ   to type
-
 文件   wénjiàn   document
-
 突然   tūrán   suddenly
-
 就   jiù   then
-
 还是   hái shì   still
-
 请   qǐng   to ask
-
 看看   kànkan   to watch
-
 比较   bǐjiào   comparatively
-
 中病毒   zhòng bìngdú   be infected with a virus
-
 出问题   chūwèntí   to have a problem
-
 修   xiū   to repair
-
 重启   chóngqǐ   to restart
-
 保存   bǎocún   to conserve
-
 丢失   diūshī   to lose
-
 系统   xìtǒng   system
-
 软件   ruǎnjiàn   software
-
 鼠标   shǔbiāo   mouse
-
 显示器   xiǎnshìqì   monitor
-
 键盘   jiànpán   keyboard
 
 Elementary - Weather and Seasons (B0283)
@@ -980,73 +720,39 @@ Spring and autumn are pretty nice.
 
 Vocabulary
 气候   qìhòu   climate
-
 怎么样   zěnmeyàng   how about
-
 夏天   xiàtiān   summer
-
 又......又......   yòu ... yòu ...   /
-
 闷   mēn   humid
-
 热   rè   hot
-
 冬天   dōngtiān   winter
-
 湿   shī   wet
-
 冷   lěng   cold
-
 下雪   xiàxuě   to snow
-
 少   shǎo   seldom
-
 但是   dànshì   but
-
 经常   jīngcháng   often
-
 下雨   xiàyǔ   to rain
-
 那么   nàme   so
-
 春天   chūntiān   spring
-
 和   hé   and
-
 秋天   qiūtiān   autumn
-
 春   chūn   spring
-
 秋   qiū   autumn
-
 天气   tiānqì   weather
-
 比较   bǐjiào   comparatively
-
 季节   jìjié   season
-
 最喜欢    zuì xǐhuan   like best
-
 阳光   yángguāng   sunshine
-
 雾   wù   fog
-
 云   yún   cloud
-
 雷   léi   thunder
-
 闪电   shǎndiàn   lightning
-
 高温   gāowēn   high temperature
-
 刮风   guāfēng   the wind blows
-
 沙尘暴   shāchénbào   dust storm
-
 台风   táifēng   typhoon
-
 飓风   jùfēng   hurricane
-
 天气预报   tiānqì yùbào   weather forecast
 
 Elementary - Beijing Olympics: Opening Ceremony (B0287)
@@ -1072,53 +778,29 @@ Not yet. They will start selling tickets the first half of next year.
 
 Vocabulary
 北京奥运会   Běijīng Aòyùnhuì   Beijing Olympics
-
 什么时候   shénme shíhou   when
-
 开幕   kāimù   to begin
-
 年   nián   year
-
 月   yuè   month
-
 号   hào   date
-
 开幕式   kāimùshì   opening ceremony
-
 一定   yīdìng   certainly
-
 精彩   jīngcǎi   wonderful
-
 现在   xiànzài   now
-
 开始   kāishǐ   to begin
-
 售票   shòupiào   to sell tickets
-
 还   hái   still
-
 明年   míngnián   next year
-
 上半年   shàngbànnián   first half of the year
-
 才   cái   only
-
 闭幕   bìmù   to close
-
 闭幕式   bìmùshì   closing ceremony
-
 发言   fāyán   to send a letter
-
 节目   jiémù   program
-
 火炬   huǒjù   torch
-
 传递   chuándì   to transmit
-
 预订   yùdìng   to reserve
-
 订票   dìngpiào   to issue tickets
-
 错过   cuòguò   miss
 
 Elementary - Introducing One's Children (B0292)
@@ -1140,41 +822,23 @@ He's very cute!
 
 Vocabulary
 这   zhè   this
-
 是   shì   to be
-
 我的   wǒ de   my
-
 女儿   nǚér   daughter
-
 岁   suì   year old
-
 真   zhēn   really
-
 漂亮   piàoliang   pretty
-
 你的   nǐ de   your
-
 儿子   érzi   son
-
 好   hǎo   very
-
 可爱   kěài   cute
-
 乖   guāi   well-behaved
-
 聪明   cōngming   intelligent
-
 活泼   huópo   lively
-
 文静   wēnjìng   gentle and quiet
-
 懂事   dǒngshì   sensible
-
 调皮   tiáopí   naughty
-
 好动   hàodòng   very active/restless
-
 像   xiàng   to be like
 
 Elementary - Just a Flesh Wound (B0295)
@@ -1204,35 +868,20 @@ This little cut is no big deal. I really don't care.
 
 Vocabulary
 流血   liúxiě   to bleed
-
 注意到   zhùyì dào   to notice
-
 可是   kěshì   but
-
 膝盖   xīgài   knee
-
 伤口   shāngkǒu   wound
-
 在乎   zàihu   care
-
 破   pò   to break
-
 医院   yīyuàn   hospital
-
 算什么   suàn shénme   to figure as what
-
 摔破   shuāipò   to be smashed to pieces
-
 止血   zhǐxiě   stanch bleeding
-
 止痛   zhǐtòng   to relieve pain
-
 严重   yánzhòng   seriously
-
 关心   guānxīn   to care about
-
 赶紧   gǎnjǐn   hurriedly
-
 包扎   bāozhā   bind
 
 Elementary - Elevator Emergency (B0299)
@@ -1262,26 +911,14 @@ Oh my God!
 
 Vocabulary
 电梯   diàntī   elevator
-
 好像   hǎoxiàng   to seem as if
-
 停   tíng   to stop
-
 按   àn   to press
-
 紧急   jǐnjí   emergency
-
 按钮   ànniǔ   button
-
 反应   fǎnyìng   reaction
-
 故障   gùzhàng   hitch;breakdown;trouble
-
 修理   xiūlǐ   to repair;to fix
-
 急诊室   jízhěnshì    emergency room
-
 救护车   jiùhùchē   ambulance
-
 消防车   xiāofángchē   fire engine
-

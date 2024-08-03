@@ -18,27 +18,16 @@ Is that right? Then you should learn more about computers.
 
 Vocabulary
 满意   mǎnyì   be content
-
 努力   núlì   diligent
-
 得   de   /
-
 不太   bùtài   not very
-
 应该   yīnggāi   should
-
 多   duō   more
-
 业绩   yèjì   outstanding achievement
-
 失望   shīwàng   disappoint
-
 认真   rènzhēn   earnest
-
 勤奋   qínfèn   diligent
-
 经理   jīnglǐ   manager
-
 表扬   biǎoyáng   praize
 
 Elementary - What would you like to drink? (B0105)
@@ -77,29 +66,17 @@ Then take good care of yourself. See you tomorrow.
 
 Vocabulary
 能   néng   to be able
-
 上班   shàngbān   to go to work
-
 不舒服   bù shūfu   uncomfortable
-
 感冒   gǎnmào   to catch cold, common cold
-
 影响   yǐngxiǎng   to affect
-
 情绪   qíngxù   mood
-
 好好   hǎohāo   nicely
-
 见   jiàn   to see
-
 请假   qǐngjià   to ask for leave; to take vacation days
-
 生病   shēngbìng   sick
-
 看病   kànbìng   to see a doctor
-
 发烧   fāshāo   to have a fever
-
 有事   yǒushì   to be occupied
 
 Elementary - What does she usually do? (B0112)
@@ -121,37 +98,21 @@ That’s right. She usually goes to the college bar on Fridays.
 
 Vocabulary
 有   yǒu   to have
-
 男朋友   nánpéngyou   boyfriend
-
 从不   cóngbù   never
-
 出去   chūqù   to go out
-
 玩   wán   to play
-
 总是   zǒngshì   always
-
 图书馆   túshūguǎn   library
-
 有时   yǒushí   sometimes
-
 校园   xiàoyuán   campus
-
 酒吧   jiǔbā   bar
-
 通常   tōngcháng   often
-
 女朋友   nǚpéngyou   girlfriend
-
 校园   xiàoyuán   campus
-
 逛街   guàngjiē   go shopping
-
 经常   jīngcháng   often
-
 打篮球   dǎ lánqiú   play basketball
-
 看电影   kàn diànyǐng   watch movie
 
 Elementary - Discussing Loan Repayment (B0115)
@@ -213,49 +174,27 @@ I think it's because he is very rich.
 
 Vocabulary
 见   jiàn   to see
-
 过   guo   /
-
 自私   zìsī   selfish
-
 懒惰   lǎnduò   lazy
-
 同意   tóngyì   to agree
-
 还   hái   also
-
 无礼   wúlǐ   rude
-
 为什么   wèishénme   why
-
 因为   yīnwèi   because
-
 嫁给   jiàgěi   to marry
-
 听说   tīngshuō   to hear told
-
 难看   nánkàn   malformation
-
 专制   zhuānzhì   despotism
-
 愚蠢   yúchǔn   silly
-
 老实   lǎoshi   honest
-
 善良   shànliáng   good and honest
-
 勤劳   qínláo   hard-working
-
 勇敢   yǒnggǎn   bravery
-
 聪明   cōngming   intelligent
-
 能干   nénggàn   capable, competent
-
 孝顺   xiàoshùn   filial piety
-
 温柔   wēnróu   gentle and soft
-
 有钱   yǒu qián   to be rich
 
 Elementary - What's your type? (B0127)
@@ -277,37 +216,21 @@ I agree. I’ve been looking for a long time and I haven’t found one.
 
 Vocabulary
 哪   nǎ   which
-
 种   zhǒng   type of
-
 男生   nánshēng   boy
-
 一定要   yīdìng yào   must certainly (be)
-
 浪漫   làngmàn   romantic
-
 跟   gēn   with
-
 一样   yīyàng   identical
-
 但是   dànshì   but
-
 难   nán   difficult
-
 找   zhǎo   to find
-
 同意   tóngyì   to agree
-
 找到   zhǎodào   seek out
-
 幽默   yōumò   humorous
-
 帅   shuài   handsome
-
 体贴   tǐtiē   showing consideration for
-
 温柔   wēnróu   gentle and soft
-
 可爱   kěài   lovely
 
 Elementary - Your turn to pay! (B0129)
@@ -329,35 +252,20 @@ No, you didn't. You have to pay this time. I'm leaving.
 
 Vocabulary
 忘记   wàngjì   to forget
-
 带   dài   to bring
-
 钱包   qiánbāo   wallet
-
 付   fù   to pay for
-
 午饭   wǔfàn   lunch
-
 上次   shàngcì   last time
-
 应该   yīnggāi   should
-
 就是   jiùshì   to be exactly
-
 总是   zǒngshì   always
-
 一定   yīdìng   have to
-
 轮到   lúndào   be turn
-
 下次   xiàcì   this time
-
 记得   jìde   remember
-
 请客   qǐngkè   invite gusts
-
 信用卡   xìnyòngkǎ   credit card
-
 这次   zhècì   this time
 
 Elementary - I don't have time (B0131)
@@ -379,31 +287,18 @@ It is really fast to go by subway. It is really slow to go by bus.
 
 Vocabulary
 什么时候   shénme shíhòu   when
-
 有空   yǒukòng   to have time
-
 最近   zuìjìn   recently
-
 时间   shíjiān   time
-
 花   huā   to spend
-
 多久   duōjiǔ   how long
-
 坐   zuò   to ride
-
 地铁   dìtiě   subway
-
 快   kuài   quick
-
 打的   dǎdī   take a taxi
-
 走路去   zǒulù qù   to go on foot
-
 堵车   dǔchē   traffic jam
-
 赶车    gǎnchē   rush to catch a bus
-
 赶时间   gǎn shíjiān   hurry up (to do sth.)
 
 Elementary - Surfing Online (B0135)
@@ -425,45 +320,25 @@ I do. I sometimes use MSN to chat with my friends.
 
 Vocabulary
 上网   shàngwǎng   to go online
-
 花   huā   to spend
-
 多   duō   much
-
 时间   shíjiān   time
-
 浏览   liúlǎn   to browse
-
 体育   tǐyù   sport
-
 网站   wǎngzhàn   website
-
 也   yě   also
-
 经常   jīngcháng   often
-
 但是   dànshì   but
-
 看   kàn   to see
-
 最近的   zuìjìnde   latest
-
 新闻   xīnwén   news
-
 上网   shàngwǎng   to go online
-
 聊天   liáotiān   to chat
-
 有时   yǒushí   sometimes
-
 冲浪   chōnglàng   surf
-
 下载   xiàzǎi   to download
-
 上传   shàngchuán   to upload
-
 在线   zàixiàn   online
-
 网络游戏   wǎngluò yóuxì   online games
 
 Elementary - A Ticket to Suzhou (B0139)
@@ -485,31 +360,18 @@ A return ticket is 50 RMB.
 
 Vocabulary
 火车票   huǒchēpiào   train ticket
-
 多少   duōshǎo   how much
-
 钱   qián   money
-
 单程   dānchéng   one-way
-
 还是   háishì   or
-
 往返   wǎngfǎn   round-trip
-
 要   yào   to want
-
 张   zhāng   /
-
 往返票   wǎngfǎn piào   return ticket
-
 硬卧   yìngwò   hard sleeper
-
 软卧   ruǎnwò   soft sleeper
-
 硬座   yìngzuò   hard seats
-
 软座   ruǎnzuò   soft seat
-
 发车   fāchē   dispatch a train
 
 Elementary - What do you do? (B0141)
@@ -531,27 +393,16 @@ I think bars are too noisy.
 
 Vocabulary
 有空   yǒukòng   to have free time
-
 通常   tōngcháng   usually
-
 有时   yǒushí   sometimes
-
 从来不   cóngláibù   never
-
 吵   chǎo   noisy
-
 喜欢   xǐhuan   to like
-
 经常   jīngcháng   often
-
 总   zǒng   always
-
 泡吧   pàobā   to go drinking at a bar
-
 睡觉   shuìjiào   to sleep
-
 加班   jiābān   to work overtime
-
 热闹   rènao   excitement
 
 Elementary - Where's my class? (B0143)
@@ -573,27 +424,16 @@ Your classroom is number 24.
 
 Vocabulary
 找不到   zhǎobudào   to be unable to find
-
 教室   jiàoshì   classroom
-
 上   shàng   to attend
-
 课   kè   class
-
 数学   shùxué   mathematics
-
 教室   jiàoshì   classroom
-
 号   hào   number
-
 语文课   yǔwén kè   language and literature class
-
 体育课   tǐyù kè   physical education
-
 英语课   yīngyǔ kè   English class 
-
 室   shì   room
-
 楼   lóu   building
 
 Elementary - Do you have vegetables? (B0146)
@@ -615,29 +455,17 @@ Ok. No problem.
 
 Vocabulary
 有   yǒu   to have
-
 蔬菜   shūcài   vegetables
-
 想买   xiǎngmǎi   want to buy
-
 要   yào   to want
-
 土豆   tǔdòu   potato
-
 黄瓜   huángguā   cucumber
-
 洋葱   yángcōng   onion
-
 番茄   fānqié   tomato
-
 胡萝卜   húluóbo   carrot
-
 白菜   báicài   Chinese cabbage
-
 南瓜   nánguā   pumpkin
-
 黄豆   huángdòu   soybean
-
 茄子   qiézi   eggplant
 
 Elementary - Do I look good in this? (B0149)
@@ -659,37 +487,21 @@ Yeah, the color is too dark...
 
 Vocabulary
 件   jiàn   /
-
 衣服   yīfu   clothing
-
 适合   shìhé   to be suitable for
-
 觉得   juéde   to think
-
 好看   hǎokàn   good-looking
-
 是的   shìde   yes
-
 颜色   yánsè   color
-
 太   tài   too
-
 暗   àn   dark
-
 亮   liàng   light
-
 式样   shìyàng   style
-
 款式   kuǎnshì   model
-
 老   lǎo   old
-
 时尚   shíshàng   fashion
-
 大小   dàxiǎo   size
-
 面料   miànliào   material
-
 做工   zuògōng   workmanship
 
 Elementary - This room is too small (B0153)
@@ -715,27 +527,16 @@ Because the rooms are too small.
 
 Vocabulary
 同学   tóngxué   classmate
-
 刚刚   gānggāng   just recently
-
 搬家   bānjiā   to move
-
 新   xīn   new
-
 房子   fángzi   apartment
-
 但是   dànshì   but
-
 太   tài   too
-
 不错   bùcuò   not bad
-
 远   yuǎn   far
-
 近   jìn   nearly
-
 交通   jiāotōng   traffic
-
 便利   biànlì   convenient
 
 Elementary - Have you been to Beijing? (B0156)
@@ -757,21 +558,13 @@ Shanghai is an economic center.
 
 Vocabulary
 去过   qù guo   to have been to
-
 首都   shǒudū   capital
-
 中心   zhōngxīn   center
-
 有什么不一样   yǒushénme bù yīyàng   to have what differences
-
 看过   kàn guo   to have seen
-
 吃过   chī guo   to have eaten
-
 玩过   wán guo   to have played
-
 听过   tīng guo   to have heard
-
 来过   lái guo   to have been to
 
 Elementary - Haircuts (B0161)
@@ -793,25 +586,15 @@ No problem. Please shampoo first.
 
 Vocabulary
 想   xiǎng   would like
-
 剪   jiǎn   to cut
-
 洗   xǐ   to wash
-
 留   liú   to leave
-
 一点   yīdiǎn   a little
-
 吹   chuī   blow
-
 烫   tàng   perm (the hair)
-
 造型   zàoxíng   modeling
-
 染   rǎn   to dye
-
 刘海   liúhǎi   fringe
-
 护理   hùlǐ   tend and protect
 
 Elementary - Baby Talk: Your baby looks like you! (B0164)
@@ -833,27 +616,16 @@ He is really adorable.
 
 Vocabulary
 像   xiàng   to resemble
-
 也   yě   also
-
 真   zhēn   really
-
 可爱   kěài   cute
-
 眼睛   yǎnjīng   eyes
-
 鼻子   bízi   nose
-
 嘴巴   zuǐbā   mouth
-
 耳朵   ěrduo   ear
-
 头发   tóufà   hair
-
 很   hěn   very
-
 乖   guāi   well-behaved
-
 笑   xiào   laugh
 
 Elementary - He's boring (B0167)
@@ -875,29 +647,17 @@ Then just tell him you don’t have time.
 
 Vocabulary
 邀请   yāoqǐng   to invite
-
 但是   dànshì   but
-
 时间   shíjiān   time
-
 想   xiǎng   wish
-
 为什么   wèishénme   why
-
 无聊   wúliáo   boring
-
 难吃   nánchī   bad-tasting
-
 做客   zuòkè   to be a guest
-
 客人   kèren   guest
-
 主人   zhǔrén   host
-
 热情   rèqíng   warm
-
 有趣   yǒuqù   interesting
-
 礼物   lǐwù   gift
 
 Elementary - Going to the Doctor (B0170)
@@ -923,33 +683,19 @@ All right, open your mouth and let me take a closer look.
 
 Vocabulary
 不舒服   bù shūfu   uncomfortable
-
 喉咙   hóulóng   throat
-
 痛   tòng   to ache
-
 还   hái   still
-
 发烧   fāshāo   to have a fever
-
 张开   zhāngkāi   to stretch open
-
 嘴   zuǐ   mouth
-
 让   ràng   to let
-
 看看   kānkan   to look
-
 咳嗽   késòu   to cough
-
 头痛   tóutòng   headache
-
 感冒   gǎnmào   common cold
-
 流鼻涕   liú bítì   to run at the nose
-
 全身乏力   quánshēn fálì   to feel fatigue
-
 打针   dǎzhēn   have an injection
 
 Elementary - Cooking (B0173)
@@ -971,45 +717,25 @@ That sounds simple. I’ll give it a try too.
 
 Vocabulary
 刚   gāng   just
-
 学会   xuéhuì   to learn how
-
 会   huì   can
-
 做   zuò   to make
-
 宫保鸡丁   gōngbǎojīdīng   kung pow chicken
-
 先   xiān   first
-
 然后   ránhòu   then
-
 最后   zuìhòu   finally
-
 切   qiē   to chop into
-
 炒   chǎo   to stir-fry
-
 加   jiā   to add
-
 听起来   tīng qilai   to sound
-
 简单   jiǎndān   simple
-
 试   shì   to try
-
 复杂   fùzá   complicated
-
 烤   kǎo   to bake
-
 鸡翅   jīchì   chicken wing
-
 鸡蛋   jīdàn   hen
-
 盐   yán   salt
-
 油   yóu   oil
-
 味精   wèijīng   MSG
 
 Elementary - Here is your change (B0177)
@@ -1031,35 +757,20 @@ Yes, I do. Here is 35 yuan.
 
 Vocabulary
 这   zhè   this
-
 盒   hé   box
-
 巧克力   qiǎokèlì   chocolate
-
 多少   duōshǎo   how much
-
 钱   qián   money
-
 十五元   shí wǔ yuán   15 yuan
-
 只有   zhǐyǒu   only have
-
 五十元   wǔshí yuán   50 yuan
-
 有   yǒu   to have
-
 零钱   língqián   small change
-
 这里   zhèlǐ   here
-
 找钱   zhǎoqián   to give change
-
 硬币   yìngbì   coin
-
 纸币   zhǐbì   paper money
-
 毛   máo   one-tenth yuan (spoken Chinese)
-
 角   jiǎo   one-tenth yuan 
 
 Elementary - A Walk in the Park (B0178)
@@ -1081,39 +792,22 @@ I sometimes go to the park to bicycle.
 
 Vocabulary
 经常   jīngcháng   often
-
 一边 ... 一边   yībiān ... yībiān   ... while ...
-
 练   liàn   to practice
-
 有时候   yǒushíhou   sometimes
-
 去   qù   to go
-
 太极拳   tàijíquán   tai chi
-
 散步   sànbù   to walk
-
 骑车   qíchē   to ride a bicycle
-
 公园   gōngyuán   park
-
 运动   yùndòng   sports
-
 遛狗   liù gǒu   to walk a dog
-
 遛鸟   liù niǎo   take a bird on a stroll
-
 放风筝   fàng fēngzheng   to fly a kite
-
 门票   ménpiào   entrance ticket
-
 公共厕所   gōnggòng cèsuǒ   public toilet
-
 儿童乐园   értóng lèyuán   children’s playgroud
-
 旋转木马   xuánzhuǎi mùmǎ   merry-go-round
-
 寻人广播   xún rén guǎngbō   pubic announcements to find your companions who’ve wandered off
 
 Elementary - Musical Instruments (B0183)
@@ -1135,53 +829,29 @@ Yes, of course.
 
 Vocabulary
 会   huì   can
-
 弹   tán   to play
-
 钢琴   gāngqín   piano
-
 不会   bùhuì   cannot
-
 但是   dànshì   but
-
 古筝   gǔzhēng   guzheng
-
 是吗   shì ma   really
-
 可以   kěyǐ   can
-
 教   jiāo   teach
-
 没问题   méiwèntí   no problem
-
 乐器   yuèqì   instrument
-
 弹   tán   to play(a stringed instrument by plucking)
-
 吉他   jíta   guitar
-
 琵琶   pípa   lute
-
 电子琴   diànzǐqín   electronic organ
-
 吹   chuī   to play(a wind instrument)
-
 笛子   dízi   flute
-
 喇叭   lǎba   bugle
-
 唢呐   suǒnà   suona(a traditional chinese instrument usually played by a man in a happy event)
-
 拉   lā   to play (a stringed instrument with a bow)
-
 二胡   èrhú   erhu(a traditional chinese instrument played by every kind of people)
-
 小提琴   xiǎotíqín   violin
-
 大提琴   dàtíqín   violoncello
-
 打   dǎ   play (a drum)
-
 鼓   gǔ   tambour
 
 Elementary - Adding Credit to a Cell Phone (B0189)
@@ -1203,29 +873,17 @@ Yes, it's enough.
 
 Vocabulary
 有   yǒu   to have
-
 手机   shǒujī   cell phone
-
 充值卡   chōngzhíkǎ   prepaid card
-
 多少   duōshǎo   how much
-
 只   zhǐ   only
-
 用   yòng   to use
-
 够   gòu   enough
-
 出售   chūshòu   to sale
-
 各类   gèlèi   all kinds of
-
 中国移动   Zhōngguó yídòng   China Mobile
-
 中国联通   Zhōngguó liántōng   China Unicom
-
 游戏卡   yóuxì kǎ   a card for adding credit for online gaming
-
 面值   miànzhí   a face value or denomination
 
      
@@ -1248,31 +906,18 @@ My friend is too. He goes to church every Sunday.
 
 Vocabulary
 信   xìn   to believe
-
 ～教   ~jiào   religion
-
 都   dōu   all
-
 每   měi   each
-
 去   qù   to go
-
 基督教   Jīdūjiào   Christian
-
 教堂   jiàotáng   church
-
 天主教   Tiānzhǔjiào   Catholicism
-
 伊斯兰教   Yīsīlánjiào   Islamism
-
 佛教徒   Fójiàotú   a Buddhist
-
 清真寺   qīngzhēnsì   mosque
-
 道教   dàojiào   Taoism
-
 寺庙   sìmiào   temple
-
 教会   jiàohuì   church
 
 Elementary - Getting a Date (B0197)
@@ -1288,8 +933,6 @@ A  我们一起去喝东西吧。
 B  好的。
   hǎo de. 
   Sure.
-  
-  
   
 Key Vocabulary
 有空  yǒukōng  to have time

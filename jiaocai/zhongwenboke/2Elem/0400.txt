@@ -25,49 +25,27 @@ How about this: next time I will teach you.
 
 Vocabulary
 怎么   zěnme   how
-
 精神   jīngshen   energy
-
 和   hé   with
-
 朋友们   péngyǒumen   friends
-
 打了   dǎ le   to play
-
 打麻将   dǎ májiàng   to play mahjong
-
 麻将   májiàng   mahjong
-
 赌鬼   dǔguǐ   gambling maniac
-
 对了   duìle   by the way
-
 会   huì   can
-
 不太   bùtài   not very
-
 这样吧   zhèyàng ba   how about this
-
 下次   xiàcì   next time
-
 教   jiāo   to teach
-
 酒鬼   jiǔguǐ   drunkard
-
 烟鬼   yānguǐ   heavy smoker
-
 抓   zhuā   to grab
-
 轮到   lúndào   to be one’s turn
-
 赢   yíng   to win
-
 输   shū   to transport
-
 碰   pèng   a set of 3 identical tiles
-
 吃   chī   3 of the same suit
-
 杠   gàng   set of 4 identical tiles
 
 Elementary - Sending a Fax (B0407)
@@ -89,37 +67,21 @@ Thank you.
 
 Vocabulary
 喂   wèi   hello
-
 找   zhǎo   to look for
-
 谁   shéi   who
-
 发   fā   to send out
-
 传真   chuánzhēn   fax
-
 麻烦   máfan   to trouble someone
-
 给   gěi   to give
-
 信号   xìnhào   signal
-
 稍等   shāoděng   to wait a moment
-
 传真机   chuánzhēnjī   fax machine
-
 份   fèn   /
-
 一份传真   yī fèn chuánzhēn   a copy of fax
-
 收   shōu   to receive
-
 文件   wénjiàn   document
-
 纸   zhǐ   paper
-
 页   yè   page
-
 几页   jǐ yè   how many pages
 
 Elementary - How is this sold? (B0413)
@@ -157,67 +119,36 @@ All right.
 
 Vocabulary
 香蕉   xiāngjiāo   banana
-
 怎么   zěnme   how
-
 卖   mài   to sell
-
 两块钱   liǎng kuài qián   2 RMB
-
 斤   jīn   half kilogram
-
 芒果   mángguǒ   mango
-
 这么   zhème   So
-
 贵   guì   expensive
-
 葡萄   pútao   grape
-
 多少   duōshao   how much
-
 钱   qián   money
-
 要   yào   to want
-
 根   gēn   /
-
 和   hé   and
-
 串   chuàn   
-
 水果   shuǐguǒ   fruit
-
 草莓   cǎoméi   strawberry
-
 菠萝   bōluó   pineapple
-
 柠檬   níngméng   lemon
-
 橙子   chéngzi   orange
-
 桃子   táozi   peach
-
 哈密瓜   hāmìguā   Hami melon a variety of muskmelon
-
 西瓜   xīguā   watermelon
-
 甘蔗   gānzhè   sugarcane
-
 这种   zhèzhǒng   this kind
-
 克   kè   to restrain
-
 千克   qiānkè   kilogram
-
 公斤   gōngjīn   kilogram
-
 两   liǎng   50 grams
-
 重量   zhòngliàng   weight
-
 称   chēng   to weigh
-
 秤   chèng   balance; steelyard
 
 Elementary - Due This Week (B0417)
@@ -243,29 +174,17 @@ Um……No, I can’t.
 
 Vocabulary
 计划   jìhuà   plan
-
 好像   hǎoxiàng   to seem like
-
 紧   jǐn   tight
-
 辛苦   xīnkǔ   hard
-
 不行   bùxíng   not ok
-
 一个礼拜   yī ge lǐbài   one week
-
 按时   ànshí   on time
-
 完成   wánchéng   to complete
-
 来得及   láidejí   there's still time to do sth.
-
 来不及   láibují   lacking enough time to
-
 够   gòu   enough
-
 不够   bù gòu   not enough
-
 期限   qīxiàn   deadline
 
 Elementary - I see a thief! (B0423)
@@ -295,31 +214,18 @@ Quick, grab him! Hurry, call 110!
 
 Vocabulary
 好像   hǎoxiàng   to look as if
-
 偷   tōu   to steal
-
 大胆   dàdǎn   boldly
-
 小偷   xiǎotōu   thief
-
 站住   zhànzhù   halt
-
 别   bié   don't
-
 跑   pǎo   to run
-
 帮忙   bāngmáng   help
-
 抓   zhuā   to grab
-
 贼   zéi   thief
-
 扒手   páshǒu   pick-pocket
-
 强盗   qiángdào   pirate
-
 抢劫   qiǎngjié   to rob
-
 报警   bàojǐng   to report (an incident) to the police
 
 Elementary - Chinese New Year Fireworks (B0430)
@@ -345,41 +251,23 @@ I know. Daddy, you need to be careful too!
 
 Vocabulary
 放鞭炮   fàng biānpào   to set off firecrackers
-
 危险   wēixiǎn   dangerous
-
 而且   érqiě   and
-
 吵   chǎo   noisy
-
 点   diǎn   to light
-
 鞭炮   biānpào   firecracker
-
 不过   bùguò   but
-
 得   děi   to have to
-
 小心   xiǎoxīn   be careful
-
 烟花   yānhuā   fireworks
-
 焰火   yànhuǒ   fireworks
-
 放烟花   fàng yānhuā   set off fireworks
-
 太巧了   tài qiǎo le   It’s such a coincidence
-
 太响了   tài xiǎng le   It’s too loud
-
 热闹   rènao   loud and lively
-
 春节   Chūnjié   Spring Festival; Chinese New Year
-
 过年   guònián   celebrate Chinese New Year
-
 拜年   bàinián   to pay a New Year visit
-
 新年快乐   xīnnián kuàilè   Happy New Year
 
 Elementary - The Man and the Dog (B0435)
@@ -417,55 +305,30 @@ The woman answered, “This isn’t my dog.”
 
 Vocabulary
 一天   yītiān   one day
-
 街上   jiēshang   on the street
-
 突然   tūrán   suddenly
-
 前面   qiánmian   in front
-
 只   zhī   /
-
 黑色   hēisè   black
-
 看起来   kàn qǐlai   to appear
-
 凶   xiōng   fierce
-
 非常   fēicháng   extremely
-
 害怕   hàipà   afraid
-
 不敢   bùgǎn   to not dare
-
 往   wǎng   to go toward
-
 旁边   pángbiān   side
-
 站着   zhàn zhe   to stand
-
 问   wèn   to ask
-
 咬   yǎo   to bite
-
 这时   zhèshí   this moment
-
 气坏了   qì huài le   furious
-
 大叫   dàjiào   shout loudly
-
 回答   huídá   answer
-
 听起来   tīng qǐlai   to hear
-
 吃起来   chī qǐlai   to eat
-
 闻起来   wén qǐlai   to smell
-
 逃   táo   to escape
-
 追   zhuī   to chase
-
 与我无关   yǔ wǒ wúguān   It's none of my business.
 
 Elementary - The Monks in the Temple on the Mountain (B0441)
@@ -538,73 +401,39 @@ The tortoise said, “You were too arrogant, so you lost. You forgot that hard w
 
 Vocabulary
 伊索   yīsuǒ   Aesop
-
 寓言   yùyán   fable
-
 赛跑   sàipǎo   race
-
 乌龟   wūguī   tortoise
-
 兔子   tùzi   rabbit
-
 比赛   bǐsài   competition
-
 跑步   pǎobù   to run
-
 这么   zhème   so
-
 一定   yīdìng   certainly
-
 赢   yíng   to beat
-
 只要   zhǐyào   only to need to
-
 一直   yīzhí   keep on
-
 爬   pá   to crawl
-
 不停   bùtíng   without stopping
-
 赶上   gǎnshàng   to catch up with
-
 飞快   fēikuài   quickly
-
 慢慢   mànmàn   slowly
-
 一步一步   yībù yībù   one step by one step
-
 休息   xiūxi   rest
-
 醒来   xǐnglái   to wake up
-
 早就   zǎojiù   long since
-
 骄傲   jiāoào   be arrogant
-
 所以   suǒyǐ   so; as a result
-
 失败   shībài   to fail
-
 忘   wàng   forget
-
 努力   nǔlì   hard work
-
 最重要   zuì zhòngyào   the most important
-
 赶不上   gǎn bu shàng   to be unable to overcome
-
 赶得上   gǎn de shàng   to be able to overcome
-
 赶公共汽车   gǎn gōnggòngqìchē   to catch the bus
-
 赶飞机   gǎn fēijī   to catch a plane
-
 输   shū   to transport
-
 胜利   shènglì   victory
-
 谦虚   qiānxū   be modest
-
 落后   luòhòu   to fall behind
 
 Elementary - Ping Pong (B0448)
@@ -642,49 +471,27 @@ Good play! The return ball is out of bounds.
 
 Vocabulary
 乒乓球   pīngpāngqiú   ping pong
-
 单打   dāndǎ   singles
-
 决赛   juésài   finals
-
 发球   fā qiú   to serve the ball
-
 回球   huí qiú   return ball
-
 正手   zhèng shǒu   forehand
-
 抽球   chōu qiú   drive ball
-
 居然   jūrán   surprisingly
-
 过网   guò wǎng   to go over the net
-
 出界   chūjiè   to be out of bounds
-
 听众   tīngzhòng   listeners; listening audience
-
 读者   dúzhě   reader
-
 双打   shuāngdǎ   doubles
-
 混合双打   hùnhé shuāngdǎ   mixed doubles
-
 比赛   bǐsài   competition
-
 初赛   chūsài   nitial heat
-
 半决赛   bànjuésài   semifinals
-
 结束   jiéshù   end
-
 反手   fǎnshǒu   backhand
-
 得分   défēn   score
-
 网球   wǎngqiú   tennis
-
 棒球   bàngqiú   baseball
-
 羽毛球   yǔmáoqiú   badminton
 
 Elementary - Tone Rule: Changes for 'bu' (B0453)
@@ -759,49 +566,27 @@ Let me think about it.
 
 Vocabulary
 老公   lǎogōng   husband
-
 能   néng   to be able
-
 扫地   sǎodì   to sweep
-
 顺便   shùnbiàn   while one
-
 洗碗   xǐwǎn   to wash dishes
-
 碗   wǎn   bowl
-
 然后   ránhòu   then
-
 再   zài   then
-
 擦   cā   to wipe
-
 桌子   zhuōzi   table
-
 还   hái   still
-
 让   ràng   to let
-
 想   xiǎng   to think
-
 一下   yīxià   in a short while
-
 家务   jiāwù   household duties
-
 做家务   zuòjiāwù   skivvy
-
 洗衣服   xǐ yīfu   to wash clothes
-
 擦玻璃   cā bōli   to wipe (to clean) glass
-
 脏   zāng   dirty
-
 干净   gānjìng   clean
-
 懒   lǎn   lazy
-
 辛苦   xīnkǔ   hard
-
 老婆   lǎopo   wife
 
 Elementary - Consoling the Bereaved (B0463)
@@ -831,33 +616,19 @@ Thank you.
 
 Vocabulary
 怎么   zěnme   how come
-
 哭   kū   to cry
-
 去世   qùshì   to pass away
-
 伤心   shāngxīn   sad
-
 希望   xīwàng   to wish
-
 突然   tūrán   sudden
-
 需要   xūyào   needed
-
 帮忙   bāngmáng   help
-
 的话   dehuà   if
-
 告诉   gàosu   to tell
-
 病逝   bìngshì   to die of illness
-
 追悼会   zhuīdàohuì   mourning ceremony
-
 扫墓   sǎomù   to visit graves
-
 难过   nánguò   to feel sorry
-
 节哀   jié'āi   to restrain one's grief
 
 Elementary - Dumb Joke (B0467)
@@ -887,57 +658,31 @@ Huh? That’s really dumb. It’s not even slightly funny.
 
 Vocabulary
 特   tè   especially
-
 好笑   hǎoxiào   funny
-
 笑话   xiàohuà   joke
-
 给   gěi   for
-
 听   tīng   to listen
-
 长得   zhǎng de   to look (of appearance)
-
 像   xiàng   like
-
 洋葱   yángcōng   onion
-
 所以   suǒyǐ   so
-
 天天   tiāntiān   every day
-
 哭   kū   to cry
-
 然后   ránhòu   and then
-
 完   wán   the end
-
 不好笑   bù hǎoxiào   not funny
-
 真   zhēn   really
-
 冷   lěng   cold
-
 一点也不   yīdiǎnyěbù   not even a bit
-
 冷笑话   lěngxiàohuà   bad joke
-
 讲   jiǎng   to talk
-
 讲笑话   jiǎngxiàohuà   to tell a joke
-
 幽默   yōumò   humor
-
 有意思   yǒuyìsi   interesting
-
 没意思   méiyìsi   not interesting
-
 有趣   yǒuqù   interesting
-
 没趣   méiqù   prosiness
-
 耍   shuǎ   to juggle
-
 特别   tèbié   especially
 
 Elementary - China's Most Famous Tourist Destinations (B0473)
@@ -967,41 +712,23 @@ Oh, you can also take the train to Tibet.
 
 Vocabulary
 最   zuì   most
-
 有名   yǒumíng   famous
-
 景点   jǐngdiǎn   scenic spot
-
 长城   Chángchéng   Great Wall
-
 故宫   Gùgōng   The Forbidden City
-
 颐和园   Yíhéyuán   Summer Palace
-
 还   hái   still
-
 外滩   Wàitān   the Bund
-
 兵马俑   Bīngmǎyǒng   Terracotta Soldiers
-
 坐   zuò   to ride
-
 火车   huǒchē   train
-
 风景   fēngjǐng   scenery
-
 名胜   míngshèng   place famous for its scenery or historic interest
-
 东方明珠   Dōngfāng Míngzhū   the Oriental Pearl Tower
-
 西湖   Xīhú   West Lake (in Hangzhou)
-
 故居   gùjū   former residence
-
 金茂大厦   Jīnmào Dàshà   Jinmao Tower
-
 旅行团   lǚxíngtuán   tour group
-
 导游   dǎoyóu   tour guide
 
 Elementary - Easter and Chocolate Bunnies (B0477)
@@ -1027,37 +754,21 @@ Well, as long as they taste good it's fine by me.
 
 Vocabulary
 巧克力   qiǎokèlì   chocolate
-
 兔子   tùzi   rabbit
-
 复活节   Fùhuójié   Easter
-
 快到   kuài dào   to arrive soon
-
 庆祝   qìngzhù   to celebrate
-
 耶稣   Yēsū   Jesus
-
 复活   fùhuó   resurrection
-
 关系   guānxi   relationship
-
 清楚   qīngchu   clear
-
 只要   zhǐyào   as long as
-
 好吃   hǎochī   tasty
-
 彩蛋   cǎidàn   dyed egg
-
 糖果   tángguǒ   candy
-
 小鸡   xiǎojī   chick
-
 小白兔   xiǎobáitù   little white bunny
-
 篮子   lánzi   basket
-
 象征   xiàngzhēng   symbol
 
 Elementary - Flags and National Anthems (B0482)
@@ -1083,33 +794,19 @@ Yes, I have. It sounds really nice!
 
 Vocabulary
 国旗   guóqí   national flag
-
 漂亮   piàoliang   pretty
-
 黄色   huángsè   yellow
-
 星星   xīngxing   star
-
 国歌   guógē   national anthem
-
 非常   fēicháng   extremely
-
 好听   hǎotīng   pleasant to listen to
-
 代表   dàibiǎo   to represent
-
 升国旗   shēng guóqí   to raise the flag
-
 仪式   yíshì   ceremony
-
 唱国歌   chàng guógē   to sing the national anthem
-
 奏国歌   zòu guógē   to play the national anthem
-
 国花   guóhuā   national flower
-
 国宝   guóbǎo   national treasure
-
 敬礼   jìnglǐ   to salute
 
 Elementary - The Clogged Toilet (B0487)
@@ -1139,27 +836,16 @@ OK, we will be right over.
 
 Vocabulary
 物业   wùyè   property management
-
 马桶   mǎtǒng   toilet
-
 堵   dǔ   clogged; stopped up
-
 试   shì   to try
-
 用   yòng   to use
-
 马桶拔   mǎtǒngbá   plunger
-
 水管   shuǐguǎn   water pipe
-
 下水道   xiàshuǐdào   sewer
-
 通   tōng   to clear a channel
-
 冲   chōng   to flush
-
 乱扔   luàn rēng   to throw randomly
-
 垃圾   lājī   garbage
 
 Elementary - Shut up! (B0492)
@@ -1185,28 +871,16 @@ You're annoying me to death! Shut up!
 
 Vocabulary
 忘   wàng   to forget
-
 又   yòu   once again
-
 怎么办   zěnme bàn   what should be done
-
 杀死   shāsǐ   to kill
-
 二百五   èrbǎiwǔ   idiot, jerk
-
 烦死   fán sǐ   to annoy to death
-
 闭嘴   bìzuǐ   shut up
-
 健忘   jiànwàng   forgetful
-
 记性   jìxing   memory
-
 差   chà   inferior quality
-
 找   zhǎo   to look for
-
 骂   mà   to yell at
-
 下次   xiàcì   next time
 

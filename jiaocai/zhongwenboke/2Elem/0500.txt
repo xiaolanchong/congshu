@@ -29,26 +29,850 @@ I really envy you. If I have the opportunity I also want to go.
 
 Vocabulary
 好玩   hǎowán   fun
-
 比   bǐ   in comparison with
-
 想象   xiǎngxiàng   to imagine
-
 等等   děngděng   et cetera
-
 羡慕   xiànmù   to envy
-
 有机会   yǒu jīhuì   to have an opportunity
-
 亲眼   qīnyǎn   with one's own eyes
-
 亲眼看看   qīnyǎn kànkan   to have a look with one's own eyes
-
 难忘   nánwàng   memorable
-
 舍不得   shěbude   to be unwilling to part with
-
 自助游   zìzhùyóu   travel outside of a tour group
-
 旅行团   lǚxíngtuán   tour group
 
+Elementary - Ordering a Steak (B0503)
+你点什么？
+nǐ diǎn shénme ？
+What are you ordering?
+
+牛排。你呢？
+niúpái 。nǐ ne ？
+Steak. And you?
+
+我也点牛排。
+wǒ yě diǎn niúpái 。
+I'm also ordering steak.
+
+你要几分熟？
+nǐ yào jǐ fēn shóu ？
+How do you want it cooked?
+
+三分。
+sān fēn 。
+Rare.
+
+咦……那么生。我要七分熟。
+yí ......nàme shēng 。wǒ yào qī fēn shóu 。
+Ew, so raw. I want mine medium well.
+
+七分太老了，怎么吃？
+qī fēn tài lǎo le ，zěnme chī ？
+Medium well is too tough. How can you eat it?
+
+我喜欢。
+wǒ xǐhuan 。
+I like it.
+
+Vocabulary
+点   diǎn   to order
+分   fēn   portion
+熟   shóu   ripe; cooked
+生   shēng   raw
+老   lǎo   overcooked; tough
+刀   dāo   knife
+叉   chā   fork
+切   qiē   to cut
+切不动   qiēbudòng   unable to cut
+刚好   gānghǎo   just right
+好吃   hǎochī   tasty
+跟......一样   gēn ... yīyàng   to be the same as
+Elementary - Buying a SIM card (B0507)
+A  这里有手机卡卖吗？
+   ? 
+  Do you have mobile phone SIM cards?
+B  你要移动的还是联通的?
+   ? 
+  Yes, we do. Do you want China Mobile or China Unicom?
+A  哪个好？
+   ? 
+  Which is better?
+B  用移动的人多。
+  . 
+  More people use China Mobile.
+A  那就要移动的。可以选号码吗？
+  . ? 
+  In that case, I want China Mobile. Can I choose the number?
+B  可以。好的号码贵一点。
+  .. 
+  Yes, you can. Good numbers are a little more expensive.
+A  没问题。你有什么号码？ 让我看一下。
+  . ?. 
+  No problem. What numbers do you have? Let me take a look.
+  
+Key Vocabulary
+卖  mài  to sell
+还是  háishi  or
+用  yòng  to use
+选  xuǎn  to choose
+让  ràng  to let
+手机卡  shǒujīkǎ  mobile phone SIM card
+移动  Yídòng  China Mobile
+联通  Liántōng  China Unicom
+号码  hàomǎ  number
+
+Supplementary Vocabulary
+通话费  tōnghuà fèi  fee for talking on the phone
+漫游  mànyóu  roaming
+充值卡  chōngzhíkǎ  top-up card
+短信  duǎnxìn  SMS, text message
+国内长途  guónèi chángtú  domestic long distance
+国际长途  guójì chángtú  international long distance
+
+Elementary - Ordering Xiaolongbao (B0511)
+服务员，小笼包一笼有几个？
+fúwùyuán ，xiǎolóngbāo yī lóng yǒu jǐ ge ？
+Waiter, how many xiaolong dumplings in a basket?
+
+六个。
+liù ge 。
+Six.
+
+给我三笼。
+gěi wǒ sān lóng 。
+Give me three baskets.
+
+肉的还是蟹粉的？
+ròu de háishi xièfěn de ？
+Meat or crab?
+
+两笼肉，一笼蟹粉。
+liǎng lóng ròu ，yī lóng xièfěn 。
+Two baskets of the meat, one of the crab.
+
+给你。汤很烫，小心。
+gěi nǐ 。tāng hěn tàng ，xiǎoxīn 。
+Here you go. The soup is very hot, be careful.
+
+Vocabulary
+服务员   fúwùyuán   waiter
+小笼包   xiǎolóngbāo   xiaolong dumpling
+给   gěi   to give
+肉   ròu   meat
+蟹粉   xièfěn   minced crab meat
+汤   tāng   soup
+热   rè   hot
+小心   xiǎoxīn   be careful
+烫   tàng   hot, scalding
+小吃   xiǎochī   snack
+好吃   hǎochī   tasty
+早餐   zǎocān   breakfast
+包子   bāozi   steamed stuffed bun
+面包   miànbāo   bread
+饺子   jiǎozi   dumplings
+馄饨   húntun   won-ton
+馅   xiàn   filling, stuffing
+
+Elementary - Late Getting Back (B0515)
+这么晚了，他怎么还没回家？
+zhème wǎn le ，tā zěnme hái méi huíjiā ？
+It's so late. How come he hasn't come home yet?
+
+会不会出事了？
+huì bu huì chūshì le ？
+Could he have had an accident?
+
+应该不会吧。
+yīnggāi bùhuì ba 。
+That's not likely.
+
+可是他没告诉我们要晚回来啊。
+kěshì tā méi gàosu wǒmen yào wǎn huílai ā 。
+But he didn't tell us he'd be back this late.
+
+不行，我急死了。你快给他打个电话吧。
+bùxíng ，wǒ jí sǐ le 。nǐ kuài gěi tā dǎ ge diànhuà ba 。
+No, I'm really anxious. You give him a call.
+
+好，好。我马上打。
+hǎo ，hǎo 。wǒ mǎshàng dǎ 。
+OK, OK. I'll call him right away.
+
+Vocabulary
+还   hái   still
+出事   chūshì   to have an accident
+应该   yīnggāi   should
+可是   kěshì   but
+告诉   gàosu   to tell
+急   jí   anxious
+马上   mǎshàng   at once
+危险   wēixiǎn   dangerous
+安全   ānquán   safe
+坏人   huàirén   evildoer; bad person
+担心   dānxīn   worry; feel anxious
+报警   bàojǐng   report to police
+Elementary - Paying a Bill (B0519)
+这里能付帐单吗？
+zhèlǐ néng fù zhàngdān ma ？
+Can I pay a bill here?
+
+什么帐单？
+shénme zhàngdān ？
+What bill?
+
+固定电话的。
+gùdìngdiànhuà de 。
+Home telephone.
+
+可以。给我吧。嗯？
+kěyǐ 。gěi wǒ ba 。ng2 ？
+Yes, you can. Give it to me. Huh?
+
+怎么了？
+zěnme le ？
+What's wrong?
+
+你的帐单过期了。这里不接受。 
+nǐ de zhàngdān guòqī le 。zhèlǐ bù jiēshòu 。 
+Your bill is overdue. We can't accept it here.
+
+Vocabulary
+付   fù   to pay
+帐单   zhàngdān   bill
+固定电话   gùdìngdiànhuà   fixed line telephone
+过期   guòqī   to expire
+接受   jiēshòu   to accept
+电费   diànfèi   power bill
+水费   shuǐfèi   water bill
+煤气费   méiqì fèi   gas bill
+最后   zuìhòu   the last
+期限   qīxiàn   time limit
+收到   shōudào   to receive
+
+Elementary - Directory Assistance (B0525)
+欢迎拨打114查号台。工号709为您服务。请讲。
+huānyíng bōdǎ yāoyāosì cháhàotái 。gōnghào qīlíngjiǔ wèi nín fúwù 。qǐng jiǎng 。
+Thank you for dialing 114 Directory Assistance. Employee number 709 at your service. Please go ahead.
+
+工商银行电话和地址。
+Gōngshāng yínháng diànhuà hé dìzhǐ 。
+Industry and Commerce Bank's telephone number and address.
+
+知道哪个区吗？
+zhīdào nǎge qū ma ？
+Do you know which district?
+
+市中心的。
+shì zhōngxīn de 。
+Downtown.
+
+好的，请记录。
+hǎo de ，qǐng jìlù 。
+All right. Please take this down.
+
+Vocabulary
+拨打   bōdǎ   to dial
+查号台   cháhàotái   directory assistance
+工号   gōnghào   employee number
+为   wèi   for
+区   qū   district; area
+市中心   shì zhōngxīn   downtown; city center
+记录   jìlù   to write down; to record
+工商银行   Gōngshāng yínháng   Industry and Commerce Bank of China (ICBC)
+114   yāoyāosì   114
+接线员   jiēxiànyuán   operator
+重听   chóngtīng   to hear again
+按   àn   to press
+区号   qūhào   area code
+
+Elementary - I can't buy my size (B0530)
+A:  哎, 我在中国根本买不到鞋。
+  (Sigh.) I simply cannot buy shoes in China.
+  āi, wǒ zài Zhōngguó gēnběn mǎi bu dào xié. 
+B:  因为你的脚太大了。
+  Your feet certainly are very big.
+  Yīnwèi nǐ de jiǎo tài dà le. 
+A:  你知道哪里买得到大尺码的鞋吗？
+  Do you know where I can buy big sizes?
+  Nǐ zhīdào nǎli mǎidedào dà chǐmǎ de xié ma? 
+B:  运动品牌有的卖。
+  Some brands of sports shoes sell them.
+  Yùndòng pǐnpái yǒu de mài. 
+A:  我去过了。没的卖。
+  I've gone before. They don't sell them.
+  Wǒ qù guo le. méi de mài. 
+Key Vocabulary
+根本  gēnběn  simply; completely
+因为  yīnwèi  because
+买得到  mǎidedào  to be able to buy
+买不到  mǎi bu dào  to be unable to buy
+尺码  chǐmǎ  size
+品牌  pǐnpái  brand
+有的卖  yǒu de mài  to have for sale
+没的卖  méi de mài  to not have for sale
+
+Supplementary Vocabulary
+定做  dìngzuò  have something made to order
+试穿  shìchuān  to try on
+卖完  màiwán  to sell out
+凉鞋  liángxié  sandals
+运动鞋  yùndòngxié  sports shoes
+皮鞋  píxié  leather shoes
+高跟鞋  gāogēnxié  high-heeled shoes
+
+Elementary - Where Children Come From (B0534)
+A:  妈妈，我从哪里来？
+  Mommy, where did I come from?
+  Māma, wǒ cóng nǎli lái? 
+B:  你是从垃圾箱捡来的。
+  You were found in a garbage can.
+  Nǐ shì cóng lājīxiāng jiǎn lái de. 
+A:  骗人。
+  You're lying.
+  Piànrén. 
+C:  妈妈没有骗你，你是从垃圾箱捡来的。
+  Mommy's not lying to you. You were found in a garbage can.
+  Māma méiyǒu piàn nǐ, nǐ shì cóng lājīxiāng jiǎn lái de. 
+A:  我不是。我不要！
+  I was not! No!
+  Wǒ bù shì. Wǒ bùyào! 
+C:  哦，宝宝不哭。
+  Oh, don't cry.
+  ō, bǎobao bù kū. 
+B:  不哭，不哭，爸爸妈妈骗你的。
+  Don't cry, don't cry. Daddy and Mommy were fooling you.
+  Bù kū, bù kū, bàba māma piàn nǐ de. 
+Key Vocabulary
+从  cóng  from
+垃圾箱  lājīxiāng  garbage bin
+捡  jiǎn  to collect; to take from; to pick up
+哭  kū  to cry
+骗  piàn  to deceive; to cheat; to fool
+
+Supplementary Vocabulary
+出生  chūshēng  to be born
+生孩子  shēng háizi  to give birth to a child
+领养  lǐngyǎng  to adopt
+长大  zhǎngdà  to grow up
+扔掉  rēngdiào  to throw away
+
+Elementary - Returning an Item (B0538)
+A:  我要退货。
+  I want to return this merchandise.
+  Wǒ yào tuìhuò. 
+B:  请问有什么问题吗？
+  May I ask what is the problem?
+  Qǐng wèn yǒu shénme wèntí ma? 
+A:  这个我前天刚买，已经坏了。你自己看。
+  I only bought it two days ago, and it already broke. See for yourself.
+  Zhège wǒ qiántiān gāng mǎi, yǐjīng huài le. Nǐ zìjǐ kàn. 
+B:  可以退。发票呢？
+  It can be returned. Please give me the receipt.
+  Kěyǐ tuì. Fāpiào ne? 
+A:  啊呀，忘带了。
+  Oh no, I forgot to bring it.
+  āyā, wàng dài le. 
+B:  对不起，退货需要发票。
+  Sorry, you need the receipt to return it.
+  Duìbuqǐ, tuìhuò xūyào fāpiào. 
+Key Vocabulary
+退货  tuìhuò  to return merchandise
+问题  wèntí  problem
+前天  qiántiān  the day before yesterday
+刚  gāng  just
+已经  yǐjīng  already
+坏了  huài le  broken
+退  tuì  to return; to refund
+发票  fāpiào  receipt
+忘带  wàng dài  to forget to bring
+需要  xūyào  to need
+
+Supplementary Vocabulary
+换  huàn  to exchange
+修  xiū  to repair
+检查  jiǎnchá  to examine
+质量  zhìliàng  quality
+投诉  tóusù  to make a complaint
+售后服务  shòuhòu fúwù  after-sale service
+
+Elementary - Olympic Swimming (B0545)
+A:  我最爱看奥运会游泳比赛。
+  I love watching Olympic swimming the most.
+  Wǒ zuì ài kàn àoyùnhuì yóuyǒng bǐsài. 
+B:  我也是，特别是自由泳。
+  Me too, especially freestyle.
+  Wǒ yě shì, tèbié shì zìyóuyǒng. 
+A:  蝶泳也不错。
+  The butterfly stroke is also not bad.
+  Diéyǒng yě bùcuò. 
+B:  蛙泳最累。还有一个是什么？
+  The breaststroke is the most tiring. And what's the other one?
+  Wāyǒng zuì lèi. Hái yǒu yī ge shì shénme? 
+A:  仰泳。
+  The backstroke.
+  Yǎngyǒng. 
+Key Vocabulary
+最  zuì  most
+爱  ài  to love
+游泳  yóuyǒng  swimming; to swim
+比赛  bǐsài  competition
+特别是  tèbié shì  especially
+自由泳  zìyóuyǒng  freestyle; crawl
+蝶泳  diéyǒng  butterfly stroke
+蛙泳  wāyǒng  breaststroke
+累  lèi  tiring; tired
+仰泳  yǎngyǒng  backstroke
+
+Supplementary Vocabulary
+花样游泳  huāyàng yóuyǒng  synchronized swimming
+游泳池  yóuyǒngchí  swimming pool
+游泳衣  yóuyǒngyī  swimsuit
+游泳镜  yóuyǒngjìng  swim goggles
+游泳帽  yóuyǒngmào  swim cap
+鼻夹  bíjiā  nose clip
+救生圈  jiùshēngquān  life preserver
+
+Elementary - Chinese Money Denominations (B0549)
+A:  妈妈，我问你个问题。
+  Mommy, I want to ask you a question.
+  Māma, wǒ wèn nǐ ge wèntí. 
+B:  好啊。
+  OK.
+  Hǎo a. 
+A:  一块钱里有几个一角钱？
+  How many "jiao" are there in one RMB?
+  Yī kuài qián lǐ yǒu jǐ ge yī jiǎo qián? 
+B:  十个。妈妈问你，一角钱里有几个一分钱？
+  Ten. Let me ask you: in one "jiao" how many "fen" are there?
+  Shí ge. Māma wèn nǐ, yī jiǎo qián lǐ yǒu jǐ ge yī fēn qián? 
+A:  十个。
+  Ten.
+  Shí ge. 
+B:  对了！宝贝真聪明。
+  That's right! You're a really smart kid.
+  Duì le! Bǎobèi zhēn cōngming. 
+Key Vocabulary
+问  wèn  to ask
+问题  wèntí  question
+有  yǒu  to have
+里  lǐ  in
+一块钱  yī kuài qián  1 RMB
+一角钱  yī jiǎo qián  1 jiao
+一分钱  yī fēn qián  1 fen
+聪明  cōngming  intelligent
+
+Supplementary Vocabulary
+货币  huòbì  money, currency
+人民币  rénmínbì  Renminbi (Chinese currency)
+面值  miànzhí  denomination
+一百  yī bǎi  one hundred
+一千  yī qiān  one thousand
+一万  yī wàn  ten thousand
+一亿  yī yì  one hundred million
+
+Elementary - The Old Man Who Moved a Mountain (B0553)
+  有一个老人叫愚公，他家门前有两座大山挡着路，他决定和家人一起移山。
+  There was an old man named Yu Gong. In front of the gate of his home were two big mountains blocking the road. He decided, together with his family, to move the mountains.
+  Yǒu yī ge lǎorén jiào Yú Gōng, tā jiā ménqián yǒu liǎng zuò dàshān dǎng zhe lù, tā juédìng hé jiārén yīqǐ yí shān. 
+  另一个老人笑他太傻，认为不可能。
+  Another old man laughed at him, calling him foolish. He thought it was impossible.
+  Lìng yī ge lǎorén xiào tā tài shǎ, rènwéi bù kěnéng. 
+  愚公说：“我死了有儿子，儿子死了还有孙子，孙子死了还有他的孙子。但是这两座山不会长高。只要我们坚持，最后一定能成功。”
+  Yu Gong said: "When I die, there is my son. When my son dies, there is my grandson. When my grandson dies, there will be his grandson. But these two mountains will not grow taller. As long as we persevere, in the end we are sure to succeed.
+  Yú Gōng shuō : " wǒ sǐ le yǒu érzi, érzi sǐ le hái yǒu sūnzi, sūnzi sǐ le hái yǒu tā de sūnzi. Dànshì zhè liǎng zuò shān bùhuì zhǎng gāo. Zhǐyào wǒmen jiānchí, zuìhòu yīdìng néng chénggōng. " 
+Key Vocabulary
+挡  dǎng  to block
+决定  juédìng  to decide
+移  yí  to move
+认为  rènwéi  to think; to consider
+只要  zhǐyào  as long as; provided
+坚持  jiānchí  to persevere; to persist in
+
+Supplementary Vocabulary
+愚公移山  yúgōngyíshān  where there's a will, there's a way
+决心  juéxīn  determination; resolution
+子孙  zǐsūn  children and grandchildren; offspring
+放弃  fàngqì  to give up
+
+Elementary - Travel Itinerary (B0558)
+A:  你的行程安排好了吗？
+  Did you determine your travel itinerary?
+  Nǐ de xíngchéng ānpái hǎo le ma? 
+B:  好了。我十号从上海到杭州。
+  Yes. On the tenth I go from Shanghai to Hangzhou.
+  Hǎo le. Wǒ shí hào cóng Shànghǎi dào Hángzhōu. 
+A:  呆多久？
+  How long will you stay?
+  Dāi duō jiǔ? 
+B:  三天。然后去重庆。
+  Three days. Then I'll go to Chongqing.
+  Sān tiān. Ránhòu qù Chóngqìng. 
+A:  打算呆多久？
+  How long do you plan to stay?
+  Dǎsuàn dāi duō jiǔ? 
+B:  我从十三号到二十号在那儿。
+  I'll stay there from the thirteenth to the twentieth.
+  Wǒ cóng shí sān hào dào èrshí hào zài nàr5. 
+A:  然后呢？
+  And then?
+  Ránhòu ne? 
+B:  然后就回来啦。
+  Then I'll just come back.
+  Ránhòu jiù huílai la. 
+Key Vocabulary
+行程  xíngchéng  itinerary
+安排  ānpái  to arrange
+从  cóng  from
+到  dào  to
+呆  dāi  to stay
+多久  duō jiǔ  how long
+然后  ránhòu  then
+打算  dǎsuàn  to plan
+上海  Shànghǎi  Shanghai
+杭州  Hángzhōu  Hangzhou
+重庆  Chóngqìng  Chongqing
+
+Supplementary Vocabulary
+先  xiān  first
+再  zài  and then
+最后  zuìhòu  finally
+旅程  lǚchéng  travel itinerary
+改变  gǎibiàn  to change
+取消  qǔxiāo  to cancel
+
+Elementary - A Chinese-Style Contradiction (B0562)
+  一个卖东西的人说：
+  A seller of goods said:
+  Yī ge mài dōngxi de rén shuō : 
+  “我的矛是世界上最尖的。
+  "My spears are the sharpest in the world.
+  " wǒ de máo shì shìjiè shàng zuì jiān de. 
+  我的盾是世界上最牢的。”
+  My shields are the toughest in the world."
+  Wǒ de dùn shì shìjiè shàng zuì láo de. " 
+  一个人问他：
+  A person asked:
+  Yī ge rén wèn tā : 
+  “如果用你的矛刺你的盾, 会怎么样呢?”
+  "If we use your spears to stab your shields, what happens?"
+  " rúguǒ yòng nǐ de máo cì nǐ de dùn, huì zěnmeyàng ne?" 
+Key Vocabulary
+卖  mài  to sell
+矛  máo  spear
+世界上  shìjiè shàng  in the world
+最  zuì  most
+尖  jiān  pointy; sharp
+盾  dùn  shield
+牢  láo  tough; durable
+如果  rúguǒ  if
+用  yòng  to use
+刺  cì  to stab
+
+Supplementary Vocabulary
+自相矛盾  zìxiāngmáodùn  contradict oneself
+坚固  jiāngù  sturdy; solid
+锋利  fēnglì  sharp
+吹牛  chuīniú  to boast
+诚实  chéngshi  honest
+
+Elementary - Condoms (B0567)
+A:  给我那个。
+  Give me that one.
+  Gěi wǒ nàge. 
+B:  哪个?
+  Which one?
+  Nǎge? 
+A:  那个。
+  That one.
+  Nàge. 
+B:  噢，避孕套啊。要几盒？
+  Oh, the condoms. How many boxes do you want?
+  ō, bìyùntào a. Yào jǐ hé? 
+A:  两盒。
+  Two boxes.
+  Liǎng hé. 
+B:  你买三盒吧，可以打八折。
+  Why don't you buy three boxes -- you can get 20% off.
+  Nǐ mǎi sān hé ba, kěyǐ dǎ bā zhé. 
+Key Vocabulary
+给  gěi  to give
+避孕套  bìyùntào  condom
+要  yào  to want
+盒  hé  small box
+买  mǎi  to buy
+可以  kěyǐ  can
+打折  dǎzhé  discount
+
+Supplementary Vocabulary
+避孕  bìyùn  contraception
+怀孕  huáiyùn  pregnant
+安全套  ānquántào  condom
+保险套  bǎoxiǎntào  condom
+避孕药  bìyùnyào  birth-control pill
+
+Elementary - The Olympics on TV (B0574)
+A:  你昨天看奥运会转播了吗？
+  Did you watch the Olympics broadcast yesterday?
+  Nǐ zuótiān kàn àoyùnhuì zhuǎnbō le ma? 
+B:  当然咯，太精彩了。你看了吗？
+  Of course! It was really fantastic. Did you watch？
+  Dāngrán lo, tài jīngcǎi le. Nǐ kàn le ma? 
+A:  哎，真可惜，我错过了。今天几点开始？
+  Ah, such a pity--I missed it. Today what time does it start at?
+  āi, zhēn kěxī, wǒ cuòguò le. Jīntiān jǐ diǎn kāishǐ? 
+B:  下午三点。
+  Three o'clock in the afternoon.
+  Xiàwǔ sān diǎn. 
+A:  好的。今天下午我一定要看！
+  All right. This afternoon I'm definitely going to watch it.
+  Hǎo de. Jīntiān xiàwǔ wǒ yīdìng yào kàn! 
+Key Vocabulary
+看  kàn  to watch
+转播  zhuǎnbō  broadcast
+精彩  jīngcǎi  awesome; brilliant
+可惜  kěxī  a pity
+错过  cuòguò  to miss
+开始  kāishǐ  to begin
+一定  yīdìng  definitely
+
+Supplementary Vocabulary
+播出  bōchū  to broadcast
+现场直播  xiànchǎng zhíbō  live broadcast
+重播  chóngbō  rebroadcast
+好看  hǎokàn  interesting to watch
+刺激  cījī  exciting
+
+Elementary - Chinese Seasonings (B0577)
+A:  要什么调味料？
+  What seasonings do you want?
+  Yào shénme tiáowèiliào? 
+B:  酱油、醋，还有辣椒酱。
+  Soy sauce, vinegar and chili sauce.
+  Jiàngyóu, cù, háiyǒu làjiāojiàng. 
+A:  还要什么吗？
+  What else do you want?
+  Hái yào shénme ma? 
+B:  吃饺子还要放些什么比较好吃？
+  What else tastes good with dumplings?
+  Chī jiǎozi hái yào fàng xiē shénme bǐjiào hǎochī? 
+A:  大蒜、麻油都不错。
+  Garlic and sesame oil are both pretty good.
+  Dàsuàn, máyóu dōu bùcuò. 
+B:  好的，这两种都给我一点吧。
+  OK, give me a little of each of those then.
+  Hǎo de, zhè liǎng zhǒng dōu gěi wǒ yīdiǎn ba. 
+Key Vocabulary
+调味料  tiáowèiliào  seasoning
+酱油  jiàngyóu  soy sauce
+醋  cù  vinegar
+辣椒酱  làjiāojiàng  hot sauce
+还  hái  and, in addition; still
+饺子  jiǎozi  dumpling
+放  fàng  to put
+比较  bǐjiào  comparatively
+好吃  hǎochī  tasty
+大蒜  dàsuàn  garlic
+麻油  máyóu  sesame oil
+种  zhǒng  type; kind
+
+Supplementary Vocabulary
+调料  tiáoliào  seasoning
+番茄酱  fānqiéjiàng  ketchup
+胡椒粉  hújiāofěn  pepper
+盐  yán  salt
+咸  xián  salty
+淡  dàn  plain; light
+
+Elementary - Why, why, why?? (B0582)
+A:  小明，该睡觉了。
+  Xiao Ming, you should go to sleep.
+  Xiǎo Míng, gāi shuìjiào le. 
+B:  爸爸，为什么人要睡觉？
+  Daddy, why do people have to sleep?
+  Bàba, wèishénme rén yào shuìjiào? 
+A:  因为我们要休息啊。
+  Because we need to rest.
+  Yīnwèi wǒmen yào xiūxi a. 
+B:  我们为什么要休息？
+  Why do we need to rest?
+  Wǒmen wèishénme yào xiūxi? 
+A:  因为我们累了。
+  Because we're tired.
+  Yīnwèi wǒmen lèi le. 
+B:  可是我现在不累，为什么要睡觉？
+  But I'm not tired right now--why do I have go to sleep?
+  Kěshì wǒ xiànzài bù lèi, wèishénme yào shuìjiào? 
+A:  因为你过一会儿就会累了。
+  Because in a little while you will be tired.
+  Yīnwèi nǐ guò yīhuìr5 jiù huì lèi le. 
+B:  那为什么我不能过一会儿睡觉？
+  So, why can't I go to sleep in a little while?
+  Nà wèishénme wǒ bùnéng guò yīhuìr5 shuìjiào? 
+A:  因为我累了。
+  Because I'm tired.
+  Yīnwèi wǒ lèi le. 
+Key Vocabulary
+该  gāi  should
+睡觉  shuìjiào  to sleep
+为什么  wèishénme  why
+因为  yīnwèi  because
+休息  xiūxi  to rest
+累  lèi  tired
+可是  kěshì  but
+过  guò  after
+一会儿  yīhuìr5  a while
+
+Supplementary Vocabulary
+所以  suǒyǐ  so; therefore
+问  wèn  to ask
+问题  wèntí  question
+回答  huídá  to answer
+好奇  hàoqí  curious
+烦  fán  annoying
+
+Elementary - How spicy? (B0586)
+A:  小姐，我要水煮鱼。
+  Waitress, I want boiled fish.
+  Xiǎojie, wǒ yào shuǐzhǔyú. 
+B:  好的。要微辣，中辣还是重辣？
+  All right. How spicy do you want it: mild, medium or hot?
+  Hǎo de. Yào wēilà, zhōnglà háishi zhònglà? 
+A:  什么？
+  What?
+  Shénme? 
+B:  辣的程度不一样。你可以选不太辣、中等辣、或者特别辣。
+  There are different degrees of spiciness. You can choose not too spicy, medium spicy or extra spicy.
+  Là de chéngdù bù yīyàng. Nǐ kěyǐ xuǎn bùtài là, zhōngděng là, huòzhě tèbié là. 
+A:  哦。那我要重辣。
+  Oh, then I want extra spicy.
+  ò. Nà wǒ yào zhònglà. 
+B:  很辣的。你行吗？
+  It's very hot. Are you sure?
+  Hěn là de. Nǐ xíng ma? 
+Key Vocabulary
+水煮鱼  shuǐzhǔyú  boiled fish
+微辣  wēilà  a little spicy
+中辣  zhōnglà  medium spicy
+重辣  zhònglà  extra spicy
+辣  là  spicy; hot
+程度  chéngdù  degree
+一样  yīyàng  same
+选  xuǎn  to choose
+中等  zhōngděng  medium
+或者  huòzhě  or
+特别  tèbié  especially
+行  xíng  all right
+
+Supplementary Vocabulary
+辣椒  làjiāo  hot chili pepper
+辣酱  làjiàng  hot sauce
+甜  tián  sweet
+麻  má  numb
+
+Elementary - Track and Field (B0590)
+A:  田径比赛太好看了！
+  The track and field competitions are so fun to watch!
+  Tiánjìng bǐsài tài hǎokàn le! 
+B:  对啊。特别是赛跑，我最喜欢看了。
+  Yeah. Especially the running races. I like watching them the most.
+  Duì a. Tèbiéshì sàipǎo, wǒ zuì xǐhuan kàn le. 
+A:  我也是。每次有接力赛，我都要看。
+  Me too. I always want to watch every relay race.
+  Wǒ yě shì. Měicì yǒu jiēlìsài, wǒ dōu yào kàn. 
+B:  还有跳高也不错。
+  The high jump is also pretty good as well.
+  Háiyǒu tiàogāo yě bùcuò. 
+Key Vocabulary
+田径  tiánjìng  track and field
+比赛  bǐsài  competition
+好看  hǎokàn  good to watch
+特别是  tèbiéshì  in particular
+赛跑  sàipǎo  running race
+每次  měicì  every time
+接力赛  jiēlìsài  relay race
+还有  háiyǒu  also
+跳高  tiàogāo  high jump
+
+Supplementary Vocabulary
+短跑  duǎnpǎo  dash
+长跑  chángpǎo  long-distance run
+竞走  jìngzǒu  speed walking
+跳远  tiàoyuǎn  long jump
+跨栏  kuàlán  hurdles
+铅球  qiānqiú  shot-put
+激烈  jīliè  intense
+
+Elementary - Jaywalking (B0595)
+A:  喂，喂！
+  Hey, hey!
+  Wèi, wèi! 
+B:  怎么了？
+  What is it?
+  Zěnme le? 
+A:  不要乱穿马路。
+  Don't jaywalk.
+  Bùyào luàn chuān mǎlù. 
+B:  现在没有车。
+  There aren't any cars right now.
+  Xiànzài méiyǒu chē. 
+A:  没有车也不行。现在是红灯。请遵守交通规则。
+  Even when there are no cars you still can't. It's a red light now. Please abide by the traffic regulations.
+  Méiyǒu chē yě bù xíng. Xiànzài shì hóngdēng. Qǐng zūnshǒu jiāotōng guīzé. 
+Key Vocabulary
+不要  bùyào  do not
+乱  luàn  recklessly
+穿  chuān  to cross
+马路  mǎlù  street
+车  chē  car
+行  xíng  all right
+红灯  hóngdēng  red light
+遵守  zūnshǒu  to abide by
+交通  jiāotōng  traffic
+规则  guīzé  regulation
+
+Supplementary Vocabulary
+绿灯  lǜdēng  green light
+黄灯  huángdēng  yellow light
+红绿灯  hónglǜdēng  traffic light
+十字路口  shízìlùkǒu  intersection
+斑马线  bānmǎxiàn  crosswalk
+堵车  dǔchē  traffic jam
+罚款  fákuǎn  to impose a fine
+
+Elementary - The Stingy Boss (B0599)
+A:  我的老板真大方。
+  My boss is really generous.
+  Wǒ de lǎobǎn zhēn dàfang. 
+B:  是吗？
+  Is that right?
+  Shì ma? 
+A:  他经常请员工吃饭。
+  He frequently treats employees to meals.
+  Tā jīngcháng qǐng yuángōng chīfàn. 
+B:  你运气真好。我的老板很小气。
+  You're really lucky. My boss is very stingy.
+  Nǐ yùnqi zhēn hǎo. Wǒ de lǎobǎn hěn xiǎoqì. 
+A:  他不请你们吃饭？
+  He doesn't treat you guys?
+  Tā bù qǐng nǐmen chīfàn? 
+B:  从来不请。
+  He never treats.
+  Cónglái bù qǐng. 
+Key Vocabulary
+老板  lǎobǎn  boss
+大方  dàfang  generous
+经常  jīngcháng  frequently
+请  qǐng  to treat
+员工  yuángōng  employee
+吃饭  chīfàn  to eat a meal
+运气  yùnqi  luck
+小气  xiǎoqì  stingy
+从来不  cónglái bù  never
+
+Supplementary Vocabulary
+聚餐  jùcān  to dine together
+抠  kōu  stingy
+吝啬  lìnsè  miserly
+小气鬼  xiǎoqìguǐ  penny pincher
+铁公鸡  tiěgōngjī  stingy person
+罢工  bàgōng  to go on strike

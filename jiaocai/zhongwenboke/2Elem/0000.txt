@@ -134,31 +134,18 @@ I haven’t been yet.
 
 Vocabulary
 国家   guójiā   country
-
 生在   shēngzài   to be born in
-
 长大   zhǎngdà   to grow up
-
 第一次   dìyīcì   first time
-
 到   dào   to
-
 来   lái   to come
-
 以前   yǐqián   before
-
 加拿大   Jiānádà   Canada
-
 读书   dúshū   study
-
 留学   liúxué   study abroad
-
 澳大利亚   Aòdàlìyà   Australia
-
 欧洲   Oūzhōu   Europe
-
 韩国   Hánguó   South Korea
-
 日本   Rìběn   Japan
 
 Elementary - Discussing Eating (B0075)
@@ -184,33 +171,19 @@ Don’t worry. I can teach you.
 
 Vocabulary
 今天晚上   jīntiān wǎnshang   tonight
-
 到......去   dào...qù   to go to
-
 到餐厅   dào cāntīng   to go to a restaurant
-
 打篮球   dǎ lánqiú   to play basketball
-
 跟   gēn   with
-
 都   dōu   all
-
 用   yòng   to use
-
 一点都不会   yīdiǎn dōu bù huì   can't at all
-
 不要紧   bùyàojǐn   don't worry
-
 教   jiāo   to teach
-
 一双筷子   yī shuāng kuàizi   a pair of chopsticks
-
 学   xué   to learn
-
 拿   ná   to hold
-
 夹菜   jiā cài   to pick up food (with chopsticks)
-
 饭店   fàndiàn   restaurant
 
 Elementary - Finding an Apartment (B0079)
@@ -236,41 +209,23 @@ Yes.
 
 Vocabulary
 想   xiǎng   would like
-
 租   zū   to rent
-
 要   yào   to want
-
 多   duō   how
-
 住   zhù   to live
-
 所以   suǒyǐ   therefore
-
 间   jiān   (measure word for rooms)
-
 卧室   wòshì   bedroom
-
 可以   kěyǐ   can
-
 合适   héshì   suitable
-
 要求   yāoqiú   demand; request
-
 干净   gānjìng   clean
-
 卫生间   wèishēngjiān   washroom
-
 厨房   chúfáng   kitchen
-
 家具   jiājù   furniture
-
 电器   diànqì   electrical appliance
-
 安静   ānjìng   quiet
-
 交通   jiāotōng   traffic
-
 方便   fāngbiàn   convenient
 
 Elementary - Useful Phrases #3 (B0081)
@@ -296,29 +251,17 @@ I don’t have any money. Sorry.
 
 Vocabulary
 洗手间   xǐshǒujiān   washroom
-
 哪里   nǎli   where
-
 麻烦   máfan   to bother
-
 卫生间   wèishēngjiān   toilet
-
 迟到   chídào   to arrive late
-
 不好意思   bùhǎoyìsi   sorry
-
 忘   wàng   to forget
-
 图书馆   túshūguǎn   library
-
 记住   jìzhù   remember
-
 也   yě   also
-
 知道   zhīdào   know
-
 多谢   duō xiè   thank you very much
-
 帮   bāng   help
 
 Elementary - Hobbies: Music (B0087)
@@ -340,43 +283,24 @@ Really? I’m still interested in listening to music.
 
 Vocabulary
 上   shàng   to attend
-
 大学   dàxué   university
-
 听   tīng   to listen to
-
 流行   liúxíng   popular
-
 音乐   yīnyuè   music
-
 也   yě   also
-
 尤其   yóuqí   especially
-
 现在   xiànzài   now
-
 兴趣   xìngqù   interest
-
 还是   hái shì   still
-
 爱好   àihào   interest
-
 书法   shūfǎ   calligraphy
-
 下棋   xiàqí    to play chess
-
 画画   huàhuà   to draw
-
 钓鱼   diàoyú   to fish
-
 运动   yùndòng   sports
-
 跳舞   tiàowǔ   to dance
-
 唱歌   chànggē   to sing
-
 看书   kàn shū   to read books
-
 看电影   kàn diànyǐng   to watch films
 
 Elementary - Football (Soccer) (B0089)
@@ -398,27 +322,16 @@ Because soccer is boring.
 
 Vocabulary
 喜欢   xǐhuan   to like
-
 足球   zúqiú   soccer
-
 不太   bùtài   not too much
-
 为什么   wèishénme   why
-
 因为   yīnwèi   because
-
 无聊   wúliáo   boring
-
 篮球   lánqiú   bascketball
-
 乒乓球   pīngpāngqiú   Ping-Pong
-
 羽毛球   yǔmáoqiú   badminton
-
 网球   wǎngqiú   tennis
-
 有意思   yǒuyìsi   funny
-
 比赛   bǐsài   competition
 
 Elementary - Mother's Birthday (B0091)
@@ -440,29 +353,17 @@ She’ll certainly like it.
 
 Vocabulary
 明天   míngtiān   tomorrow
-
 生日   shēngrì   birthday
-
 礼物   lǐwù   gift
-
 买好   mǎihǎo   to have bought
-
 时髦   shímáo   fashion
-
 外套   wàitào   coat
-
 送给   sònggěi   to give to
-
 肯定   kěndìng   certainly
-
 祝   zhù   express good wishes
-
 快乐   kuàilè   happy
-
 开心   kāixīn   glad
-
 肯定   kěndìng   sure
-
 难忘   nánwàng   unforgettable
 
 Elementary - Office Policy: Internet (B0093)
@@ -472,39 +373,22 @@ Recently we have discovered that many of our employees are using the Internet to
 
 Vocabulary
 最近   zuìjìn   recently
-
 发现   fāxiàn   to discover
-
 员工   yuángōng   employees
-
 在   zài   at
-
 工作时间   gōngzuò shíjiān   working time
-
 内   nèi   within
-
 使用   shǐyòng   to use
-
 互联网   hùliánwǎng   Internet
-
 聊天   liáotiān   to chat
-
 可以   kěyǐ   can
-
 上网   shàngwǎng   to go online
-
 只能   zhǐnéng   only to be able
-
 禁止   jìnzhǐ   prohibit
-
 网站   wǎngzhàn   website
-
 网页   wǎngyè   web page
-
 迟到   chídào   late
-
 早退   zǎotuì   leave early
-
 私事   sīshì   private or personal affair
 
 Elementary - Connecting with Email (B0098)
@@ -526,33 +410,18 @@ Very convenient. From now on let’s use email to get in touch.
 
 Vocabulary
 跟   gēn   with
-
 联系   liánxì   to contact
-
 坏了   huài le   broken
-
 最好   zuìhǎo   best
-
 发   fā   to send
-
 电子邮件   diànzǐyóujiàn   email
-
 收   shōu   to receive
-
 方便   fāngbiàn   convenient
-
 以后   yǐhòu   from now on
-
 用   yòng   to use
-
 电话号码   diànhuà hàomǎ   phone number
-
 地址   dìzhǐ   address
-
 草稿箱   cǎogǎo xiāng   draft box
-
 收件箱   shōujiànxiāng   inbox
-
 发件箱   fājiànxiāng   sending box
-
 垃圾邮件   lājī yóujiàn   junk mail

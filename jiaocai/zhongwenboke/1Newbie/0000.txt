@@ -1,111 +1,2555 @@
+Newbie - Intro 1: Good morning (A0001)
+A:  早上好！
+  Zǎoshang hǎo! 
+  Good morning!
+B:  早上好！你好吗？
+  Zǎoshang hǎo! Nǐ hǎo ma? 
+  Good morning! How are you?
+A:  我很好，你呢？
+  Wǒ hěn hǎo, nǐ ne? 
+  I'm fine, and you?
+B:  我也很好。谢谢。
+  Wǒ yě hěn hǎo. Xièxie. 
+  I'm fine too. Thanks.
+Key Vocabulary
+早上  zǎoshang  morning
+好  hǎo  good
+你  nǐ  you
+我  wǒ  I
+很  hěn  very
+也  yě  also
+谢谢  xièxie  thank you
 
-Intro 1: Good morning (A0001)
-A: 早上好！
-B: 早上好！你好吗？
-A: 我很好，你呢？
-B: 我也很好。谢谢。
+Supplementary Vocabulary
+你好  nǐhǎo  hello
+下午好  xiàwǔ hǎo  good afternoon
+晚上好  wǎnshang hǎo  good evening
+他  tā  he
+她  tā  she
+他们  tāmen  they
+我们  wǒmen  we
+怎么样  zěnmeyàng  how about
 
-Intro 2: What's your name? (A0002)
-A: 你好。
-B: 你好，你叫什么名字？
-A: 我叫王平。你呢？
-B: 我叫李丽。
+Newbie - Intro 2: What's your name? (A0002)
+A:  你好。
+  Nǐhǎo. 
+  Hello.
+B:  你好，你叫什么名字？
+  Nǐhǎo, nǐ jiào shénme míngzi? 
+  Hello. What's your name?
+A:  我叫王平。你呢？
+  Wǒ jiào Wáng Píng. Nǐ ne? 
+  My name is Wang Ping. How about you?
+B:  我叫李丽。
+  Wǒ jiào Lǐ Lì. 
+  My name is Li Li.
+Key Vocabulary
+你好  nǐhǎo  hello
+叫  jiào  to be called
+什么  shénme  what
+名字  míngzi  name
 
-Intro 3: Where are you from? (A0003)
-A: 你是中国人吗？
-B: 对，我是中国人。你呢？
-A: 我是英国人。
-B: 欢迎！
+Supplementary Vocabulary
+姓  xìng  family name
+你的  nǐ de  your
+是  shì  to be
+好听  hǎotīng  pleasant to hear
+高兴  gāoxìng  happy
+认识  rènshi  to know
+见面  jiànmiàn  to meet
 
-Intro 4: Do you like China? (A0004)
-A: 你喜欢中国吗？
-B: 喜欢。
-A: 你喜欢什么？
-B: 中国菜。
+Newbie - Intro 3: Where are you from? (A0003)
+A:  你是中国人吗？
+  Nǐ shì zhōngguórén ma? 
+  Are you Chinese?
+B:  对，我是中国人。你呢？
+  Duì, wǒ shì zhōngguórén. Nǐ ne? 
+  Yes, I am Chinese. And you?
+A:  我是英国人。
+  Wǒ shì yīngguórén. 
+  I'm British.
+B:  欢迎！
+  Huānyíng! 
+  Welcome!
+Key Vocabulary
+是  shì  to be
+中国人  Zhōngguórén  Chinese person
+对  duì  correct
+英国人  Yīngguórén  British person
+欢迎  huānyíng  to welcome
 
+Supplementary Vocabulary
+国家  guójiā  country
+中国  Zhōngguó  China
+英国  Yīngguó  England
+美国  Měiguó  United States
+美国人  Měiguórén  American person
+法国  Fǎguó  France
+法国人  Fǎguórén  French person
+德国  Déguó  Germany
+德国人  Déguórén  German person
 
-Intro 5: Do you have a menu? (A0005)
-A: 请问有菜单吗？
-B: 有的。请稍等。
-A: 好的。
+Newbie - Intro 4: Do you like China? (A0004)
+A:  你喜欢中国吗？
+  Nǐ xǐhuan Zhōngguó ma? 
+  Do you like China?
+B:  喜欢。
+  Xǐhuan. 
+  Yes, I like it.
+A:  你喜欢什么？
+  Nǐ xǐhuan shénme? 
+  What do you like?
+B:  中国菜。
+  Zhōngguó cài. 
+  Chinese food.
+Key Vocabulary
+喜欢  xǐhuan  to like
+中国  Zhōngguó  China
+什么  shénme  what
+中国菜  Zhōngguó cài  Chinese food
 
+Supplementary Vocabulary
+吃  chī  to eat
+喝  hē  to drink
+好吃  hǎochī  tasty
+中餐  Zhōngcān  Chinese food
+西餐  xīcān  western-style food
 
-Intro 6: I want to buy this one (A0006)
-A: 你好，我要买面包。
-B: 好的。
-A: 多少钱？
-B: 5块钱。
+Newbie - Intro 5: Do you have a menu? (A0005)
+A:  请问有菜单吗？
+  Qǐng wèn yǒu càidān ma? 
+  Excuse me, do you have a menu?
+B:  有的。请稍等。
+  Yǒu de. Qǐng shāoděng. 
+  Yes. Please wait a moment.
+A:  好的。
+  Hǎo de. 
+  OK.
+Key Vocabulary
+请问  qǐng wèn  may I ask; excuse me
+有  yǒu  to have
+菜单  càidān  menu
+请  qǐng  please
+稍等  shāoděng  to wait a moment
+好的  hǎo de  OK
 
-Basic Greetings (A0007)
-A 你好吗？
-B 很好，谢谢。
-A 你是中国人吗？
-B 不是，我是美国人。
+Supplementary Vocabulary
+买单  mǎidān  to ask for the bill
+好吃  hǎochī  tasty
+菜  cài  dish
+汤  tāng  soup
+点菜  diǎncài  to order food
 
-Where are you from? (A0008)
-A 他是美国人吗？
-B 不是，他是英国人。
-A 他很忙吗？
-B 对，他很忙。
+Newbie - Intro 6: I want to buy this one (A0006)
+A:  你好，我要买面包。
+  Nǐhǎo, wǒ yào mǎi miànbāo. 
+  Hello. I'd like to buy some bread.
+B:  好的。
+  Hǎo de. 
+  OK.
+A:  多少钱？
+  Duōshao qián? 
+  How much is it?
+B:  5块钱。
+  Wǔ kuài qián. 
+  Five RMB.
+  
+Key Vocabulary
+要  yào  to want
+买  mǎi  to buy
+面包  miànbāo  bread
+多少  duōshao  how much
+钱  qián  money
+5块钱  wǔ kuài qián  5 RMB
 
-Where are you going? (A0009)
-A 王先生，你好吗？
-B 我很好，李小姐，你呢？
-A 我也很好。你去哪里？
-B 我去学校。
+Supplementary Vocabulary
+蛋糕  dàngāo  cake
+饼干  bǐnggān  cookie
+三明治  sānmíngzhì  sandwich
+汉堡  hànbǎo  hamburger
+哪一种  nǎ yī zhǒng  which kind
+贵  guì  expensive
+便宜  piányi  cheap
 
-How are you feeling? (A0010)
-A: 你今天好吗?
-B: 很好，谢谢。你呢?
-A: 马马虎虎。我今天很累。
-B: 真的吗？为什么？
-A: 因为我很忙。
+Newbie - Basic Greetings (A0007)
+A  你好吗？
+  nǐ hǎo ma? 
+  How are you?
+B  很好，谢谢。
+  hěn hǎo, xièxie. 
+  I'm very well, thank you.
+A  你是中国人吗？
+  nǐ shì zhōngguórén ma? 
+  Are you Chinese?
+B  不是，我是美国人。
+  bù shì, wǒ shì měiguórén. 
+  No, I’m American.
+  
+Key Vocabulary
+你好吗  nǐ hǎo ma  how are you
+我  wǒ  I
+很  hěn  very
+好  hǎo  good
+谢谢  xièxie  thank you
+你  nǐ  you
+是  shì  to be
+中国人  zhōngguórén  Chinese person
+不  bù  not
+美国人  měiguórén  American person
 
-I'm upset (A0011)
-A: 你怎么了？
-B: 我很难过。
-A: 真的吗？为什么？
-B: 对不起，我不能说。
+Supplementary Vocabulary
+对不起  duìbuqǐ  sorry
+没关系  méiguānxi  it does not matter
+不错  bù cuò  not bad
+请问  qǐng wèn  excuse me
+不用谢  bù yòng xiè  no need to thank
+不太  bù tài  not too
 
-Can you speak Chinese? (A0012)
-A 你会说普通话吗？
-B 我会说一点，你会说英语吗？
-A 英语？我不会说。
+Newbie - Where are you from? (A0008)
+A  他是美国人吗？
+  tā shì Měiguórén ma? 
+  Is he American?
+B  不是，他是英国人。
+  bù shì, tā shì Yīngguórén. 
+  No, he’s British.
+A  他很忙吗？
+  tā hěn máng ma? 
+  Is he very busy?
+B  对，他很忙。
+  duì, tā hěn máng. 
+  Yes, he’s very busy.
+  
+Key Vocabulary
+是  shì  to be
+美国人  Měiguórén  American person
+不  bù  not
+英国人  Yīngguórén  British person
+很  hěn  very
+忙  máng  busy
 
-I can sing, but I can't dance (A0013)
-A 普通话你懂吗？
-B 我懂一点点。
-A 你会说吗？
-B 我不会说。
-A 你会唱歌吗？
-B 我会唱歌，但是我不会跳舞。
+Supplementary Vocabulary
+国家  guójiā  country
+哪国  nǎ guó  which country
+哪国人  nǎ guó rén  people of which country
+中国人  zhōngguórén  Chinese person
+美国人  měiguórén  American person
+法国人  fǎguórén  French person
+德国人  déguórén  German person
+韩国人  hánguórén  Korean person
+加拿大人  jiānádàrén  Canadian
+新加坡人  xīnjiāpōrén  Singaporean
+澳大利亚人  àodàlìyàrén  Australian
+来自  láizì  to come from
+哪里  nǎli  where
+从哪里来  cóng nǎli lái  to come from where
 
-Mr. Li is busy at the office today (A0014)
+Newbie - Where are you going? (A0009)
+A  王先生，你好吗？
+  Wáng Xiānsheng, nǐ hǎo ma? 
+  Mr. Wang, how are you?
+B  我很好，李小姐，你呢？
+  wǒ hěn hǎo, Lǐ Xiǎojie, nǐ ne? 
+  I’m fine, Miss Li, and you?
+A  我也很好。你去哪里？
+  wǒ yě hěn hǎo. nǐ qù nǎli? 
+  I’m fine too. Where are you going?
+B  我去学校。
+  wǒ qù xuéxiào. 
+  I’m going to school.
+Key Vocabulary
+先生  xiānsheng  Mr. 
+小姐  xiǎojie  Ms.
+也  yě  also
+去  qù  to go
+哪里  nǎli  where
+学校  xuéxiào  school
+
+Supplementary Vocabulary
+到  dào  to arrive
+公司  gōngsī  company
+公园  gōngyuán  park
+商店  shāngdiàn  store
+机场  jīchǎng  airport
+回家  huíjiā  to go home
+远  yuǎn  far
+近  jìn  near
+
+Newbie - How are you feeling? (A0010)
+A:  你今天好吗?
+  How are you today?
+  Nǐ jīntiān hǎo ma? 
+B:  很好，谢谢。你呢?
+  Very well. And you?
+  Hěn hǎo, xièxie. Nǐ ne? 
+A:  马马虎虎。我今天很累。
+  So-so. Today, I am very tired.
+  Mǎmǎhūhū. Wǒ jīntiān hěn lèi. 
+B:  真的吗？为什么？
+  Really? Why?
+  Zhēnde ma? Wèishénme? 
+A:  因为我很忙。
+  Because I am very busy.
+  Yīnwèi wǒ hěn máng. 
+  
+Key Vocabulary
+今天  jīntiān  today
+好  hǎo  good
+谢谢  xièxie  thank you
+马马虎虎  mǎmǎhūhū  so-so
+累  lèi  tired
+为什么  wèishénme  why
+因为  yīnwèi  because
+忙  máng  busy
+
+Supplementary Vocabulary
+怎么样  zěnmeyàng  how about
+不错  bùcuò  not bad
+身体  shēntǐ  body
+困  kùn  sleepy
+舒服  shūfu  comfortable
+
+Newbie - I'm upset (A0011)
+A:  你怎么了？
+  Nǐ zěnme le? 
+  What's the matter with you?
+B:  我很难过。
+  Wǒ hěn nánguò. 
+  I am very upset.
+A:  真的吗？为什么？
+  Zhēnde ma? Wèishénme? 
+  Really? Why?
+B:  对不起，我不能说。
+  Duìbuqǐ, wǒ bù néng shuō. 
+  I'm sorry, I can't say.
+  
+Key Vocabulary
+怎么了  zěnme le  what's wrong
+很  hěn  very
+难过  nánguò  upset
+真的  zhēnde  really
+为什么  wèishénme  why
+对不起  duìbuqǐ  sorry
+不  bù  not
+能  néng  to be able to
+说  shuō  to say
+
+Supplementary Vocabulary
+心情  xīnqíng  mood
+伤心  shāngxīn  sad
+高兴  gāoxìng  happy
+激动  jīdòng  excited
+兴奋  xīngfèn  excited
+安慰  ānwèi  to comfort
+
+Newbie - Can you speak Chinese? (A0012)
+A  你会说普通话吗？
+  nǐ huì shuō pǔtōnghuà ma? 
+  Can you speak Mandarin?
+B  我会说一点，你会说英语吗？
+  wǒ huì shuō yīdiǎn, nǐ huì shuō Yīngyǔ ma? 
+  I can speak a little. Can you speak English?
+A  英语？我不会说。
+  Yīngyǔ? wǒ bùhuì shuō. 
+  English? I can’t speak it.
+  
+Key Vocabulary
+会  huì  can
+不会  bùhuì  cannot
+说  shuō  to speak
+普通话  pǔtōnghuà  Mandarin
+英语  Yīngyǔ  English
+一点  yīdiǎn  a bit
+
+Supplementary Vocabulary
+语言  yǔyán  language
+母语  mǔyǔ  parent language
+外语  wàiyǔ  foreign language
+种  zhǒng  kind
+听  tīng  to listen
+说  shuō  to speak
+读  dú  to read
+写  xiě  to write
+
+Newbie - I can sing, but I can't dance (A0013)
+A  普通话你懂吗？
+  pǔtōnghuà nǐ dǒng ma? 
+  Do you understand Chinese?
+B  我懂一点点。
+  wǒ dǒng yīdiǎndiǎn. 
+  I understand a little bit.
+A  你会说吗？
+  nǐ huì shuō ma? 
+  Can you speak?
+B  我不会说。
+  wǒ bù huì shuō. 
+  I can't speak.
+A  你会唱歌吗？
+  nǐ huì chànggē ma? 
+  Can you sing?
+B  我会唱歌，但是我不会跳舞。
+  wǒ huì chànggē, dànshì wǒ bù huì tiàowǔ. 
+  I can sing, but I can’t dance.
+  
+Key Vocabulary
+普通话  pǔtōnghuà  mandarin
+懂  dǒng  to understand
+一点点  yīdiǎndiǎn  a little
+会  huì  can
+说  shuō  to speak
+唱歌  chànggē  to sing
+但是  dànshì  but
+跳舞  tiàowǔ  to dance
+
+Supplementary Vocabulary
+中文  Zhōngwén  Chinese
+英文  Yīngwén  English
+电脑  diànnǎo  computer
+运动  yùndòng  sports
+打篮球  dǎ lánqiú  to play basketball
+踢足球  tī zúqiú  to play football
+
+Newbie - Mr. Li is busy at the office today (A0014)
 李先生不是美国人。
+Lǐ xiānsheng bù shì měiguórén 。
+Mr Li is not American.
+
 他是英国人。
+tā shì yīngguórén 。
+He is English.
+
 他不会说普通话。
+tā bùhuì shuō pǔtōnghuà 。
+He can’t speak Mandarin.
+
 但是他懂。
+dànshì tā dǒng 。
+But he understands it.
+
 他今天在办公室。
+tā jīntiān zài bàngōngshì 。
+He is in the office today.
+
 他很忙。
+tā hěn máng 。
+He is very busy.
+
 他昨天在家。
+tā zuótiān zài jiā 。
+He was at home yesterday.
+
 他昨天不忙。
+tā zuótiān bùmáng 。
+He wasn’t busy yesterday.
 
-I would like to buy a pen (A0015)
+Vocabulary
+不   bù   not
+是   shì   to be
+美国人   měiguórén   American person
+英国人   yīngguórén   British person
+不会   bùhuì   cannot
+说   shuō   to say
+普通话   pǔtōnghuà   mandarin
+但是   dànshì   but
+懂   dǒng   to understand
+办公室   bàngōngshì   office
+很   hěn   very
+忙   máng   busy
+听得懂   tīngdedǒng   listen to and understand
+听不懂   tīngbudǒng   not to understand
+中文   Zhōngwén   Chinese
+汉语   hànyǔ   Chinese language
+同事   tóngshì   colleague
+公司   gōngsī   company
+上班   shàngbān   to go to work
+休息   xiūxi   rest
+
+Newbie - I would like to buy a pen (A0015)
 你好,你想买什么?
+nǐhǎo ，nǐ xiǎng mǎi shénme ？
+Hello. What would you like to buy?
+
 我想买笔.有没有？
+wǒ xiǎng mǎi bǐ 。yǒuméiyǒu ？
+I’d like to buy a pen. Do you have one?
+
 对不起,我没有笔.
+duìbuqǐ ，wǒ méiyǒu bǐ 。
+Sorry, I don’t have pens.
+
 没关系.
+méiguānxi 。
+That’s OK.
 
-Ordering Food (A0017)
+Vocabulary
+你好   nǐhǎo   hello
+你   nǐ   you
+想   xiǎng   to want to
+买   mǎi   to buy
+什么   shénme   what
+我   wǒ   I
+笔   bǐ   pen
+有没有   yǒuméiyǒu   to have
+对不起   duìbuqǐ   I am sorry
+没有   méiyǒu   not to have
+没关系   méiguānxi   It doesn't matter.
+书   shū   book
+笔记本   bǐjìběn   notebook
+一共   yīgòng   all together
+多少钱   duōshǎo qián   how much money
+卖完了   mài wán le   be sold out
+稍等   shāoděng   wait for a while
+
+Newbie - The Four Tones (A0016)
+这篇课文没有对话。
+zhè piān kèwén méiyǒu duìhuà 。
+This lesson does not have a dialogue.
+
+Vocabulary
+     
+
+音调   yīndiào   tone
+
+声调   shēngdiào   tone
+
+Newbie - Ordering Food (A0017)
 先生，你想吃什么？
+xiānsheng ，nǐ xiǎng chī shénme ？
+Mister, what would you like to eat?
+
 我想吃面。
+wǒ xiǎng chī miàn 。
+I’d like to eat noodles.
+
 好的，等一下。
+hǎo de ，děng yīxià 。
+OK, wait a moment.
+
 谢谢。
+xièxie 。
+Thanks.
 
-It's delicious! (A0018)
-A 你在吃什么？
-B 我在吃水果。
-A 好吃吗？
-B 好吃。
+Vocabulary
+想   xiǎng   to want to
+吃   chī   to eat
+什么   shénme   what
+面   miàn   noodles
+好的   hǎo de   good
+等一下   děng yīxià   to wait
 
-待完成 19-99
+Newbie - It's delicious! (A0018)
+A  你在吃什么？
+  nǐ zài chī shénme? 
+  What are you eating?
+B  我在吃水果。
+  wǒ zài chī shuǐguǒ. 
+  I’m eating fruit.
+A  好吃吗？
+  hǎochī ma? 
+  Is it good?
+B  好吃。
+  hǎochī. 
+  Yes.
+Key Vocabulary
+在  zài  currently
+吃  chī  to eat
+什么  shénme  what
+水果  shuǐguǒ  fruit
+好吃  hǎochī  delicious
+
+Supplementary Vocabulary
+不好吃  bù hǎochī  tastes bad
+面包  miànbāo  bread
+苹果  píngguǒ  apple
+喝  hē  to drink
+好喝  hǎohē  good to drink
+饮料  yǐnliào  beverage
+啤酒  píjiǔ  beer
+可乐  kělè  cola
+
+Newbie - Story Time: Likes and Dislikes (A0019)
+A  李小姐是英国人。
+  Lǐ Xiǎojie shì Yīngguórén. 
+  Miss Li is English.
+B  她会说普通话。
+  tā huì shuō pǔtōnghuà. 
+  She can speak Mandarin.
+A  她喜欢吃面条。
+  tā xǐhuan chī miàntiáo. 
+  She likes to eat noodles.
+B  陈小姐不喜欢吃面条。
+  Chén Xiǎojie bù xǐhuān chī miàntiáo. 
+  Miss Chen doesn't like to eat noodles.
+A  她非常喜欢吃鸡肉。
+  tā fēicháng xǐhuan chī jīròu. 
+  She really likes to eat chicken.
+B  陈小姐喜欢喝果汁。
+  Chén Xiǎojie xǐhuan hē guǒzhī. 
+  Miss Chen likes to drink fruit juice.
+A  她不喜欢喝酒。
+  tā bù xǐhuān hējiǔ. 
+  She doesn't like to drink alcohol.
+B  李小姐喜欢喝酒。
+  Lǐ Xiǎojie xǐhuan hējiǔ. 
+  Miss Li likes to drink alcohol.
+  
+Key Vocabulary
+是  shì  to be
+英国人  Yīngguórén  British person
+会  huì  can
+说  shuō  to say
+普通话  pǔtōnghuà  Mandarin
+喜欢  xǐhuan  to like
+吃  chī  to eat
+面条  miàntiáo  noodles
+不  bù  not
+非常  fēicháng  extremely
+鸡肉  jīròu  chicken
+
+Supplementary Vocabulary
+牛肉  niúròu  beef
+羊肉  yángròu  mutton
+豬肉  zhūròu  pork
+可乐  kělè  cola
+米饭  mǐfàn  rice
+饺子  jiǎozi  dumplings
+蔬菜  shūcài  vegetables
+
+Newbie - Phone Calls (A0020)
+A:  喂，陈太太在不在？
+  Hello? Is Mrs. Chen there?
+  Wéi, Chén tàitai zài bu zài? 
+B:  她不在。你是谁？
+  She’s not here. Who are you?
+  Tā bù zài. Nǐ shì shéi? 
+A:  我是王先生。她去哪里了？
+  I’m Mr. Wang. Where did she go?
+  Wǒ shì Wáng xiānsheng. Tā qù nǎli le? 
+B:  她去北京了。
+  She went to Beijing.
+  Tā qù Běijīng le. 
+A:  好，谢谢，再见。
+  OK, thanks. Bye!
+  Hǎo, xièxie, zàijiàn. 
+Key Vocabulary
+喂  wéi  hello (on the phone only)
+陈太太  Chén tàitai  Mrs. Chen
+在不在  zài bu zài  to be in or not
+不  bù  not
+在  zài  in
+是  shì  to be
+谁  shéi  who
+王先生  Wáng xiānsheng  Mr. Wang 
+去  qù  to go
+哪里  nǎli  where
+北京  Běijīng  Beijing
+
+Supplementary Vocabulary
+开会  kāihuì  held a meeting
+稍等  shāoděng  wait for a while
+知道  zhīdào  know
+在家  zàijiā  at home
+打错了  dǎ cuò le  dial the wrong number
+
+Newbie - Numbers, Days of the Week, and Months (A0021)
+  日，天
+  rì, tiān 
+  day
+  星期一
+  xīngqīyī 
+  Monday
+  星期二
+  xīngqīèr 
+  Tuesday
+  星期三
+  xīngqīsān 
+  Wednesday
+  星期四
+  xīngqīsì 
+  Thursday
+  星期五
+  xīngqīwǔ 
+  Friday
+  星期六
+  xīngqīliù 
+  Saturday
+  星期天
+  xīngqītiān 
+  Sunday
+  月
+  yuè 
+  month
+  一月
+  yīyuè 
+  January
+  二月
+  èryuè 
+  February
+  三月
+  sānyuè 
+  March
+  四月
+  sìyuè 
+  April
+  五月
+  wǔyuè 
+  May
+  六月
+  liùyuè 
+  June
+  七月
+  qīyuè 
+  July
+  八月
+  bāyuè 
+  August
+  九月
+  jiǔyuè 
+  September
+  十月
+  shíyuè 
+  October
+  十一月
+  shíyīyuè 
+  November
+  十二月
+  shíèryuè 
+  December
+  
+Key Vocabulary
+日  rì  day
+天  tiān  day, heaven
+星期一  xīngqīyī  Monday
+星期二  xīngqīèr  Tuesday
+星期三  xīngqīsān  Wednesday
+星期四  xīngqīsì  Thursday
+星期五  xīngqīwǔ  Friday
+星期六  xīngqīliù  Saturday
+星期天  xīngqītiān  Sunday
+月  yuè  month
+一月  yīyuè  January
+二月  èryuè  February
+三月  sānyuè  March
+四月  sìyuè  April
+五月  wǔyuè  May
+六月  liùyuè  June
+七月  qīyuè  July
+八月  bāyuè  August
+九月  jiǔyuè  September
+十月  shíyuè  October
+十一月  shíyīyuè  November
+十二月  shíèryuè  December
+
+Supplementary Vocabulary
+礼拜一  lǐbàiyī  Monday
+礼拜天  lǐbàitiān  Sunday
+周一  zhōuyī  Monday
+周日  zhōurì  Sunday
+年  nián  year
+
+Newbie - Initial Client Meetings (A0022)
+陈小姐，你好，我姓王，这是我的名片。
+Chén Xiǎojie ，nǐhǎo ，wǒ xìng Wáng ，zhè shì wǒ de míngpiàn 。
+Hello, Miss Chen. My name is Wang, this is my name card.
+
+王先生，你好，很高兴认识你。
+Wáng Xiānsheng ，nǐhǎo ，hěn gāoxìng rènshi nǐ 。
+Hello Mr.Wang, very nice to meet you.
+
+陈小姐，你有没有名片？
+Chén Xiǎojie ，nǐ yǒu méiyǒu míngpiàn ？
+Miss Chen, do you have a name card?
+
+有。这是我的名片。
+yǒu 。zhè shì wǒ de míngpiàn 。
+Yes I have. This is my card.
+
+谢谢你。
+xièxiè nǐ 。
+Thank you.
+
+Vocabulary
+陈小姐   Chén Xiǎojie   Ms. Chen
+姓   xìng   to be surnamed
+王   Wáng   Wang
+这   zhè   this
+是   shì   to be
+我的   wǒ de   my
+名片   míngpiàn   business card
+王先生   Wáng Xiānsheng   Mr. Wang
+很   hěn   very
+高兴   gāoxìng   happy
+认识   rènshi   to meet
+有没有   yǒu méiyǒu   to have or not
+有   yǒu   to have
+贵姓   guìxìng   family name
+荣幸   róngxìng   be honored
+好久不见   hǎojiǔ bùjiàn   long time no see
+联系   liánxì   contact
+电话   diànhuà   phone
+忘了   wàng le   forget
+
+Newbie - Mobile Phones (A0023)
+这是谁的手机？
+zhè shì shéi de shǒujī ？
+Whose mobile phone is this?
+
+黑色的是我的。蓝色的是他的。
+hēisè de shì wǒ de 。lánsè de shì tā de 。
+The black one is mine. The blue one is his.
+
+我能借吗？
+wǒ néng jiè ma ？
+Can I borrow it?
+
+可以，没问题。
+kěyǐ ，méiwèntí 。
+Of course, no problem.
+
+Vocabulary
+谁的   shéide   whose
+手机   shǒujī   mobile phone;cell phone
+黑色   hēisè   black
+我的   wǒ de   mine
+蓝色   lánsè   blue
+他的   tā de   his
+能   néng   can
+借   jiè   to borrow;to lend
+问题   wèntí   problem
+颜色   yánsè   color
+白色   báisè   white
+红色   hóngsè   red
+打电话   dǎdiànhuà   to dial a telephone
+用   yòng   to use
+有   yǒu   to have
+还   huán   return
+
+Newbie - Colors (A0024)
+  黑色
+  Hēisè 
+  black
+  蓝色
+  Lánsè 
+  blue
+  绿色
+  Lǜsè 
+  green
+  红色
+  Hóngsè 
+  red
+  白色
+  Báisè 
+  white
+  黄色
+  Huángsè 
+  yellow
+Key Vocabulary
+黑色  hēisè  black
+蓝色  lánsè  blue
+绿色  lǜsè  green
+红色  hóngsè  red
+白色  báisè  white
+黄色  huángsè  yellow
+
+Supplementary Vocabulary
+棕色  zōngsè  brown
+灰色  huīsè  gray
+金色  jīnsè  gold
+银色  yínsè  silver
+粉红色  fěnhóngsè  pink
+紫色  zǐsè  purple
+橙色  chéngsè  orange
+
+Newbie - Exchanging Personal Info (A0025)
+你叫什么名字？
+nǐ jiào shénme míngzi ？
+What is your name?
+
+我叫陈理美，你呢？
+wǒ jiào Chén Lǐměi ，nǐ ne ？
+My name is Chen Limei. What is your name?
+
+我叫李东。你住在哪里？
+wǒ jiào Lǐ Dōng 。nǐ zhùzài nǎli ？
+My name is Li Dong. Where do you live?
+
+我住在上海，在南京路。
+wǒ zhùzài Shànghǎi ，zài Nánjīng Lù 。
+I live in Shanghai. On Nanjing Road.
+
+Vocabulary
+叫   jiào   to be called
+什么   shénme   what
+名字   míngzi   name
+住在   zhùzài   to live at
+哪里   nǎli   where
+姓   xìng   family name
+省   shěng   province
+市   shì   city
+县   xiàn   county
+区   qū   region
+镇   zhèn   town
+乡   xiāng   district
+村   cūn   village
+听过   tīng guo   have heard
+去过   qù guo   have been to
+老乡   lǎoxiāng   fellow-villager
+
+Newbie - Polite Introductions (A0026)
+请问您贵姓？
+qǐng wèn nín guìxìng ？
+May I ask for your family name?
+
+我姓张。
+wǒ xìng Zhāng 。
+My family name is Zhang.
+
+张先生您从哪里来？
+Zhāng Xiānsheng nín cóng nǎli lái ？
+Mr. Zhang, where are you from?
+
+我是北京人。
+wǒ shì Běijīngrén 。
+I am from Beijing.
+
+Vocabulary
+请问   qǐng wèn   may I ask
+您   nín   you (polite)
+贵姓   guìxìng   honorable surname
+我   wǒ   I
+姓   xìng   to be surnamed
+张   Zhāng   Zhang
+张先生   Zhāng Xiānsheng   Mr. Zhang
+从   cóng   from
+哪里   nǎli   where
+来   lái   to come
+是   shì   to be
+小姐   xiǎojie   young lady; Miss
+老家   lǎojiā   native place
+山东   Shāndōng   Shandong
+上海   Shànghǎi   Shanghai
+广东   Guǎngdōng   Guangdong
+香港   Xiānggǎng   Hong Kong
+台湾   Táiwān   Taiwan
+东京   Dōngjīng   Tokyo
+伦敦   Lúndūn   London
+纽约   Niǔyuē   New York
+
+Newbie - Call me! (A0027)
+李先生在不在？
+Lǐ Xiānsheng zài bu zài ？
+Is Mr. Li there?
+
+他不在，他到北京去了。
+tā bù zài ，tā dào Běijīng qù le 。
+He is not here. He went to Beijing.
+
+真的？他什么时候回来？
+zhēnde ？tā shénme shíhou huílai ？
+Really? When is he coming back?
+
+他明天回上海。
+tā míngtiān huí Shànghǎi 。
+He will come back to Shanghai tomorrow.
+
+Vocabulary
+在不在   zài bu zài   to be in or not
+到   dào   to
+什么时候   shěnme shíhou   when, what time
+回来   huílai   to come back
+回   huí   to return (to)
+去   qù   to go
+明天   míngtiān   tomorrow
+出去了   chūqu le   be out
+在家   zàijiā   at home
+出差   chūchāi   go on business
+下星期   xiā xīngqī   next week
+开会   kāihuì   hold a meeting
+刚才   gāngcái   just now
+
+Newbie - Where ya headed? (A0028)
+早，你去哪儿？
+zǎo ，nǐ qù nǎr5 ？
+Morning. Where are you going?
+
+我去办公室。
+wǒ qù bàngōngshì 。
+I am going to the office.
+
+办公室在什么地方？
+bàngōngshì zài shénme dìfang ？
+Where is your office?
+
+在南京路一百号。
+zài Nánjīng Lù yībǎi hào 。
+On Nanjing Road, number 100.
+
+Vocabulary
+早   zǎo   morning
+去   qù   to go
+哪儿   nǎr5   where
+办公室   bàngōngshì   office
+在   zài   at
+什么地方   shénme dìfang   what place
+银行   yínháng   bank
+邮局   yóujú   post office
+车站   chēzhàn   bus station
+电梯   diàntī   elevator
+楼   lóu   building
+
+Newbie - Sightseeing (A0029)
+请问天安门广场在哪里？
+qǐng wèn Tiān'ānménguǎngchǎng zài nǎli ？
+Excuse me, where is Tiananmen Square?
+
+天安门广场离这里不远。
+Tiān'ānménguǎngchǎng lí zhèlǐ bù yuǎn 。
+It is not far from here.
+
+怎么走？
+zěnme zǒu ？
+How can I get there?
+
+一直走，再右转。
+yīzhí zǒu ，zài yòu zhuǎn 。
+Walk straight, then turn right.
+
+Vocabulary
+天安门   Tiān'ānmén   Tiananmen
+广场   guǎngchǎng   square
+离   lí   (distant) from
+远   yuǎn   far
+怎么   zěnme   how
+一直   yīzhí   continuously
+走   zǒu   to go
+再   zài   then
+转   zhuǎn   to turn
+车站   chēzhàn   station
+过马路   guò mǎlù   to go across the road
+左拐   zuǒguǎi   to turn left
+坐车   zuòchē   to take a bus
+往前走   wǎng qián zǒu   to go straight
+十字路口   shízìlùkǒu   crossroads
+
+Newbie - Who's that girl? (A0030)
+A  她是谁？
+  tā shì shéi? 
+  Who is she?
+B  她是我的朋友。
+  tā shì wǒ de péngyou. 
+  She is my friend.
+A  真的吗？她很漂亮。
+  zhēndema? tā hěn piàoliang. 
+  Really? She is really beautiful.
+B  我也觉得。因为她是我的女朋友。
+  wǒ yě juéde. yīnwèi tā shì wǒ de nǚpéngyou. 
+  I think so too, because she is my girlfriend.
+  
+Key Vocabulary
+谁  shéi  who
+朋友  péngyou  friend
+漂亮  piàoliang  pretty
+真的吗  zhēndema  really
+也  yě  also
+觉得  juéde  to think
+因为  yīnwèi  because
+女朋友  nǚpéngyou  girlfriend
+
+Supplementary Vocabulary
+帅  shuài  handsome
+高大  gāodà  tall
+年轻  niánqīng  young
+男朋友  nánpéngyou  boyfriend
+认识  rènshi  to know
+
+Newbie - All in the Family (A0031)
+  王小姐是英国人。
+  Ms. Wang is British.
+  Wáng Xiǎojie shì yīngguórén. 
+  她住在南京。
+  She lives in Nanjing.
+  Tā zhù zài Nánjīng. 
+  她很喜欢南京。
+  She really likes Nanjing.
+  Tā hěn xǐhuan Nánjīng. 
+  她有一个妹妹。
+  She has a younger sister.
+  Tā yǒu yī ge mèimei. 
+  她没有哥哥。
+  She doesn't have an older brother.
+  Tā méiyǒu gēge. 
+  她有一个男朋友。
+  She has a boyfriend.
+  Tā yǒu yī ge nánpéngyou. 
+  他叫John。
+  His name is John.
+  Tā jiào John. 
+  John是美国人。
+  John is American.
+  John shì Měiguórén. 
+  他很好看。
+  He is very good-looking.
+  Tā hěn hǎokàn. 
+  他也住在南京。
+  He also lives in Nanjing.
+  Tā yě zhù zài Nánjīng. 
+  他们都很忙。
+  They're both very busy.
+  Tāmen dōu hěn máng. 
+  
+Key Vocabulary
+英国人  yīngguórén  British person
+喜欢  xǐhuan  to like
+妹妹  mèimei  younger sister
+哥哥  gēge  older brother
+男朋友  nánpéngyou  boyfriend
+好看  hǎokàn  good-looking
+也  yě  also
+都  dōu  all
+忙  máng  busy
+
+Supplementary Vocabulary
+女朋友  nǚpéngyou  girlfriend
+姐姐  jiějie  older sister
+弟弟  dìdi  younger brother
+丈夫  zhàngfu  husband
+妻子  qīzi  wife
+高  gāo  tall
+矮  ǎi  short
+苗条  miáotiao  slender
+胖  pàng  fat
+难看  nánkàn  malformation
+丑  chǒu  ugly
+
+Newbie - Meet Market (A0032)
+什么时候开会？
+shénmeshíhòu kāihuì ？
+When is the meeting?
+
+我们五点钟开会。现在几点？
+wǒmen wǔdiǎnzhōng kāihuì 。xiànzài jǐdiǎn ？
+The meeting starts at 5 o’clock. What time is it now？
+
+现在四点。
+xiànzài sìdiǎn 。
+It is 4 o’clock now.
+
+Vocabulary
+什么时候   shénmeshíhòu   when
+开会   kāihuì   to have a meeting
+五点钟   wǔdiǎnzhōng   at 5 o'clock
+现在   xiànzài   now
+几点   jǐdiǎn   what time
+会议   huìyì   conference
+结束   jiéshù   over
+开始   kāishǐ   start
+参加   cānjiā   join in
+迟到   chídào   be late for
+
+Newbie - Paying the Bill (A0033)
+A:  服务员，买单。
+  Waiter, the bill.
+  Fúwùyuán, mǎidān. 
+B:  我来付，好吗？
+  Let me get this, OK?
+  Wǒ lái fù, hǎo ma? 
+A:  不行。给我面子，我来付钱。
+  No way. Give me face. I’ll pay.
+  Bùxíng. Gěi wǒ miànzi, wǒ lái fùqián. 
+B:  不可以。下次你付。
+  That’s not OK. You pay next time.
+  Bù kěyǐ. Xiàcì nǐ fù. 
+A:  哎哟。
+  (groan)
+  āiyōu. 
+  
+Key Vocabulary
+服务员  fúwùyuán  waiter
+买单  mǎidān  to get the bill
+来  lái  to come
+付  fù  to pay
+不行  bùxíng  not OK
+给  gěi  to give
+面子  miànzi  face
+付钱  fùqián  to pay
+可以  kěyǐ  can
+下次  xiàcì  next
+
+Supplementary Vocabulary
+请客  qǐngkè  to invite guests
+客气  kèqi  polite
+抢  qiǎng  to snatch
+一共  yīgòng  all together
+看不起  kànbuqǐ  to look down on
+发票  fāpiào  ticket
+每次  měicì  every time
+上次  shàngcì  last time
+
+Newbie - Tone Practice (A0034)
+  四声
+  four tones
+  Sìshēng 
+  东方
+  the orient
+  Dōngfāng 
+  洞房
+  bridal chamber
+  Dòngfáng 
+  公里
+  kilometers
+  Gōnglǐ 
+  巩俐
+  Gong Li (famous Chinese actress)
+  Gǒng Lì 
+  竹竿
+  bamboo stick
+  Zhúgān 
+  猪肝
+  pig liver
+  Zhūgān 
+  
+Key Vocabulary
+四声  sìshēng  the four tones
+东方  dōngfāng  the Orient
+洞房  dòngfáng  bridal chamber
+公里  gōnglǐ  kilometer
+巩俐  Gǒng Lì  Gong Li
+竹竿  zhúgān  bamboo pole
+猪肝  zhūgān  pork liver
+
+Supplementary Vocabulary
+声调  shēngdiào  tone
+第一声  dì yī shēng  1st tone
+第二声  dì èr shēng  2nd tone
+第三声  dì sān shēng  3rd tone
+第四声  dì sì shēng  4th tone
+轻声  qīngshēng  neutral tone
+准确  zhǔnquè  accurate
+
+Newbie - I've heard about you (A0035)
+A  我听说你是美国人，对吗？
+  wǒ tīngshuō nǐ shì Měiguórén, duì ma? 
+  I heard that you are American. Is that right?
+B  对。谁告诉你的？
+  duì. shéi gàosù nǐ de? 
+  That's right. Who told you?
+A  我的朋友告诉我的。
+  wǒ de péngyou gàosu wǒ de. 
+  My friend told me.
+B  真的吗？你的朋友是谁？
+  zhēndema? nǐ de péngyou shì shéi? 
+  Really? Who is your friend?
+A  李小姐。
+  Lǐ Xiǎojie. 
+  Miss Li.
+  
+Key Vocabulary
+听说  tīngshuō  to hear told
+是  shì  to be
+美国人  měiguórén  an American
+对吗  duì ma  right?
+对  duì  right
+谁  shéi  who
+告诉  gàosù  to tell
+我的  wǒ de  my
+朋友  péngyou  friend
+真的吗  zhēnde ma  really?
+你的  nǐ de  your
+
+Supplementary Vocabulary
+不对  bù duì  not right
+说错  shuōcuò  to speak wrongly
+听错  tīngcuò  to hear incorrectly
+哪国人  nǎ guó rén   people of which nation
+别人  biérén  other people
+同学  tóngxué  classmate
+同事  tóngshì  colleague
+认识  rènshi  knowledge
+
+Newbie - Family Ties (A0036)
+你家有多少人？
+nǐ jiā yǒu duōshǎo rén ？
+How many people are there in your family?
+
+一共有三个人。我爸爸，妈妈和我。
+yígòng yǒu sān ge rén 。wǒ bàba ，māma hé wǒ 。
+Altogether there are three people. My dad, mom, and me.
+
+你没有兄弟姐妹吗？
+nǐ méiyǒu xiōngdì jiěmèi ma ？
+Don’t you have brothers and sisters?
+
+我没有。
+wǒ méiyǒu 。
+No.
+
+Vocabulary
+家   jiā   family
+有   yǒu   to have
+多少   duōshǎo   how many
+人   rén   person
+一共   yígòng   altogether
+爸爸   bàba   dad
+妈妈   māma   mom
+和   hé   and
+没有   méiyǒu   to not have
+兄弟   xiōngdì   brothers
+姐妹   jiěmèi   sisters
+叔叔   shūshu   uncle
+阿姨   āyí   auntie
+独生子女   dúshēngzǐnǚ   an only child
+家庭   jiātíng   family
+爷爷   yéye   grandfather
+奶奶   nǎinai   grandmother
+
+Newbie - Dialect Party Mix (A0037)
+你好
+nǐhǎo 
+hello
+
+再见
+zàijiàn 
+bye
+
+谢谢
+xièxie 
+thanks
+
+没关系
+méiguānxi 
+no worries
+
+我们
+wǒmen 
+we
+
+点心
+diǎnxīn 
+dim sum
+
+Vocabulary
+你好   nǐhǎo   hello
+再见   zàijiàn   goodbye
+谢谢   xièxie   thank you
+没关系   méiguānxi   it doesn't matter
+我们   wǒmen   we
+点心   diǎnxīn   light refreshments
+甜点   tiándiǎn   dessert
+见面   jiànmiàn   to meet
+早上好   zǎoshang hǎo   good mornning
+晚安   wǎn'ān   goodnight
+不用谢   bùyòng xiè   you are welcome
+对不起   duìbuqǐ   I am sorry
+不好意思   bùhǎoyìsi   sorry
+
+Newbie - Professional Life (A0038)
+你的工作是什么？
+nǐ de gōngzuò shì shénme ？
+What is your job?
+
+我是律师。你呢？
+wǒ shì lǜshī 。nǐne ？ 
+I am a lawyer. And you?
+
+我是记者。我能不能问你一些问题？
+wǒ shì jìzhě 。wǒ néng bunéng wèn nǐ yīxiē wèntí ？
+I am a journalist. Can I ask you some questions?
+
+对不起。我现在不太方便。再见。
+duìbuqǐ 。wǒ xiànzài bù tài fāngbiàn 。zàijiàn 。
+Um, sorry. Now is not very convenient for me. Bye.
+
+Vocabulary
+工作   gōngzuò   work
+律师   lǜshī   lawyer
+记者   jìzhě   reporter
+能不能   néng bunéng   can or cannot
+不太   bùtài   not very
+方便   fāngbiàn   convenient
+职业   zhíyè   occupation
+警察   jǐngchá   policeman
+职位   zhíwèi   position
+教师   jiàoshī   teacher
+公司职员   gōngsī zhíyuán   staff
+工程师   gōngchéngshī   engineer
+家庭主妇   jiātíng zhǔfù   housewife
+
+Newbie - The Big Guy (A0039)
+你喜欢你的工作吗？
+nǐ xǐhuan nǐ de gōngzuò ma ？
+Do you like your job?
+
+喜欢。但是我不太喜欢我的老板。
+xǐhuan 。dànshì wǒ bùtài xǐhuan wǒ de lǎobǎn 。
+I like it. But I don’t really like my boss.
+
+真的吗？你为什么不喜欢他？
+zhēndema ？nǐ wèishénme bù xǐhuan tā ？
+Really? Why don’t you like him?
+
+因为他很凶。
+yīnwèi tā hěn xiōng 。
+Because he is very bad-tempered.
+
+Vocabulary
+喜欢   xǐhuan   to like
+你的   nǐ de   your
+工作   gōngzuò   job
+但是   dànshì   but
+不太   bùtài   not too much
+我的   wǒ de   my
+老板   lǎobǎn   boss
+真的吗   zhēndema   really
+为什么   wèishénme   why
+因为   yīnwèi   because
+凶   xiōng   ferocious
+非常   fēicháng   extremely
+无聊   wúliáo   boring
+单调   dāndiào   monotonous
+严厉   yánlì   serious
+小气   xiǎoqì   stingy
+大方   dàfāng   generous
+幽默   yōumò   humor
+体贴   tǐtiē   to accomodate
+
+Newbie - Married with Children (A0040)
+你结婚了吗？
+nǐ jiéhūn le ma ？
+Are you married?
+
+没有。我是单身。你呢？
+méiyǒu 。wǒ shì dānshēn 。nǐ ne ？
+No. I am single. And you?
+
+我结婚了。我有两个小孩。
+wǒ jiéhūn le 。wǒ yǒu liǎng ge xiǎohái 。
+I am married. I have two kids.
+
+男的还是女的？
+nán de háishi nǚ de ？
+Male or female?
+
+一个男的，一个女的。
+yī ge nán de ，yī ge nǚ de 。
+A boy and a girl.
+
+Vocabulary
+结婚   jiéhūn   to get married
+没有   méiyǒu   to not have
+是   shì   to be
+单身   dānshēn   single person
+你呢   nǐ ne   what about you
+有   yǒu   to have
+两   liǎng   two
+个   ge   (common measure word)
+小孩   xiǎohái   children
+男的   nán de   male
+还是   háishi   or
+女的   nǚ de   female
+已经   yǐjīng   already
+离婚   líhūn   to get divorced
+未婚   wèihūn   unmarried
+已婚   yǐhūn   married
+年轻   niánqīng   young
+自由   zìyóu   freedom
+喜欢   xǐhuan   to like
+幸福   xìngfú   fortunate
+家庭   jiātíng   family
+
+
+Newbie - Working Time (A0041)
+你每天几点上班？
+nǐ měitiān jǐdiǎn shàngbān ？
+What time do you go to work everyday?
+
+我早上七点半出门。
+wǒ zǎoshang qīdiǎn bàn chūmén 。
+I leave the house at 7:30 A.M.
+
+你几点到公司？
+nǐ jǐdiǎn dào gōngsī ？
+What time do you arrive at the company (office)?
+
+我差不多九点到。
+wǒ chàbuduō jiǔdiǎn dào 。
+I arrive at about 9 o'clock.
+
+Vocabulary
+每天   měitiān   every day
+几点   jǐdiǎn   what time
+上班   shàngbān   to go to work
+早上   zǎoshang   in the morning
+七点半   qīdiǎn bàn   7:30
+出门   chūmén   to leave the home
+到   dào   to arrive at
+公司   gōngsī   company
+差不多   chàbuduō   almost; about
+起床   qǐchuáng   to get up
+睡觉   shuìjiào   to go to bed
+学习   xuéxí   to learn
+上学   shàngxué   to go to school
+放学   fàngxué   finish classes (for the day)
+下班   xiàbān   to get off work
+回家   huíjiā   to go home
+大概   dàgài   roughly
+时间   shíjiān   time
+多长时间   duō cháng shíjiān   how long
+多久   duōjiǔ   how long
+
+
+Newbie - What'll it be? (A0042)
+你想吃什么？要不要吃鱼？
+nǐ xiǎng chī shénme ？yàobuyào chī yú ？
+What do you want to eat? (Do you) want fish?
+
+我不太喜欢鱼。我想吃咕咾肉。
+wǒ bùtài xǐhuan yú 。wǒ xiǎng chī gūlǎoròu 。
+I don’t like fish very much. I want to eat sweet and sour pork.
+
+好。想不想吃炒饭？
+hǎo 。xiǎngbuxiǎng chī chǎofàn ？
+No problem. (Do you) want to eat fried rice?
+
+炒饭可以。有汤吗？
+chǎofàn kěyǐ 。yǒu tāng ma ？
+Fried rice is fine. (Is there) have any soup?
+
+有蔬菜汤。
+yǒu shūcài tāng 。
+There is vegetable soup.
+
+Vocabulary
+想   xiǎng   would like
+吃   chī   to eat
+什么   shénme   what
+要不要   yàobuyào   to want or not
+鱼   yú   fish
+不太   bùtài   not so much
+喜欢   xǐhuan   to like
+咕咾肉   gūlǎoròu   sweet and sour pork
+想不想   xiǎngbuxiǎng   want to or not want to
+炒饭   chǎofàn   fried rice
+可以   kěyǐ   can
+汤   tāng   soup
+蔬菜汤   shūcàitāng   vegetable soup
+随便   suíbiàn   as one wishes
+菜   cài   dish
+素菜   sùcài   vegetable dish
+荤菜   hūncài   meat dish
+肉   ròu   meat
+蛋炒饭   dànchǎofàn   fried rice with eggs
+猪肉   zhūròu   pork
+鸡肉   jīròu   chicken
+牛肉   niúròu   beef
+羊肉   yángròu   mutton
+
+
+Newbie - Friends for Dinner (A0044)
+蛋卷
+dànjuǎn 
+egg rolls
+
+叉烧
+chāshāo 
+barbeque spare ribs
+
+蛋花汤
+dànhuātāng 
+egg drop soup
+
+蚝油牛肉
+háoyóuniúròu 
+beef with oyster sauce
+
+北京烤鸭
+Běijīng kǎoyā 
+Beijing duck
+
+木须肉
+mùxūròu 
+pork strips
+
+炒面
+chǎomiàn 
+fried noodles
+
+Vocabulary
+蛋卷   dànjuǎn   egg roll
+叉烧   chāshāo   barbeque spare ribs
+蛋花汤   dànhuātāng   egg-drop soup
+蚝油牛肉   háoyóuniúròu   beef with oyster sauce
+烤鸭   kǎoyā   roast duck
+木须肉   mùxūròu   mu shu pork strips
+炒面   chǎomiàn   fried noodles
+饺子   jiǎozi   dumpling
+春卷   chūnjuǎn   spring roll
+好吃   hǎochī   good to eat
+饿   è   hungry
+饱   bǎo   full
+买单   mǎidān   pay the bill
+餐厅   cāntīng   restaurant
+
+
+Newbie - Long Time No See (A0045)
+嘿。好久不见。
+hēi 。hǎojiǔbùjiàn 。
+Hey. Long time no see.
+
+对啊，你怎么样？
+duìā ，nǐ zěnmeyàng ？
+That’s right. How are you doing?
+
+不错不错，你在忙什么？
+bùcuò bùcuò ，nǐ zài máng shénme ？
+Not bad, not bad. What have you been busy with?
+
+我一直在工作，没办法。
+wǒ yīzhí zài gōngzuò ，méi bànfǎ 。
+I’m always working. Not much I can do about that.
+
+Vocabulary
+好久不见   hǎojiǔbùjiàn   long time no see
+对   duì   right
+怎么样   zěnmeyàng   how about
+不错   bùcuò   not bad
+在   zài   currently
+忙   máng   busy
+什么   shénme   what
+一直   yīzhí   continuously
+工作   gōngzuò   work
+办法   bànfǎ   way
+还可以   hái kěyǐ   just ok
+学习   xuéxí   study
+休息   xiūxi   rest
+身体   shēntǐ   health
+最近   zuìjìn   recently
+
+Newbie - Weekend Warriors (A0046)
+你周末喜欢做什么？
+nǐ zhōumò xǐhuan zuò shénme ？
+What do you like to do on the weekends?
+
+周末吗？我喜欢在家里休息。你呢？
+zhōumò ma ？wǒ xǐhuan zài jiālǐ xiūxi 。nǐ ne ？
+On the weekends? I like to stay at home and rest. How about you?
+
+我喜欢和朋友出去，我们今天晚上去酒吧。
+wǒ xǐhuan hé péngyou chūqù ，wǒmen jīntiān wǎnshang qù jiǔbā 。
+I like to go out with friends. We are going to a bar tonight.
+
+Vocabulary
+周末   zhōumò   weekend
+喜欢   xǐhuan   to like
+做   zuò   to do
+做饭   zuòfàn   to cook food
+在   zài   in;at
+休息   xiūxi   to rest
+和   hé   with
+出去   chūqù   to go out
+酒吧   jiǔbā   bar
+今天晚上   jīntiān wǎnshang   tonight
+运动   yùndòng   sports
+泡吧   pàobā   to go drinking at a bar
+上网   shàngwǎng   to go online
+约会   yuēhuì   date
+加班   jiābān   work overtime
+
+Newbie - Guess what I’m learning? (A0047)
+你在学中文吗？
+nǐ zài xué Zhōngwén ma ？
+Are you studying Chinese?
+
+对，我在大学学习。
+duì ，wǒ zài dàxué xuéxí 。
+Yes, I'm studying in university.
+
+学中文难不难？
+xué Zhōngwén nán bu nán ？
+Is studying Chinese difficult?
+
+我觉得说还可以，写很难。
+wǒ juéde shuō hái kěyǐ ，xiě hěn nán 。
+I think speaking is fine, but writing is very difficult.
+
+Vocabulary
+在   zài   currently
+学   xué   to study
+中文   Zhōngwén   Chinese
+大学   dàxué   university
+学习   xuéxí   to study
+难   nán   difficult
+觉得   juéde   to feel
+还可以   hái kěyǐ   all right
+说   shuō   to speak
+容易   róngyì   easy
+简单   jiǎndān   simple
+读   dú   read
+听   tīng   listen
+发音   fāyīn   pronounce
+汉字   hànzì   Chinese character
+Newbie - A Correction of Tones (A0048)
+A:  你在学中文吗？
+  Are you studying Chinese?
+  Nǐ zài xué Zhōngwén ma? 
+B:  对，我在大学学习。
+  Yes, I'm studying in university.
+  Duì, wǒ zài dàxué xuéxí. 
+A:  学中文难不难？
+  Is studying Chinese difficult?
+  Xué Zhōngwén nán bu nán? 
+B:  我觉得说还可以，写很难。
+  I think speaking is fine, but writing is very difficult.
+  Wǒ juéde shuō hái kěyǐ, xiě hěn nán. 
+Key Vocabulary
+学  xué  to study
+中文  Zhōngwén  Chinese
+在  zài  at
+大学  dàxué  university
+学习  xuéxí  to study
+难不难  nán bu nán  difficult or not
+觉得  juéde  to think
+说  shuō  to speak
+还可以  hái kěyǐ  not bad; fine
+写  xiě  to write
+很  hěn  very
+难  nán  difficult
+
+Supplementary Vocabulary
+英文  Yīngwén  English
+容易  róngyì  easy
+简单  jiǎndān  simple
+听  tīng  to listen
+读  dú  to read
+
+Newbie - Taxi Conversations: Finding a Taxi (A0050)
+小姐，请问哪里有出租车？
+xiǎojie ，qǐng wèn nǎli yǒu chūzūchē ？
+Excuse me miss, where are the taxis?
+
+在前面。
+zài qiánmiàn 。
+They are ahead.
+
+往那边，对吗？
+wǎng nàbian ，duì ma ？
+In that direction, right?
+
+对。你一直走。
+duì 。nǐ yīzhí zǒu 。
+Right. Go straight.
+
+Vocabulary
+请问   qǐng wèn   may I ask
+哪里   nǎli   where
+有   yǒu   is there
+出租车   chūzūchē   taxi
+在   zài   to be at
+前面   qiánmiàn   forward
+往   wǎng   towards
+那边   nàbian   over there
+对   duì   right
+吗   ma   (question particle)
+一直   yīzhí   straight
+走   zǒu   to walk
+坐出租车   zuò chūzūchē   to take taxi
+打的   dǎdī   to take a taxi
+在后面   zài hòumian    at back
+在对面   zài duìmiàn   oppsite
+在左边   zài zuǒbiān   on the left
+在右边   zài yòubiān   on the right
+这边   zhèbiān   this side
+Newbie - How YOU doin’? (A0051)
+A:  你真漂亮。
+  You're really pretty.
+  Nǐ zhēn piàoliang. 
+B:  谢谢，你也很帅。
+  Thank you, you are also very handsome.
+  Xièxie, nǐ yě hěn shuài. 
+A:  那当然。
+  Well, naturally.
+   nà dāngrán. 
+B:  你真臭美。
+  You're really full of yourself.
+  Nǐ zhēn chòuměi. 
+A:  呵呵。你一个人吗？
+  Hah-hah. Are you alone?
+  Hēhē. Nǐ yīgerén ma? 
+B:  不是，我朋友在那儿。
+  No, my friend is over there.
+  Bù shì, wǒ péngyou zài nàr5. 
+Key Vocabulary
+漂亮  piàoliang  pretty
+也  yě  also
+帅  shuài  handsome
+当然  dāngrán  of course
+臭美  chòuměi  to be full of oneself
+
+Supplementary Vocabulary
+美丽  měilì  beautiful
+年轻  niánqīng  young
+有气质  yǒu qìzhì  elegant
+英俊  yīngjùn  handsome
+有魅力  yǒu mèilì  charming
+潇洒  xiāosǎ  pizazz
+能干  nénggàn  capable
+好看  hǎokàn  good-looking
+难看  nánkàn  malformation
+
+Newbie - What are your hobbies? (A0052)
+你的爱好是什么？
+nǐ de àihào shì shénme ？
+What are your hobbies?
+
+我喜欢打篮球。你喜欢吗？
+wǒ xǐhuan dǎ lánqiú 。nǐ xǐhuan ma ？
+I like playing basketball. Do you?
+
+我喜欢看，不喜欢打。
+wǒ xǐhuan kàn ，bù xǐhuan dǎ 。
+I like to watch, but I don’t like to play.
+
+Vocabulary
+爱好   àihào   hobby
+是   shì   to be
+什么   shénme   what
+喜欢   xǐhuan   to like
+打   dǎ   to play
+篮球   lánqiú   basketball
+看   kàn   look
+听音乐   tīng yīnyuè   listen to music
+旅游   lǚyóu   travel
+电视   diànshì   TV
+电影   diànyǐng   movie
+网球   wǎngqiú   tennis
+运动   yùndòng   sports
+
+Newbie - Taxi Conversations: Destination (A0053)
+师傅你好。
+shīfu nǐhǎo 。
+Hello.
+
+你要去哪里？
+nǐ yào qù nǎli ？
+Where do you want to go?
+
+我要去王府宾馆。
+wǒ yào qù Wáng Fǔ bīnguǎn 。
+I want to go to the Palace Hotel.
+
+好的，你想怎么走？
+hǎo de ，nǐ xiǎng zěnme zǒu ？
+OK. How would you like to go?
+
+随便你，走最快的。
+suíbiàn nǐ ，zǒu zuìkuài de 。
+It’s up to you. Take the fastest way.
+
+Vocabulary
+师傅   shīfu   master
+要   yào   to want
+去   qù   to go
+哪里   nǎli   where
+王府宾馆   Wáng Fǔ bīnguǎn   Wang Fu hotel
+想   xiǎng   would like to
+怎么   zěnme   how
+走   zǒu   to go
+随便   suíbiàn   as you like
+地方   dìfang   place
+地址   dìzhǐ   address
+近   jìn   near
+远   yuǎn   far
+慢   màn   slow
+出发   chūfā   to start out
+到达   dàodá   to reach
+
+Newbie - Taxi Conversations: Small Talk (A0056)
+您第一次来中国吗？
+nín dìyīcì lái Zhōngguó ma ？
+Is this your first time in China?
+
+不是。这是我第二次来。
+bù shì 。zhè shì wǒ dì'èrcì lái 。
+No. This is my second time.
+
+您喜欢中国吗？
+nín xǐhuan Zhōngguó ma ？
+Do you like China?
+
+我很喜欢。特别是中国文化和语言。
+wǒ hěn xǐhuan 。tèbiéshì Zhōngguó wénhuà hé yǔyán 。
+I really like it. And especially the Chinese culture and language.
+
+Vocabulary
+您   nín   you(polite)
+第一次   dìyīcì   the first time
+来   lái   to come to
+中国   Zhōngguó   China
+是   shì   to be
+这   zhè   this
+第二次   dì'èrcì   2nd time
+喜欢   xǐhuan   to like
+很   hěn   very
+特别是   tèbiéshì   especially
+文化   wénhuà   culture
+和   hé   and
+语言   yǔyán   language
+几次   jǐcì   several times
+从来没有   cónglái méiyǒu   have has never
+很少   hěn shǎo   merely
+经常   jīngcháng   often
+住在   zhùzài   to live in
+多久   duōjiǔ   how long
+
+Newbie - Too Many Cooks (A0058)
+你会做菜吗？
+nǐ huì zuòcài ma ？
+Can you cook?
+
+会一点。你呢？
+huì yīdiǎn 。nǐ ne ？
+A little bit. What about you?
+
+我做得很好。我的拿手菜是番茄炒蛋。
+wǒ zuò de hěn hǎo 。wǒ de náshǒu cài shì fānqié chǎodàn 。
+I cook very well. My specialty is tomatoes with fried eggs.
+
+那你下一次做给我吃。
+nà nǐ xiàyīcì zuò gěi wǒ chī 。
+Well, cook it for me next time.
+
+Vocabulary
+会   huì   can
+做   zuò   to make
+做菜   zuòcài   to make food
+一点   yīdiǎn   a bit
+得   de   (structural particle)
+我的   wǒ de   my
+拿手菜   náshǒu cài   specialty dish
+是   shì   to be
+番茄炒蛋   fānqiéchǎodàn   tomato fried egg
+那   nà   then
+下一次   xiàyīcì   next time
+给   gěi   for
+厨师   chúshī   cook
+厨房   chúfáng   kitchen
+厨艺   chúyì   cooking skill
+厨具   chújù   cooking utensils
+烧菜   shāocài   to cook
+炒菜   chǎocài   to fry
+菜谱   càipǔ   cookbook
+味道   wèidao   flavor
+香   xiāng   fragrant
+美味   měiwèi   delicious
+好吃   hǎochī   tasty
+
+Newbie - Describing the Weather (A0061)
+上海今年冬天不太冷。
+Shànghǎi jīnnián dōngtiān bùtài lěng 。
+Shanghai's winter is not very cold this year.
+
+是吗？温度怎么样？
+shì ma ？wēndù zěnmeyàng ？
+Really? What is the temperature like?
+
+现在大约十五度。
+xiànzài dàyuē shíwǔ dù 。
+It is around 15 degrees now.
+
+北京冷多了。
+Běijīng lěng duō le 。
+Beijing is much colder.
+
+Vocabulary
+今年   jīnnián   this year
+冬天   dōngtiān   winter
+冷   lěng   cold
+温度   wēndù   temperature
+怎么样   zěnmeyàng   how about
+大约   dàyuē   around
+多了   duō le   much more
+度   dù   degree
+暖和   nuǎnhuo   warm
+凉   liáng   cool
+下雨   xiàyǔ   rain
+经常   jīngcháng   often
+零下   língxià   subzero
+
+Newbie - Taxi Conversations: Suggesting a Route (A0062)
+先生，我们走高速公路好吗？
+xiānsheng ，wǒmen zǒu gāosùgōnglù hǎo ma ？
+Sir, shall we take the highway?
+
+为什么？
+wèishénme ？
+Why?
+
+因为马路很堵。
+yīnwèi mǎlù hěn dǔ 。
+Because the streets are very congested.
+
+好，没问题。
+hǎo ，méiwèntí 。
+Fine, no problem.
+
+Vocabulary
+先生   xiānsheng   sir
+走   zǒu   to take
+高速公路   gāosùgōnglù   highway
+为什么   wèishénme   why
+因为   yīnwèi   because
+马路   mǎlù   street
+堵   dǔ   jammed
+没问题   méiwèntí   no problem
+赶时间   gǎn shíjiān   hurry up (to do sth.)
+来不及   láibují   lacking enough time to
+快一点   kuài yīdiǎn   a little faster
+超速   chāosù   speeding
+高架   gāojià   overhead
+红绿灯   hónglǜdēng   red and green traffic light
+行人   xíngrén   pedestrian
+出口   chūkǒu   to export
+入口   rùkǒu   entrance
+
+
+Newbie - Lying in Chinese (A0064)
+A:  你昨天晚上去哪里了？
+  Where did you go last night?
+  Nǐ zuótiān wǎnshang qù nǎli le? 
+B:  我一直在家，没离开。
+  I was home the entire time. I didn't leave.
+  Wǒ yīzhí zàijiā, méi líkāi. 
+A:  你说谎。我在酒吧看见你了。
+  You're lying. I saw you in the bar.
+  Nǐ shuōhuǎng. Wǒ zài jiǔbā kànjian nǐ le. 
+B:  那不是我。你搞错了。
+  It wasn't me. You've made a mistake.
+  Nà bù shì wǒ. Nǐ gǎocuò le. 
+Key Vocabulary
+昨天  zuótiān  yesterday
+晚上  wǎnshang  evening
+去  qù  to go
+哪里  nǎli  where
+一直  yīzhí  continuously
+在家  zàijiā  to be at home
+离开  líkāi  to leave
+说谎  shuōhuǎng  to lie
+在  zài  to be at
+酒吧  jiǔbā  bar
+看见  kànjian  to see
+是  shì  to be
+搞错  gǎocuò  to be mistaken
+
+Supplementary Vocabulary
+听说  tīngshuō  to hear
+干  gàn  to do
+逛街  guàngjiē  shopping
+电影  diànyǐng  movie
+看错  kàn cuò  to mistake; to see incorrectly
+
+Newbie - Taxi Conversations: Arriving at your Destination (A0065)
+先生，我们到了。您用卡还是用现金？
+xiānsheng ，wǒmen dào le 。nín yòng kǎ hái shì yòng xiànjīn ？
+Sir, we’ve arrived. Are you going to use a card or cash?
+
+我用现金，好吗？多少钱？
+wǒ yòng xiànjīn ，hǎo ma ？duōshǎo qián ？
+I will use cash. Is that ok? How much is it?
+
+八十五块。
+bāshíwǔ kuài 。
+Eighty five RMB.
+
+八十五块正好。谢谢。
+bāshíwǔ kuài 。zhènghǎo 。xièxie 。
+Here is exactly eighty five RMB. Thank you.
+
+Vocabulary
+先生   xiānsheng   sir
+到了   dào le   to arrive
+用   yòng   to use
+卡   kǎ   card
+还是   hái shì   or
+现金   xiànjīn   cash
+多少钱   duōshǎo qián   how much
+八十五块   bāshíwǔ kuài   85 RMB
+正好   zhènghǎo   just right
+刷卡   shuākǎ   to swipe a card
+给你   gěi nǐ   here you are
+找零   zhǎolíng   change
+停   tíng   to stop
+停车   tíngchē   to stop
+下车   xiàchē   debus
+不用找   bùyòng zhǎo   need not to give
+
+Newbie - Hotel, Motel, Holiday Inn (A0067)
+你好，我是Smith先生。我订了一个房间。
+nǐhǎo ，wǒ shì Smithxiānsheng 。wǒ dìng le yī ge fángjiān 。
+I am Mr. Smith. I booked a room.
+
+Smith先生，对吗？我看一下。
+Smithxiānsheng ，duì ma ？wǒ kàn yīxià 。
+Mr. Smith, right? I will have a look.
+
+这是我的护照。
+zhè shì wǒ de hùzhào 。
+This is my passport.
+
+谢谢。您稍等。
+xièxie 。nín shāoděng 。
+Thank you. Please wait a moment.
+
+Vocabulary
+是   shì   to be
+先生   xiānsheng   Mr.
+订   dìng   to reserve
+房间   fángjiān   room
+对   duì   correct
+看一下   kàn yīxià   to take a look
+这   zhè   this
+护照   hùzhào   passport
+稍等   shāoděng   wait a moment
+双人间   shuāngrénjiān   double room
+标准间   biāozhǔnjiān   standard room
+预定   yùdìng   reserve
+登记   dēngjì   register
+签名   qiānmíng   sign
+证件   zhèngjiàn   credentials
+
+Newbie - Useful Phrases #1 (A0071)
+  我来付钱。
+  wǒ lái fùqián. 
+  I’ll pay.
+  我请客。
+  wǒ qǐngkè. 
+  It’s my treat. / It’s on me.
+  我明白。
+  wǒ míngbai. 
+  I see.
+  我明白你的意思。
+  wǒ míngbai nǐ de yìsi. 
+  I know what you mean.
+  我不理解。
+  wǒ bù lǐjiě. 
+  I don’t understand.
+  我不理解你的意思。
+  wǒ bù lǐjiě nǐ de yìsi. 
+  I don’t understand what you mean.
+  我不知道。
+  wǒ bù zhīdào. 
+  I don’t know.
+  我不清楚。
+  wǒ bù qīngchu. 
+  I’m not clear.
+  
+Key Vocabulary
+来  lái  to come
+付钱  fùqián  to pay
+请客  qǐngkè  to treat someone
+明白  míngbai  to understand
+意思  yìsi  meaning
+理解  lǐjiě  to comprehend
+知道  zhīdào  to know
+清楚  qīngchu  clear
+
+Supplementary Vocabulary
+懂  dǒng  to understand
+不懂  bù dǒng  not to understand
+不太清楚  bùtài qīngchu  not very clear
+听我说  tīng wǒ shuō  listen to me
+
+Newbie - New Year (A0073)
+你怎么过新年？
+nǐ zěnme guò xīnnián ？
+How will you spend the New Year?
+
+我和家人一起过。你呢？
+wǒ hé jiārén yīqǐ guò 。nǐ ne ？
+I will spend it with my family. What about you?
+
+我和朋友去旅游。
+wǒ hé péngyou qù lǚyóu 。
+I will go traveling with friends.
+
+祝你新年快乐。
+zhù nǐ xīnnián kuàilè 。
+I wish you a happy New Year's.
+
+谢谢。
+xièxie 。
+Thanks.
+
+Vocabulary
+怎么   zěnme   how
+过   guò   to pass
+新年   xīnnián   New Year
+和   hé   with
+家人   jiārén   family
+一起   yīqǐ   together
+呢   ne   /
+朋友   péngyou   friend
+去   qù   to go
+旅游   lǚyóu   to travel
+祝   zhù   to wish
+新年快乐   xīnnián kuàilè   happy New Year
+过年   guònián   New Year
+回老家   huí lǎojiā   come back hometown
+拜年   bàinián   to pay a New Year visit
+亲戚   qīnqi   relative
+团圆   tuányuán   to have a reunion
+传统   chuántǒng   tradition
+元旦   yuándàn   New Years
+节日   jiérì   holiday
+
+Newbie - Explaining Your Occupation (A0077)
+你是做什么的？
+nǐ shì zuò shénme de ？
+What do you do?
+
+我是老师。你呢？
+wǒ shì lǎoshī 。nǐ ne ？
+I’m a teacher. How about you?
+
+我是生意人。你喜欢你的工作吗？
+wǒ shì shēngyìrén 。nǐ xǐhuan nǐ de gōngzuò ma ？
+I’m a businessman. Do you like your job?
+
+是的。我很喜欢。
+shìde 。wǒ hěn xǐhuan 。
+Yes. I really like it.
+
+Vocabulary
+是   shì   to be
+做   zuò   to do
+什么   shénme   what
+老师   lǎoshī   teacher
+生意人   shēngyìrén   businessman
+喜欢   xǐhuan   to like
+工作   gōngzuò   job
+职业   zhíyè   job occupation
+干   gàn   to do
+商人   shāngrén   businessman
+工人   gōngrén   worker
+医生   yīshēng   doctor
+律师   lǜshī   lawyer
+警察   jǐngchá   police
+公务员   gōngwùyuán   public official
+司机   sījī   driver
+
+Newbie - Useful Phrases #2 (A0080)
+  你怎么样？
+  Nǐ zěnmeyàng? 
+  How are you doing?
+  还可以。
+  Háikěyǐ. 
+  All right.
+  不错。
+  Búcuò. 
+  Not bad.
+  马马虎虎。
+  Mǎmǎhūhū. 
+  So-so.
+  谢谢你。
+  Xièxie nǐ. 
+  Thanks.
+  不客气。
+  Bùkèqi. 
+  Don't be so polite.
+  不用谢。
+  Bùyòng xiè. 
+  No need for thanks.
+  没事。
+  Méishì. 
+  It's nothing.
+  怎么办？
+  Zěnme bàn? 
+  What can I do?
+  没办法。
+  Méi bànfǎ. 
+  There’s nothing to be done.
+  对不起。
+  Duìbuqǐ. 
+  I'm sorry.
+  没关系。
+  Méiguānxi. 
+  It doesn’t matter.
+Key Vocabulary
+怎么样  zěnmeyàng  how about
+还可以  háikěyǐ  all right
+不错  búcuò  not bad
+马马虎虎  mǎmǎhūhū  so-so
+谢谢你  xièxie nǐ  thank you
+不客气  bùkèqi  you are welcome
+不用谢  bùyòng xiè  need not to thank
+没事  méishì  no problem
+怎么办  zěnme bàn  what should be done
+没办法  méi bànfǎ  nothing can be done
+对不起  duìbuqǐ  I'm sorry
+没关系  méiguānxi  it doesn't matter
+
+Supplementary Vocabulary
+还行  hái xíng  all right
+没问题  méiwèntí  no problem
+差不多  chàbuduō  more or less the same
+老样子  lǎoyàngzi  the same as always
+不好不坏  bùhǎo bùhuài  not good or bad
+
+Newbie - I'm not hungry (A0083)
+我们去吃饭，好吗？
+wǒmen qù chīfàn ，hǎo ma ？
+Let’s go eat. Okay?
+
+我不饿。
+wǒ bù è 。
+I’m not hungry.
+
+那你陪我去。好不好？
+nà nǐ péi wǒ qù 。hǎo bu hǎo ？
+Then just accompany me. Okay?
+
+好的。我不吃饭但是我喝一点茶。
+hǎo de 。wǒ bù chīfàn dànshì wǒ hē yīdiǎn chá 。
+Okay. I won’t eat, but I’ll drink a little tea.
+
+Vocabulary
+去   qù   to go
+吃饭   chīfàn   to eat food
+饿   è   to be hungry
+那   nà   then
+陪   péi   to accompany
+但是   dànshì   but
+饭馆   fànguǎn   restaurant
+食堂   shítáng   dining hall
+饿死了   èsǐ le   to starve to death
+点心   diǎnxin   light refreshments
+饼干   bǐnggān   cooky
+饮料   yǐnliào   beverage
+
+Newbie - Marriage and Divorce (A0088)
+李先生几岁了？
+Lǐ Xiānsheng jǐ suì le ？
+How old is Mr. Li?
+
+他已经四十五岁了。
+tā yǐjīng sìshíwǔ suì le 。
+He is already 45 years old.
+
+他为什么还没结婚？
+tā wèishénme hái méi jiéhūn ？
+Why isn’t he married yet?
+
+他已经离婚了。
+tā yǐjīng líhūn le 。
+He is already divorced.
+
+Vocabulary
+几   jǐ   how many
+岁   suì   years old
+已经   yǐjīng   already
+为什么   wèishénme   why
+还   hái   yet
+没   méi   not
+结婚   jiéhūn   to get married; to be married
+离婚   líhūn   to get divorced; to be divorced
+求婚   qiúhūn   propose marriage
+订婚   dìnghūn   engagement
+婚礼   hūnlǐ   wedding ceremony
+单身   dānshēn   single
+同居   tóngjū   cohabit
+娶   qǔ   take a wife
+嫁   jià   to marry
+
+Newbie - University Major: Part 1 (A0090)
+你在大学里学什么？
+nǐ zài dàxué lǐ xué shénme ？
+What are you studying in university?
+
+我在大学里学英语。
+wǒ zài dàxué lǐ xué yīngyǔ 。
+I’m studying English in university.
+
+毕业以后你想做什么？
+bìyè yǐhòu nǐ xiǎng zuò shénme ？
+After you graduate, what would you like to do?
+
+我想当老师。
+wǒ xiǎng dāng lǎoshī 。
+I’d like to be a teacher.
+
+Vocabulary
+在   zài   at
+大学   dàxué   university
+里   lǐ   in
+学   xué   to study
+什么   shénme   what
+英语   yīngyǔ   English
+毕业   bìyè   graduation
+以后   yǐhòu   after
+想   xiǎng   to want
+做   zuò   to do
+法律   fǎlǜ   law
+律师   lǜshī   lawyer
+工商管理   gōngshāngguǎnlǐ   industry and commerce management
+经理   jīnglǐ   manager
+创业   chuàngyè   start an undertaking
+会计   kuàijì   accounting
+
+Newbie - Surfing the Internet (A0092)
+你空余时间喜欢做什么？
+nǐ kòngyú shíjiān xǐhuan zuò shénme ？ 
+What do you like to do in your free time?
+
+我喜欢上网。你呢？
+wǒ xǐhuan shàngwǎng 。nǐ ne ？
+I like to surf the internet. How about you?
+
+我也是。我在线时间很长。
+wǒ yě shì 。wǒ zàixiàn shíjiān hěn cháng 。
+Me too. I spend a lot of time online.
+
+对。上网很有趣。
+duì 。shàngwǎng hěn yǒuqù 。
+Yes. Surfing the internet is very interesting.
+
+Vocabulary
+空余   kòngyú   free
+时间   shíjiān   time
+喜欢   xǐhuan   to like
+做   zuò   to do
+什么   shénme   what
+上网   shàngwǎng   to go online
+也   yě   also
+是   shì   to be
+在线   zàixiàn   online
+长   cháng   long
+很   hěn   very
+有趣   yǒuqù   interesting
+网络游戏   wǎngluò yóuxì   online game
+下载   xiàzǎi   to download
+搜索   sōusuǒ   to search
+聊天   liáotiān   to chat
+网上购物   wǎngshàng gòuwù   to buy sth. on internet
+电子邮件   diànzǐyóujiàn   Email
+
+Newbie - Sending Emails (A0094)
+我怎么联系你？
+wǒ zěnme liánxì nǐ ？
+How can I contact you?
+
+就给我发邮件吧。
+jiù gěi wǒ fā yóujiàn ba 。
+Send me an email.
+
+你的邮件地址是什么？
+nǐde yóujiàn dìzhǐ shì shénme ？
+What’s your email address?
+
+我的邮件地址是Tom@hotmail.com。
+wǒde yóujiàn dìzhǐ shì Tom@hotmail.com。
+My email address is Tom@hotmail.com.
+
+Vocabulary
+怎么   zěnme   how
+联系   liánxì   to contact
+给   gěi   to
+发   fā   to send
+邮件   yóujiàn   mail
+地址   dìzhǐ   address
+申请   shēnqǐng   apply for
+注册   zhùcè   to register
+登陆   dēnglù   to login
+收邮件   shōu yóujiàn   to receive mail
+垃圾邮件   lājī yóujiàn   junk mail
+
+Newbie - Addresses (A0095)
+你家里的地址是什么？
+nǐ jiālǐ de dìzhǐ shì shénme ？
+What is your home address?
+
+我家里的地址是南京路一百三十五号。
+wǒ jiālǐ de dìzhǐ shì Nánjīng Lù yībǎi sānshíwǔ hào 。
+My home address is number 135, Nanjing Road.
+
+在公园对面吗？
+zài gōngyuán duìmiàn ma ？
+Across from the park?
+
+是的。
+shìde 。
+Yes.
+
+Vocabulary
+家里   jiālǐ   home
+地址   dìzhǐ   address
+是   shì   to be
+什么   shénme   what
+南京路   Nánjīng Lù   Nanjing Road
+号   hào   No.
+在   zài   at
+对面   duìmiàn   opposite
+左边   zuǒbiān   left
+右边   yòubiān   right as opposed to left
+后边   hòubiān   behind
+旁边   pángbiān   beside
+区   qū   district
+
+Newbie - Invitations to Eat (A0097)
+A  你今天晚上有事吗？
+  nǐ jīntiān wǎnshang yǒushì ma? 
+  Do you have anything to do tonight?
+B  今天晚上我没有事。
+  jīntiān wǎnshang wǒ méiyǒu shì. 
+  I don’t have anything tonight.
+A  我请你吃饭好不好？
+  wǒ qǐng nǐ chīfàn hǎo bu hǎo? 
+  I’ll invite you out to eat, OK?
+B  好的。好主意。
+  hǎo de. hǎo zhǔyi. 
+  OK. Good idea.
+  
+Key Vocabulary
+今天  jīntiān  today
+晚上  wǎnshang  evening
+有事  yǒushì  to be busy
+没有  méiyǒu  to not have
+事  shì  thing; matter
+请  qǐng  to invite; to treat
+好不好  hǎo bu hǎo  good or not
+
+Supplementary Vocabulary
+有空  yǒukòng  to have free time
+没空  méikòng  to not have free time
+很忙  hěn máng  very busy
+没事  méishì  to not have something to do
+请客  qǐngkè  to invite guests
+不见不散  bùjiànbùsàn  we have to get together
+
+Newbie - Asking for Favors (A0099)
+A  你能不能帮我一个忙？
+  nǐ néng bu néng bāng wǒ yī ge máng? 
+  Can you do me a favor?
+B  当然可以。
+  dāngrán kěyǐ. 
+  Of course I can.
+A  我来找王太太。请告诉她我来了。
+  wǒ lái zhǎo Wáng Tàitai. qǐng gàosù tā wǒ lái le. 
+  I came to find Mrs. Wang. Please tell her I’m here.
+B  没问题。请稍等。
+  méi wèntí. qǐng shāo děng. 
+  No problem. Just a moment please.
+  
+Key Vocabulary
+能  néng  can
+帮  bāng  to help
+忙  máng  favor
+当然  dāngrán  of course
+可以  kěyǐ  can
+来  lái  to come
+找  zhǎo  to try to find
+请  qǐng  please
+告诉  gàosù  to tell
+
+Supplementary Vocabulary
+转告  zhuǎngào  to pass on (word)
+别忘了  bié wàng le  don't forget
+帮了大忙  bāng le dà máng  be a great help
+行不行  xíng bù xíng  can or cannot
+可不可以  kě bù kěyǐ  can or cannot

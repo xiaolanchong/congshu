@@ -43,6 +43,7 @@ A:  我叫王平。你呢？
 B:  我叫李丽。
   Wǒ jiào Lǐ Lì. 
   My name is Li Li.
+
 Key Vocabulary
 你好  nǐhǎo  hello
 叫  jiào  to be called
@@ -71,6 +72,7 @@ A:  我是英国人。
 B:  欢迎！
   Huānyíng! 
   Welcome!
+  
 Key Vocabulary
 是  shì  to be
 中国人  Zhōngguórén  Chinese person
@@ -102,6 +104,7 @@ A:  你喜欢什么？
 B:  中国菜。
   Zhōngguó cài. 
   Chinese food.
+  
 Key Vocabulary
 喜欢  xǐhuan  to like
 中国  Zhōngguó  China
@@ -125,6 +128,7 @@ B:  有的。请稍等。
 A:  好的。
   Hǎo de. 
   OK.
+
 Key Vocabulary
 请问  qǐng wèn  may I ask; excuse me
 有  yǒu  to have
@@ -256,6 +260,7 @@ A  我也很好。你去哪里？
 B  我去学校。
   wǒ qù xuéxiào. 
   I’m going to school.
+  
 Key Vocabulary
 先生  xiānsheng  Mr. 
 小姐  xiǎojie  Ms.
@@ -549,6 +554,7 @@ A  好吃吗？
 B  好吃。
   hǎochī. 
   Yes.
+  
 Key Vocabulary
 在  zài  currently
 吃  chī  to eat
@@ -630,6 +636,7 @@ B:  她去北京了。
 A:  好，谢谢，再见。
   OK, thanks. Bye!
   Hǎo, xièxie, zàijiàn. 
+  
 Key Vocabulary
 喂  wéi  hello (on the phone only)
 陈太太  Chén tàitai  Mrs. Chen
@@ -842,6 +849,7 @@ Newbie - Colors (A0024)
   黄色
   Huángsè 
   yellow
+  
 Key Vocabulary
 黑色  hēisè  black
 蓝色  lánsè  blue
@@ -1699,6 +1707,7 @@ A:  学中文难不难？
 B:  我觉得说还可以，写很难。
   I think speaking is fine, but writing is very difficult.
   Wǒ juéde shuō hái kěyǐ, xiě hěn nán. 
+  
 Key Vocabulary
 学  xué  to study
 中文  Zhōngwén  Chinese
@@ -1776,6 +1785,7 @@ A:  呵呵。你一个人吗？
 B:  不是，我朋友在那儿。
   No, my friend is over there.
   Bù shì, wǒ péngyou zài nàr5. 
+  
 Key Vocabulary
 漂亮  piàoliang  pretty
 也  yě  also
@@ -2023,6 +2033,7 @@ A:  你说谎。我在酒吧看见你了。
 B:  那不是我。你搞错了。
   It wasn't me. You've made a mistake.
   Nà bù shì wǒ. Nǐ gǎocuò le. 
+  
 Key Vocabulary
 昨天  zuótiān  yesterday
 晚上  wǎnshang  evening
@@ -2271,6 +2282,7 @@ Newbie - Useful Phrases #2 (A0080)
   没关系。
   Méiguānxi. 
   It doesn’t matter.
+  
 Key Vocabulary
 怎么样  zěnmeyàng  how about
 还可以  háikěyǐ  all right

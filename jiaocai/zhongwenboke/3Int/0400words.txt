@@ -253,7 +253,7 @@ Calling a Supplier for a Quote (C0446)
 外贸		wàimào		foreign trade
 
 International Women's Day (C0449)
-三八妇女节		sān bā fùnǚjié		International Women\'s Day
+三八妇女节		sān bā fùnǚjié		International Women's Day
 庆祝		qìngzhù		celebrate
 游行		yóuxíng		march
 争取		zhēngqǔ		to strive for

@@ -87,6 +87,7 @@ Vocabulary
 刚好   gānghǎo   just right
 好吃   hǎochī   tasty
 跟......一样   gēn ... yīyàng   to be the same as
+
 Elementary - Buying a SIM card (B0507)
 A  这里有手机卡卖吗？
    ? 
@@ -301,6 +302,7 @@ B:  运动品牌有的卖。
 A:  我去过了。没的卖。
   I've gone before. They don't sell them.
   Wǒ qù guo le. méi de mài. 
+
 Key Vocabulary
 根本  gēnběn  simply; completely
 因为  yīnwèi  because
@@ -342,6 +344,7 @@ C:  哦，宝宝不哭。
 B:  不哭，不哭，爸爸妈妈骗你的。
   Don't cry, don't cry. Daddy and Mommy were fooling you.
   Bù kū, bù kū, bàba māma piàn nǐ de. 
+
 Key Vocabulary
 从  cóng  from
 垃圾箱  lājīxiāng  garbage bin
@@ -375,6 +378,7 @@ A:  啊呀，忘带了。
 B:  对不起，退货需要发票。
   Sorry, you need the receipt to return it.
   Duìbuqǐ, tuìhuò xūyào fāpiào. 
+
 Key Vocabulary
 退货  tuìhuò  to return merchandise
 问题  wèntí  problem
@@ -411,6 +415,7 @@ B:  蛙泳最累。还有一个是什么？
 A:  仰泳。
   The backstroke.
   Yǎngyǒng. 
+
 Key Vocabulary
 最  zuì  most
 爱  ài  to love
@@ -451,6 +456,7 @@ A:  十个。
 B:  对了！宝贝真聪明。
   That's right! You're a really smart kid.
   Duì le! Bǎobèi zhēn cōngming. 
+
 Key Vocabulary
 问  wèn  to ask
 问题  wèntí  question
@@ -471,15 +477,19 @@ Supplementary Vocabulary
 一亿  yī yì  one hundred million
 
 Elementary - The Old Man Who Moved a Mountain (B0553)
-  有一个老人叫愚公，他家门前有两座大山挡着路，他决定和家人一起移山。
-  There was an old man named Yu Gong. In front of the gate of his home were two big mountains blocking the road. He decided, together with his family, to move the mountains.
-  Yǒu yī ge lǎorén jiào Yú Gōng, tā jiā ménqián yǒu liǎng zuò dàshān dǎng zhe lù, tā juédìng hé jiārén yīqǐ yí shān. 
-  另一个老人笑他太傻，认为不可能。
-  Another old man laughed at him, calling him foolish. He thought it was impossible.
-  Lìng yī ge lǎorén xiào tā tài shǎ, rènwéi bù kěnéng. 
-  愚公说：“我死了有儿子，儿子死了还有孙子，孙子死了还有他的孙子。但是这两座山不会长高。只要我们坚持，最后一定能成功。”
-  Yu Gong said: "When I die, there is my son. When my son dies, there is my grandson. When my grandson dies, there will be his grandson. But these two mountains will not grow taller. As long as we persevere, in the end we are sure to succeed.
-  Yú Gōng shuō : " wǒ sǐ le yǒu érzi, érzi sǐ le hái yǒu sūnzi, sūnzi sǐ le hái yǒu tā de sūnzi. Dànshì zhè liǎng zuò shān bùhuì zhǎng gāo. Zhǐyào wǒmen jiānchí, zuìhòu yīdìng néng chénggōng. " 
+有一个老人叫愚公，他家门前有两座大山挡着路，他决定和家人一起移山。
+There was an old man named Yu Gong. In front of the gate of his home were two big mountains blocking the road. He decided, together with his family, to move the mountains.
+Yǒu yī ge lǎorén jiào Yú Gōng, tā jiā ménqián yǒu liǎng zuò dàshān dǎng zhe lù, tā juédìng hé jiārén yīqǐ yí shān. 
+另一个老人笑他太傻，认为不可能。
+Another old man laughed at him, calling him foolish. He thought it was impossible.
+Lìng yī ge lǎorén xiào tā tài shǎ, rènwéi bù kěnéng. 
+愚公说：“我死了有儿子，儿子死了还有孙子，孙子死了还有他的孙子。但是这两座山不会长高。只要我们坚持，最后一定能成功。”
+Yu Gong said: "When I die, there is my son. When my son dies, there is my grandson. 
+When my grandson dies, there will be his grandson. 
+But these two mountains will not grow taller. As long as we persevere, in the end we are sure to succeed.
+Yú Gōng shuō : "wǒ sǐ le yǒu érzi, érzi sǐ le hái yǒu sūnzi, sūnzi sǐ le hái yǒu tā de sūnzi. 
+Dànshì zhè liǎng zuò shān bùhuì zhǎng gāo. Zhǐyào wǒmen jiānchí, zuìhòu yīdìng néng chénggōng. " 
+
 Key Vocabulary
 挡  dǎng  to block
 决定  juédìng  to decide
@@ -519,6 +529,7 @@ A:  然后呢？
 B:  然后就回来啦。
   Then I'll just come back.
   Ránhòu jiù huílai la. 
+
 Key Vocabulary
 行程  xíngchéng  itinerary
 安排  ānpái  to arrange
@@ -541,21 +552,22 @@ Supplementary Vocabulary
 取消  qǔxiāo  to cancel
 
 Elementary - A Chinese-Style Contradiction (B0562)
-  一个卖东西的人说：
-  A seller of goods said:
-  Yī ge mài dōngxi de rén shuō : 
-  “我的矛是世界上最尖的。
-  "My spears are the sharpest in the world.
-  " wǒ de máo shì shìjiè shàng zuì jiān de. 
-  我的盾是世界上最牢的。”
-  My shields are the toughest in the world."
-  Wǒ de dùn shì shìjiè shàng zuì láo de. " 
-  一个人问他：
-  A person asked:
-  Yī ge rén wèn tā : 
-  “如果用你的矛刺你的盾, 会怎么样呢?”
-  "If we use your spears to stab your shields, what happens?"
-  " rúguǒ yòng nǐ de máo cì nǐ de dùn, huì zěnmeyàng ne?" 
+一个卖东西的人说：
+A seller of goods said:
+Yī ge mài dōngxi de rén shuō : 
+“我的矛是世界上最尖的。
+"My spears are the sharpest in the world.
+" wǒ de máo shì shìjiè shàng zuì jiān de. 
+我的盾是世界上最牢的。”
+My shields are the toughest in the world."
+Wǒ de dùn shì shìjiè shàng zuì láo de. " 
+一个人问他：
+A person asked:
+Yī ge rén wèn tā : 
+“如果用你的矛刺你的盾, 会怎么样呢?”
+"If we use your spears to stab your shields, what happens?"
+" rúguǒ yòng nǐ de máo cì nǐ de dùn, huì zěnmeyàng ne?" 
+  
 Key Vocabulary
 卖  mài  to sell
 矛  máo  spear
@@ -594,6 +606,7 @@ A:  两盒。
 B:  你买三盒吧，可以打八折。
   Why don't you buy three boxes -- you can get 20% off.
   Nǐ mǎi sān hé ba, kěyǐ dǎ bā zhé. 
+  
 Key Vocabulary
 给  gěi  to give
 避孕套  bìyùntào  condom
@@ -626,6 +639,7 @@ B:  下午三点。
 A:  好的。今天下午我一定要看！
   All right. This afternoon I'm definitely going to watch it.
   Hǎo de. Jīntiān xiàwǔ wǒ yīdìng yào kàn! 
+  
 Key Vocabulary
 看  kàn  to watch
 转播  zhuǎnbō  broadcast
@@ -661,6 +675,7 @@ A:  大蒜、麻油都不错。
 B:  好的，这两种都给我一点吧。
   OK, give me a little of each of those then.
   Hǎo de, zhè liǎng zhǒng dōu gěi wǒ yīdiǎn ba. 
+
 Key Vocabulary
 调味料  tiáowèiliào  seasoning
 酱油  jiàngyóu  soy sauce
@@ -711,6 +726,7 @@ B:  那为什么我不能过一会儿睡觉？
 A:  因为我累了。
   Because I'm tired.
   Yīnwèi wǒ lèi le. 
+
 Key Vocabulary
 该  gāi  should
 睡觉  shuìjiào  to sleep
@@ -749,6 +765,7 @@ A:  哦。那我要重辣。
 B:  很辣的。你行吗？
   It's very hot. Are you sure?
   Hěn là de. Nǐ xíng ma? 
+
 Key Vocabulary
 水煮鱼  shuǐzhǔyú  boiled fish
 微辣  wēilà  a little spicy
@@ -782,6 +799,7 @@ A:  我也是。每次有接力赛，我都要看。
 B:  还有跳高也不错。
   The high jump is also pretty good as well.
   Háiyǒu tiàogāo yě bùcuò. 
+
 Key Vocabulary
 田径  tiánjìng  track and field
 比赛  bǐsài  competition
@@ -818,6 +836,7 @@ B:  现在没有车。
 A:  没有车也不行。现在是红灯。请遵守交通规则。
   Even when there are no cars you still can't. It's a red light now. Please abide by the traffic regulations.
   Méiyǒu chē yě bù xíng. Xiànzài shì hóngdēng. Qǐng zūnshǒu jiāotōng guīzé. 
+
 Key Vocabulary
 不要  bùyào  do not
 乱  luàn  recklessly
@@ -858,6 +877,7 @@ A:  他不请你们吃饭？
 B:  从来不请。
   He never treats.
   Cónglái bù qǐng. 
+
 Key Vocabulary
 老板  lǎobǎn  boss
 大方  dàfang  generous

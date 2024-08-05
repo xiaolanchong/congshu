@@ -310,6 +310,7 @@ B:  不知道。
 A:  是三角形的。
   Shì sānjiǎoxíng de. 
   It's triangular.
+
 Key Vocabulary
 宝贝  bǎobèi  baby
 球  qiú  ball
@@ -331,24 +332,24 @@ Supplementary Vocabulary
 椭圆  tuǒyuán  oval
 
 Elementary - Yang Jie's Diary: Everyone Is Dating (B0642)
-  大学里每个人都在谈恋爱。
-  Dàxué lǐ měi ge rén dōu zài tán liàn ài. 
-  Every person in the university is dating.
-  但是我们班的男生太丑了，都是书呆子。
-  Dànshì wǒmen bān de nánshēng tài chǒu le, dōu shì shūdāizi. 
-  But the boys in our class are too ugly, and are all bookworms.
-  特别是王伟。
-  Tèbié shì Wáng Wěi. 
-  Especially Wang Wei.
-  除了读书，什么都不知道。
-  Chúle dúshū, shénme dōu bù zhīdào. 
-  He doesn't know anything but studying.
-  不过李燕好像很喜欢他，每天都和他一起吃饭、看书。
-  Bùguò Lǐ Yàn hǎoxiàng hěn xǐhuan tā, měitiān dōu hé tā yīqǐ chīfàn, kànshū. 
-  But Li Yan seems to really like him. Every day she eats with him, studies with him.
-  我觉得这样太无聊了，一点都不浪漫！
-  Wǒ juéde zhèyàng tài wúliáo le, yīdiǎn dōu bù làngmàn! 
-  I feel that's so boring, not romantic at all.
+大学里每个人都在谈恋爱。
+Dàxué lǐ měi ge rén dōu zài tán liàn ài. 
+Every person in the university is dating.
+但是我们班的男生太丑了，都是书呆子。
+Dànshì wǒmen bān de nánshēng tài chǒu le, dōu shì shūdāizi. 
+But the boys in our class are too ugly, and are all bookworms.
+特别是王伟。
+Tèbié shì Wáng Wěi. 
+Especially Wang Wei.
+除了读书，什么都不知道。
+Chúle dúshū, shénme dōu bù zhīdào. 
+He doesn't know anything but studying.
+不过李燕好像很喜欢他，每天都和他一起吃饭、看书。
+Bùguò Lǐ Yàn hǎoxiàng hěn xǐhuan tā, měitiān dōu hé tā yīqǐ chīfàn, kànshū. 
+But Li Yan seems to really like him. Every day she eats with him, studies with him.
+我觉得这样太无聊了，一点都不浪漫！
+Wǒ juéde zhèyàng tài wúliáo le, yīdiǎn dōu bù làngmàn! 
+I feel that's so boring, not romantic at all.
   
 Key Vocabulary
 大学  dàxué  university
@@ -417,21 +418,21 @@ Supplementary Vocabulary
 刹车  shāchē  brake
 
 Elementary - Li Yan's Diary: Love and Italian Food (B0650)
-  今天天气很好，不过我的心情更好。
-  Jīntiān tiānqì hěn hǎo, bùguò wǒ de xīnqíng gèng hǎo. 
-  The weather is really good today, but my mood is even better.
-  因为今天王伟请我吃了意大利菜。
-  Yīnwèi jīntiān Wáng Wěi qǐng wǒ chī le Yìdàlì cài. 
-  It's because today I had Italian food with Wang Wei.
-  他真会享受，不像班里的其他男生，他们都很土。
-  Tā zhēn huì xiǎngshòu, bù xiàng bān lǐ de qítā nánshēng, tāmen dōu hěn tǔ. 
-  He really knows how to enjoy things, unlike some other boys in the class. They are all so dorky.
-  我想我开始喜欢他了，但是他好像喜欢杨洁。
-  Wǒ xiǎng wǒ kāishǐ xǐhuan tā le, dànshì tā hǎoxiàng xǐhuan Yáng Jié. 
-  I think I've started to like him, but he seems to like Yang Jie.
-  上课的时候，他总是看她。
-  Shàngkè de shíhou, tā zǒngshì kàn tā. 
-  During class he always looks at her.
+今天天气很好，不过我的心情更好。
+Jīntiān tiānqì hěn hǎo, bùguò wǒ de xīnqíng gèng hǎo. 
+The weather is really good today, but my mood is even better.
+因为今天王伟请我吃了意大利菜。
+Yīnwèi jīntiān Wáng Wěi qǐng wǒ chī le Yìdàlì cài. 
+It's because today I had Italian food with Wang Wei.
+他真会享受，不像班里的其他男生，他们都很土。
+Tā zhēn huì xiǎngshòu, bù xiàng bān lǐ de qítā nánshēng, tāmen dōu hěn tǔ. 
+He really knows how to enjoy things, unlike some other boys in the class. They are all so dorky.
+我想我开始喜欢他了，但是他好像喜欢杨洁。
+Wǒ xiǎng wǒ kāishǐ xǐhuan tā le, dànshì tā hǎoxiàng xǐhuan Yáng Jié. 
+I think I've started to like him, but he seems to like Yang Jie.
+上课的时候，他总是看她。
+Shàngkè de shíhou, tā zǒngshì kàn tā. 
+During class he always looks at her.
   
 Key Vocabulary
 天气  tiānqì  weather
@@ -496,27 +497,27 @@ Supplementary Vocabulary
 超能力  chāonénglì  superpower
 
 Elementary - Wang Wei's Diary: Food and Girls (B0659)
-  今天吃了意大利菜，又贵又难吃。
-  Jīntiān chī le Yìdàlì cài, yòu guì yòu nánchī. 
-  I had Italian food today. It was both expensive and bad.
-  真不懂为什么李燕觉得好吃。
-  Zhēn bù dǒng wèishénme Lǐ Yàn juéde hǎochī. 
-  I really don't get why Li Yan thought it was good.
-  我们最近经常在一起，我觉得她挺可爱的。
-  Wǒmen zuìjìn jīngcháng zài yīqǐ, wǒ juéde tā tǐng kěài de. 
-  Recently we're often together. I think she's quite cute.
-  不像杨洁，她太骄傲了。
-  Bù xiàng Yáng Jié, tā tài jiāoào le. 
-  She's not like Yang Jie, who's too stuck-up.
-  而且每天都穿很奇怪的衣服。
-  érqiě měitiān dōu chuān hěn qíguài de yīfu. 
-  Besides, she wears weird clothes every day.
-  我一直看她，但是看不出那些衣服哪里好看。
-  Wǒ yīzhí kàn tā, dànshì kànbuchū nàxiē yīfu nǎli hǎokàn. 
-  I'm always looking at her, but I can't see what's good about those clothes.
-  不过她真的长得挺漂亮的。
-  Bùguò tā zhēnde zhǎng de tǐng piàoliang de. 
-  But she really is rather pretty.
+今天吃了意大利菜，又贵又难吃。
+Jīntiān chī le Yìdàlì cài, yòu guì yòu nánchī. 
+I had Italian food today. It was both expensive and bad.
+真不懂为什么李燕觉得好吃。
+Zhēn bù dǒng wèishénme Lǐ Yàn juéde hǎochī. 
+I really don't get why Li Yan thought it was good.
+我们最近经常在一起，我觉得她挺可爱的。
+Wǒmen zuìjìn jīngcháng zài yīqǐ, wǒ juéde tā tǐng kěài de. 
+Recently we're often together. I think she's quite cute.
+不像杨洁，她太骄傲了。
+Bù xiàng Yáng Jié, tā tài jiāoào le. 
+She's not like Yang Jie, who's too stuck-up.
+而且每天都穿很奇怪的衣服。
+érqiě měitiān dōu chuān hěn qíguài de yīfu. 
+Besides, she wears weird clothes every day.
+我一直看她，但是看不出那些衣服哪里好看。
+Wǒ yīzhí kàn tā, dànshì kànbuchū nàxiē yīfu nǎli hǎokàn. 
+I'm always looking at her, but I can't see what's good about those clothes.
+不过她真的长得挺漂亮的。
+Bùguò tā zhēnde zhǎng de tǐng piàoliang de. 
+But she really is rather pretty.
   
 Key Vocabulary
 又......又......  yòu ... yòu ...  to be both ... and ... 
@@ -576,24 +577,24 @@ Supplementary Vocabulary
 力量  lìliàng  physical strength; power
 
 Elementary - Yang Jie's Diary: Date with a Nerd (B0670)
-  哎，马上就要考试了。我死定了！
-  āi, mǎshàng jiù yào kǎoshì le. Wǒ sǐdìng le! 
-  Ah, it's almost time for exams. I'm dead!
-  好多东西我都不懂。
-  Hǎo duō dōngxi wǒ dōu bù dǒng. 
-  I don't understand so many things.
-  没想到，王伟说他可以帮我复习。
-  Méixiǎngdào, Wáng Wěi shuō tā kěyǐ bāng wǒ fùxí. 
-  I never imagined Wang Wei would offer to help me review.
-  他约我明天去图书馆。
-  Tā yuē wǒ míngtiān qù túshūguǎn. 
-  He asked me to go to the library tomorrow.
-  呵呵，认识一个书呆子还是挺有用的！
-  Hēhē, rènshi yī ge shūdāizi háishi tǐng yǒuyòng de! 
-  Heh heh, it can be quite useful, knowing a nerd!
-  他虽然很土，但是人挺好的。
-  Tā suīrán hěn tǔ, dànshì rén tǐng hǎo de. 
-  He's not very cool, but he's a good guy.
+哎，马上就要考试了。我死定了！
+āi, mǎshàng jiù yào kǎoshì le. Wǒ sǐdìng le! 
+Ah, it's almost time for exams. I'm dead!
+好多东西我都不懂。
+Hǎo duō dōngxi wǒ dōu bù dǒng. 
+I don't understand so many things.
+没想到，王伟说他可以帮我复习。
+Méixiǎngdào, Wáng Wěi shuō tā kěyǐ bāng wǒ fùxí. 
+I never imagined Wang Wei would offer to help me review.
+他约我明天去图书馆。
+Tā yuē wǒ míngtiān qù túshūguǎn. 
+He asked me to go to the library tomorrow.
+呵呵，认识一个书呆子还是挺有用的！
+Hēhē, rènshi yī ge shūdāizi háishi tǐng yǒuyòng de! 
+Heh heh, it can be quite useful, knowing a nerd!
+他虽然很土，但是人挺好的。
+Tā suīrán hěn tǔ, dànshì rén tǐng hǎo de. 
+He's not very cool, but he's a good guy.
   
 Key Vocabulary
 马上  mǎshàng  right away
@@ -631,6 +632,7 @@ B:  是啊。每个动作都很优美。
 A:  她们肯定练了很久。
   Tāmen kěndìng liàn le hěn jiǔ. 
   They've definitely been practicing for a long time.
+
 Key Vocabulary
 体操  tǐcāo  gymnastics
 比赛  bǐsài  competition
@@ -655,21 +657,22 @@ Supplementary Vocabulary
 吊环  diàohuán  flying rings
 
 Elementary - New York City (B0679)
-  纽约、纽约。纽约是大苹果，一看就想咬一口。
-  Niǔyuē, Niǔyuē. Niǔyuē shì dà píngguǒ, yī kàn jiù xiǎng yǎo yī kǒu. 
-  New York, New York. New York is the Big Apple, and as soon as you see it you just want to take a big bite.
-  在纽约，时间、钱、眼睛总是不够用。
-  Zài Niǔyuē, shíjiān, qián, yǎnjing zǒngshì bù gòuyòng. 
-  In New York, your time, money, and eyes are never enough.
-  很多人说，纽约是世界上最棒的城市。
-  Hěn duō rén shuō, Niǔyuē shì shìjièshàng zuì bàng de chéngshì. 
-  Many people say that New York is the greatest city in the world.
-  那里有各种各样的文化。
-  Nàli yǒu gèzhǒnggèyàng de wénhuà. 
-  There are all kinds of cultures there.
-  刚到纽约的人，都能叫自己“纽约客”。
-  Gāng dào Niǔyuē de rén, dōu néng jiào zìjǐ " Niǔyuēkè ". 
-  People who have just arrived in New York can all call themselves "New Yorkers."
+纽约、纽约。纽约是大苹果，一看就想咬一口。
+Niǔyuē, Niǔyuē. Niǔyuē shì dà píngguǒ, yī kàn jiù xiǎng yǎo yī kǒu. 
+New York, New York. New York is the Big Apple, and as soon as you see it you just want to take a big bite.
+在纽约，时间、钱、眼睛总是不够用。
+Zài Niǔyuē, shíjiān, qián, yǎnjing zǒngshì bù gòuyòng. 
+In New York, your time, money, and eyes are never enough.
+很多人说，纽约是世界上最棒的城市。
+Hěn duō rén shuō, Niǔyuē shì shìjièshàng zuì bàng de chéngshì. 
+Many people say that New York is the greatest city in the world.
+那里有各种各样的文化。
+Nàli yǒu gèzhǒnggèyàng de wénhuà. 
+There are all kinds of cultures there.
+刚到纽约的人，都能叫自己“纽约客”。
+Gāng dào Niǔyuē de rén, dōu néng jiào zìjǐ " Niǔyuēkè ". 
+People who have just arrived in New York can all call themselves "New Yorkers."
+  
 Key Vocabulary
 纽约  Niǔyuē  New York
 咬  yǎo  to bite
@@ -718,6 +721,7 @@ B:  是啊，我是你的好朋友。你看，我的鼻子是红的！
 C:  你是坏人！走开！走开！
   Nǐ shì huàirén! Zǒukāi! Zǒukāi! 
   You're a bad guy! Go away! Go away!
+  
 Key Vocabulary
 怪物  guàiwu  monster
 怕  pà  afraid
@@ -738,27 +742,28 @@ Supplementary Vocabulary
 看马戏  kàn mǎxì  to watch the circus
 
 Elementary - Li Yan's Diary: More and More (B0689)
-  我越来越喜欢王伟了。
-  Wǒ yuèláiyuè xǐhuan Wáng Wěi le. 
-  I like Wang Wei more and more.
-  我们最近经常在一起。
-  Wǒmen zuìjìn jīngcháng zài yīqǐ. 
-  Lately we're often together.
-  除了读书，我们还一起吃饭、看电影。
-  Chúle dúshū, wǒmen hái yīqǐ chīfàn, kàn diànyǐng. 
-  Besides studying, we also eat and watch movies together.
-  跟我在一起的时候他不太说话。
-  Gēn wǒ zài yīqǐ de shíhou tā bù tài shuōhuà. 
-  When he's with me he doesn't talk much.
-  大概是因为喜欢我，所以很害羞。
-  Dàgài shì yīnwèi xǐhuan wǒ, suǒyǐ hěn hàixiū. 
-  It's probably because he likes me, so he's shy.
-  他以前肯定没有女朋友。
-  Tā yǐqián kěndìng méiyǒu nǚpéngyou. 
-  He's definitely never had a girlfriend before.
-  我喜欢这样的男生。
-  Wǒ xǐhuan zhèyàng de nánshēng. 
-  I like this kind of boy.
+我越来越喜欢王伟了。
+Wǒ yuèláiyuè xǐhuan Wáng Wěi le. 
+I like Wang Wei more and more.
+我们最近经常在一起。
+Wǒmen zuìjìn jīngcháng zài yīqǐ. 
+Lately we're often together.
+除了读书，我们还一起吃饭、看电影。
+Chúle dúshū, wǒmen hái yīqǐ chīfàn, kàn diànyǐng. 
+Besides studying, we also eat and watch movies together.
+跟我在一起的时候他不太说话。
+Gēn wǒ zài yīqǐ de shíhou tā bù tài shuōhuà. 
+When he's with me he doesn't talk much.
+大概是因为喜欢我，所以很害羞。
+Dàgài shì yīnwèi xǐhuan wǒ, suǒyǐ hěn hàixiū. 
+It's probably because he likes me, so he's shy.
+他以前肯定没有女朋友。
+Tā yǐqián kěndìng méiyǒu nǚpéngyou. 
+He's definitely never had a girlfriend before.
+我喜欢这样的男生。
+Wǒ xǐhuan zhèyàng de nánshēng. 
+I like this kind of boy.
+  
 Key Vocabulary
 越来越  yuèláiyuè  more and more
 最近  zuìjìn  lately
@@ -822,27 +827,27 @@ Supplementary Vocabulary
 创口贴  chuāngkǒutiē  bandage
 
 Elementary - Wang Wei's Diary: The Importance of Brains (B0698)
-  我希望每天考试！
-  wǒ xīwàng měitiān kǎoshì! 
-  I wish there were a test every day!
-  因为考试前，每个人都想跟我做朋友。
-  yīnwèi kǎoshì qián, měige rén dōu xiǎng gēn wǒ zuò péngyou. 
-  It's because before a test, everyone wants to be my friend.
-  所以最重要的是头脑。
-  suǒyǐ zuì zhòngyào de shì tóunǎo. 
-  That's why one's brain is most important.
-  杨洁以前不理我，现在她每天发短信给我。
-  Yáng Jié yǐqián bù lǐ wǒ, xiànzài tā měitiān fā duǎnxìn gěi wǒ. 
-  Yang Jie ignored me before, and now she texts me every day.
-  哎，不考试的时候，只有李燕陪我。
-  āi, bù kǎoshì de shíhou, zhǐyǒu Lǐ Yàn péi wǒ. 
-  Ah, when there was no test, only Li Yan would spend time with me.
-  她好像很喜欢我。
-  tā hǎoxiàng hěn xǐhuan wǒ. 
-  She seems to really like me.
-  但是我对她没感觉。
-  dànshì wǒ duì tā méi gǎnjué. 
-  But I don't have any feelings for her.
+我希望每天考试！
+wǒ xīwàng měitiān kǎoshì! 
+I wish there were a test every day!
+因为考试前，每个人都想跟我做朋友。
+yīnwèi kǎoshì qián, měige rén dōu xiǎng gēn wǒ zuò péngyou. 
+It's because before a test, everyone wants to be my friend.
+所以最重要的是头脑。
+suǒyǐ zuì zhòngyào de shì tóunǎo. 
+That's why one's brain is most important.
+杨洁以前不理我，现在她每天发短信给我。
+Yáng Jié yǐqián bù lǐ wǒ, xiànzài tā měitiān fā duǎnxìn gěi wǒ. 
+Yang Jie ignored me before, and now she texts me every day.
+哎，不考试的时候，只有李燕陪我。
+āi, bù kǎoshì de shíhou, zhǐyǒu Lǐ Yàn péi wǒ. 
+Ah, when there was no test, only Li Yan would spend time with me.
+她好像很喜欢我。
+tā hǎoxiàng hěn xǐhuan wǒ. 
+She seems to really like me.
+但是我对她没感觉。
+dànshì wǒ duì tā méi gǎnjué. 
+But I don't have any feelings for her.
   
 Key Vocabulary
 希望  xīwàng  to wish

@@ -17,50 +17,35 @@ It’s hard to say.
 
 Vocabulary
 可以   kěyǐ   can
-
 买   mǎi   to buy
-
 火车票   huǒchēpiào   train ticket
-
 火车   huǒchē   train
-
 火车站   huǒchēzhàn   train station
-
 北京   Běijīng   Beijing
-
 必须   bìxū   must
-
 票   piào   ticket
-
 难   nán   difficult
-
 难说   nánshuō   difficult to say
-
 硬卧   yìngwò   hard sleeper (on a train)
-
 软卧   ruǎnwò   soft sleeper (of a railroad)
-
 硬座   yìngzuò   hard seats (on trains)
-
 软座   ruǎnzuò   soft seat/berth (on trains)
-
 往返票   wǎngfǎn piào   roundtrip ticket
-
 靠窗   kào chuāng   closed to the window
 
 Newbie - Baby Talk: Words of Comfort (A0108)
-  宝宝别哭。
-  Bǎobao bié kū. 
-  Baby don't cry.
-  宝宝别怕。
-  Bǎobao bié pà. 
-  Baby don’t be afraid.
-  爸爸妈妈在这里。
-  Bàba māma zài zhèlǐ. 
-  Daddy and Mommy are here.
-  爸爸妈妈喜欢你。
-  Bàba māma xǐhuan nǐ. 
-  Daddy and Mommy like you.
+宝宝别哭。
+Bǎobao bié kū. 
+Baby don't cry.
+宝宝别怕。
+Bǎobao bié pà. 
+Baby don’t be afraid.
+爸爸妈妈在这里。
+Bàba māma zài zhèlǐ. 
+Daddy and Mommy are here.
+爸爸妈妈喜欢你。
+Bàba māma xǐhuan nǐ. 
+Daddy and Mommy like you.
 
 Newbie - Singing Ability (A0109)
 A:  你的女儿歌唱得很好。
@@ -95,27 +80,16 @@ Not really. It’s pretty boring.
 
 Vocabulary
 专业   zhuānyè   major
-
 喜欢   xǐhuan   to like
-
 不怎么   bù zěnme   not very
-
 挺   tǐng   very
-
 无聊   wúliáo   boring
-
 金融   jīnróng   finance
-
 电子商务   diànzǐ shāngwù   E-commerce
-
 喜欢   xǐhuan   like
-
 计算机   jìsuànjī   computer
-
 有趣   yǒuqù   funny
-
 有用   yǒuyòng   useful
-
 教育   jiàoyù   education
 
 Newbie - Talking about Your Hometown (A0113)
@@ -137,27 +111,16 @@ Beijing is a good place.
 
 Vocabulary
 老家   lǎojiā   native place
-
 从   cóng   from
-
 乡下   xiāngxià   country
-
 在   zài   at
-
 地方   dìfang   place
-
 家乡   jiāxiāng   home
-
 以前   yǐqián   before
-
 住在   zhùzài   to live in
-
 农村   nóngcūn   countryside
-
 城市   chéngshì   city
-
 出国   chūguó   to leave the country
-
 回国   huíguó   to return home
 
 Newbie - You Look Nervous (A0117)
@@ -205,37 +168,21 @@ With my girlfriend.
 
 Vocabulary
 经常   jīngcháng   often
-
 上网   shàngwǎng   to go online
-
 聊天   liáotiān   chat
-
 每天   měitiān   every day
-
 和   hé   with
-
 谁   shéi   who
-
 女朋友   nǚpéngyou   girlfriend
-
 玩游戏   wán yóuxì   to play games
-
 看电影   kàn diànyǐng   to watch films
-
 查资料   chá zīliào   
-
 学习   xuéxí   to learn
-
 上线   shàngxiàn   to be online
-
 下线   xiàxiàn   to be offline
-
 男朋友   nánpéngyou   boyfriend
-
 同学   tóngxué   classmate
-
 同事   tóngshì   colleague
-
 家人   jiārén   family members
 
 Newbie - Drive faster! (A0121)
@@ -257,37 +204,21 @@ I understand.
 
 Vocabulary
 师傅   shīfu   master (driver)
-
 开   kāi   to drive
-
 快   kuài   fast
-
 一点   yīdiǎn   a bit
-
 赶时间   gǎn shíjiān   to be in a hurry
-
 如果   rúguǒ   if
-
 迟到   chídào   to arrive late
-
 会   huì   will
-
 被   bèi   /
-
 扣   kòu   to dock
-
 薪水   xīnshuǐ   salary
-
 明白   míngbai   to understand
-
 超速   chāosù   exceed the speed limit
-
 闯红灯   chuǎng hóngdēng   to run or drive through a red light
-
 罚款   fákuǎn   to fine
-
 抄近路   chāo jìnlù   to take a short cut
-
 高架公路   gāojià gōnglù   overhead road
 
 Newbie - What time is it? (A0122)
@@ -309,33 +240,19 @@ I’m in a hurry.
 
 Vocabulary
 现在   xiànzài   now
-
 几点   jǐ diǎn   what time
-
 太   tài   too
-
 晚   wǎn   late
-
 还   hái   still
-
 早   zǎo   early
-
 赶时间   gǎn shíjiān   in a hurry
-
 星期几   xīngqī jǐ   which day of the week
-
 早上   zǎoshang   early morning
-
 上午   shàngwǔ   morning
-
 中午   zhōngwǔ   noon
-
 下午   xiàwǔ   afternoon
-
 晚上   wǎnshang   evening
-
 来不及   láibují   lacking enough time to
-
 迟到   chídào   to arrive late
 
 Newbie - Too Polite (A0124)
@@ -357,27 +274,16 @@ It's no trouble at all. Let's go.
 
 Vocabulary
 太   tài   too
-
 晚   wǎn   late
-
 想   xiǎng   to like to
-
 走   zǒu   to leave
-
 送   sòng   to send
-
 回家   huíjiā   to go home
-
 麻烦   máfan   troublesome
-
 欢迎   huānyíng   welcome
-
 别拘束   bié jūshù   make yourself at home
-
 请随便吃   qǐng suíbiàn chī   Help yourself to the food
-
 多吃一点   duō chī yīdiǎn   to eat a little more
-
 走好   zǒuhǎo   Goodbye. Take care.
 
 Newbie - Baby Talk: Be good! (A0126)
@@ -403,29 +309,17 @@ Baby, be careful.
 
 Vocabulary
 宝宝   bǎobao   baby
-
 乖   guāi   well-behaved
-
 别   bié   do not be
-
 淘气   táoqì   naughty
-
 过来   guòlai   to come over
-
 碰   pèng   to touch
-
 那个   nàge   that
-
 可爱   kěài   cute
-
 调皮   tiáopí   naughty
-
 喝   hē   drink
-
 看   kàn   look
-
 哭   kū   cry
-
 吵   chǎo   noisy
 
 Newbie - Your Receipt (A0128)
@@ -447,27 +341,16 @@ Thanks.
 
 Vocabulary
 一共   yígòng   all together
-
 是   shì   to be
-
 给   gěi   to give
-
 发票   fāpiào   receipt
-
 这   zhè   this
-
 买   mǎi   to buy
-
 东西   dōngxi   thing
-
 结帐   jiézhàng   check-out
-
 总共   zǒnggòng   altogether
-
 找钱   zhǎoqián   to give change
-
 开发票   kāifāpiào   to write a receipt
-
 开药   kāiyào   to write out a prescription
 
 Newbie - I don't feel well (A0130)
@@ -489,33 +372,19 @@ Because I ate too much for lunch.
 
 Vocabulary
 看起来   kàn qǐlai   to look
-
 不舒服   bù shūfu   uncomfortable
-
 胃   wèi   stomach
-
 怎么会   zěnme huì   how could that be
-
 因为   yīnwèi   because
-
 午饭   wǔfàn   lunch
-
 吃   chī   to eat
-
 太   tài   too
-
 多   duō   much
-
 饱   bǎo   full
-
 饿   è   hungry
-
 痛   tòng   ache
-
 休息   xiūxī   have a rest
-
 医院   yīyuàn   hospital
-
 喝   hē   drink
 
 Newbie - Downloading Music (A0133)
@@ -537,31 +406,18 @@ It’s not very expensive. You should try it.
 
 Vocabulary
 怎么   zěnme   how
-
 从   cóng   from
-
 网上   wǎngshàng   the internet
-
 下载   xiàzài   to download
-
 音乐   yīnyuè   music
-
 钱   qián   money
-
 贵   guì   expensive
-
 应该   yīnggāi   should
-
 网站   wǎngzhàn   website
-
 免费   miǎnfèi   free
-
 在线   zàixiàn   online
-
 播放   bōfàng   play
-
 便宜   piányi   cheap
-
 方便   fāngbiàn   convenient
 
 Newbie - You're late again! (A0134)
@@ -593,3 +449,653 @@ Supplementary Vocabulary
 早退  zǎotuì  leave early from work
 半个小时  bànge xiǎoshí  half an hour
 一个半小时  yīgebàn xiǎoshí  one and a half hours
+
+Newbie - It's broken (A0136)
+对不起，我能借你的手机吗？
+duìbuqǐ ，wǒ néng jiè nǐ de shǒujī ma ？
+Excuse me. Can I borrow your mobile phone?
+
+你没有手机吗？
+nǐ méiyǒu shǒujī ma ？
+Don’t you have a mobile phone?
+
+有。但是我的手机坏了。
+yǒu 。dànshì wǒ de shǒujī huài le 。
+Yes I do, but my mobile phone is broken.
+
+那你用我的手机吧。
+nà nǐ yòng wǒ de shǒujī ba 。
+Then use my mobile phone.
+
+Vocabulary
+借   jiè   to borrow
+能   néng   can
+用   yòng   to use
+坏了   huài le   broken
+吧   ba   (a suggestive particle)
+词典   cídiǎn   dictionary
+借出去了   jièchūqù le   to have lent out
+没电了   méidiàn le   the battery has run down
+充电   chōngdiàn   charge (a battery)
+还   huán   to return
+
+Newbie - Definitely! (A0138)
+你明天一定来我家玩吗？
+nǐ míngtiān yīdìng lái wǒ jiā wán ma ？
+Tomorrow are you definitely coming to my house to hang out?
+
+我一定来。
+wǒ yīdìng lái 。
+I’m definitely coming.
+
+明天下午五点钟。
+míngtiān xiàwǔ wǔdiǎnzhōng 。
+Five o’clock tomorrow afternoon.
+
+好的。明天见。
+hǎo de 。míngtiān jiàn 。
+OK, see you tomorrow.
+
+Vocabulary
+明天   míngtiān   tomorrow
+一定   yīdìng   certainly
+来   lái   to come to
+下午   xiàwǔ   afternoon
+五点钟   wǔdiǎnzhōng   at 5 o'clock
+明天见   míngtiān jiàn   see you tomorrow
+后天   hòutiān   the day after tomorrow
+下个月   xià ge yuè   next month
+上个月   shàng ge yuè   last month
+昨天   zuótiān   yesteday
+今天   jīntiān   today
+去年   qùnián   last year
+明年   míngnián   next year
+
+Newbie - Baby Talk: Praise (A0140)
+宝宝，你是一个聪明的孩子。
+bǎobao ，nǐ shì yī ge cōngming de háizi 。
+Baby, you are a smart child.
+
+宝宝，你是一个听话的孩子。
+bǎobao ，nǐ shì yī ge tīnghuà de háizi 。
+Baby, you are an obedient child.
+
+宝宝，你是一个好孩子。
+bǎobao ，nǐ shì yī ge hǎo háizi 。
+Baby, you are a good child.
+
+宝宝，你真可爱。
+bǎobao ，nǐ zhēn kěài 。
+Baby, you are really cute.
+
+Vocabulary
+宝宝   bǎobao   baby
+是   shì   to be
+聪明   cōngming   intelligent
+听话   tīnghuà   obedient
+真   zhēn   really
+可爱   kěài   lovable;cute;lovely
+乖   guāi   well-behaved
+调皮   tiáopí   naughty
+淘气   táoqì   naughty
+捣蛋   dǎodàn   to make trouble
+坏   huài   bad
+
+Newbie - How are you? (A0142)
+早上好！
+zǎoshàng hǎo ！
+Good morning!
+
+嘿！你好吗？
+hāi ！nǐ hǎo ma ？
+Hi! How are you?
+
+我很好，谢谢。
+wǒ hěn hǎo ，xièxie 。
+I’m very good. Thanks.
+
+Vocabulary
+早上好   zǎoshàng hǎo   good morning
+早上   zǎoshang /   
+好   hǎo   good
+嘿   hāi   hey
+你好吗   nǐ hǎo ma   how are you
+我   wǒ   I
+很   hěn   very
+谢谢   xièxie   to thank
+最近   zuìjìn   recently
+怎么样   zěnmeyàng   how about
+不错   bùcuò   not bad
+马马虎虎   mǎmāhūhu   just OK
+工作   gōngzuò   work
+学习   xuéxí   study
+
+Newbie - Baby Talk: Eat up! (A0145)
+宝宝，吃这个，这个很好吃。
+bǎobao ，chī zhège ，zhège hěn hǎochī 。
+Baby, eat this. This is very delicious.
+
+宝宝，不要吃那个。
+bǎobao ，bùyào chī nàge 。
+Baby, don’t eat that.
+
+宝宝，要不要吃这个？
+bǎobao ，yào buyào chī zhège ？
+Baby, do you want to eat this?
+
+宝宝，不要吃那个。那个对你不好。
+bǎobao ，bùyào chī nàge 。nàge duì nǐ bù hǎo 。
+Baby, don’t eat that. It’s not good for you.
+
+Vocabulary
+这个   zhège   this
+那个   nàge   that one
+吃   chī   to eat
+不要   bùyào   do not
+要不要   yào buyào   want or not want
+好吃   hǎochī   tasty
+对……   duì...   to..., for…
+香   xiāng   fragrant
+甜   tián   sweet
+酸   suān   sour
+苦   kǔ   bitterly
+辣   là   hot spicy
+难吃   nánchī   unpalatable
+没营养   méi yíngyǎng   not to have nutrition
+垃圾食品   lājī shípǐn   garbage foodstuff
+不卫生   bù wèishēng   unhealthy
+脏   zàng   dirty
+喝   hē   to drink
+好喝   hǎohē   delicious
+难喝   nánhē   
+
+Newbie - I miss you! (A0147)
+喂，妈妈，是我。
+wéi ，māma ，shì wǒ 。
+Hi, Mom. It’s me.
+
+啊，是你，杰克。你好吗？
+à ，shì nǐ ，Jiékè 。nǐ hǎo ma ？
+Ah! It’s you, Jack. How are you?
+
+我很好，妈妈。但是我很想你。
+wǒ hěn hǎo ，māma 。dànshì wǒ hěn xiǎng nǐ 。
+I’m very good, Mom. But I miss you very much.
+
+Vocabulary
+喂   wéi   hello(on the phone only)
+是   shì   to be
+很   hěn   very
+好   hǎo   good
+但是   dànshì   but
+想   xiǎng   to miss
+想念   xiǎngniàn   miss sth. or sb.
+谁   shéi   who
+高兴   gāoxìng   happy
+身体   shēntǐ   body
+最近   zuìjìn   recently
+怎么样   zěnmeyàng   how about
+
+Newbie - What's his name? (A0150)
+他叫什么名字？
+tā jiào shénme míngzi ？
+What’s his name?
+
+他叫王平。
+tā jiào Wáng Píng 。
+His name is Wang Ping.
+
+他有哥哥吗？
+tā yǒu gēge ma ？
+Does he have any older brothers?
+
+有。他有一个哥哥。
+yǒu 。tā yǒu yī ge gēge 。
+Yes. He has an older brother.
+
+Vocabulary
+他   tā   he
+叫   jiào   to be called
+什么   shénme   what
+名字   míngzi   name
+有   yǒu   to have
+哥哥   gēge   elder brother
+个   ge   (common measure word)
+弟弟   dìdi   younger brother
+姐姐   jiějie   older sister
+妹妹   mèimei   younger sister
+兄弟   xiōngdì   brothers
+姐妹   jiěmèi   sisters
+兄妹   xiōngmèi   elder brother and younger sister
+姐弟   jiědì    older sister and younger brother
+
+Newbie - She went out (A0152)
+喂，请问张小姐在吗？
+wèi ，qǐng wèn Zhāng Xiǎojie zài ma ？
+Hello, is Miss Zhang in?
+
+对不起，她不在。
+duìbuqǐ ，tā bù zài 。
+Sorry, she is not in.
+
+她出去了吗？
+tā chūqù le ma ？
+Is she out?
+
+对，她出去了。
+duì ，tā chūqù le 。
+Yes, she is out.
+
+Vocabulary
+喂   wèi   hello
+请问   qǐng wèn   may I ask
+在   zài   to be there
+出去   chūqù   to go out
+对   duì   right
+吗   ma   question marker
+回来   huílai   return
+接电话   jiē diànhuà   answer the phone
+回电话   huí diànhuà   call back
+电话号码   diànhuà hàomǎ   phone number
+手机号码   shǒujī hàomǎ   mobile phone number
+
+Newbie - I like beef (A0155)
+你喜欢吃什么？
+nǐ xǐhuan chī shénme ？
+What do you like to eat?
+
+我喜欢吃牛肉，你呢？
+wǒ xǐhuan chī niúròu ，nǐ ne ？
+I like to eat beef. And you?
+
+我喜欢吃鱼。
+wǒ xǐhuan chī yú 。
+I like to eat fish.
+
+是吗？我也是！
+shì ma ？wǒ yě shì ！
+Really? Me too!
+
+Vocabulary
+喜欢   xǐhuan   to like
+吃   chī   to eat
+牛肉   niúròu   beef
+你呢   nǐ ne   what about you?
+也   yě   also
+鸡肉   jīròu   chicken
+鸭肉   yāròu   duck meat
+羊肉   yángròu   mutton
+狗肉   gǒuròu   dog meat
+猪肉   zhūròu   pork
+蔬菜   shūcài   vegetables
+水果   shuǐguǒ   fruit
+
+Newbie - World Cup Football Terms (A0159)
+世界杯
+shìjièbēi 
+World Cup
+
+加油
+jiāyóu 
+Come on
+
+好球
+hǎoqiú 
+Good shot
+
+臭球
+chòuqiú 
+Bad shot
+
+黑哨
+hēishào 
+Black whistle
+
+Vocabulary
+世界杯   shìjièbēi   World Cup
+加油   jiāyóu   to add effort
+好球   hǎoqiú   good shot
+臭球   chòuqiú   bad shot
+黑哨   hēishào   biased referee
+开幕式   kāimùshì   opening ceremony
+闭幕式   bìmùshì   closing ceremony
+东道主   dōngdàozhǔ   host
+卫冕   wèimiǎn   defend a title
+冠军   guànjūn   champion
+点球   diǎnqiú   penalty kick
+黑马   hēimǎ   black horse
+加时赛   jiāshísài   overtime(OT)
+
+Newbie - Where's the bathroom? (A0163)
+请问洗手间在哪里？
+qǐng wèn xǐshǒujiān zài nǎli ？
+Excuse me, where is the washroom?
+
+在二楼。
+zài èrlóu 。
+It’s on the second floor.
+
+谢谢。
+xièxie 。
+Thank you.
+
+不用谢。
+bùyòng xiè 。
+Not at all.
+
+Vocabulary
+请问   qǐng wèn   may I ask
+洗手间   xǐshǒujiān   washroom
+在   zài   at
+哪里   nǎli   where
+二楼   èrlóu   second floor
+谢谢   xièxie   thank you
+不用谢   bùyòngxiè   You're welcome.
+公用电话   gōngyòng diànhuà   public telephone
+银行   yínháng   bank
+邮局   yóujú   post office
+公共厕所   gōnggòng cèsuǒ   public toilet
+自动取款机   zìdòng qǔkuǎnjī   automatic cash-withdrawal machine
+电梯   diàntī   elevator
+
+Newbie - Allergies (A0165)
+对不起……
+duìbuqì ......
+I’m sorry…
+
+怎么了？
+zěnme le ？
+What’s the matter?
+
+我对猫过敏。
+wǒ duì māo guòmǐn 。
+I am allergic to cats.
+
+哦，对不起，我不知道。
+ō ，duìbuqì ，wǒ bù bù zhīdào 。
+Oh, sorry, I didn’t know.
+
+Vocabulary
+对不起   duìbuqì   I'm sorry
+怎么了   zěnme le   what's wrong
+对   duì   towards
+猫   māo   cats
+过敏   guòmǐn   to be allergic
+知道   zhīdào   know
+毛   máo   hair
+原谅   yuánliàng   forgive
+打针   dǎzhēn   have an injection
+严重   yánzhòng   serious
+可能   kěnéng   maybe
+
+Newbie - Finding a Seat (A0168)
+这里有人坐吗？
+zhèlǐ yǒu rén zuò ma ？
+Is anyone sitting here?
+
+没有。
+méiyǒu 。
+No.
+
+我可以坐吗？
+wǒ kěyǐ zuò ma ？
+Can I sit here?
+
+当然可以。
+dāngrán kěyǐ 。
+Yes, of course.
+
+Vocabulary
+这里   zhèlǐ   here
+有   yǒu   to have
+人   rén   person
+坐   zuò   to sit
+没有   méiyǒu   to do not have
+可以   kěyǐ   can
+当然   dāngrán   of course
+座位   zuòwèi   seat
+我的   wǒ de   my
+旁边   pángbiān   beside
+空位   kòngwèi   empty seat
+这儿   zhèr5   here
+那儿   nàr5   where
+哪儿   nǎr5   where
+那里   nàli   there
+哪里   nǎli   where
+
+Newbie - Exchanging Money (A0172)
+我想换钱。
+wǒ xiǎng huànqián 。
+I want to exchange money.
+
+换多少钱？
+huàn duōshao qián ？
+How much money would you like to exchange?
+
+一百美元。
+yībǎi měiyuán 。
+One hundred US dollars.
+
+好的。
+hǎo de 。
+All right.
+
+Vocabulary
+想   xiǎng   to want to
+换钱   huànqián   to exchange money
+换   huàn   to exchange
+多少   duōshao   how much, how many
+一百   yībǎi   100
+美元   měiyuán   American dollar
+好的   hǎo de   OK
+支票   zhīpiào   bank check
+现金   xiànjīn   cash
+美金   měijīn   American dollar
+日元   rìyuán   Japanese yen
+韩元   hányuán   Korean wan
+卢布   lúbù   rouble
+
+Newbie - Vegetarian Eating (A0175)
+你有什么东西不吃吗？
+nǐ yǒu shénme dōngxi bù chī ma ？
+Is there anything that you don’t eat?
+
+我不吃肉，我吃素。
+wǒ bù chī ròu ，wǒ chī sù 。
+I don’t eat meat. I am a vegetarian.
+
+鸡蛋呢？
+jīdàn ne ？
+What about egg?
+
+鸡蛋可以。
+jīdàn kěyǐ 。
+Egg is fine.
+
+Vocabulary
+吃   chī   to eat
+东西   dōngxi   thing
+什么   shénme   what
+有   yǒu   to have
+肉   ròu   meat
+可以   kěyǐ   can
+辣   là   hot spicy
+甜   tián   sweet
+醋   cù   vinegar
+热   rè   heat
+冰   bīng   ice
+色拉   sèlā   salad
+牛排   niúpái   steak
+熟   shú   cooked
+土豆   tǔdòu   potato
+玉米   yùmǐ   corn
+米饭   mǐfàn   cooked rice
+
+Newbie - May I take your photo? (A0180)
+A  我可以拍照片吗？
+  wǒ kěyǐ pāi zhàopiàn ma? 
+  May I take a photo?
+B  可以。
+  kěyǐ. 
+  Sure.
+A  说茄子!
+  shuō qiézi! 
+  Say ‘cheese’!
+B  茄子!
+  qiézi! 
+  Cheese!
+  
+Key Vocabulary
+可以  kěyǐ  may
+拍  pāi  to take
+照片  zhàopiàn  photo
+说  shuō  to say
+茄子  qiézi  eggplant
+
+Supplementary Vocabulary
+照相机  zhàoxiàngjī  camera
+数码相机  shùmǎxiàngjī  digital camera
+清楚  qīngchu  clear
+胶卷  jiāojuǎn  film
+洗照片  xǐ zhàopiàn  to develop film
+底片  dǐpiàn  negatives
+相纸  xiàngzhǐ  photographic paper
+相框  xiàngkuāng  picture frame
+相册  xiàngcè  photo album
+禁止  jìnzhǐ  ban
+拍照  pāizhào  to take a picture
+
+Newbie - Finding a Cheap Hostel (A0184)
+我想找便宜的旅馆。
+wǒ xiǎng zhǎo piányi de lǚguǎn 。
+I’d like to find a cheap hostel.
+
+多少钱？
+duōshǎo qián ？
+How much?
+
+100元一天。
+yībǎi yuán yī tiān 。
+One hundred yuan per day.
+
+好的。
+hǎo de 。
+OK.
+
+Vocabulary
+想   xiǎng   would like to
+找   zhǎo   to try to find
+便宜   piányi   cheap
+旅馆   lǚguǎn   hotel
+多少   duōshǎo   how much, how many
+钱   qián   money
+100元   yībǎi yuán   100 yuan
+一   yī   1
+天   tiān   day
+旅店   lǚdiàn   hostel (usually cheap)
+旅馆   lǚguǎn   hostel (usually cheap)
+酒店   jiǔdiàn   hotel, restaurant
+宾馆   bīnguǎn   hotel (usually expensive)
+招待所   zhāodàisuǒ   hostel (usually cheap)
+要求   yāoqiú   demand, request
+服务   fúwù   service
+交通   jiāotōng   traffic
+方便   fāngbiàn   convenient
+环境   huánjìng   environment
+高级   gāojí   high-level
+贵   guì   expensive
+预定   yùdìng   schedule in advance
+
+Newbie - Transportation (A0186)
+你怎么回家？
+nǐ zěnme huíjiā ？
+How are you going home?
+
+我坐地铁。你呢？
+wǒ zuò dìtiě 。nǐ ne ？
+I’m taking the subway. What about you?
+
+我坐出租车。再见！
+wǒ zuò chūzūchē 。zàijiàn ！
+I’m taking a taxi. See you!
+
+再见！
+zàijiàn ！
+Bye!
+
+Vocabulary
+怎么   zěnme   how
+回家   huíjiā   to go home
+坐   zuò   to ride
+地铁   dìtiě   subway
+出租车   chūzūchē   taxi
+火车   huǒchē   train
+飞机   fēijī   airplane
+轮船   lúnchuán   ship
+磁悬浮列车   cíxuánfú lièchē   Maglev train
+公共汽车   gōnggòngqìchē   bus
+自行车   zìxíngchē   bicycle
+乘   chéng   by(train, bus, plane, subway…)
+骑   qí   to ride(a bike)
+打的   dǎdī   by a taxi
+走路   zǒulù   to walk
+开车   kāichē   to drive a car
+轮滑   lúnhuá   rollerskating
+
+Newbie - Using a Credit Card (A0191)
+您好。现金还是刷卡？
+nínhǎo 。xiànjīn háishi shuākǎ ？
+Hello, are you using cash or credit card?
+
+刷卡。
+shuākǎ 。
+Credit card.
+
+请签字。
+qǐng qiānzì 。
+Please sign.
+
+好的。
+hǎo de 。
+OK.
+
+Vocabulary
+您好   nínhǎo   hello
+现金   xiànjīn   cash
+还是   háishi   or
+刷卡   shuākǎ   to use a card (including credit card, commuter card, etc.)
+签字   qiānzì   to sign
+好的   hǎo de   OK
+用   yòng   to use
+付   fù   to pay
+用现金付   yòng xiànjīn fù   to pay in cash
+付现金   fù xiànjīn   to pay in cash
+信用卡   xìnyòngkǎ   credit card
+拿好   ná hǎo   hold well
+
+Newbie - How do you say...? (A0196)
+"Fruit"中文怎么说？
+"Fruit"Zhōngwén zěnme shuō ？
+How do I say "fruit" in Chinese?
+
+"水果"。"蔬菜"英文怎么说？
+"shuǐguǒ "。"shūcài "yīngwén zěnme shuō ？
+"Shuiguo". How do I say "shucai" in English?
+
+"Vegetable"。
+"Vegetable"。
+"Vegetable".
+
+Vocabulary
+中文   Zhōngwén   Chinese
+怎么   zěnme   how
+说   shuō   to say
+水果   shuǐguǒ   fruit
+蔬菜   shūcài   vegetable
+英文   yīngwén   English
+用   yòng   to use
+用中文怎么说   yòng Zhōngwén zěnme shuō   how do you say ... in Chinese
+翻译   fānyì   to translate
+意思   yìsi   meaning
+不知道   bù zhīdào   not to know
+

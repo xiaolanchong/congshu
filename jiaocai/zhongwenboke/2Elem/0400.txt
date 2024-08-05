@@ -332,18 +332,18 @@ Vocabulary
 与我无关   yǔ wǒ wúguān   It's none of my business.
 
 Elementary - The Monks in the Temple on the Mountain (B0441)
-  从前有座山，山上有座庙，庙里有个老和尚和小和尚。
-  cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
-  A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
-  老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚。
-  lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
-  The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
-  老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚。
-  lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
-  The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
-  老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚……
-  lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang...... 
-  The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk….
+从前有座山，山上有座庙，庙里有个老和尚和小和尚。
+cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
+A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
+老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚。
+lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
+The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
+老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚。
+lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang. 
+The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk.
+老和尚对小和尚说，从前有座山，山上有座庙，庙里有个老和尚和小和尚……
+lǎo héshang duì xiǎo héshang shuō, cóngqián yǒu zuò shān, shān shàng yǒu zuò miào, miào lǐ yǒu ge lǎo héshang hé xiǎo héshang...... 
+The old monk said to the young monk: A long time ago there was a mountain. On the mountain there was a temple. In the temple there was an old monk and a young monk….
   
   
 Key Vocabulary
@@ -495,27 +495,28 @@ Vocabulary
 羽毛球   yǔmáoqiú   badminton
 
 Elementary - Tone Rule: Changes for 'bu' (B0453)
-  不错
-  (bu4 + cuo4 = bu2 cuo4) not bad; pretty good
-  Bùcuò 
-  不太
-  (bu4 + tai4 = bu2 tai4) not very; not really
-  Bùtài 
-  不去
-  (bu4 + qu4 = bu2 qu4) not go
-  Bù qù 
-  不对
-  (bu4 + dui4= bu2 dui4) not right; incorrect
-  Bù duì 
-  不忙
-  (bu4 + mang4 = bu4 mang2) not busy
-  Bù máng 
-  不好
-  (bu4 + hao3 = bu4 hao3 ) not good; bad
-  Bù hǎo 
-  部队
-  army; troops
-  Bùduì 
+不错
+(bu4 + cuo4 = bu2 cuo4) not bad; pretty good
+Bùcuò 
+不太
+(bu4 + tai4 = bu2 tai4) not very; not really
+Bùtài 
+不去
+(bu4 + qu4 = bu2 qu4) not go
+Bù qù 
+不对
+(bu4 + dui4= bu2 dui4) not right; incorrect
+Bù duì 
+不忙
+(bu4 + mang4 = bu4 mang2) not busy
+Bù máng 
+不好
+(bu4 + hao3 = bu4 hao3 ) not good; bad
+Bù hǎo 
+部队
+army; troops
+Bùduì 
+  
 Key Vocabulary
 不错  bùcuò  not bad
 不太  bùtài  not too much

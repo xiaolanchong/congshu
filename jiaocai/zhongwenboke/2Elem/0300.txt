@@ -179,8 +179,7 @@ Vocabulary
 精彩   jīngcǎi   splendid; wonderful
 坚强   jiānqiáng   strong
 毅力   yìlì   willpower
-
-     
+   
 Elementary - Dinner Guest (B0326)
 你好。好久不见！
 nǐhǎo 。hǎojiǔ bùjiàn ！
@@ -225,7 +224,6 @@ Vocabulary
 心意   xīnyì   regard; kindly feeling
 空手   kōngshǒu   empty-handed; empty hands
 上座   shàngzuò   seat of honor
-
      
 Elementary - Fast Food (B0330)
 欢迎光临，请问您要些什么？
@@ -366,7 +364,6 @@ Supplementary Vocabulary
 猜猜  cāi cai  to guess
 想不起来  xiǎng bu qǐlai  can't think out
      
-
 Elementary - Dealing with Praise (B)
 A  你来中国多久了？
   ni3 lai2 Zhong1guo2 duo1jiu3 le5? 
@@ -712,7 +709,7 @@ Vocabulary
 暖和   nuǎnhuo   warm
 穿得暖和一点   chuān de nuǎnhuo yīdiǎn   dress warmly
 感冒   gǎnmào   to catch cold
-别感冒了   bié gǎnmào le   don\'t catch a cold
+别感冒了   bié gǎnmào le   don't catch a cold
 气温   qìwēn   air temperature
 低   dī   low
 降温   jiàngwēn   to cool down

@@ -1,4 +1,3 @@
-
 Elementary - My boss isn't satisfied (B0101)
 我的老板对我的工作不满意。
 wǒ de lǎobǎn duì wǒde gōngzuò bù mǎnyì 。
@@ -131,9 +130,7 @@ B  我下个月还给你。
 A  不行！我下星期就要。
   bùxíng! wǒ xiàxīngqī jiù yào. 
   No way! I need it next week.
-  
-  
-  
+
 Key Vocabulary
 上个月  shàng ge yuè  last month
 下个月  xiàgeyuè  next month

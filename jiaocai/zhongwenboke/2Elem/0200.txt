@@ -343,7 +343,7 @@ Vocabulary
 吵   chǎo   noisy
 有点吵   yǒudiǎn chǎo   a little noisy
 吵死了   chǎosǐ le   so noisy
-别   bié   don\'t
+别   bié   don't
 安静   ānjìng   quiet
 嘘   xū   Shhh
 
@@ -523,7 +523,7 @@ zěnme huì ？nǐ yīdìng xíng de ！
 How come? You can do it!
 
 Vocabulary
-怎么了   zěnme le   what\'s wrong
+怎么了   zěnme le   what's wrong
 高兴   gāoxìng   to be happy
 真   zhēn   really
 难   nán   difficult to

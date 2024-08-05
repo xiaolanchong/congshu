@@ -318,6 +318,7 @@ A  啊？一个都没了？
 B  对。
   duì. 
   Yes.
+
 Key Vocabulary
 买单  mǎidān  to pay the bill
 来  lái  to come
@@ -363,8 +364,6 @@ A  酷毙了！
   kù bì le! 
   Awesome.
   
-  
-  
 Key Vocabulary
 检查  jiǎnchá  to check
 声音  shēngyīn  sound
@@ -401,7 +400,7 @@ B  我建议用铁杆。
   wǒ jiànyì yòng tiěgān. 
   I suggest you use an iron.
 A  我知道怎么打高尔夫。 我要用木杆。
-  wǒ zhīdào zěnme dǎ gāo\\'ěrfū. wǒ yào yòng mùgān. 
+  wǒ zhīdào zěnme dǎ gāo'ěrfū. wǒ yào yòng mùgān. 
   I know how to play golf. I want the driver.
 B  好吧。
   hǎo ba. 
@@ -418,6 +417,7 @@ A  什么？
 B  没什么。
   méi shénme. 
   Nothing.
+
 Key Vocabulary
 给  gěi  to give
 木杆  mùgān  driver
@@ -461,6 +461,7 @@ A  哎，前面就有。
 B  我去买。
   wǒ qù mǎi. 
   I'll go buy some.
+
 Key Vocabulary
 海南  Hǎinán  Hainan
 一定  yīdìng  definitely
@@ -488,10 +489,10 @@ Supplementary Vocabulary
 
 Elementary - Scissors, Rock, Cloth (B0945)
 A:    你洗碗。
-  UNKNOWN xǐwǎn. 
+  nǐ xǐwǎn. 
   You wash the dishes.
 B:    你洗。
-  UNKNOWN xǐ. 
+  nǐ xǐ. 
   You wash them.
 A:    那我们石头剪刀布。
   nà wǒmen shítoujiǎndāo bù. 
@@ -503,11 +504,8 @@ A:    再来。石头、剪刀、布。
   zài lái.shítou,jiǎndāo,bù. 
   Again. Rock, scissors, cloth.
 B:    你输了！你洗碗！
-  UNKNOWN shūle ?UNKNOWN xǐwǎn? 
+  nǐ shūle? nǐ xǐwǎn? 
   You loose! You wash the dishes!
-Key Vocabulary
-
-Supplementary Vocabulary
 
 Elementary - Aussie Rules (B0948)
 A  哎，让一让！
@@ -568,9 +566,6 @@ A:    哎，前面就有。
 B:    我去买。
   wǒ qù mǎi. 
   I'll go buy some.
-Key Vocabulary
-
-Supplementary Vocabulary
 
 Elementary - Microsoft (B0952)
 A  回来了？
@@ -594,6 +589,7 @@ B  比尔盖茨，做软件的公司。
 A  哦，知道！厉害。
   ō, zhīdào! lìhai. 
   Oh, I see! Impressive.
+
 Key Vocabulary
 回来  huílái  to return
 工作  gōngzuò  to work
@@ -665,6 +661,7 @@ A  再来。石头、剪刀、布。
 B  你输了！你洗碗！
   nǐ shū le! nǐ xǐ wǎn! 
   You lose! You wash the dishes!
+
 Key Vocabulary
 洗  xǐ  to wash
 碗  wǎn  bowl
@@ -725,18 +722,19 @@ Supplementary Vocabulary
 水立方  Shuǐlìfāng  Water Cube
 
 Elementary - The Panda's Secret Wish (B0964)
-  我知道熊猫的愿望。
-  wǒ zhīdào xióngmāo de yuànwàng. 
-  Do you know the secret of the Panda?
-  它有两个愿望。
-  tā yǒu liǎng ge yuànwàng. 
-  He has two wishes:
-  一个是去掉黑眼圈儿，
-  yī ge shì qùdiào hēiyǎnquānr, 
-  One is to get rid of its black eye.
-  另一个是拍一张彩色照片儿。
-  lìng yī ge shì pāi yī zhāng cǎisè zhàopiānr. 
-  The other is to take a color photo.
+我知道熊猫的愿望。
+wǒ zhīdào xióngmāo de yuànwàng. 
+Do you know the secret of the Panda?
+它有两个愿望。
+tā yǒu liǎng ge yuànwàng. 
+He has two wishes:
+一个是去掉黑眼圈儿，
+yī ge shì qùdiào hēiyǎnquānr, 
+One is to get rid of its black eye.
+另一个是拍一张彩色照片儿。
+lìng yī ge shì pāi yī zhāng cǎisè zhàopiānr. 
+The other is to take a color photo.
+  
 Key Vocabulary
 知道  zhīdào  to know
 熊猫  xióngmāo  panda bear
@@ -853,7 +851,7 @@ C  啊！我怕狗！
   à! wǒ pà gǒu! 
   Ah! I'm afraid of dogs!
 A  别怕，它不咬人。你看，多可爱。
-  bié pà, tā bù yǎo rén. nǐ kàn, duō kě\'ài. 
+  bié pà, tā bù yǎo rén. nǐ kàn, duō kě'ài. 
   Don't be scared. He doesn't bite people. Look how cute he is.
 B  汪汪！
   wāngwāng! 
@@ -1011,4 +1009,3 @@ Supplementary Vocabulary
 玩游戏  wán yóuxì  to play a game
 未成年人  wèichéngniánrén  minor
 成年人  chéngniánrén  adult
-

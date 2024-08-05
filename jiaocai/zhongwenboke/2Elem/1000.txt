@@ -201,6 +201,7 @@ C  哟，那您得去大饭店，比如全聚德。我们这儿没有。
 B  哦，好。谢谢您！
   ō, hǎo. xièxie nín!
   Oh, OK. Thank you!
+
 Key Vocabulary
 冰糖葫芦  bīngtáng húlu  candy-coated haw on a stick
 串儿  chuànr  skewer
@@ -341,6 +342,7 @@ B  谢谢！
 C  哦哟，这么多！
   ōyo, zhème duō! 
   Oh, there's so much!
+
 Key Vocabulary
 这么  zhème  so
 行李  xíngli  luggage
@@ -466,6 +468,7 @@ A  啊？你......你多大？
 B  你猜！
   nǐ cāi! 
   Guess!
+
 Key Vocabulary
 对了  duì le  Oh, right
 属  shǔ  to belong to some zodiac sign
@@ -499,8 +502,8 @@ A  学习雷锋好榜样。
   xuéxí Léi Fēng hǎo bǎngyàng. 
   Learn from Lei Feng, the good role model.
 B  停。学习雷锋注意“学习”。来。
-  tíng. xuéxí Léi Fēng zhùyì `` xuéxí" . lái. 
-  Stop. Learn from Lei Feng -- take note of the ``learn." Again.
+  tíng. xuéxí Léi Fēng zhùyì "xuéxí" . lái. 
+  Stop. Learn from Lei Feng -- take note of the "learn." Again.
 A  学习雷锋--
   xuéxí Léi Fēng--
   Learn from Lei Feng...
@@ -511,8 +514,8 @@ A  好榜样。
   hǎo bǎngyàng. 
   Good role model.
 B  大家注意“榜样”。好榜样。再来。
-  dàjiā zhùyì `` bǎngyàng" . hǎo bǎngyàng. zài lái. 
-  Everyone pay attention to ``good model." Good role model. Once more.
+  dàjiā zhùyì "bǎngyàng" . hǎo bǎngyàng. zài lái. 
+  Everyone pay attention to "good model." Good role model. Once more.
 A  学习雷锋好榜样。
   xuéxí Léi Fēng hǎo bǎngyàng. 
   Learn from Lei Feng, the good role .
@@ -640,8 +643,8 @@ A  啊？怎么这么贵？
 B  我怎么知道？问你啊！
   wǒ zěnme zhīdào? wèn nǐ a! 
   How would I know? You tell me!
-Key Vocabulary
 
+Key Vocabulary
 电费  diànfèi  power bill
 来  lái  to come
 多少钱  duōshao qián  how much money
@@ -722,6 +725,7 @@ B  为什么？
 A  花已经死了。
   huā yǐjīng sǐ le. 
   The flowers are already dead.
+
 Key Vocabulary
 好久  hǎojiǔ  quite a while
 给  gěi  to give
@@ -796,6 +800,7 @@ A  那你买吧，我无所谓。
 B  哼，那我自己买。
   hng, nà wǒ zìjǐ mǎi. 
   Hmf. I'll get something for myself then.
+
 Key Vocabulary
 累死了  lèi sǐ le  to be exhausted
 好看  hǎokàn  good-looking
@@ -839,6 +844,7 @@ B  噢，谢谢。
 A  我的也是出租车。哎、哎！
   wǒ de yě shì chūzūchē. ài, ài! 
   Mine is also a cab! Hey, hey!
+
 Key Vocabulary
 市区  shìqū  downtown
 不用  bùyòng  need not

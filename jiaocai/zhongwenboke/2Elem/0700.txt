@@ -54,6 +54,7 @@ A  还要吃火鸡，对吗？
 B  对，还有南瓜派和土豆泥。都很好吃！
   duì, háiyǒu nánguāpài hé tǔdòuní. dōu hěn hǎochī! 
   Right, and pumpkin pie and mashed potatoes. It's all delicious!
+
 Key Vocabulary
 回  huí  to return
 回去  huíqu  to go back
@@ -96,6 +97,7 @@ A  我们可以一起去青岛看。
 B  好的。那儿的海很漂亮。
   hǎo de. nàr de hǎi hěn piàoliang. 
   Sure. The ocean is really beautiful there.
+
 Key Vocabulary
 帆船  fānchuán  sailing
 举行  jǔxíng  to hold
@@ -137,6 +139,7 @@ A  裤子拉链没拉。
 B  噢。
   ō. 
   Oh.
+
 Key Vocabulary
 系  jì  to tie
 鞋带  xiédài  shoelace
@@ -159,21 +162,21 @@ Supplementary Vocabulary
 围围巾  wéi wéijīn  to wear a scarf
 
 Elementary - Yang Jie's Diary: He's Not Stupid (B0718)
-  我刚刚和王伟从图书馆回来。
-  wǒ gānggāng hé Wáng Wěi cóng túshūguǎn huílai. 
-  I have just returned from the library with Wang Wei.
-  我有好多不懂的东西，他都耐心地教我。
-  wǒ yǒu hǎo duō bù dǒng de dōngxi, tā dōu nàixīn de jiāo wǒ. 
-  There were a lot of things that I didn't understand, and he very patiently explained them to me.
-  而且他很幽默。
-  érqiě tā hěn yōumò. 
-  Plus, he is pretty funny.
-  以前我以为他很无聊，现在发现他真好。
-  yǐqián wǒ yǐwéi tā hěn wúliáo, xiànzài fāxiàn tā zhēn hǎo. 
-  Before I thought he was boring. Now I've discovered he is a really good guy.
-  以后我要对他好一点。
-  yǐhòu wǒ yào duì tā hǎo yīdiǎn. 
-  I will be a little nicer to him from now on.
+我刚刚和王伟从图书馆回来。
+wǒ gānggāng hé Wáng Wěi cóng túshūguǎn huílai. 
+I have just returned from the library with Wang Wei.
+我有好多不懂的东西，他都耐心地教我。
+wǒ yǒu hǎo duō bù dǒng de dōngxi, tā dōu nàixīn de jiāo wǒ. 
+There were a lot of things that I didn't understand, and he very patiently explained them to me.
+而且他很幽默。
+érqiě tā hěn yōumò. 
+Plus, he is pretty funny.
+以前我以为他很无聊，现在发现他真好。
+yǐqián wǒ yǐwéi tā hěn wúliáo, xiànzài fāxiàn tā zhēn hǎo. 
+Before I thought he was boring. Now I've discovered he is a really good guy.
+以后我要对他好一点。
+yǐhòu wǒ yào duì tā hǎo yīdiǎn. 
+I will be a little nicer to him from now on.
   
 Key Vocabulary
 刚刚  gānggāng  just
@@ -213,6 +216,7 @@ A  破世界记录的感觉肯定很棒！
 B  而且还有奖金。
   érqiě hái yǒu jiǎngjīn. 
   Plus there's a prize.
+
 Key Vocabulary
 破  pò  to break
 世界  shìjiè  world
@@ -249,6 +253,7 @@ A  破世界记录的感觉肯定很棒！
 B  而且还有奖金。
   érqiě hái yǒu jiǎngjīn. 
   Plus there's a prize.
+
 Key Vocabulary
 破  pò  to break
 世界  shìjiè  world
@@ -285,6 +290,7 @@ A  白玫瑰也不错。
 B  好吧。给我一束红的，一束白的。
   hǎo ba. gěi wǒ yī shù hóng de, yī shù bái de. 
   OK. Give me a bouquet of red ones and white ones.
+
 Key Vocabulary
 花  huā  flower
 给  gěi  to give
@@ -323,6 +329,7 @@ A  因为其它比赛更重要。
 B  噢，真可惜。
   ō, zhēn kěxī. 
   Oh, that's too bad.
+
 Key Vocabulary
 听说  tīngshuō  to have heard said
 网球  wǎngqiú  tennis
@@ -557,27 +564,26 @@ Supplementary Vocabulary
 电风扇  diànfēngshàn  electric fan
 
 Elementary - Too Picky (B0756)
-  A: 我们点红烧肉吧。
-  
-  Let's order soy-braised pork.
-  B: 太油了。
-  
-  It's too oily.
-  A: 麻婆豆腐呢？
-  
-  How about some spicy tofu?
-  B: 太辣了。
-  
-  It's too spicy.
-  A: 那炒青菜吧。
-  
-  OK, then stir-fried green vegetables.
-  B: 太淡了。
-  
-  It's too bland.
-  A: 你怎么这么挑剔！
-  
-  How can you be so picky!
+A: 我们点红烧肉吧。
+Let's order soy-braised pork.
+
+B: 太油了。
+It's too oily.
+
+A: 麻婆豆腐呢？
+How about some spicy tofu?
+
+B: 太辣了。
+It's too spicy.
+
+A: 那炒青菜吧。
+OK, then stir-fried green vegetables.
+
+B: 太淡了。
+It's too bland.
+
+A: 你怎么这么挑剔！
+How can you be so picky!
   
 Elementary - Too Picky (B0758)
 A  我们点红烧肉吧。
@@ -724,6 +730,7 @@ B  怪不得。下次别忘了戴手套、围巾。
 A  肯定不会忘。冷死了！
   kěndìng bù huì wàng. lěng sǐ le! 
   I definitely won't forget. It's freezing!
+
 Key Vocabulary
 冷  lěng  cold
 死  sǐ  to death
@@ -768,6 +775,7 @@ A  大家都这样。
 B  这样不对。
   zhèyàng bù duì. 
   That is not right.
+
 Key Vocabulary
 真  zhēn  really
 好吃  hǎochī  delicious
@@ -811,6 +819,7 @@ A  这是决赛。
 B  你看吧，我无所谓。
   nǐ kàn ba, wǒ wúsuǒwèi. 
   You watch it, I'm not really into it.
+
 Key Vocabulary
 超级碗  Chāojíwǎn  Super Bowl
 就是  jiùshì  to be
@@ -848,6 +857,7 @@ A  你到底想干什么？
 B  我也不知道。
   wǒ yě bù zhīdào. 
   I don't know.
+
 Key Vocabulary
 看  kàn  to see; to watch
 电影  diànyǐng  movie
@@ -885,6 +895,7 @@ B  是吗？噢，真对不起，我坐错了。
 A  没关系。
   méiguānxi. 
   It's OK.
+
 Key Vocabulary
 台  tái  platform
 排  pái  row
@@ -967,6 +978,7 @@ A  我要赶快去订票了。
 B  我也想去。
   wǒ yě xiǎng qù. 
   I want to go too.
+
 Key Vocabulary
 香港  Xiānggǎng  Hong Kong
 奥运会  Aòyùnhuì  Olympic Games

@@ -658,69 +658,69 @@ Supplementary Vocabulary
 打错了  dǎ cuò le  dial the wrong number
 
 Newbie - Numbers, Days of the Week, and Months (A0021)
-  日，天
-  rì, tiān 
-  day
-  星期一
-  xīngqīyī 
-  Monday
-  星期二
-  xīngqīèr 
-  Tuesday
-  星期三
-  xīngqīsān 
-  Wednesday
-  星期四
-  xīngqīsì 
-  Thursday
-  星期五
-  xīngqīwǔ 
-  Friday
-  星期六
-  xīngqīliù 
-  Saturday
-  星期天
-  xīngqītiān 
-  Sunday
-  月
-  yuè 
-  month
-  一月
-  yīyuè 
-  January
-  二月
-  èryuè 
-  February
-  三月
-  sānyuè 
-  March
-  四月
-  sìyuè 
-  April
-  五月
-  wǔyuè 
-  May
-  六月
-  liùyuè 
-  June
-  七月
-  qīyuè 
-  July
-  八月
-  bāyuè 
-  August
-  九月
-  jiǔyuè 
-  September
-  十月
-  shíyuè 
-  October
-  十一月
-  shíyīyuè 
-  November
-  十二月
-  shíèryuè 
-  December
+日，天
+rì, tiān 
+day
+星期一
+xīngqīyī 
+Monday
+星期二
+xīngqīèr 
+Tuesday
+星期三
+xīngqīsān 
+Wednesday
+星期四
+xīngqīsì 
+Thursday
+星期五
+xīngqīwǔ 
+Friday
+星期六
+xīngqīliù 
+Saturday
+星期天
+xīngqītiān 
+Sunday
+月
+yuè 
+month
+一月
+yīyuè 
+January
+二月
+èryuè 
+February
+三月
+sānyuè 
+March
+四月
+sìyuè 
+April
+五月
+wǔyuè 
+May
+六月
+liùyuè 
+June
+七月
+qīyuè 
+July
+八月
+bāyuè 
+August
+九月
+jiǔyuè 
+September
+十月
+shíyuè 
+October
+十一月
+shíyīyuè 
+November
+十二月
+shíèryuè 
+December
   
 Key Vocabulary
 日  rì  day
@@ -831,24 +831,24 @@ Vocabulary
 还   huán   return
 
 Newbie - Colors (A0024)
-  黑色
-  Hēisè 
-  black
-  蓝色
-  Lánsè 
-  blue
-  绿色
-  Lǜsè 
-  green
-  红色
-  Hóngsè 
-  red
-  白色
-  Báisè 
-  white
-  黄色
-  Huángsè 
-  yellow
+黑色
+Hēisè 
+black
+蓝色
+Lánsè 
+blue
+绿色
+Lǜsè 
+green
+红色
+Hóngsè 
+red
+白色
+Báisè 
+white
+黄色
+Huángsè 
+yellow
   
 Key Vocabulary
 黑色  hēisè  black
@@ -1070,39 +1070,39 @@ Supplementary Vocabulary
 认识  rènshi  to know
 
 Newbie - All in the Family (A0031)
-  王小姐是英国人。
-  Ms. Wang is British.
-  Wáng Xiǎojie shì yīngguórén. 
-  她住在南京。
-  She lives in Nanjing.
-  Tā zhù zài Nánjīng. 
-  她很喜欢南京。
-  She really likes Nanjing.
-  Tā hěn xǐhuan Nánjīng. 
-  她有一个妹妹。
-  She has a younger sister.
-  Tā yǒu yī ge mèimei. 
-  她没有哥哥。
-  She doesn't have an older brother.
-  Tā méiyǒu gēge. 
-  她有一个男朋友。
-  She has a boyfriend.
-  Tā yǒu yī ge nánpéngyou. 
-  他叫John。
-  His name is John.
-  Tā jiào John. 
-  John是美国人。
-  John is American.
-  John shì Měiguórén. 
-  他很好看。
-  He is very good-looking.
-  Tā hěn hǎokàn. 
-  他也住在南京。
-  He also lives in Nanjing.
-  Tā yě zhù zài Nánjīng. 
-  他们都很忙。
-  They're both very busy.
-  Tāmen dōu hěn máng. 
+王小姐是英国人。
+Ms. Wang is British.
+Wáng Xiǎojie shì yīngguórén. 
+她住在南京。
+She lives in Nanjing.
+Tā zhù zài Nánjīng. 
+她很喜欢南京。
+She really likes Nanjing.
+Tā hěn xǐhuan Nánjīng. 
+她有一个妹妹。
+She has a younger sister.
+Tā yǒu yī ge mèimei. 
+她没有哥哥。
+She doesn't have an older brother.
+Tā méiyǒu gēge. 
+她有一个男朋友。
+She has a boyfriend.
+Tā yǒu yī ge nánpéngyou. 
+他叫John。
+His name is John.
+Tā jiào John. 
+John是美国人。
+John is American.
+John shì Měiguórén. 
+他很好看。
+He is very good-looking.
+Tā hěn hǎokàn. 
+他也住在南京。
+He also lives in Nanjing.
+Tā yě zhù zài Nánjīng. 
+他们都很忙。
+They're both very busy.
+Tāmen dōu hěn máng. 
   
 Key Vocabulary
 英国人  yīngguórén  British person
@@ -1193,27 +1193,27 @@ Supplementary Vocabulary
 上次  shàngcì  last time
 
 Newbie - Tone Practice (A0034)
-  四声
-  four tones
-  Sìshēng 
-  东方
-  the orient
-  Dōngfāng 
-  洞房
-  bridal chamber
-  Dòngfáng 
-  公里
-  kilometers
-  Gōnglǐ 
-  巩俐
-  Gong Li (famous Chinese actress)
-  Gǒng Lì 
-  竹竿
-  bamboo stick
-  Zhúgān 
-  猪肝
-  pig liver
-  Zhūgān 
+四声
+four tones
+Sìshēng 
+东方
+the orient
+Dōngfāng 
+洞房
+bridal chamber
+Dòngfáng 
+公里
+kilometers
+Gōnglǐ 
+巩俐
+Gong Li (famous Chinese actress)
+Gǒng Lì 
+竹竿
+bamboo stick
+Zhúgān 
+猪肝
+pig liver
+Zhūgān 
   
 Key Vocabulary
 四声  sìshēng  the four tones

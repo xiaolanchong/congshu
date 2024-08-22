@@ -1,4 +1,5 @@
-L1	
+1. Человек	
+1.1 Характер, натура	
 性格	Personality
 几帳面な	Careful
 大ざっぱな	Rough
@@ -84,7 +85,7 @@ L1
 根っから	1) ot prirody, po prirode;2) razg. sovershenno, sovsem;
 取りあえず	
 	
-L2	
+1.2 Родство Связи	
 人間関係	Relationships
 親族	relatives
 肉親	прямой родственник
@@ -147,7 +148,8 @@ L2
 どぎまぎ	flurried, in a flutter, upset, nervous
 先ごろ	
 	
-L3	
+2. Быт	
+2.1 Каждодневные дела	
 調理方法	Cooking method
 米/包丁を研ぐ	Sharpen rice / knives
 米を水に浸す	Soak the rice in water
@@ -229,7 +231,7 @@ L3
 ずるずる	1) sound or act of dragging 2) loose 3) inconclusive but unwanted situation
 いっそう	[ещё] больше
 	
-L4	
+2.2 Медицина лечение	
 病気に感染する	
 病気に立ち向かう	
 病気の兆候に気付く	1) знак, признак 2) симптом 3) примета
@@ -303,7 +305,7 @@ xxxを心掛ける	стараться
 むかむか	
 げっそり	1) being disheartened 2) losing weight
 	
-L5	
+3. Искусство Спорт	
 ~氏の著書・作品	
 独創的な	
 ユニークな作品	
@@ -379,7 +381,7 @@ xxxを刊行する
 一心に	wholeheartedly, single-mindedly, fervently, intently
 いかにも	
 	
-L5	
+4. Образование	
 中等教育	Secondary education
 中高一貫の学校	Junior and senior high school
 男子校	Boys' school
@@ -457,7 +459,7 @@ xxx課程で学ぶ	Learn in the xxx course
 つくづく	completely, really, thoroughly, deeply, severely, intently
 延々と	1) forever, endlessly, on and on 2) meandering, wandering, winding, sinuous, serpentine, zigzagging
 	
-L6	
+5. Работа	
 仕事を手掛ける	Work
 仕事を委託する	Outsource work
 仕事をおろそかにする	Neglect work
@@ -560,7 +562,7 @@ xxxを雇う・雇用する
 まっしぐら	[~に] стремглав, опрометью, очертя голову, на всех парах
 即刻	
 	
-L7	
+6. Медиа	
 インターネットで	On the internet
 ・ 検索する	· Search for
 ・ 動画を見る	· watch video
@@ -634,7 +636,8 @@ L7
 頻繁	frequent
 続々	One after another
 	
-L8	
+7. Общество	
+7.1 Экономика производство	
 財政破たんに陥る	
 財政が破たんする	
 財政が赤字に転落する	
@@ -722,7 +725,7 @@ xxxを引き起こす
 一気に	1) [~に] одним духом 2) залпом 3) в один присест, без перерыва
 どうにか	1) in some way or other 2) one way or another
 	
-L9	
+7.2 Политика Юрисп-я История	
 政治	
 法律	
 立法	1) законодательство, законотворчество 2) законодательный, законотворческий
@@ -794,7 +797,7 @@ xxxを発掘する	Excavate xxx
 大幅に	
 抜本的	коренной, радикальный
 	
-L10	
+7.3 Соц. проблемы	
 格差社会	1) разница [в качестве] 2) разница в положении (в ранге, в зарплате)
 xxxが急速に広がる	xxx spreads rapidly
 ・格差	・ Disparity
@@ -873,7 +876,8 @@ xxxを取る	Take xxx
 しっかり	firmly, tightly, reliable, level-headed, steady
 めっきり	remarkably
 	
-L11	
+8 Наука	
+8.1 Природа География	
 気象	weather
 気候	climate
 集中豪雨	Torrential rain
@@ -948,7 +952,7 @@ xxxが出る	xxx comes out
 じめじめ	Damp
 今にも	Immediately
 	
-L12	
+8.2 Инженерия	
 発明をする	Invent
 ・偉大な	·great
 ・画期的な	·Breakthrough
@@ -1020,7 +1024,8 @@ xxxを処理する	Process xxx
 果たして	As expected
 すっかり	Completely
 	
-L13	
+9 Абстрактные понятия	
+9.1 Время Пространство	
 年月を経る	Over the years
 夜が更ける/明ける	The night goes on / dawns
 旅行の日取りを決める	Set a date for your trip
@@ -1089,7 +1094,7 @@ xxxに広がる・渡る	Spread / cross over xxx
 依然	
 ほぼ	1) bol'shej chast'ju; v obschem; pochti [chto];
 	
-L14	
+9.2 Отношение, изменения	
 条件/前提	Conditions / assumptions
 条件が整う	Conditions are met
 条件を満たす	Meet the conditions
@@ -1152,4 +1157,795 @@ L14
 しょせん (所詮)	в конце концов, в конечном счёте
 まんまと	1) successfully 2) fairly 3) artfully 4) nicely 5) thoroughly
 渋々	неохотно, нехотя
+
+1. Многозначность	
+1.1 Сущ-ные	
+あて	Цель
+	tot, na kogo ili to, na chto mozhno polozhit'sja, operet'sja;
+	nadezhdy, ozhidanija; raschety;…を～に[して] v nadezhde, v raschete na chto-l.;…を～にする nadejat'sja, rasschityvat' na chto-l.
+見込み	1) надежды, перспективы, виды на будущее  5) ожидания, предположения 6) расчёт, оценка 7) [~である] ожидается, что...
+	2) вероятность, шанс
+	3) [~がある] подавать надежды, иметь перспективы
+拍子	1) такт, ритм 
+	момент 
+	[~の] [~に] в момент [чего-либо]
+節	1) сустав 2) утолщение 3) узелок 4) нарост 5) сучок 
+	6) коленце (бамбука) 7) мотив, мелодия 8) интонация 9) пункт, момент 10) признак
 	
+	
+	
+筋	1) мускул, мышца 2) жила 3) сухожилие
+	4) нитевидный объект (волокно, вена, линия, полоса и т.п.) 
+	5) смысл, связность 
+	6) сюжет, фабула 7) источник (сведений)
+	
+模様	1) pattern, figure, design 2) state, condition 3) conjecture of the current situation, the way it seems 4) model, pattern, example 5) (after a noun) indicates that that noun seems likely (e.g. rain or storm)
+	
+様	1) положение, состояние, обстановка 2) вид [от "arisama"]
+	
+柄	え 1) рукоятка 2) ручка 3) рычаг
+	1) узор, рисунок (на ткани) 2) телосложение 3) рост 4) характер, натура 5) [~にない] неподходящий
+軸 じく	 stebel'; 4) os', sterzhen'; val, shpindel'; shtift;～の osevoj;マッチの軸 spichechnaja solomka; 5) ruchka (pera, kisti);
+	
+芯	1) wick, marrow, staple (for stapler), (pencil) lead, stuffing, pith 2) core, heart, centre, center
+	
+隙	1) nevnimatel'nost'; slaboe mesto; 
+	2) udobnyj sluchaj (moment);
+	3) (tzh. 透き) skvazhina, schel'; peren. svobodnoe mesto; svobodnaja minuta
+ひび	treschina [na kozhe];
+	treschina (relation)
+溝	1) peren. treschina;それがため二人の間に深い溝ができた iz-za etogo mezhdu nimi legla propast'. 
+	2) vyemka, zhelobok; paz; vyrez (v dereve); borozda; 3) kanava, rov, transheja; zhelob; lozhbinka;溝をさらえる ochischat' kanavu;
+縁	kraj; kromka; bort; kajma; rubets; polja (shljapy, bumagi); limb (solntsa, luny);縁を取る(付ける) okajmljat'; podrubat'.
+	svjaz', rodstvo; otnoshenija, znakomstvo;～の imejuschij svjaz', svjazannyj s kem-l.;あれは私には縁/エン/もゆかりもない人だ on ne imeet ko mne nikakogo otnoshenija, on mne sovershenno chuzhoj;縁の露 otdalennoe rodstvo, sed'maja voda na kisele;◇縁の色 a) priznaki privjazannosti; b) fioletovyj tsvet.
+	kraj; kromka; okajmlenie, kajma; kant; obodok, ramka; oprava (napr. ochkov); polja (shljapy); rubets (napr. platka); obochina (dorogi); opushka (lesa);～のある okajmlennyj; obramlennyj; v oprave; s poljami; podrublennyj;縁を取る okajmljat'; otdelyvat' bahromoj;縁を付ける obramljat';縁を縫う podshivat', podrubat';がけの縁に立つ stojat' na kraju propasti;縁の広い帽子 shirokopolaja shljapa.
+枠	1) pjal'tsy. 2) rama, ramka; oprava; obodok; peren. ramki, granitsy; limit; 3) katushka; shpul'ka;
+	
+	
+1.2 Глаголы	
+仰ぐ	Look up
+飢える	Hungry
+潤う	Moisturize
+犯す	commit
+冒す	Affect
+顧みる	Look back
+省みる	1) to look back (e.g. over shoulder or at the past), to turn around, to review 2) to reflect, to reconsider 3) to consider (usu. used in negative), to concern oneself about
+掲げる	1) поднимать над головой, нести высоко подняв 2) вывешивать (флаг и т.п.) 3) помещать в печати
+かすむ	1) затуманиваться, заволакиваться дымкой 2) [перен.] тускнеть рядом с кем-либо, не выдерживать сравнения
+かなう	ispolnjat'sja, osuschestvljat'sja (o nadezhdah, zhelanijah); byt' uslyshannym (napr. o molitve);叶わぬ恋 bezotvetnaja (neschastnaja) ljubov';叶わぬことと知りながら万一を期していた znaja, chto eto beznadezhno, ja vse zhe esche nadejalsja;
+	養生叶わず ves' [meditsinskij] uhod okazalsja tschetnym;◇身(力)に叶う (neprav. vm. 適う) byt' po silam komu-l.• V BJaRS: ことゝ (znak povtora).
+	1) to come true (wish) 2) to be suited 3) to match (implies competition), to rival, to bear (e.g. I can't bear the heat)
+絡む	1) обвиваться, оплетать 2) цепляться, зацепляться 3) [перен.] сцепиться, затеять ссору
+砕く	1) разбивать, раздроблять 2) толочь 3) ломать голову ["kokoro-wo kudaku"] 4) говорить понятно ["kudaite hanasu"]
+暮れる	1) byt' pogruzhennym (v dumy i t. p.); predavat'sja (pechali);涙に暮れる gor'ko plakat', zahlebyvat'sja (oblivat'sja) slezami;思案に暮れる byt' pogruzhennym v razdum'e;◇金に目がくれてやる delat' radi deneg. 
+	2) podhodit' k kontsu (o dne, vremeni goda, gode);日が暮れる temnet', smerkat'sja;日の暮れない内に zasvetlo;日が暮れて夜となる solntse zashlo, nastupaet noch';今は六時に日が暮れます teper' smerkaetsja v shest' chasov;その日は嵐しに暮れた den' zakonchilsja burej;後十日で年も暮れる cherez desjat' dnej konchitsja staryj god;今年も暮れた vot i etot god konchilsja;日/ヒ/暮れて道/ミチ/遠し vremja pozdnee, a put' dalek; obr. sily na ishode, a do kontsa daleko;◇あんなやつに構っていると日が暮れる net u menja vremeni vozit'sja s takim tipom;
+こたえる	
+凝る	1) to grow stiff 2) to be absorbed in, to be devoted to, to be a fanatic, to elaborate
+	to congeal, to freeze
+さらう	to sweep away, to wash away, to dredge
+	to review, to rehearse, to practise, to practice
+	1) to carry off, to run away with, to kidnap, to abduct 2) to monopolize, to make one's own
+仕切る	1) to partition, to divide, to mark off, to itemize 
+	2) to direct, to take control, to manage, to take responsibility 
+	3) to settle accounts 4) to toe the mark
+しのぐ	1) to endure, to keep out (e.g. rain), to stave off (e.g. starvation) 2) to pull through, to get over, to survive 3) to surpass, to outdo, to excel, to eclipse, to defy, to slight
+断つ	to sever, to cut off, to suppress, to abstain (from)
+絶つ	to sever, to cut off, to suppress, to abstain (from)
+募る つのる	1) to invite contributions, etc., to solicit help, participation, etc., to recruit (e.g. soldiers) 2) to grow violent, to become stronger, to become worse
+遠ざかる	to go far off
+粘る ねばる	1) to be sticky, to be adhesive 2) to persevere, to persist, to stick to, to hold out, to linger
+図る はかる	1) to plot, to attempt, to plan, to devise, to design 2) to take in, to deceive 3) to aim for, to have something in mind 4) to refer A to B
+謀る	1) to plot, to attempt, to plan, to devise, to design 2) to take in, to deceive 3) to aim for, to have something in mind 4) to refer A to B
+諮る	to consult with, to discuss, to confer, to deliberate
+はじく	1) to flip, to snap, to flick 2) to repel 3) to use (an abacus), to calculate 4) to strum, to pluck the strings (of a guitar, etc.)
+弾む	to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to treat oneself to, to splurge on
+控える	1) удерживаться от чего-либо 2) быть воздержанным 3) записывать 4) ожидать 5) иметь (перед собой)
+響く	1) to resound, to be heard far away 2) to reverberate, to shake, to vibrate 3) to come (home), to remain (with someone) 4) to have an effect, to make an impression
+ふるまう	1) вести себя [как-либо] 2) принимать, угощать
+紛れる	1) byt' uvlechennym; byt' otvlechennym chem-l.;気が紛れる razvlech'sja, otvlech'sja ot zabot;多忙に紛れてつい御無沙汰しました ja byl tak zanjat, chto ne mog vam napisat'. 2) byt' nerazlichimym (neotlichimym); smeshat'sja s chem-l.; zaterjat'sja v chem-l.;闇に紛れて pod pokrovom temnoty;騒ぎに紛れて逃げる skryt'sja, vospol'zovavshis' sumatohoj;
+もがく	metat'sja; korchit'sja; prjam. i peren. bit'sja;もがいて死ぬ umirat' muchitel'noj smert'ju, tjazhelo umirat';彼はどうかして身を立てようともがいた on bilsja, chtoby kak-nibud' vyjti v ljudi.• Takzhe 【踠く】.
+もむ	mjat'; teret'; massirovat';両手を揉む potirat' ruki;◇気を揉む bespokoit'sja, trevozhit'sja;◇揉みに揉んだ mnogo raz peredelannyj (peresmotrennyj) (plan, bjudzhet i t. p.);◇一番揉んでやろう [ja] potreniruju tebja! (v igre);sr. もまれる.
+催す	1) проводить, устраивать (собрание, вечер и т.п.) 2) чувствовать позыв к чему-либо
+漏れる	
+	
+2. Похожие слова	
+2.1 Наречия и прил-е	
+おろそかにして	Neglect
+・いい加減にして	·come on
+・怠けて	・ Be lazy
+やんわり	Gently
+・遠回しに	: ～な inoskazatel'nyj;～に obinjakami, namekami;遠回しに言う kruzhit' vokrug da okolo, govorit' obinjakami;遠回しに意見を探る vsjakimi okolichnostjami vyvedyvat' mnenie.
+・それとなく	1) kak ni v chem ne byvalo;それとなく見る vzgljanut' kak budto nevznachaj, vzgljanut' mel'kom. 2) namekom, obinjakami, ne govorja prjamo; vskol'z';それとなく言う namekat', davat' ponjat';それとなく警告する sdelat' preduprezhdenie v zavualirovannoj forme;それとなく人の心を探る proschupat' nastroenie kogo-l.; podhodit' k delu ostorozhno (izdaleka);
+そっけなく	cold, short, curt, blunt
+・無愛想に	: ～な neljubeznyj, hmuryj; suhoj (napr. o prieme), otryvistyj, grubyj (napr. ob otvete);～をする byt' neljubeznym, prinjat' suho.
+・ぶっきらぼうに	curt, blunt, brusque
+すんなり	1) slim, slender 2) smoothly, without resistance, without trouble, without difficulty, without dissent, easily, readily
+・あっさり	1) просто, легко, без труда 2) слегка, несильно 3) [~した] простой, скромный 4) лёгкий 5) прямо, открыто, честно 6) [~した] прямой, честный
+円滑に	smooth, undisturbed, uninterrupted, harmonious
+スムーズに	Smoothly
+順調に	Steadily
+鮮やかに	Vividly
+・鮮明に	·Clearly
+誇張して	Exaggerate
+大げさに	Exaggerated
+オーバーに	Over
+うっとうしく	1) gloomy (e.g. mood), depressing 2) heavy (weather), cloudy 3) irritating, troublesome
+・煙たく けむたい	1) vyzyvajuschij nelovkost';あの人はどうもけむたい ja chuvstvuju sebja ochen' nelovko v ego prisutstvii, ja stesnjajus' pri nem. 2) dymnyj;
+・煩わしく	to trouble, to bother, to annoy, to give trouble
+いやに	1) uzhasno, sil'no;いやに降る prolivnoj dozhd';いやに寒い uzhasno holodno. 2) neprijatno, protivno;～なる oprotivet', nadoest', naskuchit';あいつは人をいやにじろじろ見たがる etot tip imeet privychku nahal'no glazet' na ljudej;愛していた女がいやになる razljubit' zhenschinu;
+・変に	Weirdly
+代わる代わる	alternately, by turns
+・交互に	1) : ～の [po]peremennyj, cheredujuschijsja;～に poperemenno, cheredujas';交互に働く rabotat' posmenno. 2) : ～の obojudnyj, vzaimnyj;～に obojudno, vzaimno;
+とっさに	Immediately 
+・反射的に	・ Reflexively
+不意に	: ～の neozhidannyj, nezhdannyj, nepredvidennyj;不意に襲われる, 不意を食う(打たれる) byt' porazhennym (stolknut'sja s) neozhidannost'ju; byt' zastignutym vrasploh;不意の会合 sluchajnaja vstrecha;あの人を不意に訪ねては会えまい esli vy navestite ego bez preduprezhdenija, to vrjad li zastanete.
+・突如	suddenly
+終始	1. nachalo i konets;2. ot nachala do kontsa;～する delat' odno i to zhe ot nachala do kontsa; tverdo priderzhivat'sja chego-l.; polnost'ju otdavat'sja chemu-l.; stojat' na svoem.
+あらかじめ	
+・事前に	1) предпосылка 2) необходимое условие [чего-либо]
+・前もって	in advance, beforehand, previously
+辛うじて	
+・ぎりぎり	
+・どうにか	kak-nibud';どうにかなるだろう kak-nibud' obojdetsja (naladitsja);どうにかします kak-nibud' spravljus';私がどうにかなったら esli obstojatel'stva pozvoljat;どうにかやって行く dejstvovat' na avos'.
+著しく	primechatel'nyj, zamechatel'nyj; znachitel'nyj; porazitel'nyj;著しい対照 jarkij kontrast;…とは著しく変っている rezko otlichat'sja ot chego-l.
+極めて	
+ことごとく	vse, polnost'ju, sovershenno; vse [do edinogo];全員ことごとく vse chleny, ves' sostav;所持金をことごとく使ってしまった ja potratil vse imevshiesja u menja den'gi.
+丸ごと	
+もっぱら	1) glavnym obrazom, preimuschestvenno;それは専ら印度に輸出される eto vyvozitsja preimuschestvenno v Indiju.• Takzhe 【専】.• Dr. chtenie もはら. 2) iskljuchitel'no, vsetselo;それは専ら輸出向きだ eto prednaznachaetsja iskljuchitel'no (tselikom) na eksport;彼は専ら読書に日を送っている on vse dni provodit za chteniem;…という噂が専らだ, 専らその噂だ uporno derzhitsja sluh, chto…;
+大まかに	1) shiroko, schedro;大まかに見る smotret' na veschi shiroko;金に大まかである tratit' den'gi ne skupjas'. 2) : ～に v obschih chertah;大まかに言えば [govorja] v obschem (v tselom);大まかに見積る sdelat' primernyj raschet (podschet), prikinut' stoimost';
+・大ざっぱに	rough (as in not precise), broad, sketchy
+一切	At all 
+まるっきり	Completely
+ろくに	сколько следует
+いやに	1) неприятный, противный 2) [~に] неприятно, противно 3) [~になる] опротиветь, надоесть
+・やけに	awfully, frightfully, desperately, violently
+あえて	
+・強いて	nasil'no, siloj, protiv voli; silkom;～…させる [nasil'no] zastavljat' delat' chto-l.;強いて白状させる siloj vynuzhdat' priznanie;強いて比較すれば esli uzh tak nuzhno objazatel'no sravnivat', to…;強いて御出席なさるには及びません vam ne objazatel'no prisutstvovat' (napr. na sobranii);強いて弁護しようとはしない mne ne ochen' hochetsja zaschischat' ego;甲乙なしだが、強いて言えばこの方が少しまさっている odno drugogo stoit, no esli uzh nado vybirat', to vot eto nemnogo luchshe;君に横浜まで行ってもらいたいのだがしかし強いてとは言わない ja hotel by poprosit' tebja s'ezdit' v Iokogáma, no ja ne nastaivaju.
+エレガントな	
+たくましい	moschnyj, sil'nyj, krepkij;逞しい骨骼をしている byt' krepko slozhennym (o kom-l.);逞しい精神 tverdyj duh.
+・タフな	
+見所がある	がある podavat' nadezhdy; byt' mnogoobeschajuschim;見所のある青年 mnogoobeschajuschij molodoj chelovek;
+・有望な	
+見苦しい	neprigljadnyj; bezobraznyj, gadkij; neprilichnyj;見苦しい振舞いをする vesti sebja bezobrazno (neprilichno);見苦しい負け方をする postydno proigrat';見苦しいざまをする predstavljat' soboj zhalkuju figuru; byt' posmeshischem;そんな身なりでは見苦しい pokazyvat'sja v takom vide neprilichno;見苦しい手蹟(筆蹟) bezobraznyj pocherk.
+みっともない	neprigljadnyj; neprilichnyj, bezobraznyj; prjam. i peren. nekrasivyj;見っともないね stydites'!;見っともない身なりをしている byt' ploho (ubogo) odetym;見っともない振舞をする vesti sebja nekrasivo (bezobrazno);何だ男の子のくせに泣いて、見っともないじゃないか i ne stydno tebe, mal'chiku, plakat'?
+いい加減な	
+・ルーズな	
+だらしない	
+ぞんざいな	1) : ～な nebrezhnyj, nerjashlivyj, nevnimatel'nyj;～に grubo, nebrezhno, koe-kak. 2) : ～な grubyj, neuchtivyj; grubovatyj (o stile, manere i t. p.);
+・無礼な	
+つれない	besserdechnyj, holodnyj;つれない心 zhestokoe serdtse;つれない仕打ち holodnoe obraschenie;つれないことを言う nagovorit' neprijatnostej;つれなく断る otkazat' naotrez;つれなく当たる zhestoko obraschat'sja s kem-l., tretirovat' kogo-l., ploho otnosit'sja k komu-l.
+・冷淡な	ravnodushie, bezrazlichie;～な holodnyj, ravnodushnyj, bezuchastnyj, bezrazlichnyj; besserdechnyj, cherstvyj.
+あやふやで	: ～な nejasnyj, neopredelennyj, tumannyj; dvusmyslennyj;事をあやふやにしておく ostavit' delo nereshennym;あやふやな事を言う govorit' uklonchivo; krutit' vokrug da okolo; uvilivat' ot prjamogo otveta;あやふやな心 nereshitel'nyj harakter;あやふやな決心 shatkoe (netverdoe) reshenie;そのために彼の決心があやふやになった eto pokolebalo ego reshimost'.
+ふさわしい	Suitable
+好ましい	preferable
+・望ましい	·desirable
+冴えない	tusklyj; sumrachnyj;さえない色 tusklyj (temnyj) tsvet;冴えない顔をする imet' hmuryj vid;気分がさえない byt' ne v duhe.• Takzhe 【冱えない】.
+すがすがしい	Refreshing
+ばかばかしい	Ridiculous
+簡素な	concise
+・シンプルな	·simple
+紛らわしい	dvusmyslennyj; tumannyj, nejasnyj; sbivchivyj; trudno razlichimyj.
+・ややこしい	dial. zamyslovatyj, mudrenyj.
+煩わしい	troublesome 
+・ややこしい	・ Complicated
+著しい	
+・目覚しい	
+	
+2.1 Глаголы, сущ-е	
+うんざりする	
+・うっとうしく思う	
+案じて	1) to be anxious or concerned about, to ponder (anxiously), to fear 2) to investigate, to consider, to plan
+気兼ねして	
+打ち明けた	
+・告白した	
+・告げた	
+おだてても	1) подстрекать, подбивать 2) льстить
+・お世辞を言っても	
+ごまをすっても	
+省みる	
+思い返す	1) подумать ещё раз 2) снова обдумывать, возвращаться мыслью к чему-либо 3) сожалеть, раскаиваться
+・振り返る	обернуться, оглянуться
+振り返る	look back
+・回顧する	・ Retrospective
+・思い返す	1) подумать ещё раз 2) снова обдумывать, возвращаться мыслью к чему-либо 3) сожалеть, раскаиваться
+尽くして	1) to exhaust, to run out 2) to devote, to serve (a person), to befriend 3) to do to exhaustion
+・傾けて	
+やり遂げる	to accomplish
+投げ出す	
+・放り出す	
+張り合って	to rival, to compete with
+・競って	
+・競い合って	
+見逃して	1) проглядеть, не заметить 2) упустить из виду 3) не обращать внимания 4) смотреть [на что-либо] сквозь пальцы 5) оставлять на свободе, не арестовывать
+大目に見て	to tolerate, to condone, to overlook, to let pass
+フォローして	1) follow 2) followup (e.g. netnews) 3) backing-up, covering for
+・サポートして	
+なじんで	to become familiar with, to fit in, to adapt oneself, to get used to, to grow accustomed to
+こじれた	to pry, to prize, to prise
+・悪化した	
+ぎくしゃくした	1) jerkiness, awkwardness, stiltedness 2) souring (of a relationship), strain (e.g. in relations)
+もつれた	to tangle, to become complicated, to get twisted
+ばてて	to be exhausted, to be worn out
+込み上げて	1) to fill (one's heart), to experience a welling up of feelings or sensations 2) to feel nauseated
+途絶えた	to stop, to cease, to come to an end
+異動	
+・赴任	
+該当する	
+補足した	1) дополнение 2) дополнительный, добавочный 3) дополнять
+・付け加えた	
+かなった	
+定めた	
+・確定した	
+持続させる	continuation
+・長続きさせる	1) permanence, continuation, long-lasting 2) to last a long time, to continue, to keep at something for a long time
+・キープする	
+見合わせて	
+設置して	
+備え付けて	to provide, to furnish, to equip, to install
+・取り付けて	1) to furnish, to install 2) to get someone's agreement 3) to patronize, to buy usually from the same store
+改修した	Renovated
+・改装した	・ Renovated
+リフォームした	Remodeled
+経歴・キャリア	Career / Career
+・経緯	·background
+・いきさつ	・ History
+構想	plan, plot, idea, conception
+利点・メリット	preimuschestvo, vygodnyj punkt; poleznaja storona, poleznoe svojstvo.
+朗報	radostnoe (prijatnoe) izvestie.
+・喜ばしい知らせ	・ Good news
+最善	Best
+・ベスト	・ Best
+過ち	Mistakes
+無意味だ	It's meaningless
+ナンセンスだ	It's nonsense
+あべこべ	: ～[に] naoborot, vverh nogami, shivorot-navyvorot;～にする perevernut' vverh nogami; perestavit' v obratnom porjadke; vyvernut' naiznanku;あべこべに着る nadet' naiznanku;あべこべの方向へ行く idti ne v tu storonu, idti v oshibochnom napravlenii;彼の言うことは皆事実とあべこべだ vse, o chem on govorit, na dele obstoit naoborot;彼はあべこべに笑われた a nad nim, naoborot, smejalis'.
+まちまち	: ～の raznyj, razlichnyj;意見がまちまちだ suschestvujut samye razlichnye mnenija; mnenija razdelilis';報告はまちまちだ soobschenij mnogo i oni samye raznorechivye.• Takzhe 【区区】.
+見通し	1) peren. perspektiva chego-l.;石炭増産の見通し perspektiva uvelichenija dobychi uglja;見通しは明い imejutsja jasnye perspektivy;先の見通しが利く predvidet' buduschee;将来の見通しをつける predskazyvat' buduschee;どうも未だはっきりと見通しがつかない poka perspektivy nejasny, poka trudno predskazat' (predvidet'), chto budet (kak pojdet) dal'she. 2) perspektiva, vidimost';そこは見通しが利く ottuda horosho (daleko) vidno, ottuda otkryvaetsja horoshaja perspektiva;この家は表から裏まで見通しになっている etot dom s fasada prosmatrivaetsja naskvoz';
+・目途	kn. tsel', ob'ekt;…を～とする imet' tsel'ju (ob'ektom) chto-l.
+前途	1) predstojaschij put' (puteshestvija i t. p.);途中下車は前途無効 bez prava ostanovki v puti (o tranzitnom bilete). 2) buduschee (ch'e-l.), buduschnost'; perspektivy;前途にある(横たわる) predstojat' v buduschem, imet'sja v perspektive; lezhat' na puti;前途を見極める zagljadyvat' (smotret') vpered (v buduschee);前途を祝す zhelat' komu-l. schast'ja [v buduschem];我々は前途なお遠い nam esche daleko do tseli;
+・行く先	1) sm. ゆくすえ. 2) mesto naznachenija; mesto, kuda idet (napravljaetsja) kto-l.;この小包は行く先が不明だ kuda dostavit' etu posylku — neizvestno;どこへ行くにしても行く先ははっきりさせて置いて下さい kuda by vy ni poehali, postav'te menja v izvestnost' o tom, kuda vy napravljaetes';行く先なし nekuda pojti, nekuda devat'sja;
+	
+3. Похожие написанием слова	
+3.1 Канго	
+過剰(な)	izlishek, izbytok;～の izlishnij, izbytochnyj.
+過多(な)	izbytok, izlishek;～の izbytochnyj, izlishnij; prevyshajuschij normu; chrezmernyj.
+過密	
+過疎	depopulation
+過失	
+簡易(な)	
+簡便(な)	: ～な prostoj, legkij; udobnyj (dlja perenoski).
+簡素(な)	: ～な prostoj, neslozhnyj, neprihotlivyj;～にする uproschat'.
+簡略(な)	: ～な prostoj i kratkij, szhatyj, kompaktnyj;～にする sokraschat', szhato vyrazhat'; uproschat'.
+簡潔(な)	: ～な szhatyj, lakonichnyj;説明を簡潔にする dat' szhatoe ob'jasnenie.
+明朗(な)	: ～な jarkij; jasnyj; svetlyj;明朗な政治 jasnaja (otkrytaja) politika;明朗な人 zhizneradostnyj chelovek; otkrytyj (prjamoj) chelovek;政界は再び明朗になった politicheskoe polozhenie uluchshilos'.
+明快(な)	: ～な jasnyj, tochnyj, opredelennyj.
+明白(な)	
+明瞭(な)	jasnost', otchetlivost';～な jasnyj, otchetlivyj (o proiznoshenii, rechi, znachenii i t. p.);～にする utochnjat', projasnjat', vyjasnjat';明瞭を欠いている byt' nejasnym.
+壮大(な)	: ～な kn. velichestvennyj, grandioznyj.
+盛大(な)	: ～な tsvetuschij, preuspevajuschij; velikolepnyj;会は盛大であった sobranie proshlo prekrasno;結婚式は盛大に挙行された svad'ba byla otprazdnovana pyshno.
+膨大(な)	rasshirenie, razbuhanie; med. opuhanie.
+過大(な)	: ～な chrezmernyj, preuvelichennyj; nepomernyj;～に chrezmerno, slishkom.
+絶大(な)	: ～な, ～なる velichajshij.
+規範	obrazets; model'; standart, norma; kriterij;～的 obraztsovyj; normativnyj.
+規約	1) ustav; pravila, postanovlenija. 2) soglashenie, dogovor;
+規律	1) reglament; predpisanie, pravilo; zakon;紀律を守る sobljudat' reglament (pravila i t. p.). 2) distsiplina, porjadok;～のない nedistsiplinirovannyj; besporjadochnyj;紀律を正しくする sobljudat' distsiplinu;
+規格	1) standart, norma. 2) masshtab; mera; merilo;
+規定(する)	1) formulirovka, opredelenie. 2) pravila, predpisanija, reglament; postanovlenie;～する predpisyvat'; opredeljat', ustanavlivat'; reglamentirovat'; namechat', predusmatrivat';～の ustanovlennyj, polagajuschijsja po pravilam; predpisannyj; namechennyj;法律の規定により soglasno predpisanijam zakona;規定の書式で v (po) ustanovlennoj forme;以下規定するところに従って kak ustanovleno (predusmotreno) nizhe;
+発足(する)	1) начало, открытие 2) начаться, открыться
+発作	
+発覚(する)	obnaruzhenie, raskrytie, vskrytie (kakih-l. faktov);～する byt' obnaruzhennym (raskrytym, vskrytym, otkrytym); vsplyvat', obnaruzhivat'sja;調査の結果驚くべき事実が発覚した v rezul'tate obsledovanija byli obnaruzheny (vyjavleny) porazitel'nye fakty;彼は詐欺を働こうとしたことが発覚した on byl ulichen v popytke sovershit' moshennichestvo.
+発散(する)	1) mat. divergentsija. 2) fiz. rasseivanie (luchej); 3) isparenie; uletuchivanie; rasseivanie; otdacha (teploty, energii);～する isparjat'sja; uletuchivat'sja; vydyhat'sja (o zapahe); vydeljat'sja cherez pory;
+補給(する)	supply, supplying, replenishment
+補充(する)	
+補償(する)	compensation, reparation
+補足(する)	Complement)
+補完(する)	complementation, supplementation, completion
+唖然(と)	[~として] ошеломлённо, обалдело
+呆然(と)	1) ошеломлённо 2) [~とする] быть ошеломлённым (ошарашенным, поражённым)
+漠然(と)	1) [~たる], [~とした] неясный, смутный, туманный 2) неопределённый 3) двусмысленный 4) [~と (して)] неясно, смутно
+毅然(と)	[~として] решительно, смело, твёрдо
+弁明(する)	1) объяснение, разъяснение 2) оправдание
+釈明(する)	1) объяснение, разъяснение 2) объяснять, разъяснять 3) оправдываться
+弁護(する)	
+弁解(する)	1) объяснение, оправдание, защита 2) объясняться, оправдываться, защищаться 3) [~になる] служить оправданием
+持続(する)	continue)
+維持(する)	maintain)
+継続(する)	continue)
+存続(する)	Survive
+続行(する)	continue)
+賛同(する)	Agree (yes)
+同調(する)	Synchronize
+共感(する)	Sympathize)
+共鳴(する)	1) резонанс 2) резонировать 3) сочувствие, отклик 4) сочувствовать, откликаться, разделять [что-либо]
+	
+3.2 Ваго	
+はなはだしい	сильный, чрезвычайный, огромный, ужасный
+はなばなしい	яркий, цветущий, прекрасный
+はかばかしい	1) быстрый, скорый 2) благоприятный 3) успешный
+あさましい	1) постыдный 2) жалкий 3) презренный, низкий
+いさましい	1) храбрый, смелый 2) волнующий
+いたましい	1) прискорбный 2) жалкий
+いまわしい	1) отвратительный 2) зловещий
+なだらか(な)	gently-sloping, gentle, easy
+なめらか(な)	гладкий, скользкий
+なごやか(な)	тихий, спокойный, мирный
+あざとい	clever, sly, cunning, pushy
+めざとい	Aim
+あくどい	1) чрезмерный (в каком-либо отношении) :кричащий (о цвете) 2) аляповатый (о костюме, стиле и т.п.) 3) тяжёлый, чересчур обильный (о еде) 4) приторный (о вкусе) 5) грубый (о лести, брани, юморе и т.п.) 6) неприглядный, нечистоплотный, сомнительный
+おろそか(な)	небрежный, беспечный
+おごそか(な)	торжественный, величественный
+ねたむ	
+ねだる	упрашивать, выпрашивать, клянчить
+ねばる	1) прилипать 2) быть клейким 3) не отставать 4) не отступать
+ばてる	вымотаться, очень устать
+はてる	1) закончиться 2) скончаться
+はける	1) продаваться, иметь спрос 2) течь, вытекать
+うるむ	prjam. i peren. raspuskat'sja, oslabevat';
+くるむ	1) завёртывать 2) закутывать
+ひるむ	1) терять присутствие духа, пугаться 2) отступать
+ほつれる	1) распускаться, расползаться (о петлях вязки и т.п.) 2) растрёпываться (о волосах)
+ほどける	come undone
+ほぐれる	Unravel
+ほころびる	Unravel
+とぎれる	Break off
+ちぎれる	to be torn off, to be torn to pieces
+ちぢれる	1) morschit'sja, mjat'sja. 2) teh. byt' volnistym (riflenym); 3) vit'sja, zavivat'sja, byt' v'juschimsja (o volosah);
+何かと	как-нибудь, в том или ином виде
+何やら	что-нибудь, что-то
+何分	1) some, any, (a) little, of some kind, of some sort 2) please 3) anyway, anyhow, at any rate, after all
+いわば	так сказать, одним словом
+いわゆる	так называемый
+いわく	1) гласит 2) говорит(ся) (о пословице, изречении классика и т.п.) 3) [связанное употр.] обстоятельства, причина, предлог 4) [~があって] по некоторым причинам 5) [связанное употр.] история, прошлое 6) [~がある] (об этом) есть целая история
+心掛け	намерения, помыслы
+心構え	1) готовность 2) образ мыслей 3) настроение
+心配り	exerting care, attention, consideration, thoughtfulness
+心残り	regret, reluctance
+手際	1) искусство, мастерство, ловкость 2) исполнение, представление
+手分け(する)	1) распределение (людей, работы) 2) [~した] распределять [работу] 3) разделять на группы (людей)
+手入れ(する)	1) починка, ремонт 2) [~をする] чинить, ремонтировать 3) уход, забота, содержание [в порядке] 4) [~をする] ухаживать, следить [за чем-либо] 5) постригать (кусты, волосы и т.п.) 6) рейд, налёт (полиции) 7) [~をする] совершать рейд
+手回し	1) подготовка, приготовления 2) сборы 3) предварительные переговоры 4) [в сложн.сл.] ручного управления, ручной
+手加減(する)	1) умение, ловкость, сноровка 2) такт
+	
+4. Наречия	
+4.1 Степень, время, частота	
+はなはだ	ochen', ves'ma; chrezvychajno; krajne, v krajnej stepeni.
+すこぶる	очень, весьма, чрезвычайно
+至って	крайне, чрезвычайно
+ごく	крайне, чрезвычайно
+	
+やけに	3) [~に] отчаянно, в отчаянии 4) отчаянно, ужасно 5) [~になる] приходить в отчаяние 6) [~になって] отчаявшись
+いやに	
+むやみに	
+やたらに	1) [~に] без разбора, как попало, наобум 2) неосмотрительно
+うんと	1) вовсю, изо всех сил 2) старательно 3) в большом количестве 4) очень
+むちゃくちゃ	
+	
+ことに	
+ことのほか	
+ひときわ	1) значительно, примечательно, заметно 2) ещё более 3) в особенности
+とりわけ	1) [тэ] в частности 2) в особенности, особенно
+とびきり	1) чрезвычайно, исключительно, в высшей степени 2) превосходный, исключительный, экстра 3) удар мечом в высоком прыжке
+格別(に)	
+断然	
+やや	1) до некоторой степени, немного 2) порядочно
+幾分	
+いささか	
+即座に	
+即刻	
+すかさず	не теряя ни минуты
+とっさに	
+急きょ	
+先ごろ	
+先だって	
+前もって	in advance, beforehand, previously
+かねて	previously, already, lately
+とっくに	long ago, already, a long time ago
+ひところ	1) одно время 2) когда-то, в своё время
+追って	1) после, погодя 2) впоследствии
+ぼつぼつ	1) точки 2) пятнышки 3) пупырышки 4) мало-помалу, помаленьку, потихоньку, не спеша
+じき(に)	1) прямо, непосредственно 2) сразу же, сейчас же 3) легко 4) рядом, близко
+目下	v danniy moment
+かねがね	1) давнишний, прежний 2) часто, не раз (в прошлом)
+しばし	for a short while, for a brief period
+長らく	long, (for a) long time
+年中	1) круглый год 2) все время
+年がら年中	1) круглый год 2) всегда
+始終	vsegda
+四六時中	1) двадцать четыре часа 2) день и ночь 3) всегда, постоянно
+再三	не раз, неоднократно, снова и снова, вновь и вновь
+再三再四	не раз и не два
+ちょくちょく	часто
+ちょいちょい	часто
+	
+4.2 Наречия выражающее после	
+ことによるとかもしれない	может быть, может статься, возможно
+さぞ・さぞかしいだろう	
+てっきり~思った/思っていた	
+いかにも~らしい/そうだ	
+一見〜そうだ/に見える	
+さもぞうに/(かの)ように~	
+どうやら~らしいようだ	
+かろうじて〜 (動詞) た/ている	
+危うく〜 (動詞)ところだった/そうになる/た	
+幸い/不幸)にも/(幸いな/不幸な)ことに~た/ている	
+案の定〜 (動詞)た/ている	
+いっそ~(動詞)よう/たい	
+あえて〜 (動詞) 辞書形/ない/た/(よ)う	
+あらかじめ〜ておく/てある/てください	
+何とぞ〜てください/お願いします	
+仮に~としたら/ても~/とする	
+強いて〜ば/なら~	
+ろくにない	
+一向にない	
+到底~(でき)ない	
+一概に~とは言えない	
+よもや~ないだろう/まい	
+	
+4.3 Наречия	
+一挙	at a stroke, with a single swoop
+一斉	simultaneous, all at once
+一心	1) one mind 2) wholeheartedness, one's whole heart
+一躍	[прям. и перен.] одним скачком
+一通り	бегло, вкратце
+逐一	
+現に	действительно, на самом деле
+真に	[~に] верно, правдиво
+直に	1) прямо, непосредственно 2) сразу же, сейчас же 3) легко 4) рядом, близко
+切に	eagerly, earnestly, ardently
+	
+着々と	1) неуклонно 2) шаг за шагом
+転々と	1) переходить из рук в руки 2) переходить с места на место
+黙々と	молча
+悠々(と)	1) спокойно, неторопливо, безмятежно 
+努めて	1) усердно 2) по возможности
+極力	As much as possible 
+ひたすら	single-mindedly
+もっぱら	1) исключительно, всецело 2) главным образом, преимущественно
+隈なく	All around
+ことごとく	1) всё 2) полностью, совершенно 3) все до единого
+軒並み	
+根こそぎ	1) всё дочиста 2) основательно
+大方	1) по всей вероятности, вероятнее всего 2) почти [всё], практически [целиком], по большей части 3) все (люди) 4) общий, ото всех
+概ね	1) в общем 2) большей частью 3) обычно
+総じて	в целом, в общем
+自ずと	само собой, спонтанно
+・自ずから	сам, лично
+ひとりでに	Alone 
+元来	originally
+そもそも	1) ну, итак 2) сперва 3) самое начало
+心底	
+根っから	
+たかが	всего-навсего, самое большее    it's only... (something)
+たかだか	самое большее, максимум
+俄然	suddenly
+断固	Resolutely
+不意に	Unexpectedly
+人知れず	tajkom, ukradkoj.
+とかく	1) часто, обычно, обыкновенно 2) то да сё 3) всякие, всяческие, различные
+とやかく	
+よくも	1) то да сё 2) так и сяк, всячески
+いたずらに	напрасно, зря, попусту
+おもむろに	1) медленно, постепенно 2) шаг за шагом 3) терпеливо
+ひとえに	1) усердно 2) смиренно 3) всецело
+ひいては	1) вдобавок, помимо чего-либо 2) не только..., но и...
+各々	
+くれぐれも	1) повторно, снова и снова, ещё и ещё 2) убедительно, искренне (просить)
+	
+5. Ономатопоэя	
+5.1 Образ вещей, людей	
+がらりと	1) entirely, suddenly, completely, rudely
+がくんと	suddenly, with a jerk
+ぐんぐん(と)	steadily
+ずんずん(と)	rapidly
+じわりと	постепенно
+からりとし	1) clatter (noise made by hard objects coming in contact, e.g. a door flinging open) 2) bright and clear (e.g. sky) 3) nicely dry (e.g. laundry), crisp (e.g. tempura) 4) cheerful and open-hearted 5) changing suddenly and completely 6) completely forgetting something
+ぐっしょりと	soaking (wet), wringing
+こうこうと	1) bright (esp. of the moon) 2) broad and empty
+きらりと	with a momentary flash of light
+きっかり	
+まるまる(と)	
+ちらほら(と)	here and there, now and then, in twos and threes
+がらんと ) しんと	
+どんより(と)	1) heavy, leaden, dull 2) glazed (eyes)
+しんなり(と)	
+じっとり(と)	
+ちくちく(と)	prickling, stinging, tingling
+すかすか	1) hollow 2) sharply, cleanly (of cutting) 3) smoothly
+ぎゅうぎゅう	packing in tightly, creaking leather, door, etc.
+ぱんぱん	1) kapow, bang, slap, clap 2) bulging, filled to bursting 
+ゆるゆる	very loose, slowly, leisurely
+ぐにゃぐにゃ	
+こちこち	1) ticktock 2) chinking (e.g. of a hammer against rock), knocking 3) dry and hard, (frozen) stiff 4) hidebound, die-hard, stubborn, obstinate, bigoted 5) scared stiff, tense, nervous, frightened
+とびとび	scattered here and there, at intervals
+まちまち	several, various, divergent, conflicting, different, diverse
+とんとん	tap, rap-tap, tapping
+ずかずか(と)	making rude entrance
+ぬけぬけ(と)	freely, impudently, brazenly, shamelessly, however one wishes
+のこのこ(と)	unconcernedly, nonchalantly
+ばんばん	1) bang bang (sound of a hammer or gunfire) 2) doing something at a mad pace (spend money, work)
+おずおず(と)	timidly, nervously, with nervous diffidence, trembling with fear
+すごすご(と)	in low spirits, dejected, sad
+ずけずけ(と)	bluntly
+ぶうぶう(と)	1) bugling sound, honking, oinking 2) grumbling, complaining 3) car, automobile
+ぽつりと	1) isolated, standing alone 2) falling in drops (e.g. rain) 3) sighing (when saying something)
+ぽんぽん(と)	
+てくてく(と)	trudgingly, going long way at steady pace
+どたどた(と)	noisily (esp. the noise of heavy feet)
+とぼとぼ(と)	totteringly, trudgingly
+ひょいと	by chance, suddenly, accidentally, with agility
+ひらりと	nimbly, lightly
+ふらりと	aimlessly
+ふらっと	aimlessly, by chance, accidentally, casually, suddenly, unexpectantly
+さめざめ(と)	sorrowfully, anguishedly
+しげしげ(と)	1) frequently, often 2) fixedly, narrowly, closely
+まざまざ(と)	plainly, clearly, vividly
+おちおち	quietly, calmly
+	
+5.2 Образ людей	
+がぶり(と)	emphatically (bite, gulp, chew, etc.)
+ばくばく(と)	thumping (heart), banging (heart), pounding (heart), racing (heart)
+ごくごく(と)	gulping repetitively
+ありあり(と)	distinct, clear, vivid
+ひしひし(と)	acutely, severely, tightly, keenly
+ほとほと	quite (usu. negative connotation), utterly, really
+すいすい(と)	(swim, work) smoothly, unhindered
+するする(と)	smoothly, swiftly
+ころりと	1) easily, effortlessly, suddenly, utterly 2) changing completely 3) plink (sound of something light falling or rolling)
+のっそり(と)	sluggishly
+ぱたりと	clink, sudden stop
+ぱったり(と)	unexpectedly, suddenly, abruptly
+みっちり(と)	1) severely, strictly, fully 2) earnestly, diligently
+やんわり(と)	
+くすくす(と)	
+ごしごし(と)	scrubbing, rubbing briskly, rasping
+どしどし	
+どやどや(と)	
+みすみす	before one's own eyes, from under one's very nose
+めきめき(と)	conspicuously
+びくびく	
+もんもんと	worrying endlessly, anguishedly
+やきもき	impatient, worry about
+あたふた(と)	
+どぎまぎ	flurried, in a flutter, upset, nervous
+どきんと	feeling a shock, startling
+まごまご	confused
+あくせく(と)	fussily, busily, sedulously, worrying about (small things)
+いそいそ(と)	cheerfully, excitedly
+せかせか(と)	restless, fidgety, hurriedly, agitatedly
+きょとんと	
+ぽかんと	1) vacantly, blankly, absentmindedly 2) openmouthed, with one's mouth wide-open, gaping, flabbergasted 3) with a whack, with a thump
+はればれ	bright, cheerful
+ほれぼれ	fondly, charming
+ぶすっと	1) sound of something thick and soft being pierced by something sharp and hard 2) containing sullen anger or discontempt
+むっつり(と)	1) sullenly, taciturnly, morosely, gloomily, silently 2) taciturn person, uncommunicative person
+さばさば	relief, candid
+ねちねち(と)	sticky, persistent
+うかうか	carelessly, inattentively
+けろりと	1) completely, entirely 2) nonchalantly, as if nothing happened
+すらっと	slender, slim
+すらりと	1) long, slender and well-proportioned 2) smooth, continuous (movement)
+ちょこまか(と)	restlessly, in continuous motion
+あやふや	uncertain, vague, ambiguous
+うやむや	indefinite, hazy, vague, unsettled, undecided
+かんかん	looking cool and collect, with an air of perfect composure
+たじたじ	ошеломленно, пошатываясь
+	
+6. Устойчивые фразы	
+6. Части тела	
+顔	
+~が売れる	
+~を立てる	
+頭	
+~が下がる	
+~を抱える	
+目	
+~がくらむ	Dazzling
+~が肥える	Discerning
+~が冴える	Clear eyes
+~が高い	High eyes
+~が届く	Reachable
+~にする	See
+~もくれない	Don't even look
+~を引く	Eye-catching
+口	
+~を離す	
+~が肥える	пресытиться
+~が滑る	проговориться
+~を挟む	вставить слово
+~をつぐむ	молчком
+耳	
+~につく	
+~に挟む	
+鼻	
+~にかける	gordelyvyiy
+~につく	vonyat'  nadoest'
+~をつく	бить в нос (запах)
+手	
+~に余る	byt' ne po silam
+~に負えな	nekontroliryemyiy (ребенок)
+~に乗る	byt' obmanutyim
+~を切る	stop a relationship
+~を差し伸	protyanut' ruku (pomoschi)
+~を尽くす	isprobovat' vse metoda
+~を回す	v secrete gotovit'sya
+~を焼く	not know what to do with, to be at a loss with, to have difficulty with, to be put out
+~を入れる	korrektirovat' ispravlyat' to i delo
+~を打つ	1) to take measures (in face of events being anticipated) 2) to come to an agreement (in bargaining, etc.), to strike a bargain 3) to clap one's hands together
+~を引く	отпрянуть
+腕	
+~を磨く	отточить мастерство
+~を振るう	проявить мастерство
+肩	
+~を並べる	плечом к плучу
+~を持つ	стоять на стороне
+~の荷が下りる	сбросить груз с плеч
+首	
+~を突っ込む	совать нос в дела
+~を捻る	ломать голову
+	
+6.2 Части тела и другое	
+腹	
+~をくくる	to prepare oneself for the worst, to strengthen one's resolve, to accept one's fate, to prepare oneself
+~を読む	читать мысли другого
+~を割る	откровенно
+胸	
+~が詰まる	переполненный чувствами
+~を貸す/借りる	сделать/стать спарринг-партнером от высокого к нижнему
+~を突く	озадачивать, волновать
+懐	
+~が暖かい/寒い	щедрый на деньги/безденежный
+が深い	широких взглядов
+足	
+~が早い	быстрый скорый скоропортящий
+~が出る	не хватать денег, не уложиться в бюджет
+~を洗う	умыть руки
+身	
+~を立てる	to make a success in life
+~を引く	to back out of, to retire, to get away
+~にしみる	проникать в душу, доходить до сердца
+気	
+~が引ける	to feel awkward, to feel shy
+~が置けない	easy to get on with, not needing reserve or formality, personable, affable, approachable
+~が晴れる	to feel refreshed, to feel more cheerful, to feel better
+~に障る	задеть чувства другого
+~に病む	to worry, to fret (over something), to be worried, to be anxious
+~を利かせる	1) to (take in the situation, etc.) and make the smart move 2) to (consider someone's feelings) and do the tactful or helpful thing
+~を抜く	to lose focus, to let one's mind wander, to relax one's attention
+~を紛らわす・紛らす	развеятся отвлечься от нехорошено
+~を持たせる	to wait for a favorable chance, to wait for a favourable chance
+息	
+~が詰まる	запыхаться перехватить
+~を呑む	затаить дыхание
+~を引き取る	испустить дух
+~をつく	передохнуть
+心	
+~が通う	to understand each other well, to call forth a response in another's heart, to relate to
+~を奪われる	to be thoroughly attracted by, to be completely fascinated by
+~を砕く	ломать голову
+虫	
+~がいい	selfish, asking too much
+~が好かない	disliking, having an antipathy to
+泥	
+~をかぶる	принять вину неудачу за других
+顔に〜を塗る	to bring disgrace (dishonor, dishonour) on, to fling mud at, to put to shame
+	
+花が咲く	
+芽が出る	1) to bud, to sprout, to germinate 2) to have luck on one's side, to get lucky
+根に持つ	испытывать недобрые чувства
+猫をかぶる	притворяться дружелюбным, двуличное притворство
+尾を引く	1) оставлять след 2) иметь длительный эффект
+しっぽをつかむ	поймать за руку
+	
+7. Словообразование	
+7.1 Составные глаголы	
+言い〜	
+言い返す	
+言い聞かせる	
+言いつける	
+言い張る	настаивать, утверждать
+打ち〜	
+打ち明ける	to stop, to abort, to discontinue, to close
+打ち切る	1) прекращать 2) прерывать
+打ち込む	
+打ち解ける	
+追い〜	
+追い上げる	
+追い込む	
+追い詰める	1) припереть к стене 2) настичь 3) загнать в угол
+追い払う	
+押し~	
+押し掛ける	1) нагрянуть [к кому-либо] 2) вломиться (без приглашения) 3) наседать, ломиться, осаждать (магазин, театр и т.п.)
+押し切る	1) продвигаться, пробивать себе путь 2) добиваться [чего-либо] 3) протаскивать [что-либо]
+押し付ける	1) прижимать, придавливать 2) принуждать, заставлять 3) навязывать 4) сваливать (вину)
+押し寄せる	1) придвигаться 2) надвигаться 3) подступать
+使い~	
+使いこなす	умело обращаться [с чем-либо]; справляться [с кем-либо]; овладевать (знаниями, языком и т. п.)
+使い込む	1) растратить (чужие деньги) 2) истратить (сверх положенного) 3) привыкать употреблять 4) пользоваться долго
+使い果たす	
+使い分ける	правильно употреблять, применять к месту
+.取り~	
+取り上げる	1) брать [в руки] 2) поднимать 3) принимать (требования и т.п.) 4) внимать (уговорам и т.п.) 5) прислушиваться (к советам и т.п.) 6) отбирать [что-либо], лишать [чего-либо] 7) конфисковать 8) [мед.] принимать (ребёнка)
+取り扱う	
+取り返す	
+取り掛かる	браться, приниматься [за что-либо], приступать [к чему-либо]
+取り組む	1) [спорт.] встречаться [с кем-либо] [в поединке] 2) [~と] серьёзно взяться (за какую-либо задачу) 3) [~を] заключать (сделку и т.п.)
+取り締まる	руководить, управлять, надзирать, следить за порядком
+取り調べる	
+取り立てる	1) взимать, собирать (долги, налоги и т.п.) 2) назначать (на должность) 3) покровительствовать, протежировать 4) опекать
+取り次ぐ	1) посредничать 2) встречать посетителя 3) докладывать [о посетителе] 4) передавать (сообщение)
+取り巻く	
+取り乱す	
+取り戻す	
+取り寄せる	1) посылать [за чем-либо] 2) заказывать, выписывать [что-либо] 3) получать (по заказу)
+引き~	
+引き上げる	1) подтягивать вверх 2) вытаскивать 3) вздёргивать 4) поднимать (затонувшее судно) 5) повышать (цены, зарплату, кого-либо по службе) 6) [неперех.] оставлять, покидать 7) эвакуироваться 8) репатриироваться
+引き落とす	1) срывать, стягивать 2) списывать с банковского счета
+引き込む	1) втягивать, впутывать, привлекать 2) подхватить (простуду) 3) сидеть дома (взаперти), не выходить 4) впасть, быть впалым 5) держаться позади, стоять в сторонке 6) отступать, отходить, удаляться
+引き下がる	откланиваться, уходить
+引き立つ	1) становиться более активным, оживляться 2) выглядеть лучше, привлекательнее
+引き締める	1) натягивать, подтягивать 2) напрягать 3) дисциплинировать 4) бодрить, взбадривать
+引きずる	
+見~	
+見合う	
+見合わせる	1) [связанное употр.] переглядываться 2) откладывать, отсрочивать 3) сравнивать 4) сличать 5) сочетать браком 6) приводить в соответствие
+見落とす	проглядеть, недосмотреть, упустить из виду
+見極める	1) видеть (обозревать, рассматривать) всё полностью 2) проникать взлядом 3) распознавать 4) удостоверяться [в чём-либо], устанавливать [что-либо]
+見込む	1) ожидать, рассчитывать, предполагать 2) приблизительно оценивать 3) учитывать, принимать в расчёт 4) доверять [кому-либо], облекать доверием 5) гипнотизировать взглядом 6) намечать своей жертвой
+見過ごす	to let go by, to let pass, to overlook, to miss
+見計らう	
+見抜く	1) видеть насквозь (чьи-либо замыслы и т.п.) 2) хорошо понимать 3) предугадывать
+見逃す	1) проглядеть, не заметить 2) упустить из виду 3) не обращать внимания 4) смотреть [на что-либо] сквозь пальцы 5) оставлять на свободе, не арестовывать
+	
+7.2 Составные глаголы	
+かみ合う	
+釣り合う	1) удерживать баланс, быть в равновесии 2) гармонировать, подходить [друг другу]
+張り合う	соперничать, соревноваться
+駆け込む	1) вбегать, врываться в 2) укрываться в (от внезапного дождя и т.п.)
+食い込む	1) вгрызаться, въедаться 2) точить (о насекомых и т.п.) 3) [перен.] вторгаться 4) проникать
+忍び込む	
+付け込む	1) использовать в личных целях, извлекать выгоду [из чего-либо] 2) вносить, вписывать, записывать 3) заказывать, бронировать
+突っ込む	1) совать[ся] 2) вталкивать[ся] 3) вколачивать[ся] 4) погружать[ся] 5) вклиниваться 6) острый, прямой, неприятный (о вопросе и т.п.)
+溶け込む	[прям. и перен.] вливаться [во что-либо], растворяться [в чём-либо], интегрироваться
+呑み込む	Swallow
+放り込む	Throw in
+巻き込む	Get involved
+割り込む	1) протискиваться, втискиваться 2) встревать, вмешиваться
+~渡る	
+行き渡る	
+晴れ渡る	to clear up, to be refreshed
+響き渡る	
+~立てる	
+飾り立てる	1) разукрашивать 2) наряжать
+騒ぎ立てる	поднимать шум, производить переполох
+責め立てる	1) жестоко пытать 2) заставлять
+~出す	
+切り出す	1) рубить (колоть, дробить) и вывозить (лес, камень и т.п.), добывать [что-либо] 2) начинать (разговор и т.п.) 3) поднимать (вопрос и т.п.)
+投げ出す	Throw out
+逃げ出す	Run away
+抜け出す	Get out
+乗り出す	1) выезжать, отправляться 2) отплывать 3) приступать [к чему-либо], браться [за что-либо] 4) подаваться вперёд 5) высовываться
+はみ出す	to protrude, to stick out, to hang out, to jut out, to bulge out, to overflow, to be forced out, to be crowded out, to be pushed out, to exceed, to go over, to go beyond
+~止める	
+食い止める	останавливать, задерживать
+突き止める	1) убедиться 2) установить 3) узнать
+~替える	
+立て替える	
+切り替える	1) менять, переключаться [на что-либо] 2) продлевать, возобновлять (действие документа и т.п.) 3) [фин.] обменивать, конвертировать 4) переключать
+-~直る	
+立ち直る	1) устоять на ногах 2) выправляться, восстанавливаться 3) [эконом.] оживляться
+開き直る	[внезапно] сделаться агрессивным, накинуться [на кого-либо]
+行き詰まる	зайти в тупик, застрять, остановиться на мёртвой точке
+折り返す	1) отворачивать 2) загибать 3) повторять
+食い違う	1) [тех.] скрещиваться, сцепляться 2) расходиться [в чём-либо] 3) противоречить [чему-либо] 4) протекать неправильно
+差し支える	
+たどり着く	
+乗り切る	1) проезжать через [что-либо] 2) пересекать 3) [перен.] преодолевать
+働きかける	
+申し出る	1) заявлять, выступать, предлагать [вниманию] 2) сообщать 3) просить 4) требовать
+持て余す	1) не справляться [с кем-чем-либо], не знать, что делать [с кем-чем-либо] 2) быть не по силам [кому-либо] 3) отбиться от рук
+やり遂げる	
+寄りかかる	to lean against, to recline on, to lean on, to rely on, to depend on
+割り当てる	распределять, раскладывать [на нескольких] (расходы и т.п.)
+	
+7.3 Суффиксы, окончания	
+Тодо

@@ -155,11 +155,11 @@ mechamecha = mechakucha
 gasshiri gacchiri  крепкий сбитый
 
 Урок 5
-boroboro
-bishobisho
-dorodoro
-kochikochi
-kasakasa
+boroboro  разваливающийся
+bishobisho  промокнуть до нитки
+dorodoro    растять
+kochikochi   затвердеть
+kasakasa     сухой
 
 Урок 6
 assari

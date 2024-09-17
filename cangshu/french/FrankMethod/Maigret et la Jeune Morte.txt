@@ -3529,29 +3529,3 @@ Maigret haussa les épaules, grommela:
 
 -Cela ne nous regarde pas.
 
-***FB2 BOOK INFO***
-
-FB2 to LRF converter, v.18.0; Mikhail Sharonov, 2007; msh-tools.com/ebook/
-
-TITLE INFO
-
-Genre: det_classic
-
-Authors:
-
-Title: MAIGRET ET LA JEUNE MORTE (Мегрэ и молодая покойница)
-
-Language: ru
-
-DOCUMENT INFO
-
-Program-used: ExportToFB21
-
-Date : 18.10.2010
-
-Id: OOoFBTools-2010-10-18-23-20-41-727
-
-Version: 1.0
-
-RETURN TO BOOK
-

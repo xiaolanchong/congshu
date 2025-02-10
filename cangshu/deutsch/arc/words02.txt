@@ -1,0 +1,222 @@
+Abend – evening
+Abschied – farewell
+Angestellten – employees
+Angst – fear
+Arzt – doctor
+Aufenthalt – stay
+Besen – broom
+Blick – glance, look
+Blickfeld – field of vision
+Buch – book
+Erfahrung – experience
+Erklärung – explanation
+Erinnerung – memory
+Eindruck – impression
+Eindrucksvoll – impressive
+Fahrplan – timetable
+Fahrt – ride, journey
+Fahrzeug – vehicle
+Frau – woman
+Freund – friend
+Frühstück – breakfast
+Geld – money
+Geschenk – gift
+Gesicht – face
+Gespräch – conversation
+Gefühl – feeling
+Gegend – area, region
+Gedanken – thoughts
+Geduld – patience
+Gegensatz – contrast
+Gleichgültigkeit – indifference
+Haltung – posture, attitude
+Hand – hand
+Hände – hands
+Hoffnung – hope
+Hoffnungslos – hopeless
+Kaffee – coffee
+Kamera – camera
+Kleidung – clothing
+Koffer – suitcase
+Kopf – head
+Kommando – command
+Konzentration – concentration
+Lächeln – smile
+Leben – life
+Lebenserfahrung – life experience
+Lärm – noise
+Lebenserinnerung – memory of life
+Menschheit – mankind
+Menschen – people
+Moment – moment
+Nachricht – message
+Paar – pair
+Personen – people
+Ruhig – calm, quiet
+Sicherheit – safety
+Sofa – sofa
+Stadt – city
+Stadtbild – cityscape
+Stimme – voice
+Straße – street
+Terror – terror
+Tisch – table
+Trennung – separation
+Verabredung – appointment
+Verkehr – traffic
+Verkehrsstau – traffic jam
+Verhältnis – relationship
+Verlassen – to leave
+Verständnis – understanding
+Vermissen – to miss
+Vermögen – fortune, wealth
+Vorschrift – regulation
+Wagen – car, vehicle
+Warten – wait
+Welt – world
+Woche – week
+Zigaretten – cigarettes
+Ziel – destination
+Zimmer – room
+Zug – train
+Zukunft – future
+Abstand – distance
+Abenteuer – adventure
+Absolut – absolute
+Ankunft – arrival
+Außen – outside
+Bedeutung – meaning
+Erlaubnis – permission
+Erwartung – expectation
+Flughafen – airport
+Flughafenhalle – airport hall
+Früher – earlier, in the past
+Gegensatz – contrast
+Geschenk – gift
+Gesellschaft – society
+Glauben – belief
+Großstadt – metropolis
+Helfen – to help
+Hoch – high, tall
+Hund – dog
+Impression – impression
+Jahre – years
+Kommen – to come
+Krankheit – illness
+Kritik – criticism
+Kunst – art
+Lächeln – smile
+Lebenserinnerung – life memory
+Luft – air
+Morgen – morning
+Muster – pattern
+Nähe – proximity
+Ort – place
+Platz – square, place
+Punkt – point
+Ruhen – to rest
+Schmerz – pain
+Sicht – view
+Sommer – summer
+Stark – strong
+Taschen – pockets
+Verboten – forbidden
+Vermutung – assumption
+Vorstellung – imagination, idea
+Weltstadt – world city
+Wiedersehen – reunion
+Zahlen – numbers
+Zeichen – sign
+Zukunft – future
+Zusammen – together
+Zustand – condition, state
+Zweifel – doubt
+Abhängigkeit – dependence
+Abschied – farewell
+Abstand – distance
+Anblick – sight, view
+Anpassung – adjustment
+Arbeit – work, job
+Ärger – anger, trouble
+Bedeutung – significance, meaning
+Bewegung – movement
+Blickwinkel – point of view
+Blut – blood
+Brücke – bridge
+Dämmerung – twilight, dusk
+Eile – haste
+Einfluss – influence
+Einheit – unity
+Empfindung – sensation, feeling
+Ende – end
+Erklärung – explanation
+Erinnerung – memory
+Erschöpfung – exhaustion
+Fahne – flag
+Falten – folds
+Feuer – fire
+Flug – flight
+Freude – joy
+Freiheit – freedom
+Freundschaft – friendship
+Furcht – fear
+Gehalt – salary
+Gegner – opponent
+Gelegenheit – opportunity
+Gesamtbild – overall picture
+Gewohnheit – habit
+Glück – happiness, luck
+Größe – size, greatness
+Haltung – posture, attitude
+Herausforderung – challenge
+Hoffnung – hope
+Hunger – hunger
+Kampf – fight
+Kanzlei – office, law firm
+Klarheit – clarity
+Konzentration – concentration
+Kraft – strength
+Lage – situation, location
+Lächeln – smile
+Leben – life
+Lüge – lie
+Mut – courage
+Mühe – effort
+Nacht – night
+Neugier – curiosity
+Not – need, distress
+Passant – passerby
+Panik – panic
+Platz – place, square
+Punkt – point
+Qual – torment, agony
+Rache – revenge
+Rückkehr – return
+Schicksal – destiny, fate
+Schmerz – pain
+Schuld – guilt
+Sicht – sight, view
+Sicherheit – security, safety
+Sinn – sense, meaning
+Sorgen – worries
+Stellung – position
+Stille – silence
+Sturm – storm
+Tat – deed, action
+Trennung – separation
+Trotz – despite
+Verabredung – appointment
+Verhältnis – relationship, condition
+Vernunft – reason
+Vertrauen – trust
+Verwaltung – administration, management
+Verschwinden – disappearance
+Verzögerung – delay
+Vorstellung – idea, presentation
+Wagen – car, vehicle
+Wahrheit – truth
+Wiedersehen – reunion
+Woche – week
+Zahlen – numbers
+Ziel – goal, destination
+Zorn – wrath, anger

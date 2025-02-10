@@ -1,3 +1,6 @@
+# Adds support of mobile device screens
+# Usage: put to a dir and run, fixes all files in the dir
+
 import glob
 import re
 

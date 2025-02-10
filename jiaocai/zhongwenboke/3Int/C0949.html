@@ -1,14 +1,485 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" />
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<style>
-body { width:auto;line-height:1.3em;margin:5% 5%;padding:0;border:0;float:none !important;color:black;background:transparent none;font-size:14pt;font-family:Arial,Verdana;} h1 {font-size:20pt}
-</style>
-<title>Intermediate - Fat Camp</title>
-</head>
-<body><h1>Intermediate - Fat Camp <span style="font-size:50%">(C0949)</span></h1>
-<table>
-<tr><td>A</td><td>小胖，你又偷吃！</td></tr><tr><td></td><td>Xiǎopàng, nǐ yòu tōuchī! </td></tr><tr><td></td><td>Fatty, you are sneaking food again!</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>没，没有！</td></tr><tr><td></td><td>méi, méiyǒu! </td></tr><tr><td></td><td>No!  No, I'm not!</td></tr><tr><td></td><tr></td></tr><tr><td>A</td><td>别藏了，让我看看！好啊你，又吃薯片！那是什么？</td></tr><tr><td></td><td>bié cáng le , ràng wǒ kànkan! hǎoa nǐ, yòu chī shǔpiàn! nà shì  shénme? </td></tr><tr><td></td><td>Quit hiding it and let me see!  All right, you... eating potato chips again! What is that?</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>可乐。</td></tr><tr><td></td><td>kělè. </td></tr><tr><td></td><td>Cola.</td></tr><tr><td></td><tr></td></tr><tr><td>A</td><td>谁让你买的？</td></tr><tr><td></td><td>shéi ràng nǐ mǎi de? </td></tr><tr><td></td><td>Who let you buy that?</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>我好久没吃了，都快饿傻了。</td></tr><tr><td></td><td>wǒ hǎojiǔ méi chī le, dōu kuài è shǎ le. </td></tr><tr><td></td><td>I haven't eaten these things in ages.  I'm about to lose it, I'm so hungry.</td></tr><tr><td></td><tr></td></tr><tr><td>A</td><td>饿了吃个苹果就好。干吗吃这些垃圾食品？</td></tr><tr><td></td><td>è le chī ge píngguǒ jiù hǎo. gànmá chī zhè xiē lājī shípǐn? </td></tr><tr><td></td><td>If you are hungry, just eat an apple.  What are you doing eating that junk food?</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>苹果没味道。</td></tr><tr><td></td><td>píngguǒ méi wèidao. </td></tr><tr><td></td><td>Apples have no taste.</td></tr><tr><td></td><tr></td></tr><tr><td>A</td><td>你看你胖的。再偷吃这些热量高的东西，就送你去小胖子训练营！</td></tr><tr><td></td><td>nǐ kàn nǐ pàng de. zài tōuchī zhèxiē rèliàng gāo de dōngxi, jiù sòng nǐ qù xiǎo pàngzi xùnliàn yíng! </td></tr><tr><td></td><td>Look how fat you are. If you sneak anymore high calorie things, I'm going to send you to fat camp!</td></tr><tr><td></td><tr></td></tr></table><h1>Key Vocabulary</h1><table><tr><td>偷吃</td><td>tōuchī</td><td>to eat on the sly</td></tr><tr><td>藏</td><td>cáng</td><td>to conceal</td></tr><tr><td>薯片</td><td>shǔpiàn</td><td>potato chip</td></tr><tr><td>让</td><td>ràng</td><td>to let</td></tr><tr><td>垃圾食品</td><td>lājī shípǐn</td><td>junk food</td></tr><tr><td>味道</td><td>wèidao</td><td>flavor</td></tr><tr><td>再</td><td>zài</td><td>again</td></tr><tr><td>热量</td><td>rèliàng</td><td>calorie</td></tr><tr><td>送</td><td>sòng</td><td>to send</td></tr><tr><td>胖子</td><td>pàngzi</td><td>fat person</td></tr><tr><td>训练</td><td>xùnliàn</td><td>to train</td></tr><tr><td>营</td><td>yíng</td><td>camp</td></tr></table><h1>Supplementary Vocabulary</h1><table><tr><td>夏令营</td><td>xiàlìngyíng</td><td>summer camp</td></tr><tr><td>体重</td><td>tǐzhòng</td><td>body weight</td></tr><tr><td>减肥</td><td>jiǎnféi</td><td>to lose weight</td></tr><tr><td>运动</td><td>yùndòng</td><td>to exercise</td></tr><tr><td>零食</td><td>língshí</td><td>snack</td></tr><tr><td>卡路里</td><td>kǎlùlǐ</td><td>calorie</td></tr></table></body>
+<!DOCTYPE html>
+
+<html lang="zh-Hans">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="style.css" rel="stylesheet"/>
+  <title>
+   Intermediate - Fat Camp
+  </title>
+ </head>
+ <body data-bs-theme="dark">
+  <div class="container">
+   <h1>
+    Intermediate - Fat Camp
+    <span style="font-size:50%">
+     (C0949)
+    </span>
+   </h1>
+   <table>
+    <tr>
+     <td>
+      A
+     </td>
+     <td>
+      小胖，你又偷吃！
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      Xiǎopàng, nǐ yòu tōuchī!
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      Fatty, you are sneaking food again!
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       B
+      </td>
+      <td>
+       没，没有！
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       méi, méiyǒu!
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       No!  No, I'm not!
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <tr>
+      </tr>
+      <tr>
+       <td>
+        A
+       </td>
+       <td>
+        别藏了，让我看看！好啊你，又吃薯片！那是什么？
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        bié cáng le , ràng wǒ kànkan! hǎoa nǐ, yòu chī shǔpiàn! nà shì  shénme?
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        Quit hiding it and let me see!  All right, you... eating potato chips again! What is that?
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <tr>
+       </tr>
+       <tr>
+        <td>
+         B
+        </td>
+        <td>
+         可乐。
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         kělè.
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         Cola.
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <tr>
+        </tr>
+        <tr>
+         <td>
+          A
+         </td>
+         <td>
+          谁让你买的？
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          shéi ràng nǐ mǎi de?
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          Who let you buy that?
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <tr>
+         </tr>
+         <tr>
+          <td>
+           B
+          </td>
+          <td>
+           我好久没吃了，都快饿傻了。
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <td>
+           wǒ hǎojiǔ méi chī le, dōu kuài è shǎ le.
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <td>
+           I haven't eaten these things in ages.  I'm about to lose it, I'm so hungry.
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <tr>
+          </tr>
+          <tr>
+           <td>
+            A
+           </td>
+           <td>
+            饿了吃个苹果就好。干吗吃这些垃圾食品？
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <td>
+            è le chī ge píngguǒ jiù hǎo. gànmá chī zhè xiē lājī shípǐn?
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <td>
+            If you are hungry, just eat an apple.  What are you doing eating that junk food?
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <tr>
+           </tr>
+           <tr>
+            <td>
+             B
+            </td>
+            <td>
+             苹果没味道。
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <td>
+             píngguǒ méi wèidao.
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <td>
+             Apples have no taste.
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <tr>
+            </tr>
+            <tr>
+             <td>
+              A
+             </td>
+             <td>
+              你看你胖的。再偷吃这些热量高的东西，就送你去小胖子训练营！
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <td>
+              nǐ kàn nǐ pàng de. zài tōuchī zhèxiē rèliàng gāo de dōngxi, jiù sòng nǐ qù xiǎo pàngzi xùnliàn yíng!
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <td>
+              Look how fat you are. If you sneak anymore high calorie things, I'm going to send you to fat camp!
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <tr>
+             </tr>
+            </tr>
+           </tr>
+          </tr>
+         </tr>
+        </tr>
+       </tr>
+      </tr>
+     </tr>
+    </tr>
+   </table>
+   <h1>
+    Key Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      偷吃
+     </td>
+     <td>
+      tōuchī
+     </td>
+     <td>
+      to eat on the sly
+     </td>
+    </tr>
+    <tr>
+     <td>
+      藏
+     </td>
+     <td>
+      cáng
+     </td>
+     <td>
+      to conceal
+     </td>
+    </tr>
+    <tr>
+     <td>
+      薯片
+     </td>
+     <td>
+      shǔpiàn
+     </td>
+     <td>
+      potato chip
+     </td>
+    </tr>
+    <tr>
+     <td>
+      让
+     </td>
+     <td>
+      ràng
+     </td>
+     <td>
+      to let
+     </td>
+    </tr>
+    <tr>
+     <td>
+      垃圾食品
+     </td>
+     <td>
+      lājī shípǐn
+     </td>
+     <td>
+      junk food
+     </td>
+    </tr>
+    <tr>
+     <td>
+      味道
+     </td>
+     <td>
+      wèidao
+     </td>
+     <td>
+      flavor
+     </td>
+    </tr>
+    <tr>
+     <td>
+      再
+     </td>
+     <td>
+      zài
+     </td>
+     <td>
+      again
+     </td>
+    </tr>
+    <tr>
+     <td>
+      热量
+     </td>
+     <td>
+      rèliàng
+     </td>
+     <td>
+      calorie
+     </td>
+    </tr>
+    <tr>
+     <td>
+      送
+     </td>
+     <td>
+      sòng
+     </td>
+     <td>
+      to send
+     </td>
+    </tr>
+    <tr>
+     <td>
+      胖子
+     </td>
+     <td>
+      pàngzi
+     </td>
+     <td>
+      fat person
+     </td>
+    </tr>
+    <tr>
+     <td>
+      训练
+     </td>
+     <td>
+      xùnliàn
+     </td>
+     <td>
+      to train
+     </td>
+    </tr>
+    <tr>
+     <td>
+      营
+     </td>
+     <td>
+      yíng
+     </td>
+     <td>
+      camp
+     </td>
+    </tr>
+   </table>
+   <h1>
+    Supplementary Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      夏令营
+     </td>
+     <td>
+      xiàlìngyíng
+     </td>
+     <td>
+      summer camp
+     </td>
+    </tr>
+    <tr>
+     <td>
+      体重
+     </td>
+     <td>
+      tǐzhòng
+     </td>
+     <td>
+      body weight
+     </td>
+    </tr>
+    <tr>
+     <td>
+      减肥
+     </td>
+     <td>
+      jiǎnféi
+     </td>
+     <td>
+      to lose weight
+     </td>
+    </tr>
+    <tr>
+     <td>
+      运动
+     </td>
+     <td>
+      yùndòng
+     </td>
+     <td>
+      to exercise
+     </td>
+    </tr>
+    <tr>
+     <td>
+      零食
+     </td>
+     <td>
+      língshí
+     </td>
+     <td>
+      snack
+     </td>
+    </tr>
+    <tr>
+     <td>
+      卡路里
+     </td>
+     <td>
+      kǎlùlǐ
+     </td>
+     <td>
+      calorie
+     </td>
+    </tr>
+   </table>
+  </div>
+ </body>
 </html>

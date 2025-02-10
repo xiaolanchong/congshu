@@ -1,22 +1,415 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" />
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style>
-body { width:auto;line-height:1.3em;margin:5% 5%;padding:0;border:0;float:none !important;color:black;background:transparent none;font-size:14pt;font-family:Arial,Verdana;} h1 {font-size:20pt}
-</style>
-<title>Intermediate - Transferring a Call</title>
-</head>
-<body><h1>Intermediate - Transferring a Call <span style="font-size:50%">(C0552)</span></h1>
-<table>
-<tr><td>A</td><td>你好，真美公司。</td></tr><tr><td></td><td>nǐhǎo, Zhēnměi Gōngsī. 
-</td></tr><tr><td></td><td>Hello, Truly Beautiful Incorporated.</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>你好。请帮我转总经理办公室。</td></tr><tr><td></td><td>nǐhǎo. qǐng bāng wǒ zhuǎn zǒngjīnglǐ bàngōngshì. 
-</td></tr><tr><td></td><td>Hi. Please transfer me to the general manager's office.</td></tr><tr><td></td><tr></td></tr><tr><td>C</td><td>这里是总经理办公室，请问您哪位？</td></tr><tr><td></td><td>zhèlǐ shì zǒngjīnglǐ bàngōngshì, qǐng wèn nín nǎ wèi? 
-</td></tr><tr><td></td><td>General manager's office, may I ask who's calling?</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>我是五星公司的。前两天我跟你们王总约好了。不知道他现在方便通话吗？</td></tr><tr><td></td><td>wǒ shì Wǔxīng gōngsī de. qián liǎng tiān wǒ gēn nǐmen Wáng Zǒng yuē hǎo le. bù zhīdào tā xiànzài fāngbiàn tōnghuà ma? 
-</td></tr><tr><td></td><td>I'm from Five Star Incorporated. A couple days ago I made an appointment with Mr. Wang. Is he available to talk now?</td></tr><tr><td></td><tr></td></tr><tr><td>C</td><td>非常抱歉，王总正在开会。</td></tr><tr><td></td><td>fēicháng bàoqiàn, Wáng zǒng zhèngzài kāihuì. 
-</td></tr><tr><td></td><td>I'm very sorry, but Mr. Wang is in a meeting now.</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>他什么时候能开完？</td></tr><tr><td></td><td>tā shénme shíhou néng kāi wán? 
-</td></tr><tr><td></td><td>When will the meeting conclude?</td></tr><tr><td></td><tr></td></tr><tr><td>C</td><td>大概一个小时吧。</td></tr><tr><td></td><td>dàgài yī ge xiǎoshí ba. 
-</td></tr><tr><td></td><td>In about an hour.</td></tr><tr><td></td><tr></td></tr><tr><td>B</td><td>好的，那我一个小时以后再打来。</td></tr><tr><td></td><td>hǎo de, nà wǒ yī ge xiǎoshí yǐhòu zài dǎ lái. 
-</td></tr><tr><td></td><td>OK, then I'll call back in an hour.</td></tr><tr><td></td><tr></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><tr></td></tr></table><h1>Key Vocabulary</h1><table><tr><td>转</td><td>zhuǎn</td><td>to transfer</td></tr><tr><td>约好了</td><td>yuē hǎo le</td><td>to have arranged</td></tr><tr><td>方便</td><td>fāngbiàn</td><td>convenient</td></tr><tr><td>通话</td><td>tōnghuà</td><td>to speak on the telephone</td></tr><tr><td>开会</td><td>kāihuì</td><td>to attend a meeting</td></tr><tr><td>大概</td><td>dàgài</td><td>roughly; approximately; probably</td></tr><tr><td>以后</td><td>yǐhòu</td><td>after</td></tr></table><h1>Supplementary Vocabulary</h1><table><tr><td>总机</td><td>zǒngjī</td><td>switchboard; operator</td></tr><tr><td>分机</td><td>fēnjī</td><td>telephone extension</td></tr><tr><td>留言</td><td>liúyán</td><td>to leave a message</td></tr><tr><td>回电话</td><td>huí diànhuà</td><td>to return a phone call</td></tr><tr><td>预约</td><td>yùyuē</td><td>to make an appointment</td></tr></table></body>
+<!DOCTYPE html>
+
+<html lang="zh-Hans">
+ <head>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="style.css" rel="stylesheet"/>
+  <title>
+   Intermediate - Transferring a Call
+  </title>
+ </head>
+ <body data-bs-theme="dark">
+  <div class="container">
+   <h1>
+    Intermediate - Transferring a Call
+    <span style="font-size:50%">
+     (C0552)
+    </span>
+   </h1>
+   <table>
+    <tr>
+     <td>
+      A
+     </td>
+     <td>
+      你好，真美公司。
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      nǐhǎo, Zhēnměi Gōngsī.
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      Hello, Truly Beautiful Incorporated.
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       B
+      </td>
+      <td>
+       你好。请帮我转总经理办公室。
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       nǐhǎo. qǐng bāng wǒ zhuǎn zǒngjīnglǐ bàngōngshì.
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       Hi. Please transfer me to the general manager's office.
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <tr>
+      </tr>
+      <tr>
+       <td>
+        C
+       </td>
+       <td>
+        这里是总经理办公室，请问您哪位？
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        zhèlǐ shì zǒngjīnglǐ bàngōngshì, qǐng wèn nín nǎ wèi?
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        General manager's office, may I ask who's calling?
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <tr>
+       </tr>
+       <tr>
+        <td>
+         B
+        </td>
+        <td>
+         我是五星公司的。前两天我跟你们王总约好了。不知道他现在方便通话吗？
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         wǒ shì Wǔxīng gōngsī de. qián liǎng tiān wǒ gēn nǐmen Wáng Zǒng yuē hǎo le. bù zhīdào tā xiànzài fāngbiàn tōnghuà ma?
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         I'm from Five Star Incorporated. A couple days ago I made an appointment with Mr. Wang. Is he available to talk now?
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <tr>
+        </tr>
+        <tr>
+         <td>
+          C
+         </td>
+         <td>
+          非常抱歉，王总正在开会。
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          fēicháng bàoqiàn, Wáng zǒng zhèngzài kāihuì.
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          I'm very sorry, but Mr. Wang is in a meeting now.
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <tr>
+         </tr>
+         <tr>
+          <td>
+           B
+          </td>
+          <td>
+           他什么时候能开完？
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <td>
+           tā shénme shíhou néng kāi wán?
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <td>
+           When will the meeting conclude?
+          </td>
+         </tr>
+         <tr>
+          <td>
+          </td>
+          <tr>
+          </tr>
+          <tr>
+           <td>
+            C
+           </td>
+           <td>
+            大概一个小时吧。
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <td>
+            dàgài yī ge xiǎoshí ba.
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <td>
+            In about an hour.
+           </td>
+          </tr>
+          <tr>
+           <td>
+           </td>
+           <tr>
+           </tr>
+           <tr>
+            <td>
+             B
+            </td>
+            <td>
+             好的，那我一个小时以后再打来。
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <td>
+             hǎo de, nà wǒ yī ge xiǎoshí yǐhòu zài dǎ lái.
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <td>
+             OK, then I'll call back in an hour.
+            </td>
+           </tr>
+           <tr>
+            <td>
+            </td>
+            <tr>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr>
+             <td>
+             </td>
+             <tr>
+             </tr>
+            </tr>
+           </tr>
+          </tr>
+         </tr>
+        </tr>
+       </tr>
+      </tr>
+     </tr>
+    </tr>
+   </table>
+   <h1>
+    Key Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      转
+     </td>
+     <td>
+      zhuǎn
+     </td>
+     <td>
+      to transfer
+     </td>
+    </tr>
+    <tr>
+     <td>
+      约好了
+     </td>
+     <td>
+      yuē hǎo le
+     </td>
+     <td>
+      to have arranged
+     </td>
+    </tr>
+    <tr>
+     <td>
+      方便
+     </td>
+     <td>
+      fāngbiàn
+     </td>
+     <td>
+      convenient
+     </td>
+    </tr>
+    <tr>
+     <td>
+      通话
+     </td>
+     <td>
+      tōnghuà
+     </td>
+     <td>
+      to speak on the telephone
+     </td>
+    </tr>
+    <tr>
+     <td>
+      开会
+     </td>
+     <td>
+      kāihuì
+     </td>
+     <td>
+      to attend a meeting
+     </td>
+    </tr>
+    <tr>
+     <td>
+      大概
+     </td>
+     <td>
+      dàgài
+     </td>
+     <td>
+      roughly; approximately; probably
+     </td>
+    </tr>
+    <tr>
+     <td>
+      以后
+     </td>
+     <td>
+      yǐhòu
+     </td>
+     <td>
+      after
+     </td>
+    </tr>
+   </table>
+   <h1>
+    Supplementary Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      总机
+     </td>
+     <td>
+      zǒngjī
+     </td>
+     <td>
+      switchboard; operator
+     </td>
+    </tr>
+    <tr>
+     <td>
+      分机
+     </td>
+     <td>
+      fēnjī
+     </td>
+     <td>
+      telephone extension
+     </td>
+    </tr>
+    <tr>
+     <td>
+      留言
+     </td>
+     <td>
+      liúyán
+     </td>
+     <td>
+      to leave a message
+     </td>
+    </tr>
+    <tr>
+     <td>
+      回电话
+     </td>
+     <td>
+      huí diànhuà
+     </td>
+     <td>
+      to return a phone call
+     </td>
+    </tr>
+    <tr>
+     <td>
+      预约
+     </td>
+     <td>
+      yùyuē
+     </td>
+     <td>
+      to make an appointment
+     </td>
+    </tr>
+   </table>
+  </div>
+ </body>
 </html>

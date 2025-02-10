@@ -1,19 +1,434 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" />
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<style>
-body { width:auto;line-height:1.3em;margin:5% 5%;padding:0;border:0;float:none !important;color:black;background:transparent none;font-size:14pt;font-family:Arial,Verdana;} h1 {font-size:20pt}
-</style>
-<title>Intermediate - Airplane Arrival</title>
-</head>
-<body><h1>Intermediate - Airplane Arrival <span style="font-size:50%">(C0906)</span></h1>
-<table>
-<tr><td></td><td>各位乘客：</td></tr><tr><td></td><td>gèwèi chéngkè: 
-</td></tr><tr><td></td><td>All passengers,</td></tr><tr><td></td><tr></td></tr><tr><td></td><td>本架飞机预计在北京时间16点20分，当地时间3点20分到达机场。</td></tr><tr><td></td><td>běn jià fēijī yùjì zài Běijīng shíjiān shí liù diǎn èr shí fēn, dāngdì shíjiān sān diǎn èr shí fēn dàodá jīchǎng. 
-</td></tr><tr><td></td><td>This aircraft is scheduled to arrive at 4:20pm Beijing time.  The local time at our destination upon arrival will be 3:20am.</td></tr><tr><td></td><tr></td></tr><tr><td></td><td>芝加哥地面温度21.2摄氏度，55.8华氏度。</td></tr><tr><td></td><td>Zhījiāgē dìmiàn wēndù èr shí yī diǎn èr shèshìdù, wǔ shí wǔ diǎn bā huáshìdù. 
-</td></tr><tr><td></td><td>The temperature in Chicago is 21.2 degrees Celsius, 55.8 degrees Fahrenheit.</td></tr><tr><td></td><tr></td></tr><tr><td></td><td>据最新天气预报，当地天气为晴天。</td></tr><tr><td></td><td>jù zuì xīn tiānqì yùbào, dāngdì tiānqì wéi qíngtiān. 
-</td></tr><tr><td></td><td>According to the latest local forecast there are clear skies.</td></tr><tr><td></td><tr></td></tr><tr><td></td><td>感谢您乘坐美国航空公司的航班。</td></tr><tr><td></td><td>gǎnxiè nín chéngzuò Měiguó hángkōng gōngsī de hángbān. 
-</td></tr><tr><td></td><td>Thank you for flying with American Airlines.</td></tr><tr><td></td><tr></td></tr></table><h1>Key Vocabulary</h1><table><tr><td>各位</td><td>gèwèi</td><td>each</td></tr><tr><td>乘客</td><td>chéngkè</td><td>passenger</td></tr><tr><td>飞机</td><td>fēijī</td><td>airplane</td></tr><tr><td>预计</td><td>yùjì</td><td>to estimate</td></tr><tr><td>北京时间</td><td>Běijīng shíjiān</td><td>Beijing time</td></tr><tr><td>当地</td><td>dāngdì</td><td>local</td></tr><tr><td>到达</td><td>dàodá</td><td>to arrive at</td></tr><tr><td>机场</td><td>jīchǎng</td><td>airport</td></tr><tr><td>芝加哥</td><td>Zhījiāgē</td><td>Chicago</td></tr><tr><td>地面</td><td>dìmiàn</td><td>ground</td></tr><tr><td>温度</td><td>wēndù</td><td>temperature</td></tr><tr><td>摄氏度</td><td>shèshìdù</td><td>degrees Celsius</td></tr><tr><td>华氏度</td><td>huáshìdù</td><td>degrees Fahrenheit</td></tr><tr><td>据</td><td>jù</td><td>according to</td></tr><tr><td>天气预报</td><td>tiānqì yùbào</td><td>weather forecast</td></tr><tr><td>晴天</td><td>qíngtiān</td><td>clear sky</td></tr><tr><td>乘坐</td><td>chéngzuò</td><td>to ride as a passenger</td></tr><tr><td>美国航空公司</td><td>Měiguó hángkōng gōngsī</td><td>American Airlines</td></tr><tr><td>航班</td><td>hángbān</td><td>airline flight</td></tr></table><h1>Supplementary Vocabulary</h1><table><tr><td>登机</td><td>dēngjī</td><td>to board a plane</td></tr><tr><td>安检</td><td>ānjiǎn</td><td>security check</td></tr><tr><td>出发</td><td>chūfā</td><td>to set out</td></tr><tr><td>降落</td><td>jiàngluò</td><td>to land</td></tr><tr><td>时差</td><td>shíchā</td><td>time difference</td></tr></table></body>
+<!DOCTYPE html>
+
+<html lang="zh-Hans">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="style.css" rel="stylesheet"/>
+  <title>
+   Intermediate - Airplane Arrival
+  </title>
+ </head>
+ <body data-bs-theme="dark">
+  <div class="container">
+   <h1>
+    Intermediate - Airplane Arrival
+    <span style="font-size:50%">
+     (C0906)
+    </span>
+   </h1>
+   <table>
+    <tr>
+     <td>
+     </td>
+     <td>
+      各位乘客：
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      gèwèi chéngkè:
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      All passengers,
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       本架飞机预计在北京时间16点20分，当地时间3点20分到达机场。
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       běn jià fēijī yùjì zài Běijīng shíjiān shí liù diǎn èr shí fēn, dāngdì shíjiān sān diǎn èr shí fēn dàodá jīchǎng.
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <td>
+       This aircraft is scheduled to arrive at 4:20pm Beijing time.  The local time at our destination upon arrival will be 3:20am.
+      </td>
+     </tr>
+     <tr>
+      <td>
+      </td>
+      <tr>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        芝加哥地面温度21.2摄氏度，55.8华氏度。
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        Zhījiāgē dìmiàn wēndù èr shí yī diǎn èr shèshìdù, wǔ shí wǔ diǎn bā huáshìdù.
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <td>
+        The temperature in Chicago is 21.2 degrees Celsius, 55.8 degrees Fahrenheit.
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+       <tr>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         据最新天气预报，当地天气为晴天。
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         jù zuì xīn tiānqì yùbào, dāngdì tiānqì wéi qíngtiān.
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+         According to the latest local forecast there are clear skies.
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <tr>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          感谢您乘坐美国航空公司的航班。
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          gǎnxiè nín chéngzuò Měiguó hángkōng gōngsī de hángbān.
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          Thank you for flying with American Airlines.
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <tr>
+         </tr>
+        </tr>
+       </tr>
+      </tr>
+     </tr>
+    </tr>
+   </table>
+   <h1>
+    Key Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      各位
+     </td>
+     <td>
+      gèwèi
+     </td>
+     <td>
+      each
+     </td>
+    </tr>
+    <tr>
+     <td>
+      乘客
+     </td>
+     <td>
+      chéngkè
+     </td>
+     <td>
+      passenger
+     </td>
+    </tr>
+    <tr>
+     <td>
+      飞机
+     </td>
+     <td>
+      fēijī
+     </td>
+     <td>
+      airplane
+     </td>
+    </tr>
+    <tr>
+     <td>
+      预计
+     </td>
+     <td>
+      yùjì
+     </td>
+     <td>
+      to estimate
+     </td>
+    </tr>
+    <tr>
+     <td>
+      北京时间
+     </td>
+     <td>
+      Běijīng shíjiān
+     </td>
+     <td>
+      Beijing time
+     </td>
+    </tr>
+    <tr>
+     <td>
+      当地
+     </td>
+     <td>
+      dāngdì
+     </td>
+     <td>
+      local
+     </td>
+    </tr>
+    <tr>
+     <td>
+      到达
+     </td>
+     <td>
+      dàodá
+     </td>
+     <td>
+      to arrive at
+     </td>
+    </tr>
+    <tr>
+     <td>
+      机场
+     </td>
+     <td>
+      jīchǎng
+     </td>
+     <td>
+      airport
+     </td>
+    </tr>
+    <tr>
+     <td>
+      芝加哥
+     </td>
+     <td>
+      Zhījiāgē
+     </td>
+     <td>
+      Chicago
+     </td>
+    </tr>
+    <tr>
+     <td>
+      地面
+     </td>
+     <td>
+      dìmiàn
+     </td>
+     <td>
+      ground
+     </td>
+    </tr>
+    <tr>
+     <td>
+      温度
+     </td>
+     <td>
+      wēndù
+     </td>
+     <td>
+      temperature
+     </td>
+    </tr>
+    <tr>
+     <td>
+      摄氏度
+     </td>
+     <td>
+      shèshìdù
+     </td>
+     <td>
+      degrees Celsius
+     </td>
+    </tr>
+    <tr>
+     <td>
+      华氏度
+     </td>
+     <td>
+      huáshìdù
+     </td>
+     <td>
+      degrees Fahrenheit
+     </td>
+    </tr>
+    <tr>
+     <td>
+      据
+     </td>
+     <td>
+      jù
+     </td>
+     <td>
+      according to
+     </td>
+    </tr>
+    <tr>
+     <td>
+      天气预报
+     </td>
+     <td>
+      tiānqì yùbào
+     </td>
+     <td>
+      weather forecast
+     </td>
+    </tr>
+    <tr>
+     <td>
+      晴天
+     </td>
+     <td>
+      qíngtiān
+     </td>
+     <td>
+      clear sky
+     </td>
+    </tr>
+    <tr>
+     <td>
+      乘坐
+     </td>
+     <td>
+      chéngzuò
+     </td>
+     <td>
+      to ride as a passenger
+     </td>
+    </tr>
+    <tr>
+     <td>
+      美国航空公司
+     </td>
+     <td>
+      Měiguó hángkōng gōngsī
+     </td>
+     <td>
+      American Airlines
+     </td>
+    </tr>
+    <tr>
+     <td>
+      航班
+     </td>
+     <td>
+      hángbān
+     </td>
+     <td>
+      airline flight
+     </td>
+    </tr>
+   </table>
+   <h1>
+    Supplementary Vocabulary
+   </h1>
+   <table>
+    <tr>
+     <td>
+      登机
+     </td>
+     <td>
+      dēngjī
+     </td>
+     <td>
+      to board a plane
+     </td>
+    </tr>
+    <tr>
+     <td>
+      安检
+     </td>
+     <td>
+      ānjiǎn
+     </td>
+     <td>
+      security check
+     </td>
+    </tr>
+    <tr>
+     <td>
+      出发
+     </td>
+     <td>
+      chūfā
+     </td>
+     <td>
+      to set out
+     </td>
+    </tr>
+    <tr>
+     <td>
+      降落
+     </td>
+     <td>
+      jiàngluò
+     </td>
+     <td>
+      to land
+     </td>
+    </tr>
+    <tr>
+     <td>
+      时差
+     </td>
+     <td>
+      shíchā
+     </td>
+     <td>
+      time difference
+     </td>
+    </tr>
+   </table>
+  </div>
+ </body>
 </html>

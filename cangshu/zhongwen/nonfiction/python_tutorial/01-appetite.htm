@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>01-appetite</title>
+  <style type="text/css">
+  body {
+  font-family: sans-serif, Verdana;
+  margin-top: 3ex;
+  margin-left: 0;
+  text-align: center;
+  margin-right: 0;
+  /* bootstrap dark theme */
+  background-color: #212529;
+  color: #dee2e6;
+}
+
+.hilite {
+  background-color: #951;
+}
+
+.sl {
+  margin-left: 10ex;
+  margin-bottom: 2ex;
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 90%;
+  white-space: nowrap;
+}
+
+.mid {
+  margin: 0 auto;
+  max-width: 980px;
+  text-align: left;
+}
+
+.content {
+  min-height: 25em;
+  margin-bottom: 0.5em;
+}
+
+.tab {
+  padding: 0 1ex;
+  float: left;
+  position: relative;
+  top: 1px;
+  margin: 0;
+  margin-left: 3px;
+  display: block;
+}
+
+.atab {
+  border: 1px solid #b80;
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+}
+
+.ntab {
+  border: 1px solid #b80;
+  background-color: #eec;
+}
+
+.ntab:hover {
+  background-color: #fff;
+}
+
+.subtab {
+  background-color: #eec;
+  padding: 0 3px;
+}
+
+.subtab:hover {
+  background-color: #fff;
+}
+
+.tab a,
+.atab a,
+.tab a:hover,
+.atab a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.tabs {
+  width: 100%;
+  border-bottom: 1px solid #b80;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+  min-width: 40ex;
+}
+
+.tabs ul {
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #970;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #c00;
+}
+
+.warning {
+  margin-top: 4ex;
+  border: 1px solid #b80;
+  background-color: #ff9;
+  padding: 1ex;
+}
+
+.adt {
+  text-decoration: none
+}
+
+body {
+  position: relative;
+}
+
+#tip {
+  border: 1px solid #333;
+  background-color: #111;
+  padding: 5px;
+  font: normal 1em sans-serif, arial;
+  z-index: 10001;
+  visibility: hidden;
+  position: absolute;
+  _width: 15ex;
+}
+
+font {
+  z-index: 10000;
+}
+
+.ann {
+  cursor: default;
+  z-index: 99;
+}
+
+.iann {
+  text-align: center;
+  white-space: nowrap;
+  display: -moz-inline-box;
+  display: inline-table;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.sann {
+  margin: 0 0.3ex;
+}
+
+.nann {
+  vertical-align: bottom;
+}
+
+#url {
+  width: 99%;
+}
+
+#annotated {
+  padding: 2ex;
+  margin: 0;
+}
+
+#translated {
+  border: 1px solid #b80;
+  padding: 2ex;
+  padding-bottom: 1ex;
+  margin-top: 2ex;
+}
+
+#intro {
+  margin-top: 1ex;
+}
+
+.py {
+  font-size: 80%;
+  color: #c00;
+  display: table-row;
+}
+
+.zy {
+  font-size: 60%;
+  color: #c00;
+  display: table-row;
+}
+
+.zh {
+  display: table-row;
+}
+
+#show_vocab {
+  margin-top: 1em;
+}
+
+#vocab_table {
+  border: 0px;
+  margin: 5px 5px;
+  padding-left: 5px;
+  text-align: left;
+}
+
+#vocab>tr:nth-child(even) {
+  background-color: #111;
+}
+
+.nw {
+  white-space: nowrap;
+}
+
+.nw_num {
+  font-size: small;
+}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/javascript">
+  const text_vocabulary = {"要":[["yào","yāo"],["to want; to need; to ask for/will; shall; about to/need to; should/if (same as 要是[yào shi])/(bound form) important","(bound form) to demand; to coerce"],3,1.0,88,"要"],"一":[["yī"],["one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yāo] for greater clarity when spelling out numbers digit by digit"],2,1.0,18,"一"],"虽然":[["suīrán"],["although; even though (often used correlatively with 可是[kě shì] or 但是[dàn shì] etc)"],1,0.829436286343824,244,"雖然"],"一堆":[["yīduī"],["pile"],5,0.4382913127182004,50,"一堆"],"操作系统":[["cāozuòxìtǒng"],["operating system"],5,0.22135111683854436,232,"操作系統"],"控制":[["kòngzhì"],["to control"],2,0.7672942570421697,591,"控制"],"处理":[["chǔlǐ"],["to handle; to deal with/to punish/to treat sth by a special process; to process/to sell at reduced prices"],2,0.9722736692146633,89,"處理"],"中":[["zhōng","zhòng","Zhōng"],["within; among; in/middle; center/while (doing sth); during/(dialect) OK; all right","to hit (the mark)/to be hit by/to suffer/to win (a prize, a lottery)","(bound form) China; Chinese/surname Zhong"],1,0.4624914171624137,352,"中"],"再":[["zài"],["again; once more; re-/second; another/then (after sth, and not until then)/no matter how ... (followed by an adjective or verb, and then (usually) 也[yě] or 都[dōu] for emphasis)"],1,1.0,100,"再"],"而":[["ér"],["and/as well as/and so/but (not)/yet (not)/(indicates causal relation)/(indicates change of state)/(indicates contrast)"],2,1.0,188,"而"],"如下":[["rúxià"],["as follows"],3,0.6627356209796904,482,"如下"],"编译":[["biānyì"],["to translate and edit/translator-editor/(computing) to compile (source code)"],5,0.4274797054267575,96,"編譯"],"库":[["kù"],["warehouse/storehouse/(file) library"],4,0.6621533214574472,91,"庫"],"查找":[["cházhǎo"],["to search for/to look up"],5,0.14658208054903643,37,"查找"],"通用":[["tōngyòng"],["to use anywhere, anytime (card, ticket etc)/to be used by everyone (language, textbook etc)/(of two or more things) interchangeable"],4,0.4014612925814669,313,"通用"],"设计":[["shèjì"],["to design; to plan/design; plan"],2,1.0,148,"設計"],"图形":[["túxíng"],["picture/figure/diagram/graph/depiction/graphical"],4,0.6584921441744358,564,"圖形"],"会":[["huì","kuài"],["can; to have the skill; to know how to/to be likely to; to be sure to/to meet; to get together/meeting; gathering/(suffix) union; group; association/(bound form) a moment (Taiwan pr. [huǐ])","to balance an account/accounting/accountant"],1,1.0,21,"會"],"表达式":[["biǎodáshì"],["expression (math.)"],5,0.0,723,"表達式"],"节省":[["jiéshěng"],["saving/to save/to use sparingly/to cut down on"],2,0.46869959849735904,415,"節省"],"可是":[["kěshì"],["but; however/(used for emphasis) indeed"],1,0.7273756239655171,251,"可是"],"文件":[["wénjiàn"],["document/file/CL:份[fèn]"],2,0.8132744800584195,35,"文件"],"多多益善":[["duōduōyìshàn"],["the more the better"],5,0.13564576468855394,631,"多多益善"],"内置":[["nèizhì"],["built-in; internal"],5,0.0,296,"內置"],"接":[["jiē"],["to receive/to answer (the phone)/to meet or welcome sb/to connect/to catch/to join/to extend/to take one's turn on duty/to take over for sb"],1,0.7479219391766517,391,"接"],"灵活":[["línghuó"],["flexible/nimble/agile"],2,0.35653148884807506,298,"靈活"],"新":[["xīn","Xīn"],["new/newly/meso- (chemistry)","abbr. for Xinjiang 新疆[Xīnjiāng]/abbr. for Singapore 新加坡[Xīnjiāpō]/surname Xin"],1,0.4168637510625872,150,"新"],"让":[["ràng"],["to yield/to permit/to let sb do sth/to have sb do sth/to make sb (feel sad etc)/by (indicates the agent in a passive clause, like 被[bèi])"],1,1.0,539,"讓"],"太":[["tài"],["highest/greatest/too (much)/very/extremely"],1,0.8122426220111564,105,"太"],"高级":[["gāojí"],["high level/high grade/advanced/high-ranking"],3,0.6433449072363533,291,"高級"],"然后":[["ránhòu"],["then; after that; afterwards"],1,0.7138680534992156,730,"然後"],"括号":[["kuòhào"],["parentheses/brackets"],5,0.23192097615900822,501,"括號"],"蟒蛇":[["mǎngshé"],["python/boa"],5,0.18613336066193809,617,"蟒蛇"],"如":[["rú"],["as/as if/such as"],2,1.0,743,"如"],"学习":[["xuéxí"],["to learn/to study"],1,0.8462962680620634,377,"學習"],"其他":[["qítā"],["other/(sth or sb) else/the rest"],2,1.0,349,"其他"],"类型":[["lèixíng"],["type; kind; category/(computer programming) type"],3,0.5658929912267886,306,"類型"],"现在":[["xiànzài"],["now/at present/at the moment/modern/current/nowadays"],1,0.8882287598922212,633,"現在"],"执行":[["zhíxíng"],["to implement/to carry out/to execute/to run"],2,0.8423848120830555,26,"執行"],"知道":[["zhīdào"],["to know; to become aware of/also pr. [zhī dao]"],1,0.8716519838197005,650,"知道"],"结构":[["jiégòu"],["structure/composition/makeup/architecture/CL:座[zuò],個|个[gè]"],2,0.7033370657529951,262,"結構"],"种":[["zhǒng","zhòng"],["seed/species/kind/type/classifier for types, kinds, sorts","to plant/to grow/to cultivate"],1,0.9252553285856868,472,"種"],"解释器":[["jiěshìqì"],["interpreter (computing)"],5,0.0,422,"解釋器"],"变量":[["biànliàng"],["variable (math.)"],5,0.24121607040464027,510,"變量"],"单调乏味":[["dāndiàofáwèi"],["monotonous/dull/tedious (idiom)"],5,0.12115255484681961,687,"單調乏味"],"但":[["dàn"],["but; yet; however; still/merely; only; just"],2,1.0,93,"但"],"版":[["bǎn"],["a register/block of printing/edition/version/page"],4,1.0,210,"版"],"调用":[["diàoyòng"],["to transfer (for a specific purpose)/to allocate/(computing) to invoke (a command, an application etc)"],5,0.188475121123248,388,"調用"],"电脑":[["diànnǎo"],["computer/CL:臺|台[tái]"],3,1.0,13,"電腦"],"同":[["tóng","tòng"],["like/same/similar/together/alike/with","see 衚衕|胡同[hú tòng]"],2,0.1771517967456907,471,"衕"],"细节":[["xìjié"],["details; particulars"],4,0.40556015995584765,645,"細節"],"那么":[["nàme"],["like that/in that way/or so/so/so very much/about/in that case"],1,0.7172283160477528,153,"那麼"],"分组":[["fēnzǔ"],["to divide into groups/group (formed from a larger group)/subgroup/(computer networking) packet"],5,0.44064828995937977,505,"分組"],"手":[["shǒu"],["hand/(formal) to hold/person engaged in certain types of work/person skilled in certain types of work/personal(ly)/convenient/classifier for skill/CL:雙|双[shuāng],隻|只[zhī]"],1,0.7764297238671612,691,"手"],"规则":[["guīzé"],["rule/regulation/rules and regulations"],3,0.5931186568173783,45,"規則"],"这":[["zhè"],["(pronoun) this; these/(bound form) this; the (followed by a noun)/(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"],1,1.0,122,"這"],"编写":[["biānxiě"],["to compile"],5,0.37136860447696196,58,"編寫"],"跃跃欲试":[["yuèyuèyùshì"],["to be eager to give sth a try (idiom)"],5,0.21696575452208985,639,"躍躍欲試"],"乏味":[["fáwèi"],["tedious"],5,0.23253534174260068,127,"乏味"],"替换":[["tìhuàn"],["to exchange; to replace; to substitute for; to switch"],4,0.2743231901730485,39,"替換"],"不论":[["bùlùn"],["whatever/no matter what (who, how etc)/regardless of/not to discuss"],2,0.5412292498057553,537,"不論"],"专业":[["zhuānyè"],["specialty/specialized field/main field of study (at university)/major/CL:門|门[mén],個|个[gè]/professional"],2,0.8800461671581677,83,"專業"],"慢":[["màn"],["slow"],1,0.4735557125880282,106,"慢"],"该":[["gāi"],["should/ought to/probably/must be/to deserve/to owe/to be sb's turn to do sth/that/the above-mentioned"],2,0.973234972673194,592,"該"],"利用":[["lìyòng"],["to exploit/to make use of/to use/to take advantage of/to utilize"],1,0.8850828186473899,42,"利用"],"临时":[["línshí"],["as the time draws near/at the last moment/temporary/interim/ad hoc"],2,0.5194715314868763,439,"臨時"],"异常":[["yìcháng"],["unusual; abnormal/extremely; exceptionally"],2,0.5054079070614222,745,"異常"],"短":[["duǎn"],["short/brief/to lack/weak point/fault"],1,0.590669694209601,477,"短"],"爬行动物":[["páxíngdòngwù"],["reptile"],5,0.16131090848761323,611,"爬行動物"],"最佳":[["zuìjiā"],["optimum/optimal/peak/best (athlete, movie etc)"],5,0.7726209022015361,655,"最佳"],"想":[["xiǎng"],["to think (about)/to think of; to devise/to think (that); to believe (that)/to desire; to want (to)/to miss (feel wistful about the absence of)"],1,0.8896527170446138,22,"想"],"模块":[["mókuài"],["module (in software)/functional unit/component part"],5,0.13862877270947882,345,"模塊"],"核心":[["héxīn"],["core; nucleus"],4,0.4643807226057154,540,"核心"],"对":[["duì"],["right; correct/towards; at; for/concerning; regarding/to treat (sb a certain way)/to face/(bound form) opposite; facing; matching/to match together; to adjust/to fit; to suit/to answer; to reply/to add; to pour in (a fluid)/to check; to compare/classifier: couple; pair"],2,1.0,32,"對"],"操作":[["cāozuò"],["to work/to operate/to manipulate"],3,0.7166645799811027,40,"操作"],"交互":[["jiāohù"],["mutual/interactive/each other/alternately/in turn/interaction"],5,0.3008004461439141,425,"交互"],"命名":[["mìngmíng"],["to give a name to/to dub/to christen/to designate/named after/naming"],4,0.44446532006973855,602,"命名"],"需要":[["xūyào"],["to need; to want; to demand; to require/needs"],1,0.842783555969371,160,"需要"],"的":[["de","dì","dī","dí"],["of; ~'s (possessive particle)/(used after an attribute)/(used to form a nominal expression)/(used at the end of a declarative sentence for emphasis)/also pr. [dì] or [di] in poetry and songs","(bound form) bull's-eye; target","a taxi; a cab (abbr. for 的士[dī shì])","really and truly"],1,1.0,8,"的"],"改变":[["gǎibiàn"],["to change/to alter/to transform"],1,0.6719264785993703,184,"改變"],"流程":[["liúchéng"],["course/stream/sequence of processes/work flow in manufacturing"],5,0.5663171037864796,104,"流程"],"复":[["fù"],["to go and return/to return/to resume/to return to a normal or original state/to repeat/again/to recover/to restore/to turn over/to reply/to answer/to reply to a letter/to retaliate/to carry out/to repeat/to double/to overlap/complex (not simple)/compound/composite/double/diplo-/duplicate/overlapping/to duplicate/variant of 復|复[fù]/to reply to a letter"],4,0.43663700691277957,353,"覆"],"和":[["hé","hú","hè","Hé","huò","huó"],["(joining two nouns) and; together with; with (Taiwan pr. [hàn])/(math.) sum/to make peace/(sports) to draw; to tie/(bound form) harmonious/(bound form) Japan; Japanese/old variant of 和[hé]/harmonious/old variant of 和[hé]","to complete a set in mahjong or playing cards","to compose a poem in reply (to sb's poem) using the same rhyme sequence/to join in the singing/to chime in with others","surname He","to mix (ingredients) together/to blend/classifier for rinses of clothes/classifier for boilings of medicinal herbs","to combine a powdery substance (flour, plaster etc) with water/Taiwan pr. [huò]"],1,1.0,183,"咊"],"觉得":[["juéde"],["to think that ...; to feel that .../to feel (uncomfortable etc)"],1,0.7729376834237051,121,"覺得"],"解决":[["jiějué"],["to solve; to resolve; to settle (a problem)/to eliminate; to wipe out (an enemy, bandits etc)"],1,0.7327148817453278,323,"解決"],"标准":[["biāozhǔn"],["standard; norm; criterion/(adjective) standard/good; correct; conforming to a standard"],2,0.8107596199106024,361,"標準"],"任务":[["rènwu"],["mission; assignment; task; duty; role/CL:項|项[xiàng],個|个[gè]"],2,0.5462546857004833,28,"任務"],"大家":[["dàjiā"],["everyone/influential family/great expert"],1,0.971745830877691,620,"大家"],"数组":[["shùzǔ"],["(computing) array"],5,0.0,300,"數組"],"使用":[["shǐyòng"],["to use/to employ/to apply/to make use of"],1,1.0,136,"使用"],"因为":[["yīnwèi"],["because/owing to/on account of"],1,1.0,309,"因為"],"一些":[["yīxiē"],["some/a few/a little/(following an adjective) slightly ...er"],1,0.8367288524010972,27,"一些"],"非常":[["fēicháng"],["very; really/unusual; extraordinary"],1,0.7938051473355385,290,"非常"],"实践":[["shíjiàn"],["practice/to put into practice/to live up to (a promise)/to carry out (a project)"],1,0.5034898158902544,659,"實踐"],"配备":[["pèibèi"],["to allocate/to provide/to outfit with"],4,0.5149109076089655,310,"配備"],"针对":[["zhēnduì"],["to target; to focus on; to be aimed at or against; in response to"],2,0.7162461384061237,164,"針對"],"游戏":[["yóuxì"],["game/CL:場|场[chǎng]/to play"],3,0.8420499445738232,78,"遊戲"],"吧":[["ba","bā","biā"],["(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume.","bar (loanword) (serving drinks, or providing Internet access etc)/to puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tiē bā]","(onom.) smack!"],1,0.9003631400072085,647,"吧"],"示例":[["shìlì"],["to illustrate/typical example"],5,0.21544309375771062,709,"示例"],"天":[["tiān"],["day/sky/heaven"],1,0.9921888359935203,19,"天"],"您":[["nín"],["you (courteous, as opposed to informal 你[nǐ])"],1,1.0,7,"您"],"枯燥":[["kūzào"],["dry and dull; uninteresting; tedious"],4,0.21696575452208985,126,"枯燥"],"硬件":[["yìngjiàn"],["hardware"],4,0.16485832285020727,563,"硬件"],"擅长":[["shàncháng"],["to be good at; to be expert in"],4,0.3290707725785161,178,"擅長"],"是":[["shì"],["to be (followed by substantives only)/correct; right; true/(respectful acknowledgement of a command) very well/(adverb for emphatic assertion)/variant of 是[shì]"],1,0.0,11,"昰"],"真是":[["zhēnshi"],["indeed; truly/(coll.) (used to express disapproval, annoyance etc)"],3,0.62522722407823,125,"真是"],"轻而易举":[["qīng'éryìjǔ"],["easy/with no difficulty"],5,0.23314487604484543,429,"輕而易舉"],"例子":[["lìzi"],["case/(for) instance/example/CL:個|个[gè]"],2,0.4591450062539152,695,"例子"],"文档":[["wéndàng"],["(computer) file; document; documentation"],5,0.0,622,"文檔"],"总":[["zǒng"],["general; overall/to sum up/in every case; always; invariably/anyway; after all; eventually; sooner or later/surely/(after a person's name) abbr. for 總經理|总经理[zǒng jīng lǐ] or 總編|总编[zǒng biān] etc"],3,0.9960887844074048,120,"總"],"排序":[["páixù"],["to sort/to arrange in order"],5,0.4980366066714281,49,"排序"],"部分":[["bùfen"],["part/share/section/piece/CL:個|个[gè]"],1,0.7268752620928046,684,"部分"],"只要":[["zhǐyào"],["if only/so long as"],2,0.8003685900306003,567,"只要"],"耗费":[["hàofèi"],["to waste/to spend/to consume/to squander"],4,0.30495421951906604,214,"耗費"],"教程":[["jiàochéng"],["course of study (commonly used in book titles)"],5,0.1743164531208161,666,"教程"],"各种":[["gèzhǒng"],["every kind of; all kinds of; various"],1,0.7981533388904688,434,"各種"],"包括":[["bāokuò"],["to comprise/to include/to involve/to incorporate/to consist of"],2,0.8661866646384115,385,"包括"],"等":[["děng"],["to wait for; to await/by the time; when; till/and so on; etc.; et al./(bound form) class; rank; grade/(bound form) equal to; same as/(used to end an enumeration)/(literary) (plural suffix attached to a personal pronoun or noun)"],2,1.0,303,"等"],"开始":[["kāishǐ"],["to begin/beginning/to start/initial/CL:個|个[gè]"],1,0.8968959605120352,719,"開始"],"表述":[["biǎoshù"],["to express; to articulate; to formulate"],5,0.2122970946663054,492,"表述"],"同时":[["tóngshí"],["at the same time; simultaneously"],1,0.8477144486003418,227,"同時"],"大量":[["dàliàng"],["great amount/large quantity/bulk/numerous/generous/magnanimous"],2,0.5925647366009354,33,"大量"],"正好":[["zhènghǎo"],["just (in time)/just right/just enough/to happen to/to chance to/by chance/it just so happens that"],2,0.37404370127059366,155,"正好"],"开发":[["kāifā"],["to exploit (a resource); to open up (for development); to develop"],3,0.8606762384870167,65,"開發"],"介绍":[["jièshào"],["to introduce (sb to sb)/to give a presentation/to present (sb for a job etc)/introduction"],1,1.0,678,"介紹"],"时候":[["shíhou"],["time/length of time/moment/period"],1,0.6838074138224682,332,"時候"],"声明":[["shēngmíng"],["to state/to declare/statement/declaration/CL:項|项[xiàng],份[fèn]"],3,0.49265574349748975,509,"聲明"],"链接":[["liànjiē"],["link (on a website)"],5,0.0,412,"鏈接"],"也":[["yě","Yě"],["(adverb) also; both ... and ... (before predicates only)/(literary) particle having functions similar to 啊[a]","surname Ye"],1,0.4014006315415511,54,"也"],"问题":[["wèntí"],["question/problem/issue/topic/CL:個|个[gè]"],1,1.0,326,"問題"],"分割":[["fēngē"],["to cut up/to break up"],3,0.458906344643573,343,"分割"],"小型":[["xiǎoxíng"],["small scale/small size"],4,0.5253007135409813,61,"小型"],"无关":[["wúguān"],["unrelated/having nothing to do (with sth else)"],5,0.40942632321590716,612,"無關"],"实现":[["shíxiàn"],["to achieve; to implement; to realize; to bring about"],1,0.48256913702947957,423,"實現"],"提供":[["tígōng"],["to offer/to supply/to provide/to furnish"],2,1.0,257,"提供"],"软件开发人员":[["ruǎnjiànkāifārényuán"],["software developer"],5,0.0,84,"軟件開發人員"],"只":[["zhǐ","zhī"],["only/merely/just/but/variant of 只[zhǐ]/variant of 只[zhǐ]","classifier for birds and certain animals, one of a pair, some utensils, vessels etc/grain that has begun to ripen"],1,0.14407548022459526,205,"秖"],"程序":[["chéngxù"],["procedures/sequence/order/computer program"],3,0.6751747235897564,201,"程序"],"满足":[["mǎnzú"],["to satisfy/to meet (the needs of)/satisfied/content"],2,0.551695816600388,157,"滿足"],"甜点":[["tiándiǎn"],["dessert"],5,0.2571166215891927,4,"甜點"],"用户定义":[["yònghùdìngyì"],["user-defined"],5,0.0,747,"用戶定義"],"可能":[["kěnéng"],["might (happen)/possible/probable/possibility/probability/maybe/perhaps/CL:個|个[gè]"],1,0.876959353247206,55,"可能"],"实例":[["shílì"],["actual example/living example/illustration/demonstration/(computing) instance"],5,0.44234707716688093,381,"實例"],"深入":[["shēnrù"],["to penetrate deeply/thorough"],2,0.5074222323876627,642,"深入"],"更":[["gèng","gēng"],["more/even more/further/still/still more","to change or replace/to experience/one of the five two-hour periods into which the night was formerly divided/watch (e.g. of a sentry or guard)"],1,0.9626638926532206,238,"更"],"在":[["zài"],["to exist; to be alive/(of sb or sth) to be (located) at/(used before a verb to indicate an action in progress)"],1,1.0,348,"在"],"增加":[["zēngjiā"],["to raise; to increase"],1,0.8373979159168232,529,"增加"],"类":[["lèi"],["kind/type/class/category/similar/like/to resemble"],2,1.0,749,"類"],"阅读":[["yuèdú"],["to read/reading"],2,0.6823831844900685,664,"閱讀"],"课":[["kè"],["subject/course/CL:門|门[mén]/class/lesson/CL:堂[táng],節|节[jié]/to levy/tax/form of divination"],1,0.6724584772836687,2,"課"],"重":[["zhòng","chóng"],["heavy/serious/to attach importance to","to repeat/repetition/again/re-/classifier: layer"],1,0.7956599344392125,48,"重"],"易读":[["yìdú"],["legible/readable"],5,0.1950215174742522,466,"易讀"],"它":[["tā"],["it"],1,0.8704411590998491,250,"它"],"引用":[["yǐnyòng"],["to quote; to cite/to recommend; to appoint/(computing) reference"],4,0.4918817336549961,624,"引用"],"字":[["zì"],["letter/symbol/character/word/CL:個|个[gè]/courtesy or style name traditionally given to males aged 20 in dynastic China"],1,0.8489621194741301,392,"字"],"将":[["jiāng","jiàng","qiāng"],["will/shall/to use/to take/to checkmate/just a short while ago/(introduces object of main verb, used in the same way as 把[bǎ])","(bound form) a general/(literary) to command; to lead/(Chinese chess) general (on the black side, equivalent to a king in Western chess)","to desire/to invite/to request"],2,1.0,706,"將"],"基础":[["jīchǔ"],["base; foundation; basis/basic; fundamental"],1,0.6916371461314139,368,"基礎"],"型":[["xíng"],["mold/type/style/model"],4,0.9149028502171989,405,"型"],"上手":[["shàngshǒu"],["to obtain/to master/overhand (serve etc)/seat of honor"],5,0.2797507992635236,526,"上手"],"最后":[["zuìhòu"],["final/last/finally/ultimate"],1,0.8571670421100743,736,"最後"],"与":[["yǔ","yù","yú"],["and/to give/together with","to take part in","variant of 歟|欤[yú]"],2,1.0,301,"與"],"只是":[["zhǐshì"],["merely; only; just; nothing but/simply/but; however"],2,0.7723371357134126,720,"只是"],"试用":[["shìyòng"],["to try sth out/to be on probation"],4,0.5347060334630568,433,"試用"],"不想":[["bùxiǎng"],["do not want"],5,0.49387384884829955,143,"不想"],"或":[["huò"],["maybe/perhaps/might/possibly/or"],5,1.0,64,"或"],"不能":[["bùnéng"],["cannot/must not/should not"],5,0.74911449367547,24,"不能"],"快速":[["kuàisù"],["fast; high-speed; rapid"],4,0.7349733696589011,239,"快速"],"好用":[["hǎoyòng"],["useful/serviceable/effective/handy/easy to use"],5,0.41937214635898046,459,"好用"],"后面":[["hòumian"],["the back; the rear; the last bit/behind; near the end; at the back/later; afterwards"],2,0.458985939884558,693,"後面"],"语言":[["yǔyán"],["language/CL:門|门[mén],種|种[zhǒng]"],1,0.7104382007366677,138,"語言"],"多":[["duō"],["many; much/too many; in excess/(after a numeral) ... odd/how (to what extent) (Taiwan pr. [duó])/(bound form) multi-; poly-"],1,1.0,285,"多"],"解释":[["jiěshì"],["explanation/to explain/to interpret/to resolve/CL:個|个[gè]"],2,0.6007864567692505,404,"解釋"],"边":[["biān","bian"],["side/edge/margin/border/boundary/CL:個|个[gè]/simultaneously","suffix of a noun of locality"],1,0.5916009121315591,663,"邊"],"地":[["dì","de"],["earth/ground/field/place/land/CL:片[piàn]","-ly/structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"],1,0.6514796327852348,240,"地"],"用":[["yòng"],["to use/to employ/to have to/to eat or drink/expense or outlay/usefulness/hence/therefore"],1,1.0,12,"用"],"欢迎":[["huānyíng"],["to welcome/welcome"],1,0.9970061874961282,619,"歡迎"],"个":[["gè","gě"],["(classifier used before a noun that has no specific classifier)/(bound form) individual/variant of 個|个[gè]","used in 自個兒|自个儿[zì gě r]"],1,1.0,60,"箇"],"作为":[["zuòwéi"],["one's conduct/deed/activity/accomplishment/achievement/to act as/as (in the capacity of)/qua/to view as/to look upon (sth as)/to take sth to be"],2,0.70426405043499,80,"作為"],"本":[["běn"],["(bound form) root; stem/(bound form) origin; source/(bound form) one's own; this/(bound form) this; the current (year etc)/(bound form) original/(bound form) inherent/originally; initially/capital; principal/classifier for books, periodicals, files etc"],2,1.0,599,"本"],"照片":[["zhàopiàn"],["photograph/picture/CL:張|张[zhāng],套[tào],幅[fú]"],2,0.6863202662282457,51,"照片"],"工作":[["gōngzuò"],["to work/(of a machine) to operate/job/work/task/CL:個|个[gè],份[fèn],項|项[xiàng]"],1,1.0,9,"工作"],"而且":[["érqiě"],["(not only ...) but also/moreover/in addition/furthermore"],1,0.788836245695563,328,"而且"],"功夫":[["gōngfu"],["skill/art/kung fu/labor/effort"],2,0.4014612925814669,570,"功夫"],"链":[["liàn"],["chain/cable (unit of length: 100 fathoms, about 185 m)/chain (unit of length: 66 feet, about 20 m)/to chain/to enchain"],5,0.4772083599220504,551,"鏈"],"超":[["chāo"],["to exceed/to overtake/to surpass/to transcend/to pass/to cross/ultra-/super-"],2,0.758931685196254,271,"超"],"允许":[["yǔnxǔ"],["to permit/to allow"],2,0.46461105121547225,487,"允許"],"预":[["yù"],["to advance/in advance/beforehand/to prepare"],5,0.5842174675984652,508,"預"],"为":[["wèi","wéi"],["because of/for/to/variant of 為|为[wèi]","as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/variant of 為|为[wéi]"],1,0.0,144,"爲"],"数据":[["shùjù"],["data"],3,0.5544248156878607,186,"數據"],"下":[["xià"],["down/downwards/below/lower/later/next (week etc)/second (of two parts)/to decline/to go down/to arrive at (a decision, conclusion etc)/measure word to show the frequency of an action"],1,1.0,568,"下"],"运行":[["yùnxíng"],["(of celestial bodies etc) to move along one's course/(fig.) to function; to be in operation/(of a train service etc) to operate; to run/(of a computer) to run"],4,0.3132882820933548,545,"運行"],"甚至":[["shènzhì"],["even; so much so that"],3,0.7089313391178146,71,"甚至"],"马戏团":[["mǎxìtuán"],["circus"],5,0.23670536956998625,608,"馬戲團"],"有些":[["yǒuxiē"],["some/somewhat"],3,0.6731406256588897,686,"有些"],"正在":[["zhèngzài"],["just at (that time)/right in (that place)/right in the middle of (doing sth)"],1,0.5959743195874087,111,"正在"],"来":[["lái"],["to come/(used as a substitute for a more specific verb)/hither (directional complement for motion toward the speaker, as in 回來|回来[huílai])/ever since (as in 自古以來|自古以来[zìgǔ yǐlái])/for the past (amount of time)/(prefix) the coming ...; the next ... (as in 來世|来世[láishì])/(between two verbs) in order to/(after a round number) approximately/(used after 得[dé] to indicate possibility, as in 談得來|谈得来[tándelái], or after 不[bù] to indicate impossibility, as in 吃不來|吃不来[chībulái])"],2,1.0,588,"來"],"篇":[["piān"],["sheet/piece of writing/bound set of bamboo slips used for record keeping (old)/classifier for written items: chapter, article"],1,0.8882287598922212,628,"篇"],"章":[["zhāng","Zhāng"],["chapter/section/clause/movement (of symphony)/seal/badge/regulation/order","surname Zhang"],2,0.2631901282467003,677,"章"],"批处理":[["pīchǔlǐ"],["(computing) batch processing"],5,0.0,172,"批處理"],"不":[["bù"],["no; not so/(bound form) not; un-"],1,1.0,189,"不"],"时间":[["shíjiān"],["(concept of) time/(duration of) time/(point in) time"],1,1.0,219,"時間"],"功能":[["gōngnéng"],["function; capability"],3,0.8993705606528883,436,"功能"],"点":[["diǎn"],["point/dot/drop/speck/o'clock/point (in space or time)/to draw a dot/to check on a list/to choose/to order (food in a restaurant)/to touch briefly/to hint/to light/to ignite/to pour a liquid drop by drop/(old) one fifth of a two-hour watch 更[gēng]/dot stroke in Chinese characters/classifier for items"],1,0.8945834707848901,569,"點"],"专用":[["zhuānyòng"],["special/dedicated"],4,0.5616418911884399,66,"專用"],"飞行":[["fēixíng"],["(of planes etc) to fly/flying/flight/aviation"],3,0.5429680061823959,607,"飛行"],"原义":[["yuányì"],["original meaning"],5,0.0,614,"原義"],"速度":[["sùdù"],["speed/rate/velocity/(music) tempo/CL:個|个[gè]"],2,0.6633163896572947,544,"速度"],"给":[["gěi","jǐ"],["to/for/for the benefit of/to give/to allow/to do sth (for sb)/(grammatical equivalent of 被)/(grammatical equivalent of 把)/(sentence intensifier)","to supply/to provide"],1,1.0,112,"給"],"更为":[["gèngwéi"],["even more"],5,0.46529998950448465,222,"更為"],"语句":[["yǔjù"],["sentence"],5,0.23553641844225984,490,"語句"],"你":[["nǐ"],["you (informal, as opposed to courteous 您[nín])/you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"],1,0.8393695218458664,162,"妳"],"这个":[["zhège"],["(pronoun) this/(adjective) this"],1,0.9449850114414161,145,"這個"],"以":[["yǐ","Yǐ"],["to use/by means of/according to/in order to/because of/at (a certain date or place)/old variant of 以[yǐ]/old variant of 以[yǐ]","abbr. for Israel 以色列[Yǐ sè liè]"],2,0.4502574525412524,542,"㠯"],"方式":[["fāngshì"],["way; manner; style; mode; pattern/CL:個|个[gè]"],2,0.9594044572596911,656,"方式"],"在一起":[["zàiyīqǐ"],["together"],5,0.4340256475699569,584,"在一起"],"当作":[["dàngzuò"],["to treat as/to regard as"],2,0.4271839056610778,376,"當作"],"大型":[["dàxíng"],["large/large-scale"],2,0.6134719646526969,267,"大型"],"图形界面":[["túxíngjièmiàn"],["Graphical User Interface (GUI) (computing)"],5,0.0,68,"圖形界面"],"一句":[["yījù"],["a line of verse/a sentence"],5,0.4622142756208383,597,"一句"],"易":[["yì","Yì"],["easy/amiable/to change/to exchange/prefix corresponding to the English adjective suffix \"-able\" or \"-ible\"","surname Yi/abbr. for 易經|易经[Yìjīng], the Book of Changes"],3,0.21711626849017548,224,"易"],"计算器":[["jìsuànqì"],["calculator/calculating machine"],5,0.20001331267658554,461,"計算器"],"主要":[["zhǔyào"],["main; principal; major; primary"],1,0.9608562275856736,10,"主要"],"却":[["què"],["but/yet/however/while/to go back/to decline/to retreat/nevertheless/even though/old variant of 卻|却[què]"],2,0.0,142,"㕁"],"并":[["bìng","Bīng"],["and/furthermore/also/together with/(not) at all/simultaneously/to combine/to join/to merge/to combine/to amalgamate/variant of 並|并[bìng]","short name for Taiyuan 太原[Tài yuán]"],2,0.11143394310785339,234,"竝"],"或许":[["huòxǔ"],["perhaps; maybe"],4,0.5884921422266814,130,"或許"],"软件":[["ruǎnjiàn"],["(computer) software"],4,0.3176984275919521,140,"軟件"],"字典":[["zìdiǎn"],["Chinese character dictionary (containing entries for single characters, contrasted with a 詞典|词典[cí diǎn], which has entries for words of one or more characters)/(coll.) dictionary/CL:本[běn]"],3,0.3924837328758068,302,"字典"],"能":[["néng","Néng"],["can/to be able to/might possibly/ability/(physics) energy","surname Neng"],3,0.34671970792145124,23,"能"],"可以":[["kěyǐ"],["can/may/possible/able to/not bad/pretty good"],2,1.0,163,"可以"],"自底向上":[["zìdǐxiàngshàng"],["bottom-up"],5,0.0,444,"自底向上"],"图形用户界面":[["túxíngyònghùjièmiàn"],["graphical user interface (GUI)"],5,0.0,398,"圖形用戶界面"],"重命名":[["chóngmìngmíng"],["(computing) to rename"],5,0.0,46,"重命名"],"简洁":[["jiǎnjié"],["concise/succinct/pithy"],5,0.28079922787659933,464,"簡潔"],"了":[["liǎo","le","liào"],["to finish/to achieve/variant of 瞭|了[liǎo]/to understand clearly/(of eyes) bright/clear-sighted/to understand clearly","(completed action marker)/(modal particle indicating change of state, situation now)/(modal particle intensifying preceding clause)","unofficial variant of 瞭[liào]"],1,0.29377302037137937,107,"瞭"],"源自":[["yuánzì"],["to originate from"],5,0.3268899316324574,603,"源自"],"很":[["hěn"],["(adverb of degree)/quite/very/awfully"],1,0.9625517508672614,215,"很"],"把":[["bǎ","bà"],["to hold; to grasp/to hold a baby in position to help it urinate or defecate/handlebar/classifier: handful, bundle, bunch/classifier for things with handles/(used to put the object before the verb: 把[bǎ] + {noun} + {verb})","handle"],3,0.9437425210177675,341,"把"],"名":[["míng"],["name/noun (part of speech)/place (e.g. among winners)/famous/classifier for people"],2,1.0,82,"名"],"式":[["shì"],["type/form/pattern/style"],4,0.9437150577684593,426,"式"],"则":[["zé"],["(literary) (conjunction used to express contrast with a previous clause) but; then/(bound form) standard; norm/(bound form) principle/(literary) to imitate; to follow/classifier for written items"],2,1.0,221,"則"],"专门":[["zhuānmén"],["specialist/specialized/customized"],2,0.5812232763902287,147,"專門"],"自动":[["zìdòng"],["automatic/voluntarily"],2,0.7650359752089537,25,"自動"],"系统":[["xìtǒng"],["system/CL:個|个[gè]"],2,1.0,387,"系統"],"应用":[["yìngyòng"],["to put to use; to apply/practical; applied (science, linguistics etc)/application; practical use/(computing) app"],2,0.9002471566277677,69,"應用"],"如果":[["rúguǒ"],["if/in case/in the event that"],2,1.0,6,"如果"],"移动":[["yídòng"],["to move/movement/migration/mobile/portable"],2,0.5069504306387135,181,"移動"],"至关重要":[["zhìguānzhòngyào"],["extremely important/vital/crucial/essential"],5,0.0,699,"至關重要"],"接到":[["jiēdào"],["to receive (letter etc)"],2,0.4012232484254826,552,"接到"],"帮助":[["bāngzhù"],["assistance; aid/to help; to assist"],1,0.6360257986588569,236,"幫助"],"已经":[["yǐjīng"],["already"],1,0.839850517471415,636,"已經"],"还是":[["háishi"],["still (as before)/had better/unexpectedly/or"],1,0.8052904155986601,455,"還是"],"复杂":[["fùzá"],["complicated; complex"],1,0.5093546352097335,43,"複雜"],"数据库":[["shùjùkù"],["database"],5,0.0,62,"數據庫"],"扩展":[["kuòzhǎn"],["to extend/to expand/extension/expansion"],4,0.3888707434099913,137,"擴展"],"小品":[["xiǎopǐn"],["short, simple literary or artistic creation/essay/skit"],5,0.4345891964489427,626,"小品"],"用法":[["yòngfǎ"],["usage"],4,0.3957515707375567,681,"用法"],"就":[["jiù"],["(after a suppositional clause) in that case; then/(after a clause of action) as soon as; immediately after/(same as 就是[jiù shì]) merely; nothing else but; simply; just; precisely; exactly/only; as little as/as much as; as many as/to approach; to move towards/to undertake; to engage in/(often followed by 著|着[zhe]) taking advantage of/(of food) to go with/with regard to; concerning/(pattern: 就[jiù] ... 也[yě] ...) even if ... still .../(pattern: 不[bù] ... 就[jiù] ...) if not ... then must be ..."],3,1.0,431,"就"],"套件":[["tàojiàn"],["kit (equipment)/(bicycle) groupset"],5,0.0,117,"套件"],"了解":[["liǎojiě"],["to understand/to realize/to find out/to understand/to realize/to find out"],1,0.6329532659331065,643,"瞭解"],"参数":[["cānshù"],["parameter"],5,0.4622142756208383,512,"參數"],"完成":[["wánchéng"],["to complete; to accomplish"],1,0.8286936620105454,14,"完成"],"以便":[["yǐbiàn"],["so that/so as to/in order to"],3,0.5181491494468786,347,"以便"],"块":[["kuài"],["lump; chunk; piece/classifier for pieces of cloth, cake, soap etc/(coll.) classifier for money and currency units"],1,0.49584214513716485,504,"塊"],"内容":[["nèiróng"],["content/substance/details/CL:個|个[gè],項|项[xiàng]"],1,1.0,685,"內容"],"适合":[["shìhé"],["to fit; to suit"],2,0.6672619982120039,190,"適合"],"单一":[["dānyī"],["single/only/sole"],5,0.5101098822518451,489,"單一"],"编码":[["biānmǎ"],["to code/to encode/code"],5,0.459383296277685,94,"編碼"],"建议":[["jiànyì"],["to propose; to suggest; to recommend/proposal; suggestion; recommendation/CL:個|个[gè],點|点[diǎn]"],2,0.8972689900168532,661,"建議"],"函数":[["hánshù"],["function (math.)"],5,0.43626681835882064,533,"函數"],"集":[["jí"],["to gather/to collect/collected works/classifier for sections of a TV series etc: episode"],2,0.842346193902249,629,"集"],"又":[["yòu"],["(once) again/also/both... and.../and yet/(used for emphasis) anyway"],1,1.0,129,"又"],"不是":[["bùshi","bùshì"],["fault; blame","no/is not/not"],3,0.8118546593903092,500,"不是"],"编程":[["biānchéng"],["(computing) to program/programming"],5,0.0,254,"編程"],"前":[["qián"],["front/forward/ahead/first/top (followed by a number)/future/ago/before/BC (e.g. 前293年)/former/formerly"],1,1.0,3,"前"],"无需":[["wúxū"],["needless"],5,0.33057194898312386,507,"無需"],"支持":[["zhīchí"],["to be in favor of/to support/to back/support/backing/to stand by/CL:個|个[gè]"],2,0.7318134629984356,228,"支持"],"一种":[["yīzhǒng"],["one kind of; one type of"],5,0.7646576445370502,149,"一種"],"提":[["tí","dī"],["to carry (hanging down from the hand)/to lift/to put forward/to mention/to raise (an issue)/upwards character stroke/lifting brush stroke (in painting)/scoop for measuring liquid","used in 提防[dī fang] and 提溜[dī liu]"],1,0.7789815434784264,596,"提"],"这些":[["zhèxiē"],["these"],1,0.8887991642110946,102,"這些"],"对上":[["duìshàng"],["to fit one into the other/to bring two things into contact"],5,0.26694946385797524,690,"對上"],"比":[["bǐ","Bǐ","bī"],["to compare/(followed by a noun and adjective) more {adj.} than {noun}/ratio/to gesture/(Taiwan pr. [bì] in some compounds derived from Classical Chinese)","Belgium/Belgian/abbr. for 比利時|比利时[Bǐ lì shí]","euphemistic variant of 屄[bī]"],1,0.8584226642360047,282,"比"],"套":[["tào"],["to cover/to encase/cover/sheath/to overlap/to interleave/to model after/to copy/formula/harness/loop of rope/(fig.) to fish for/to obtain slyly/classifier for sets, collections/bend (of a river or mountain range, in place names)/tau (Greek letter Ττ)"],2,0.6119331712293089,390,"套"],"简单":[["jiǎndān"],["simple; not complicated"],1,0.6323455328599615,76,"簡單"],"还":[["huán","hái","Huán"],["to pay back/to return","still/still in progress/still more/yet/even more/in addition/fairly/passably (good)/as early as/even/also/else","surname Huan"],1,0.26997562487168064,284,"還"],"最高":[["zuìgāo"],["tallest/highest/supreme (court etc)"],5,0.6493290949401664,543,"最高"],"远":[["yuǎn","yuàn"],["far/distant/remote/(intensifier in a comparison) by far/much (lower etc)","to distance oneself from (classical)"],1,0.7395810973692244,270,"遠"],"初始":[["chūshǐ"],["initial/starting (point)"],5,0.2858729085783208,209,"初始"],"脚本":[["jiǎoběn"],["script"],5,0.24954605187388407,169,"腳本"],"缩进":[["suōjìn"],["to retreat into; to draw back into/(typography) to indent"],5,0.13862877270947882,497,"縮進"],"正":[["zhèng","zhēng"],["straight/upright/proper/main/principal/to correct/to rectify/exactly/just (at that time)/right (in that place)/(math.) positive","first month of the lunar year"],2,0.9180613880329698,308,"正"],"即使":[["jíshǐ"],["even if; even though"],3,0.5846029626729977,204,"即使"],"错误":[["cuòwù"],["mistaken; false; wrong/error; mistake/CL:個|个[gè]"],1,0.6274193892194614,280,"錯誤"],"也许":[["yěxǔ"],["perhaps/maybe"],1,0.5837151803659459,109,"也許"],"真正":[["zhēnzhèng"],["genuine; real; true/really; indeed"],1,0.6577092680468968,252,"真正"],"代码":[["dàimǎ"],["code"],5,0.5762215048047614,476,"代碼"],"检查":[["jiǎnchá"],["inspection/to examine/to inspect/CL:次[cì]"],4,0.7322253932754008,281,"檢查"],"练习":[["liànxí"],["to practice/exercise/drill/practice/CL:個|个[gè]"],1,0.6119331712293089,673,"練習"],"概念":[["gàiniàn"],["concept/idea/CL:個|个[gè]"],2,0.592268676185474,741,"概念"],"顺便":[["shùnbiàn"],["conveniently/in passing/without much extra effort"],2,0.41947642888509484,595,"順便"],"通常":[["tōngcháng"],["regular; usual; normal/usually; normally"],3,0.6051387403299071,468,"通常"],"说":[["shuō","shuì"],["to speak; to talk; to say/to explain; to comment/to scold; to tell off/(bound form) theory; doctrine/variant of 說|说[shuō]","to persuade"],1,1.0,697,"説"],"测试":[["cèshì"],["to test (machinery etc)/to test (a person's skill in a particular area)/a test/(computing) beta (version of software)"],3,0.7318134629984356,98,"測試"],"项":[["xiàng","Xiàng"],["back of neck/item/thing/term (in a mathematical formula)/sum (of money)/classifier for principles, items, clauses, tasks, research projects etc","surname Xiang"],2,0.2885905415030537,123,"項"],"总有":[["zǒngyǒu"],["inevitably there will be"],5,0.35150255488734305,17,"總有"],"文本":[["wénběn"],["a text (article, script, contract etc)/version of a text (copy, translation, abridged version etc)/(computing) text"],5,0.29646709460025084,34,"文本"],"比如":[["bǐrú"],["for example/for instance/such as"],2,0.3504346866859506,30,"比如"],"长":[["cháng","zhǎng"],["length/long/forever/always/constantly","chief/head/elder/to grow/to develop/to increase/to enhance"],1,0.5511313413514751,216,"長"],"原因":[["yuányīn"],["cause/origin/root cause/reason/CL:個|个[gè]"],2,0.6889940921788097,481,"原因"]}; ;
+  /* exported sP */
+/* global text_vocabulary */
+
+'use strict';
+
+const dI = {
+  over: function (el) {
+    $(el).addClass('hilite');
+  },
+  out: function (el) {
+    $(el).removeClass('hilite');
+  },
+  getX: function (obj) {
+    return (obj.offsetLeft || 0) + (obj.offsetParent && this.getX(obj.offsetParent) || 0);
+  },
+  getY: function (obj) {
+    return (obj.offsetTop || 0) + (obj.offsetParent && this.getY(obj.offsetParent) || 0);
+  },
+  positiontip: function (el, tip) {
+    const innerWidth = window.innerWidth ||
+                       document.documentElement.clientWidth ||
+                       document.body.clientWidth;
+    const innerHeight = window.innerHeight ||
+                        document.documentElement.clientHeight ||
+                        document.body.clientHeight;
+    const scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const elx = this.getX(el);
+    const ely = this.getY(el);
+    if (tip.offsetWidth > 300) {
+      tip.style.width = '300px';
+    }
+    const shift = Math.abs(el.offsetWidth) > 40 ? 40 : Math.abs(el.offsetWidth) / 2;
+    if (innerWidth + scrollLeft - elx - el.offsetWidth < tip.offsetWidth) {
+      tip.style.left = Math.max(elx + shift - tip.offsetWidth, 0) + 'px';
+    } else {
+      tip.style.left = elx + shift + 'px';
+    }
+    if (innerHeight + scrollTop - ely - el.offsetHeight < tip.offsetHeight + 15) {
+      tip.style.top = ely - 3 - tip.offsetHeight + 'px';
+    } else {
+      tip.style.top = ely + 3 + el.offsetHeight + 'px';
+    }
+  },
+  ie: document.all
+};
+
+function sP(el, ev, zh) {
+  const tip = $('#tip')[0];
+  el.onmouseout = function () {
+    tip.style.visibility = 'hidden';
+    tip.style.left = '-1000px';
+    tip.style.top = '-1000px';
+    tip.style.backgroundColor = '';
+    tip.style.width = '';
+    dI.out(el);
+  };
+  dI.over(el);
+  let zh_fallback;
+  if (zh) {
+    zh_fallback = zh;
+  } else if (el.lastChild.nodeValue) {
+    zh_fallback = el.lastChild.nodeValue;
+  } else {
+    zh_fallback = el.lastChild.lastChild.nodeValue;
+  }
+  const item = dI.vocab[zh_fallback];
+  const py = item[0];
+  const en = item[1];
+  const oh = item[5];
+  let other = '';
+  if (zh_fallback !== oh) {
+    for (let i = 0; i < zh_fallback.length; ++i) {
+      other += zh_fallback[i] === oh[i] ? '-' : oh[i];
+    }
+    other = ' [' + other + ']';
+  }
+  let tip_html = `<div style="font-size:150%;color:lightblue">${zh_fallback}${other}</div>`;
+  for (let i = 0; i < py.length; ++i) {
+    const enstr = '• ' + en[i].replace(/([^<])\//g, '$1<br />• ');
+    tip_html += '<div style="font-weight:bold">' + py[i] +
+      '</div><div style="text-align:left;font-size:90%">' + enstr + '</div>';
+  }
+  tip.innerHTML = tip_html;
+  dI.positiontip(el, tip);
+  tip.style.visibility = 'visible';
+}
+
+dI.vocab = text_vocabulary;
+  /* exported show_words */
+/* global text_vocabulary */
+
+'use strict';
+
+const by = {
+  ord: function (a, b) {
+    return a[3] - b[3];
+  },
+  py: function (a, b) {
+    const l = a[1].toLowerCase();
+    const r = b[1].toLowerCase();
+    if (l > r) {
+      return 1;
+    }
+    return l < r ? -1 : 0;
+  },
+  rad: function (a, b) {
+    if (a[0] > b[0]) {
+      return 1;
+    }
+    return a[0] < b[0] ? -1 : 0;
+  },
+  freq: function (a, b) {
+    return b[4] - a[4];
+  }
+};
+
+function vocab_sort(vocab_list, cmp) {
+  const cmp_op = typeof cmp === 'undefined' ? 'ord' : cmp;
+  vocab_list.sort(by[cmp_op]);
+}
+
+// 历史上 ->	歷--
+function create_traditional_item(simplified, traditional) {
+  if (traditional === simplified) {
+    return '';
+  }
+  let result = '';
+  for (let i = 0; i < traditional.length; ++i) {
+    if (i >= simplified.length) {
+      result += traditional[i];
+      continue;
+    }
+    result += simplified[i] === traditional[i] ? '-' : traditional[i];
+  }
+  return result;
+}
+
+function fill_vocab(vocab_list) {
+  const pclass = 'py';
+  $('#vocab').empty();
+  if (vocab_list.length) {
+    $('#vocab').append('<tr><th>№</th><th>Слово (упрощ. иероглифы)</th>' +
+      '<th>Слово (трад. иероглифы)</th><th>Произношение</th><th>Значение</th></tr>');
+  }
+  for (let i = 0, l = vocab_list.length; i < l; ++i) {
+    const trad = create_traditional_item(vocab_list[i][0], vocab_list[i][5]);
+    $('#vocab').append('<tr>' +
+      '<td class="nw_num">' + (i + 1) + '</td>' +
+      '<td class="nw">' + vocab_list[i][0] + '</td>' +
+      '<td class="nw">' + trad + '</td>' +
+      '<td class="nw voc' + pclass + '">' + vocab_list[i][1] + '</td>' +
+      '<td class="nw_def">' + vocab_list[i][2] + '</td>' +
+      '</tr>');
+  }
+}
+
+function add_to_list(vocab_list, vocab_item) {
+  for (let i = 0, l = vocab_item.pronunciations.length; i < l; ++i) {
+    let py = vocab_item.pronunciations[i].replace(/ ([aeoāáǎàēéěèōóǒò])/g, '\'$1');
+    py = py.replace(/ ([^A-Z])/g, '$1');
+    const en = vocab_item.definitions[i].replace(/\//g, ' / ');
+    vocab_list.push([vocab_item.word, py, en, vocab_item.order,
+      vocab_item.frequency, vocab_item.traditional]);
+  }
+}
+
+function show_words() {
+  const vocab = text_vocabulary;
+
+  const vocab_list = [];
+  const vocab_th = parseInt($('#vocab_ls').val(), 10);
+  const sort_by = $('#sort_ls').val();
+
+  for (let k in vocab) {
+    if (!vocab.hasOwnProperty(k)) {
+      continue;
+    }
+    const item = vocab[k];
+    const level = vocab[k][2];
+    const vocab_item = {
+      word: k,
+      pronunciations: item[0],
+      definitions: item[1],
+      frequency: item[3],
+      order: item[4],
+      traditional: item[5],
+      level: level
+    };
+
+    if (level < vocab_th) {
+      continue;
+    }
+    add_to_list(vocab_list, vocab_item);
+  }
+
+  vocab_sort(vocab_list, sort_by);
+  fill_vocab(vocab_list);
+}
+  </script>
+</head>
+<body>
+  <div id="content" class="content mid">
+    <div id="tip" style="text-align: center"></div>
+    <div id="annotated">
+              <span class="nann">1. </span><span class="ann  " onmouseover="sP(this, event)">课</span><span class="ann  " onmouseover="sP(this, event)">前</span><span class="ann  " onmouseover="sP(this, event)">甜点</span><span class="nann"><br /><br /></span><span class="ann  " onmouseover="sP(this, event)">如果</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">工作</span><span class="ann  " onmouseover="sP(this, event)">主要</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="ann  " onmouseover="sP(this, event)">电脑</span><span class="ann  " onmouseover="sP(this, event)">完成</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">总有</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">天</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">会</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">不能</span><span class="ann  " onmouseover="sP(this, event)">自动</span><span class="ann  " onmouseover="sP(this, event)">执行</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">任务</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">比如</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">对</span><span class="ann  " onmouseover="sP(this, event)">大量</span><span class="ann  " onmouseover="sP(this, event)">文本</span><span class="ann  " onmouseover="sP(this, event)">文件</span><span class="ann  " onmouseover="sP(this, event)">执行</span><span class="ann  " onmouseover="sP(this, event)">查找</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">替换</span><span class="ann  " onmouseover="sP(this, event)">操作</span><span class="nann">；</span><span class="ann  " onmouseover="sP(this, event)">利用</span><span class="ann  " onmouseover="sP(this, event)">复杂</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">规则</span><span class="ann  " onmouseover="sP(this, event)">重命名</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">重</span><span class="ann  " onmouseover="sP(this, event)">排序</span><span class="ann  " onmouseover="sP(this, event)">一堆</span><span class="ann  " onmouseover="sP(this, event)">照片</span><span class="ann  " onmouseover="sP(this, event)">文件</span><span class="nann">；</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">可能</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">编写</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">小型</span><span class="ann  " onmouseover="sP(this, event)">数据库</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">专用</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">图形界面</span><span class="ann  " onmouseover="sP(this, event)">应用</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">甚至</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">简单</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">游戏</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">作为</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">名</span><span class="ann  " onmouseover="sP(this, event)">专业</span><span class="ann  " onmouseover="sP(this, event)">软件开发人员</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">可能</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">处理</span><span class="nann"> C/C++/Java </span><span class="ann  " onmouseover="sP(this, event)">库</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">编码</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">编译</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">测试</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">再</span><span class="ann  " onmouseover="sP(this, event)">编译</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">流程</span><span class="ann  " onmouseover="sP(this, event)">太</span><span class="ann  " onmouseover="sP(this, event)">慢</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="nann">；</span><span class="ann  " onmouseover="sP(this, event)">也许</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">正在</span><span class="ann  " onmouseover="sP(this, event)">给</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">库</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">测试</span><span class="ann  " onmouseover="sP(this, event)">套件</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">总</span><span class="ann  " onmouseover="sP(this, event)">觉得</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">项</span><span class="ann  " onmouseover="sP(this, event)">工作</span><span class="ann  " onmouseover="sP(this, event)">真是</span><span class="ann  " onmouseover="sP(this, event)">枯燥</span><span class="ann  " onmouseover="sP(this, event)">乏味</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">又</span><span class="ann  " onmouseover="sP(this, event)">或许</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">使用</span><span class="ann  " onmouseover="sP(this, event)">扩展</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">软件</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">却</span><span class="ann  " onmouseover="sP(this, event)">不想</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="ann  " onmouseover="sP(this, event)">这个</span><span class="ann  " onmouseover="sP(this, event)">软件</span><span class="ann  " onmouseover="sP(this, event)">专门</span><span class="ann  " onmouseover="sP(this, event)">设计</span><span class="ann  " onmouseover="sP(this, event)">一种</span><span class="ann  " onmouseover="sP(this, event)">新</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">那么</span><span class="nann">，Python </span><span class="ann  " onmouseover="sP(this, event)">正好</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">满足</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">需要</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">你</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">针对</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">任务</span><span class="ann  " onmouseover="sP(this, event)">编写</span><span class="nann"> Unix shell </span><span class="ann  " onmouseover="sP(this, event)">脚本</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="nann"> Windows </span><span class="ann  " onmouseover="sP(this, event)">批处理</span><span class="ann  " onmouseover="sP(this, event)">文件</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="nann"> shell </span><span class="ann  " onmouseover="sP(this, event)">脚本</span><span class="ann  " onmouseover="sP(this, event)">擅长</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">移动</span><span class="ann  " onmouseover="sP(this, event)">文件</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">改变</span><span class="ann  " onmouseover="sP(this, event)">文本</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">适合</span><span class="ann  " onmouseover="sP(this, event)">编写</span><span class="nann"> GUI </span><span class="ann  " onmouseover="sP(this, event)">应用</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">游戏</span><span class="nann">。 </span><span class="ann  " onmouseover="sP(this, event)">你</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">编写</span><span class="nann"> C/C++/Java </span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">即使</span><span class="ann  " onmouseover="sP(this, event)">只</span><span class="ann  " onmouseover="sP(this, event)">完成</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">初始</span><span class="ann  " onmouseover="sP(this, event)">版</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">需要</span><span class="ann  " onmouseover="sP(this, event)">耗费</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">长</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">时间</span><span class="nann">。 Python </span><span class="ann  " onmouseover="sP(this, event)">则</span><span class="ann  " onmouseover="sP(this, event)">更为</span><span class="ann  " onmouseover="sP(this, event)">简单</span><span class="ann  " onmouseover="sP(this, event)">易</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">同时</span><span class="ann  " onmouseover="sP(this, event)">支持</span><span class="nann"> Windows, macOS </span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="nann"> Unix </span><span class="ann  " onmouseover="sP(this, event)">操作系统</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">并</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">帮助</span><span class="ann  " onmouseover="sP(this, event)">你</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">快速</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">完成</span><span class="ann  " onmouseover="sP(this, event)">工作</span><span class="nann">。<br /><br />Python </span><span class="ann  " onmouseover="sP(this, event)">虽然</span><span class="ann  " onmouseover="sP(this, event)">简单</span><span class="ann  " onmouseover="sP(this, event)">易</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">可是</span><span class="ann  " onmouseover="sP(this, event)">真正</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">编程</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">提供</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">大量</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="ann  " onmouseover="sP(this, event)">结构</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">也</span><span class="ann  " onmouseover="sP(this, event)">支持</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">大型</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">远</span><span class="ann  " onmouseover="sP(this, event)">超</span><span class="nann"> shell </span><span class="ann  " onmouseover="sP(this, event)">脚本</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">批处理</span><span class="ann  " onmouseover="sP(this, event)">文件</span><span class="nann">；Python </span><span class="ann  " onmouseover="sP(this, event)">提供</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">错误</span><span class="ann  " onmouseover="sP(this, event)">检查</span><span class="ann  " onmouseover="sP(this, event)">比</span><span class="nann"> C </span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="nann">；</span><span class="ann  " onmouseover="sP(this, event)">作为</span><span class="ann  " onmouseover="sP(this, event)">一种</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">非常</span><span class="ann  " onmouseover="sP(this, event)">高级</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="nann">”，</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">内置</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">灵活</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">数组</span><span class="ann  " onmouseover="sP(this, event)">与</span><span class="ann  " onmouseover="sP(this, event)">字典</span><span class="ann  " onmouseover="sP(this, event)">等</span><span class="ann  " onmouseover="sP(this, event)">高级</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="ann  " onmouseover="sP(this, event)">类型</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">正</span><span class="ann  " onmouseover="sP(this, event)">因为</span><span class="ann  " onmouseover="sP(this, event)">配备</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">通用</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="ann  " onmouseover="sP(this, event)">类型</span><span class="nann">，Python </span><span class="ann  " onmouseover="sP(this, event)">比</span><span class="nann"> Awk，</span><span class="ann  " onmouseover="sP(this, event)">甚至</span><span class="nann"> Perl </span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">解决</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">问题</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">而且</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="ann  " onmouseover="sP(this, event)">时候</span><span class="nann">，Python </span><span class="ann  " onmouseover="sP(this, event)">比</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">更</span><span class="ann  " onmouseover="sP(this, event)">简单</span><span class="nann">。<br /><br />Python </span><span class="ann  " onmouseover="sP(this, event)">支持</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">分割</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">以便</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">其他</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">复</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">内置</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">大量</span><span class="ann  " onmouseover="sP(this, event)">标准</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">作为</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">基础</span><span class="nann"> —— </span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="ann  " onmouseover="sP(this, event)">当作</span><span class="ann  " onmouseover="sP(this, event)">学习</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">编程</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">实例</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">这些</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="ann  " onmouseover="sP(this, event)">包括</span><span class="nann"> I/O、</span><span class="ann  " onmouseover="sP(this, event)">系统</span><span class="ann  " onmouseover="sP(this, event)">调用</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">套</span><span class="ann  " onmouseover="sP(this, event)">接</span><span class="ann  " onmouseover="sP(this, event)">字</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">甚至</span><span class="ann  " onmouseover="sP(this, event)">还</span><span class="ann  " onmouseover="sP(this, event)">包括</span><span class="nann"> Tk </span><span class="ann  " onmouseover="sP(this, event)">图形用户界面</span><span class="ann  " onmouseover="sP(this, event)">工作</span><span class="ann  " onmouseover="sP(this, event)">套件</span><span class="nann">。<br /><br />Python </span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">一种</span><span class="ann  " onmouseover="sP(this, event)">解释</span><span class="ann  " onmouseover="sP(this, event)">型</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">不</span><span class="ann  " onmouseover="sP(this, event)">需要</span><span class="ann  " onmouseover="sP(this, event)">编译</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">链接</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">节省</span><span class="ann  " onmouseover="sP(this, event)">大量</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">时间</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">解释器</span><span class="ann  " onmouseover="sP(this, event)">实现</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">交互</span><span class="ann  " onmouseover="sP(this, event)">式</span><span class="ann  " onmouseover="sP(this, event)">操作</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">轻而易举</span><span class="ann  " onmouseover="sP(this, event)">地</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">试用</span><span class="ann  " onmouseover="sP(this, event)">各种</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">功能</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">编写</span><span class="ann  " onmouseover="sP(this, event)">临时</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">自底向上</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">测试</span><span class="ann  " onmouseover="sP(this, event)">功能</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">同时</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">个</span><span class="ann  " onmouseover="sP(this, event)">超</span><span class="ann  " onmouseover="sP(this, event)">好用</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">计算器</span><span class="nann">。<br /><br />Python </span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">简洁</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">易读</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">通常</span><span class="ann  " onmouseover="sP(this, event)">比</span><span class="ann  " onmouseover="sP(this, event)">实现</span><span class="ann  " onmouseover="sP(this, event)">同</span><span class="ann  " onmouseover="sP(this, event)">种</span><span class="ann  " onmouseover="sP(this, event)">功能</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann"> C、C++、Java </span><span class="ann  " onmouseover="sP(this, event)">代码</span><span class="ann  " onmouseover="sP(this, event)">短</span><span class="ann  " onmouseover="sP(this, event)">很</span><span class="ann  " onmouseover="sP(this, event)">多</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">原因</span><span class="ann  " onmouseover="sP(this, event)">如下</span><span class="nann">：<br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">高级</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="ann  " onmouseover="sP(this, event)">类型</span><span class="ann  " onmouseover="sP(this, event)">允许</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">单一</span><span class="ann  " onmouseover="sP(this, event)">语句</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">表述</span><span class="ann  " onmouseover="sP(this, event)">复杂</span><span class="ann  " onmouseover="sP(this, event)">操作</span><span class="nann">；<br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">使用</span><span class="ann  " onmouseover="sP(this, event)">缩进</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">而</span><span class="ann  " onmouseover="sP(this, event)">不是</span><span class="ann  " onmouseover="sP(this, event)">括号</span><span class="ann  " onmouseover="sP(this, event)">实现</span><span class="ann  " onmouseover="sP(this, event)">代码</span><span class="ann  " onmouseover="sP(this, event)">块</span><span class="ann  " onmouseover="sP(this, event)">分组</span><span class="nann">；<br /><br />    </span><span class="ann  " onmouseover="sP(this, event)">无需</span><span class="ann  " onmouseover="sP(this, event)">预</span><span class="ann  " onmouseover="sP(this, event)">声明</span><span class="ann  " onmouseover="sP(this, event)">变量</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">参数</span><span class="nann">。<br /><br />Python “</span><span class="ann  " onmouseover="sP(this, event)">可以</span><span class="ann  " onmouseover="sP(this, event)">扩展</span><span class="nann">”：</span><span class="ann  " onmouseover="sP(this, event)">会</span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="nann"> C </span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">快速</span><span class="ann  " onmouseover="sP(this, event)">上手</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="ann  " onmouseover="sP(this, event)">解释器</span><span class="ann  " onmouseover="sP(this, event)">增加</span><span class="ann  " onmouseover="sP(this, event)">新</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">内置</span><span class="ann  " onmouseover="sP(this, event)">函数</span><span class="ann  " onmouseover="sP(this, event)">或</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">不论</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">让</span><span class="ann  " onmouseover="sP(this, event)">核心</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">以</span><span class="ann  " onmouseover="sP(this, event)">最高</span><span class="ann  " onmouseover="sP(this, event)">速度</span><span class="ann  " onmouseover="sP(this, event)">运行</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">还是</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">链</span><span class="ann  " onmouseover="sP(this, event)">接到</span><span class="ann  " onmouseover="sP(this, event)">只</span><span class="ann  " onmouseover="sP(this, event)">提供</span><span class="ann  " onmouseover="sP(this, event)">预</span><span class="ann  " onmouseover="sP(this, event)">编译</span><span class="ann  " onmouseover="sP(this, event)">程序</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">库</span><span class="nann">（</span><span class="ann  " onmouseover="sP(this, event)">比如</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">硬件</span><span class="ann  " onmouseover="sP(this, event)">图形</span><span class="ann  " onmouseover="sP(this, event)">库</span><span class="nann">）。</span><span class="ann  " onmouseover="sP(this, event)">只要</span><span class="ann  " onmouseover="sP(this, event)">下</span><span class="ann  " onmouseover="sP(this, event)">点</span><span class="ann  " onmouseover="sP(this, event)">功夫</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">就</span><span class="ann  " onmouseover="sP(this, event)">能</span><span class="ann  " onmouseover="sP(this, event)">把</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">解释器</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="nann"> C </span><span class="ann  " onmouseover="sP(this, event)">开发</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">应用</span><span class="ann  " onmouseover="sP(this, event)">链接</span><span class="ann  " onmouseover="sP(this, event)">在一起</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">用</span><span class="ann  " onmouseover="sP(this, event)">它</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">扩展</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">控制</span><span class="ann  " onmouseover="sP(this, event)">该</span><span class="ann  " onmouseover="sP(this, event)">应用</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">顺便</span><span class="ann  " onmouseover="sP(this, event)">提</span><span class="ann  " onmouseover="sP(this, event)">一句</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">命名</span><span class="ann  " onmouseover="sP(this, event)">源自</span><span class="nann"> BBC </span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="nann"> “Monty Python </span><span class="ann  " onmouseover="sP(this, event)">飞行</span><span class="ann  " onmouseover="sP(this, event)">马戏团</span><span class="nann">”，</span><span class="ann  " onmouseover="sP(this, event)">与</span><span class="ann  " onmouseover="sP(this, event)">爬行动物</span><span class="ann  " onmouseover="sP(this, event)">无关</span><span class="nann">（Python </span><span class="ann  " onmouseover="sP(this, event)">原义</span><span class="ann  " onmouseover="sP(this, event)">为</span><span class="nann">“</span><span class="ann  " onmouseover="sP(this, event)">蟒蛇</span><span class="nann">”）。</span><span class="ann  " onmouseover="sP(this, event)">欢迎</span><span class="ann  " onmouseover="sP(this, event)">大家</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="ann  " onmouseover="sP(this, event)">文档</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">引用</span><span class="nann"> Monty Python </span><span class="ann  " onmouseover="sP(this, event)">小品</span><span class="ann  " onmouseover="sP(this, event)">短</span><span class="ann  " onmouseover="sP(this, event)">篇</span><span class="ann  " onmouseover="sP(this, event)">集</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">多多益善</span><span class="nann">！<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">现在</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">已经</span><span class="ann  " onmouseover="sP(this, event)">对</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">跃跃欲试</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">想</span><span class="ann  " onmouseover="sP(this, event)">深入</span><span class="ann  " onmouseover="sP(this, event)">了解</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">细节</span><span class="ann  " onmouseover="sP(this, event)">了</span><span class="ann  " onmouseover="sP(this, event)">吧</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">要</span><span class="ann  " onmouseover="sP(this, event)">知道</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">学习</span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">最佳</span><span class="ann  " onmouseover="sP(this, event)">方式</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">上手</span><span class="ann  " onmouseover="sP(this, event)">实践</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">建议</span><span class="ann  " onmouseover="sP(this, event)">您</span><span class="ann  " onmouseover="sP(this, event)">边</span><span class="ann  " onmouseover="sP(this, event)">阅读</span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">教程</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">边</span><span class="ann  " onmouseover="sP(this, event)">在</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">解释器</span><span class="ann  " onmouseover="sP(this, event)">中</span><span class="ann  " onmouseover="sP(this, event)">练习</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">下</span><span class="ann  " onmouseover="sP(this, event)">一</span><span class="ann  " onmouseover="sP(this, event)">章</span><span class="ann  " onmouseover="sP(this, event)">介绍</span><span class="ann  " onmouseover="sP(this, event)">解释器</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">用法</span><span class="nann">。</span><span class="ann  " onmouseover="sP(this, event)">这</span><span class="ann  " onmouseover="sP(this, event)">部分</span><span class="ann  " onmouseover="sP(this, event)">内容</span><span class="ann  " onmouseover="sP(this, event)">有些</span><span class="ann  " onmouseover="sP(this, event)">单调乏味</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">但</span><span class="ann  " onmouseover="sP(this, event)">对上</span><span class="ann  " onmouseover="sP(this, event)">手</span><span class="ann  " onmouseover="sP(this, event)">实践</span><span class="ann  " onmouseover="sP(this, event)">后面</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">例子</span><span class="ann  " onmouseover="sP(this, event)">来</span><span class="ann  " onmouseover="sP(this, event)">说</span><span class="ann  " onmouseover="sP(this, event)">却</span><span class="ann  " onmouseover="sP(this, event)">至关重要</span><span class="nann">。<br /><br /></span><span class="ann  " onmouseover="sP(this, event)">本</span><span class="ann  " onmouseover="sP(this, event)">教程</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">其他</span><span class="ann  " onmouseover="sP(this, event)">部分</span><span class="ann  " onmouseover="sP(this, event)">将</span><span class="ann  " onmouseover="sP(this, event)">利用</span><span class="ann  " onmouseover="sP(this, event)">各种</span><span class="ann  " onmouseover="sP(this, event)">示例</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">介绍</span><span class="nann"> Python </span><span class="ann  " onmouseover="sP(this, event)">语言</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">系统</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">功能</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">开始</span><span class="ann  " onmouseover="sP(this, event)">只是</span><span class="ann  " onmouseover="sP(this, event)">简单</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">表达式</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">语句</span><span class="ann  " onmouseover="sP(this, event)">和</span><span class="ann  " onmouseover="sP(this, event)">数据</span><span class="ann  " onmouseover="sP(this, event)">类型</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">然后</span><span class="ann  " onmouseover="sP(this, event)">是</span><span class="ann  " onmouseover="sP(this, event)">函数</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">模块</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">最后</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">介绍</span><span class="ann  " onmouseover="sP(this, event)">一些</span><span class="ann  " onmouseover="sP(this, event)">高级</span><span class="ann  " onmouseover="sP(this, event)">概念</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">如</span><span class="nann">，</span><span class="ann  " onmouseover="sP(this, event)">异常</span><span class="nann">、</span><span class="ann  " onmouseover="sP(this, event)">用户定义</span><span class="ann  " onmouseover="sP(this, event)">的</span><span class="ann  " onmouseover="sP(this, event)">类</span><span class="ann  " onmouseover="sP(this, event)">等</span><span class="ann  " onmouseover="sP(this, event)">功能</span><span class="nann">。</span> 
+    </div>
+    <div id="show_vocab">
+      <div id="vocab_rg">
+       <label for="vocab">
+          Показать слова
+          <select name="vocab" id="vocab_ls" style="margin-top:.7ex">
+             <option value="1">все</option>
+             <option value="2">HSK 2 и выше</option>
+             <option value="3" selected="selected">HSK 3 и выше</option>
+             <option value="4">HSK 4 и выше</option>
+             <option value="5">вне HSK</option>
+             <option value="6">ничего</option>
+          </select>
+       </label>
+       <label for="sort">
+          Сортировать по 
+          <select name="sort" id="sort_ls" style="margin-top:.7ex">
+             <option value="ord" selected="selected">первому появлению</option>
+             <option value="py">произношению</option>
+             <option value="rad">ключу иероглифа</option>
+             <option value="freq">частоте</option>
+          </select>
+       </label>
+      </div>
+      <button type="button" onclick="show_words()">Показать слова</button>
+    </div>
+  </div>
+    <table id="vocab_table" style="border:0">
+      <tbody id="vocab"> </tbody>
+    </table>
+</body>
+</html>

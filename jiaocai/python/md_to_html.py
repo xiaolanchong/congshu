@@ -153,7 +153,7 @@ def run():
     )$
     """, re.VERBOSE)
     entities = []
-    with open('../zhongwen/counter_words/4.md', encoding='utf8') as f:
+    with open('../zhongwen/counter_words/5.md', encoding='utf8') as f:
         cur_entity: typing.Optional[Entity] = None
         for line in f.readlines():
             line = line.strip()

@@ -4,9 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" >
     <title>Beginner's Topik Grammar</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script src="../../../panel/panel.js"></script>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
 		      rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 			  
+	<link href="../../../panel/panel.css" rel="stylesheet">
 	<style>
 		h2, h3, h4, div.meaning { margin-top: 0.5em; margin-bottom: 0.5em;}
 		.example { 
@@ -17,6 +20,11 @@
 	</style>
   </head>
   <body data-bs-theme="dark">
+  		<div id="toggle-panel">
+		  <label><input type="checkbox" id="chk-source"> Source</label>
+		  <label><input type="checkbox" id="chk-translation"> Translation</label>
+		</div>
+		
 	<div class="container">
 		<h1>Beginner's Korean Grammar</h1>
 		
@@ -25,6 +33,8 @@
 			<a href="https://stardict.uber.space/ko">Stardict Korean-English Dictionary (2007)</a> и 
 			<a href="https://krdict.korean.go.kr/eng/mainAction">Korean-English Learners' Dictionary</a>
 		</div>
+		
+
 
 <h2> Падежные частицы обстоятельства (부사격조사) </h2>
 
@@ -32,148 +42,148 @@
 
 <div class="meaning"> 1. Положение в пространстве  (장소) </div>
 
-<div class="example">누님은 부산∼ 산다 Сестра живет в Пусане.</div>
-<div class="example">문∼ 서 있다. Стоять в двери.</div>
-<div class="example">창가∼ 서 있다. Стоять у окна.</div>
-<div class="example">왼손∼만 장갑을 끼고 있다 Перчатка надета только на левую руку.</div>
-<div class="example">나는 지금 백부님 집∼ 머물고 있다. Остановиться I am staying at my uncle's[with my uncle].</div>
-<div class="example">해는 서쪽∼ 진다. Солнце заходит на западе.</div>
-<div class="example">종이∼ 이름을 쓰시오. Напишите имя на бумаге.</div>
-<div class="example">그는 벽∼ 몸을 기대었다. Прислоняться к стене.</div>
+<div class="example"><span class="source">누님은 부산∼ 산다</span> <span class="translation">Сестра живет в Пусане.</span></div>
+<div class="example"><span class="source">문∼ 서 있다. </span><span class="translation">Стоять в двери.</span></div>
+<div class="example"><span class="source">창가∼ 서 있다. </span><span class="translation">Стоять у окна.</span></div>
+<div class="example"><span class="source">왼손∼만 장갑을 끼고 있다 </span><span class="translation">Перчатка надета только на левую руку.</span></div>
+<div class="example"><span class="source">나는 지금 백부님 집∼ 머물고 있다. </span><span class="translation">Остановиться I am staying at my uncle's[with my uncle].</span></div>
+<div class="example"><span class="source">해는 서쪽∼ 진다. </span><span class="translation">Солнце заходит на западе.</span></div>
+<div class="example"><span class="source">종이∼ 이름을 쓰시오. </span><span class="translation">Напишите имя на бумаге.</span></div>
+<div class="example"><span class="source">그는 벽∼ 몸을 기대었다. </span><span class="translation">Прислоняться к стене.</span></div>
 
 <div class="meaning"> 2. Направление, цель (방향)</div>
 
-<div class="example">싸움터∼ 나가다 Идти на фронт.</div>
-<div class="example">내일 부산∼ 간다 Завтра еду в Пусан.</div>
-<div class="example">언제 당신은 집∼ 도착할 것인가요 Когда вы прибудете домой?</div>
-<div class="example">홍차∼ 설탕을 더 넣어라 Положить больше сахара в чай.</div>
-<div class="example">10∼ 3을 더하다 Прибавить 3 к 10.</div>
-<div class="example">물∼ 담그다 Замочить в воде.</div>
-<div class="example">젖은 셔츠를 불∼ 말렸다 Высушил мокрую футболку на (вблизи) огня.</div>
+<div class="example"><span class="source">싸움터∼ 나가다 </span><span class="translation">Идти на фронт.</span></div>
+<div class="example"><span class="source">내일 부산∼ 간다 </span><span class="translation">Завтра еду в Пусан.</span></div>
+<div class="example"><span class="source">언제 당신은 집∼ 도착할 것인가요 </span><span class="translation">Когда вы прибудете домой?</span></div>
+<div class="example"><span class="source">홍차∼ 설탕을 더 넣어라 </span><span class="translation">Положить больше сахара в чай.</span></div>
+<div class="example"><span class="source">10∼ 3을 더하다 </span><span class="translation">Прибавить 3 к 10.</span></div>
+<div class="example"><span class="source">물∼ 담그다 </span><span class="translation">Замочить в воде.</span></div>
+<div class="example"><span class="source">젖은 셔츠를 불∼ 말렸다 </span><span class="translation">Высушил мокрую футболку на (вблизи) огня.</span></div>
 
 <div class="meaning"> 3. Момент времени (час, день, месяц, год, возраст, период, эпоха, ...) (시간, 연령) </div>
 
-<div class="example">1시∼ В 1ч.</div>
-<div class="example">정오[새벽]∼ В полдень at noon[dawn].</div>
-<div class="example">오전중[아침]∼ Утром.</div>
-<div class="example">한밤중∼ Глубокой ночью.</div>
-<div class="example">3월∼ В марте.</div>
-<div class="example">1995년∼ В 1995 гду.</div>
-<div class="example">7월 2일 아침∼ Утром 2-го июля.</div>
-<div class="example">일요일∼ В воскресенье.</div>
-<div class="example">그는 10세∼ 소나타를 작곡했다 He composed a sonata at (the age of) ten.</div>
-<div class="example">만년∼ В старости.</div>
-<div class="example">고대[현대]∼ В древние (современное) время.</div>
-<div class="example">그는 3년후∼ 돌아올 예정이다. Он должен вернуться домой через 3 года.</div>
+<div class="example"><span class="source">1시∼ </span><span class="translation">В 1ч.</span></div>
+<div class="example"><span class="source">정오[새벽]∼ </span><span class="translation">В полдень at noon[dawn].</span></div>
+<div class="example"><span class="source">오전중[아침]∼ </span><span class="translation">Утром.</span></div>
+<div class="example"><span class="source">한밤중∼ </span><span class="translation">Глубокой ночью.</span></div>
+<div class="example"><span class="source">3월∼ </span><span class="translation">В марте.</span></div>
+<div class="example"><span class="source">1995년∼ </span><span class="translation">В 1995 гду.</span></div>
+<div class="example"><span class="source">7월 2일 아침∼ </span><span class="translation">Утром 2-го июля.</span></div>
+<div class="example"><span class="source">일요일∼ </span><span class="translation">В воскресенье.</span></div>
+<div class="example"><span class="source">그는 10세∼ 소나타를 작곡했다 </span><span class="translation">He composed a sonata at (the age of) ten.</span></div>
+<div class="example"><span class="source">만년∼ </span><span class="translation">В старости.</span></div>
+<div class="example"><span class="source">고대[현대]∼ </span><span class="translation">В древние (современное) время.</span></div>
+<div class="example"><span class="source">그는 3년후∼ 돌아올 예정이다. </span><span class="translation">Он должен вернуться домой через 3 года.</span></div>
 
 <div class="meaning"> 4. Цена (штук за денежную единицу), частота (раз за промежуток времени), доли, части (비율) </div>
 
-<div class="example">한 벌의 양복을 3만 원∼ 팔다 Продать один костюм за 3000 вон.</div>
-<div class="example">한스웨터를 5,000원∼ 샀다 Купил свитер за 5000 вон</div>
-<div class="example">이 잡지는 1년∼ 4번 발행된다 Журнал издается 4 раз за год.</div>
-<div class="example">사과는 5개∼ 2000원이었다 5 яблок за 2000 вон.</div>
-<div class="example">한 사람∼ 한 다스 씩 연필을 가지고 있었다 У каждого по дюжине карандашей.</div>
+<div class="example"><span class="source">한 벌의 양복을 3만 원∼ 팔다 </span><span class="translation">Продать один костюм за 3000 вон.</span></div>
+<div class="example"><span class="source">한스웨터를 5,000원∼ 샀다 </span><span class="translation">Купил свитер за 5000 вон</span></div>
+<div class="example"><span class="source">이 잡지는 1년∼ 4번 발행된다 </span><span class="translation">Журнал издается 4 раз за год.</span></div>
+<div class="example"><span class="source">사과는 5개∼ 2000원이었다 5 </span><span class="translation">яблок за 2000 вон.</span></div>
+<div class="example"><span class="source">한 사람∼ 한 다스 씩 연필을 가지고 있었다 </span><span class="translation">У каждого по дюжине карандашей.</span></div>
 
 <div class="meaning"> 5. Критерий, стандарт сравнения, отношение (비교·관계·표준) </div>
 
-<div class="example">건강∼ 좋다  хорошо для здоровья.</div>
-<div class="example">질문∼ 대답하다 Ответить на вопрос.</div>
-<div class="example">그는 형∼ 비하면 키가 작다 В сравнении со старшим братом, он довольно низок.</div>
-<div class="example">그는 그 사건∼ 관련되어 있다 От имеет отношение к тому проишествию.</div>
-<div class="example">청색 바탕∼ 금빛 글자 Золотые буквы на синем фоне.</div>
-<div class="example">시계를 시보∼ 맞추다 Настроить время по сигналам точного времени.</div>
-<div class="example">값은 크기∼ 따라 다르다 Цена разнится по размеру.</div>
+<div class="example"><span class="source">건강∼ 좋다  </span><span class="translation">хорошо для здоровья.</span></div>
+<div class="example"><span class="source">질문∼ 대답하다 </span><span class="translation">Ответить на вопрос.</span></div>
+<div class="example"><span class="source">그는 형∼ 비하면 키가 작다 </span><span class="translation">В сравнении со старшим братом, он довольно низок.</span></div>
+<div class="example"><span class="source">그는 그 사건∼ 관련되어 있다 </span><span class="translation">От имеет отношение к тому проишествию.</span></div>
+<div class="example"><span class="source">청색 바탕∼ 금빛 글자 </span><span class="translation">Золотые буквы на синем фоне.</span></div>
+<div class="example"><span class="source">시계를 시보∼ 맞추다 </span><span class="translation">Настроить время по сигналам точного времени.</span></div>
+<div class="example"><span class="source">값은 크기∼ 따라 다르다 </span><span class="translation">Цена разнится по размеру.</span></div>
 
 <div class="meaning">  6. Причина физического, психического состояния (이유·원인·수단·대조) </div>
 
-<div class="example">더위∼ 시달리다 Страдать от жары.</div>
-<div class="example">그들은 추위∼ 떨었다 Они дрожат от холода.</div>
-<div class="example">바늘∼ 찔리다 Проколотый уголкой.</div>
-<div class="example">돌∼ 맞다 Ударенный камнем.</div>
-<div class="example">비∼ 젖다 Намокнуть от дождя.</div>
-<div class="example">눈∼ 덮이다 Покрытый снегом</div>
-<div class="example">총(알)∼ 맞다 Пораженный пулей.</div>
+<div class="example"><span class="source">더위∼ 시달리다 </span><span class="translation">Страдать от жары.</span></div>
+<div class="example"><span class="source">그들은 추위∼ 떨었다 </span><span class="translation">Они дрожат от холода.</span></div>
+<div class="example"><span class="source">바늘∼ 찔리다 </span><span class="translation">Проколотый уголкой.</span></div>
+<div class="example"><span class="source">돌∼ 맞다 </span><span class="translation">Ударенный камнем.</span></div>
+<div class="example"><span class="source">비∼ 젖다 </span><span class="translation">Намокнуть от дождя.</span></div>
+<div class="example"><span class="source">눈∼ 덮이다 </span><span class="translation">Покрытый снегом</span></div>
+<div class="example"><span class="source">총(알)∼ 맞다 </span><span class="translation">Пораженный пулей.</span></div>
 
 <h3> 에서 </h3>
 
 <div class="meaning"> 1. Место действия </div>
-<div class="example">슈퍼마켓∼ 산 쇠고기 Говядина, купленная в супермаркете.</div>
-<div class="example">안양∼ 버스를 내리다 Сойти с автобуса в Аняне.</div>
-<div class="example">강∼ 헤엄을 치다 Плавать в реке.</div>
-<div class="example">해안∼ 놀다 Играть на берегу.</div>
-<div class="example">서울∼만 팔리다 Продаваться только в Сеуле.</div>
-<div class="example">한국∼도 산출되다 Производиться и в Корее.</div>
-<div class="example">농장∼ 일하다 Работать на ферме.</div>
-<div class="example">2층∼ 자다 Спать на 2-м этаже.</div>
-<div class="example">거리∼ 우연히 그를 만났다 Повстречать его на улице.</div>
+<div class="example"><span class="source">슈퍼마켓∼ 산 쇠고기 </span><span class="translation">Говядина, купленная в супермаркете.</span></div>
+<div class="example"><span class="source">안양∼ 버스를 내리다 </span><span class="translation">Сойти с автобуса в Аняне.</span></div>
+<div class="example"><span class="source">강∼ 헤엄을 치다 </span><span class="translation">Плавать в реке.</span></div>
+<div class="example"><span class="source">해안∼ 놀다 </span><span class="translation">Играть на берегу.</span></div>
+<div class="example"><span class="source">서울∼만 팔리다 </span><span class="translation">Продаваться только в Сеуле.</span></div>
+<div class="example"><span class="source">한국∼도 산출되다 </span><span class="translation">Производиться и в Корее.</span></div>
+<div class="example"><span class="source">농장∼ 일하다 </span><span class="translation">Работать на ферме.</span></div>
+<div class="example"><span class="source">2층∼ 자다 </span><span class="translation">Спать на 2-м этаже.</span></div>
+<div class="example"><span class="source">거리∼ 우연히 그를 만났다 </span><span class="translation">Повстречать его на улице.</span></div>
 
 <div class="meaning"> 2. Отправной пункт, из места (от 에서 до 까지)</div>
 
-<div class="example">서울∼ 부산까지 от Сеула до Пусана.</div>
-<div class="example">기차∼ 내리다 Сойти с поезда.</div>
-<div class="example">15페이지∼ 시작하다 Начать на странице 15.</div>
-<div class="example">그는 방∼ 나갔다 Он вышел из комнаты.</div>
-<div class="example">벽의 틈새기∼ 햇빛이 들어오고 있다 Свет исходил из трещины на стене.</div>
-<div class="example">해는 동쪽∼ 뜬다 Солнце встает на востоке.</div>
+<div class="example"><span class="source">서울∼ 부산까지 </span><span class="translation">от Сеула до Пусана.</span></div>
+<div class="example"><span class="source">기차∼ 내리다 </span><span class="translation">Сойти с поезда.</span></div>
+<div class="example"><span class="source">15페이지∼ 시작하다 </span><span class="translation">Начать на странице 15.</span></div>
+<div class="example"><span class="source">그는 방∼ 나갔다 </span><span class="translation">Он вышел из комнаты.</span></div>
+<div class="example"><span class="source">벽의 틈새기∼ 햇빛이 들어오고 있다 </span><span class="translation">Свет исходил из трещины на стене.</span></div>
+<div class="example"><span class="source">해는 동쪽∼ 뜬다 </span><span class="translation">Солнце встает на востоке.</span></div>
 
 <div class="meaning"> 3. Нижний предел области (от 에서 до 까지), область выбора </div>
 
-<div class="example">15세∼ 25세까지의 젊은 여성들 Девушки от 15 до 25 лет.</div>
-<div class="example">1시∼ 3시 사이에 와 주십시오 Приходите между 1 и 3 часами.</div>
-<div class="example">그는 10명의 응모자 중∼ 뽑혔다 Он был выбран из 10 кандидатов.</div>
-<div class="example">이 영화는 아이∼ 어른까지 즐길 수 있다 Этим фильмом могут наслаждаться все, от детей до взрослых.</div>
+<div class="example"><span class="source">15세∼ 25세까지의 젊은 여성들 </span><span class="translation">Девушки от 15 до 25 лет.</span></div>
+<div class="example"><span class="source">1시∼ 3시 사이에 와 주십시오 </span><span class="translation">Приходите между 1 и 3 часами.</span></div>
+<div class="example"><span class="source">그는 10명의 응모자 중∼ 뽑혔다 </span><span class="translation">Он был выбран из 10 кандидатов.</span></div>
+<div class="example"><span class="source">이 영화는 아이∼ 어른까지 즐길 수 있다 </span><span class="translation">Этим фильмом могут наслаждаться все, от детей до взрослых.</span></div>
 
 <div class="meaning"> 4. Уменьшаемое в вычитание </div>
 
-<div class="example">5∼ 3을 빼다 Вычесть 3 из 5.</div>
-<div class="example">그 비용은 내 봉급∼ 공제되었다 Эти траты вычлили из моей зарплаты.</div>
+<div class="example"><span class="source">5∼ 3을 빼다 </span><span class="translation">Вычесть 3 из 5.</span></div>
+<div class="example"><span class="source">그 비용은 내 봉급∼ 공제되었다 </span><span class="translation">Эти траты вычлили из моей зарплаты.</span></div>
 
 <div class="meaning"> 5. Повод; мотив; стимул (чувство) </div>
 
-<div class="example">친절한 마음 из милости</div>
-<div class="example">욕심∼ из корысти</div>
-<div class="example">그는 호기심∼ 방안을 들여다보았다 Он заглянул в комнату из любопытства.</div>
+<div class="example"><span class="source">친절한 마음 </span><span class="translation">из милости</span></div>
+<div class="example"><span class="source">욕심∼ </span><span class="translation">из корысти</span></div>
+<div class="example"><span class="source">그는 호기심∼ 방안을 들여다보았다 </span><span class="translation">Он заглянул в комнату из любопытства.</span></div>
 
 <div class="meaning"> 6. Согласно, с точки зрения. </div>
 
-<div class="example">그 점∼ В отношении этого.</div>
-<div class="example">교육적 견지∼ С точки зрения образования.</div>
-<div class="example">이것은 셰익스피어의 작품∼ 인용한 것입니다 Это цитата из Шекспира.</div>
+<div class="example"><span class="source">그 점∼ </span><span class="translation">В отношении этого.</span></div>
+<div class="example"><span class="source">교육적 견지∼ </span><span class="translation">С точки зрения образования.</span></div>
+<div class="example"><span class="source">이것은 셰익스피어의 작품∼ 인용한 것입니다 </span><span class="translation">Это цитата из Шекспира.</span></div>
 
 <div class="meaning"> 7. Сравнение </div>
-<div class="example">이∼ 더한 불행[사랑]은 없다 Не может быть более несчастной (любви), чем эта.</div>
+<div class="example"><span class="source">이∼ 더한 불행[사랑]은 없다 </span><span class="translation">Не может быть более несчастной (любви), чем эта.</span></div>
 
 <h3> 서 </h3>
 
 <div class="meaning">Сокращение от 에서</div>
 
-<div class="example">그는 부산∼ 왔다 Он из Пусана.</div>
+<div class="example"><span class="source">그는 부산∼ 왔다 </span><span class="translation">Он из Пусана.</span></div>
 
 <div class="meaning">Усиление</div>
 
-<div class="example">너무 지쳐∼ 공부할 수가 없군요 Так сильно устал, что не могу учиться.</div>
+<div class="example"><span class="source">너무 지쳐∼ 공부할 수가 없군요 </span><span class="translation">Так сильно устал, что не могу учиться.</span></div>
 
-<div class="example">숙제를 다하고∼ 잠자리에 들었다 Только сделав д/з, пошел спать.</div>
+<div class="example"><span class="source">숙제를 다하고∼ 잠자리에 들었다 </span><span class="translation">Только сделав д/з, пошел спать.</span></div>
 
 <h3> 에게 </h3>
 
 <div class="meaning">1. Цель, направление как одушевленное понятие (кому)</div>
 
-<div class="example">나는 아들∼ 책을 주었다 Я купил книгу сыну.</div>
+<div class="example"><span class="source">나는 아들∼ 책을 주었다 </span><span class="translation">Я купил книгу сыну.</span></div>
 
 <div class="meaning">2. Отношение к одушевленному понятию</div>
 
-<div class="example">그∼ 의지하지 마라 Не надейся на него</div>
-<div class="example">그것은 나∼ 큰 도움이 된다 Это для меня большая подмога.</div>
+<div class="example"><span class="source">그∼ 의지하지 마라 </span><span class="translation">Не надейся на него</span></div>
+<div class="example"><span class="source">그것은 나∼ 큰 도움이 된다 </span><span class="translation">Это для меня большая подмога.</span></div>
 
 <div class="meaning">3. Субъект действия (производитель действия) в страдательном залоге</div>
 
-<div class="example">나는 그∼ 속았다 Я был обманут им.</div>
-<div class="example">그것을 누구∼ 들었습니까 От кого ты это слышал/ кто тебе сказал это?</div>
+<div class="example"><span class="source">나는 그∼ 속았다 </span><span class="translation">Я был обманут им.</span></div>
+<div class="example"><span class="source">그것을 누구∼ 들었습니까 </span><span class="translation">От кого ты это слышал/ кто тебе сказал это?</span></div>
 
 <div class="meaning">4. Кому принадлежит объект.</div>
 
-<div class="example">비만인 사람에게 성인병이 더 잘 생긴다. У тучных людей чаще возникают возрастные заболевания.</div>
+<div class="example"><span class="source">비만인 사람에게 성인병이 더 잘 생긴다. </span><span class="translation">У тучных людей чаще возникают возрастные заболевания.</span></div>
 <div class="example">나에게 공부할 시간만 더 있었다면 시험을 더 잘 봤을 텐데.</div>
 <div class="example">자신이 가진 것보다 자신에게 없는 것이 더 크게 느껴지는 경우가 많다.</div>
 
@@ -182,8 +192,8 @@
 
 <div class="meaning">5. Субъект, испытывающий влияние действия</div>
 
-<div class="example">승규는 버스에서 임산부에게 자리를 양보했다. Сынгю уступил место в автобусе беременной женщине.</div>
-<div class="example">나는 오랜 만에 만난 친구에게 반갑게 인사를 했다. Я радостно поприветствовал друга, которого долго не видел.</div>
+<div class="example"><span class="source">승규는 버스에서 임산부에게 자리를 양보했다. </span><span class="translation">Сынгю уступил место в автобусе беременной женщине.</span></div>
+<div class="example"><span class="source">나는 오랜 만에 만난 친구에게 반갑게 인사를 했다. </span><span class="translation">Я радостно поприветствовал друга, которого долго не видел.</span></div>
 <div class="example">민준이는 후배에게 많은 조언을 해 주는 좋은 선배였다.</div>
 <div class="example">
 가: 수상 소감을 말씀해 주시겠어요?<br>
@@ -209,17 +219,17 @@
 
 <div class="meaning">Синоним 에게, уважительный стиль, к старшим.</div>
 
-<div class="example">하느님∼ 맹세하다 Клясться Богом.</div>
-<div class="example">아버지∼ 온 편지 Письмо отцу.</div>
-<div class="example">김선생∼ 올림 Господину Киму с наилучшими пожеланиями.</div>
+<div class="example"><span class="source">하느님∼ 맹세하다 </span><span class="translation">Клясться Богом.</span></div>
+<div class="example"><span class="source">아버지∼ 온 편지 </span><span class="translation">Письмо отцу.</span></div>
+<div class="example"><span class="source">김선생∼ 올림 </span><span class="translation">Господину Киму с наилучшими пожеланиями.</span></div>
 
 <h3> 에게서 </h3>
 
 <div class="meaning">От, посредством (кого-то), кто-то как источник</div>
 
-<div class="example">멀리 있는 친구∼ 온 편지 Письмо от далекого друга.</div>
-<div class="example">네가 온다는 말은 그∼ 들었다 Слышал от него, что ты едешь.</div>
-<div class="example">그녀는 그∼ 피아노를 배웠다 Она учится пиано у него.</div>
+<div class="example"><span class="source">멀리 있는 친구∼ 온 편지 </span><span class="translation">Письмо от далекого друга.</span></div>
+<div class="example"><span class="source">네가 온다는 말은 그∼ 들었다 </span><span class="translation">Слышал от него, что ты едешь.</span></div>
+<div class="example"><span class="source">그녀는 그∼ 피아노를 배웠다 </span><span class="translation">Она учится пиано у него.</span></div>
 
 <h3> 한테서 </h3>
 
@@ -234,106 +244,106 @@
 
 <div class="meaning">И, вместе с (неформальный)</div>
 
-<div class="example"> 아버지∼ 아들 father and son.</div>
-<div class="example">그 사람 ∼ 함께 살다 live in the same house with him.</div>
+<div class="example"><span class="source"> 아버지∼ 아들 </span><span class="translation">father and son.</span></div>
+<div class="example"><span class="source">그 사람 ∼ 함께 살다 </span><span class="translation">live in the same house with him.</span></div>
 
 
 <h3> 와/과 </h3>
 
 <div class="meaning">И, вместе с (фомальный, письменный)</div>
-<div class="example">사과하고 바나나를 샀어요 Купил яблок и бананов</div>
+<div class="example"><span class="source">사과하고 바나나를 샀어요 </span><span class="translation">Купил яблок и бананов</span></div>
 
 
 <h3> (으)로 </h3>
 
 <div class="meaning">1. Способ</div>
 
-<div class="example">기계∼ 짠 양탄자 ковер, сотканный машиной.</div>
-<div class="example">자전거∼ на велосипеде.</div>
-<div class="example">영어∼ 이야기하다 говорить на английском.</div>
-<div class="example">1,000원 짜리 지폐∼ 지불하다 платить купюрами в 1000 вон.</div>
-<div class="example">피아노∼ 소나타를 치다  играть сонату на пианино.</div>
-<div class="example">그의 새차∼ 드라이브하러 갔다 We went for a drive in his new car.</div>
-<div class="example">그녀는 노래∼ 생계를 꾸려가고 있다 She earns her living by singing.</div>
-<div class="example">그는 베풀어준 친절에 대한 감사의 표시∼ 그들을 초대했다 He invited them as a token of his gratitude for their kindness. / He invited them in return for their kindness.</div>
-<div class="example">그는 생일 선물∼ 시계를 받았다 He was given a watch for his birthday.</div>
-<div class="example">월급제∼ 일하다 работать помесячно.</div>
-<div class="example">6부(部)∼ 된 저작물 6-томное произведение.</div>
-<div class="example">육로∼ 가다 идти по суше</div>
+<div class="example"><span class="source">기계∼ 짠 양탄자 </span><span class="translation">ковер, сотканный машиной.</span></div>
+<div class="example"><span class="source">자전거∼ </span><span class="translation">на велосипеде.</span></div>
+<div class="example"><span class="source">영어∼ 이야기하다 </span><span class="translation">говорить на английском.</span></div>
+<div class="example"><span class="source">1,000원 짜리 지폐∼ 지불하다 </span><span class="translation">платить купюрами в 1000 вон.</span></div>
+<div class="example"><span class="source">피아노∼ 소나타를 치다  </span><span class="translation">играть сонату на пианино.</span></div>
+<div class="example"><span class="source">그의 새차∼ 드라이브하러 갔다 </span><span class="translation">We went for a drive in his new car.</span></div>
+<div class="example"><span class="source">그녀는 노래∼ 생계를 꾸려가고 있다 </span><span class="translation">She earns her living by singing.</span></div>
+<div class="example"><span class="source">그는 베풀어준 친절에 대한 감사의 표시∼ 그들을 초대했다 </span><span class="translation">He invited them as a token of his gratitude for their kindness. / He invited them in return for their kindness.</span></div>
+<div class="example"><span class="source">그는 생일 선물∼ 시계를 받았다 </span><span class="translation">He was given a watch for his birthday.</span></div>
+<div class="example"><span class="source">월급제∼ 일하다 </span><span class="translation">работать помесячно.</span></div>
+<div class="example"><span class="source">6부(部)∼ 된 저작물 6-</span><span class="translation">томное произведение.</span></div>
+<div class="example"><span class="source">육로∼ 가다 </span><span class="translation">идти по суше</span></div>
 
-<div class="example">내 시계∼ 3시 three o'clock by my watch.</div>
-<div class="example">외모∼ 남을 판단하다 judge a person by his appearance.</div>
-<div class="example">물∼ (그릇을) 가득 채우다 fill (a vessel) with water.</div>
+<div class="example"><span class="source">내 시계∼ 3시 </span><span class="translation">three o'clock by my watch.</span></div>
+<div class="example"><span class="source">외모∼ 남을 판단하다 </span><span class="translation">judge a person by his appearance.</span></div>
+<div class="example"><span class="source">물∼ (그릇을) 가득 채우다 </span><span class="translation">fill (a vessel) with water.</span></div>
 
-<div class="example">그는 무례한 태도∼ 주위를 둘러보았다 He looked around in a rude manner[rudely].</div>
-<div class="example">그녀는 고운 목소리∼ 노래하고 있다 She is singing in a lovely[pretty] voice.</div>
-<div class="example">그는 싱글벙글하는 얼굴∼ 내게 말을 걸어왔다 He spoke to me with a big[broad] smile.</div>
+<div class="example"><span class="source">그는 무례한 태도∼ 주위를 둘러보았다 </span><span class="translation">He looked around in a rude manner[rudely].</span></div>
+<div class="example"><span class="source">그녀는 고운 목소리∼ 노래하고 있다 </span><span class="translation">She is singing in a lovely[pretty] voice.</span></div>
+<div class="example"><span class="source">그는 싱글벙글하는 얼굴∼ 내게 말을 걸어왔다 </span><span class="translation">He spoke to me with a big[broad] smile.</span></div>
 
 <div class="meaning">2. Исходный материал</div>
 
-<div class="example">나무∼ 만든 상자 a box made of wood.</div>
-<div class="example">밀크∼ 치즈를 만들다 Делать сыр из молока.</div>
-<div class="example">우리는 종이∼ 여러 가지 물건을 만든다 Мы делаем из бумаги много вещей.</div>
-<div class="example">석유∼ 여러 가지 물건을 만들 수가 있다 Из нефти можно сделать многое.</div>
+<div class="example"><span class="source">나무∼ 만든 상자 </span><span class="translation">a box made of wood.</span></div>
+<div class="example"><span class="source">밀크∼ 치즈를 만들다 </span><span class="translation">Делать сыр из молока.</span></div>
+<div class="example"><span class="source">우리는 종이∼ 여러 가지 물건을 만든다 </span><span class="translation">Мы делаем из бумаги много вещей.</span></div>
+<div class="example"><span class="source">석유∼ 여러 가지 물건을 만들 수가 있다 </span><span class="translation">Из нефти можно сделать многое.</span></div>
 
 <div class="meaning">3. Конечное направление</div>
 
-<div class="example">해변가∼ 가다 go to the seaside.</div>
-<div class="example">교회∼ 들어오다 enter[come into] the church.</div>
-<div class="example">다음 모퉁이에서 좌∼ 도시오 Turn (to the) left at the next corner.</div>
+<div class="example"><span class="source">해변가∼ 가다 </span><span class="translation">go to the seaside.</span></div>
+<div class="example"><span class="source">교회∼ 들어오다 </span><span class="translation">enter[come into] the church.</span></div>
+<div class="example"><span class="source">다음 모퉁이에서 좌∼ 도시오 </span><span class="translation">Turn (to the) left at the next corner.</span></div>
 
 <div class="meaning">4. Конечная дата</div>
 
-<div class="example">소년은 7월 2일∼ 15세가 된다 The boy will be fifteen years old come[on] July 2.</div>
-<div class="example">내일∼ 원서 접수가 마감된다 The deadline for applications is tomorrow.</div>
+<div class="example"><span class="source">소년은 7월 2일∼ 15세가 된다 </span><span class="translation">The boy will be fifteen years old come[on] July 2.</span></div>
+<div class="example"><span class="source">내일∼ 원서 접수가 마감된다 </span><span class="translation">The deadline for applications is tomorrow.</span></div>
 
-<div class="example">5. Конечное состояние</div>
+<div class="example"><span class="source">5. </span><span class="translation">Конечное состояние</span></div>
 
-<div class="example">젤리 상태∼ 굳다 harden into jelly.</div>
-<div class="example">우리말을 영어∼ 번역하다 Перевести корейский на английский</div>
+<div class="example"><span class="source">젤리 상태∼ 굳다 </span><span class="translation">harden into jelly.</span></div>
+<div class="example"><span class="source">우리말을 영어∼ 번역하다 </span><span class="translation">Перевести корейский на английский</span></div>
 
 <div class="meaning">6. Причина</div>
 
-<div class="example">그는 티프스∼ 죽었다  Он умер от тифа.</div>
-<div class="example">그는 자신의 의사∼ 사직했다  Он уволился по собственному желанию.</div>
-<div class="example">그는 과로∼ 병이 났다 Он заболел от переработки.</div>
-<div class="example">그는 심한 공포∼ 말을 하지 못했다 Потерял дар речи от сильного ужаса.</div>
-<div class="example">그는 분노∼ 미칠 것만 같았다 Сошел с ума от гнева.</div>
-<div class="example">그는 부주의∼ 사고를 일으켰다 Вызвал происшествие невнимательностью.</div>
-<div class="example">그는 사기죄∼ 체포되었다 Схвачен за мошенничество.</div>
-<div class="example">이 호수는 아름답기∼ 유명하다 Это озеро известно своей красотой.</div>
+<div class="example"><span class="source">그는 티프스∼ 죽었다  </span><span class="translation">Он умер от тифа.</span></div>
+<div class="example"><span class="source">그는 자신의 의사∼ 사직했다  </span><span class="translation">Он уволился по собственному желанию.</span></div>
+<div class="example"><span class="source">그는 과로∼ 병이 났다 </span><span class="translation">Он заболел от переработки.</span></div>
+<div class="example"><span class="source">그는 심한 공포∼ 말을 하지 못했다 </span><span class="translation">Потерял дар речи от сильного ужаса.</span></div>
+<div class="example"><span class="source">그는 분노∼ 미칠 것만 같았다 </span><span class="translation">Сошел с ума от гнева.</span></div>
+<div class="example"><span class="source">그는 부주의∼ 사고를 일으켰다 </span><span class="translation">Вызвал происшествие невнимательностью.</span></div>
+<div class="example"><span class="source">그는 사기죄∼ 체포되었다 </span><span class="translation">Схвачен за мошенничество.</span></div>
+<div class="example"><span class="source">이 호수는 아름답기∼ 유명하다 </span><span class="translation">Это озеро известно своей красотой.</span></div>
 
 <h3> 보다	</h3>
 
 <div class="meaning">Чем ..., критерий сравнения</div>
-<div class="example">언니보다 동생이 더 크다. Младшая сестра ростом выше, чем старшая. </div>
-<div class="example">어제보다 오늘이 덥다. Сегодня жарче, чем вчера </div>
+<div class="example"><span class="source">언니보다 동생이 더 크다. </span><span class="translation">Младшая сестра ростом выше, чем старшая. </span></div>
+<div class="example"><span class="source">어제보다 오늘이 덥다. </span><span class="translation">Сегодня жарче, чем вчера </span></div>
 
 <h3> 처럼	</h3>
 
 <div class="meaning">Словно ..., как ... (критерий сравнения, аллегории)</div>
 
-<div class="example">우후죽순∼  как грибы после дождя</div>
-<div class="example">여느때∼ как обычно.</div>
-<div class="example">전∼ как в прошлом.</div>
-<div class="example">아무 일도 없었던 것∼ как ни в чем не бывало.</div>
-<div class="example">…∼ 보이다 кажется как ...</div>
-<div class="example">친자식∼ 사랑하다 Любить ребёнка как родного</div>
-<div class="example">한 집안 식구∼ 대하다 Относиться как к члену семьи.</div>
-<div class="example">눈∼ 희다 Белый как снег.</div>
-<div class="example">대낮∼ 밝다 Яркий как дневной свет.</div>
-<div class="example">남∼ 행동하다 Вести себя как незнакомец.</div>
-<div class="example">그것은 돌∼ 무겁다 Тяжелый как камень.</div>
-<div class="example">그는 자기 아버지∼ 익살꾼이다 Шутник как его отец.</div>
-<div class="example">그는 개를 아이∼ 다룬다 Относится к собаке как к родному дитя.</div>
-<div class="example">그는 노인∼ 천천히 말을 했다 Говорит медленно как старик.</div>
-<div class="example">그녀는 마누라∼ 그를 돌봐 주고 있다 Она обхаживает его словно женаe.</div>
-<div class="example">영어를 그 사람∼ 잘하지는 못한다 Не владею английским так хорошо, как он.</div>
-<div class="example">그 이야기는 정말[거짓말]∼ 들렸다 История кажется правдой (ложью).</div>
-<div class="example">그는 마치 보고 온 것∼ 이야기한다 Говорит точно видел собственными глазами.</div>
-<div class="example">그녀는 마치 미친 사람∼ 무언가를 외쳐대고 있었다 Кричит словно сошла с ума.</div>
-<div class="example">그것은 네가 생각하는 것∼ 간단하지는 않다 Это не так просто, как кажется.</div>
-<div class="example">네가 미치지 않은 것∼ 그도 미친 사람은 아니다 Он не сумасшедший не более, чем ты.</div>
+<div class="example"><span class="source">우후죽순∼  </span><span class="translation">как грибы после дождя</span></div>
+<div class="example"><span class="source">여느때∼ </span><span class="translation">как обычно.</span></div>
+<div class="example"><span class="source">전∼ </span><span class="translation">как в прошлом.</span></div>
+<div class="example"><span class="source">아무 일도 없었던 것∼ </span><span class="translation">как ни в чем не бывало.</span></div>
+<div class="example"><span class="source">…∼ 보이다 </span><span class="translation">кажется как ...</span></div>
+<div class="example"><span class="source">친자식∼ 사랑하다 </span><span class="translation">Любить ребёнка как родного</span></div>
+<div class="example"><span class="source">한 집안 식구∼ 대하다 </span><span class="translation">Относиться как к члену семьи.</span></div>
+<div class="example"><span class="source">눈∼ 희다 </span><span class="translation">Белый как снег.</span></div>
+<div class="example"><span class="source">대낮∼ 밝다 </span><span class="translation">Яркий как дневной свет.</span></div>
+<div class="example"><span class="source">남∼ 행동하다 </span><span class="translation">Вести себя как незнакомец.</span></div>
+<div class="example"><span class="source">그것은 돌∼ 무겁다 </span><span class="translation">Тяжелый как камень.</span></div>
+<div class="example"><span class="source">그는 자기 아버지∼ 익살꾼이다 </span><span class="translation">Шутник как его отец.</span></div>
+<div class="example"><span class="source">그는 개를 아이∼ 다룬다 </span><span class="translation">Относится к собаке как к родному дитя.</span></div>
+<div class="example"><span class="source">그는 노인∼ 천천히 말을 했다 </span><span class="translation">Говорит медленно как старик.</span></div>
+<div class="example"><span class="source">그녀는 마누라∼ 그를 돌봐 주고 있다 </span><span class="translation">Она обхаживает его словно женаe.</span></div>
+<div class="example"><span class="source">영어를 그 사람∼ 잘하지는 못한다 </span><span class="translation">Не владею английским так хорошо, как он.</span></div>
+<div class="example"><span class="source">그 이야기는 정말[거짓말]∼ 들렸다 </span><span class="translation">История кажется правдой (ложью).</span></div>
+<div class="example"><span class="source">그는 마치 보고 온 것∼ 이야기한다 </span><span class="translation">Говорит точно видел собственными глазами.</span></div>
+<div class="example"><span class="source">그녀는 마치 미친 사람∼ 무언가를 외쳐대고 있었다 </span><span class="translation">Кричит словно сошла с ума.</span></div>
+<div class="example"><span class="source">그것은 네가 생각하는 것∼ 간단하지는 않다 </span><span class="translation">Это не так просто, как кажется.</span></div>
+<div class="example"><span class="source">네가 미치지 않은 것∼ 그도 미친 사람은 아니다 </span><span class="translation">Он не сумасшедший не более, чем ты.</span></div>
 
 <h2> Вспомогательные частицы (보조사) </h2>
 
@@ -341,53 +351,53 @@
 
 <div class="meaning">1. До (момента времени), ...부터 ...까지 (от... до...)</div>
 
-<div class="example">지금∼ till[until by] now / by this time / up to now[the present] / hitherto.</div>
-<div class="example">오늘날∼ up to this day / up to date.</div>
-<div class="example">아침부터 밤∼ from morning till night.</div>
-<div class="example">두 시부터 네 시∼ from 2 to 4 o'clock.</div>
-<div class="example">죽을 때∼ 싸우다 fight till death.</div>
-<div class="example">전쟁이 언제∼ 계속될지 아무도 알 수가 없다  До куда будет идти война, никто не знает</div>
+<div class="example"><span class="source">지금∼ </span><span class="translation">till[until by] now / by this time / up to now[the present] / hitherto.</span></div>
+<div class="example"><span class="source">오늘날∼ </span><span class="translation">up to this day / up to date.</span></div>
+<div class="example"><span class="source">아침부터 밤∼ </span><span class="translation">from morning till night.</span></div>
+<div class="example"><span class="source">두 시부터 네 시∼ </span><span class="translation">from 2 to 4 o'clock.</span></div>
+<div class="example"><span class="source">죽을 때∼ 싸우다 </span><span class="translation">fight till death.</span></div>
+<div class="example"><span class="source">전쟁이 언제∼ 계속될지 아무도 알 수가 없다  </span><span class="translation">До куда будет идти война, никто не знает</span></div>
 
 <div class="meaning">2. До (места), ...부터 ...까지 (от... до...)</div>
 
-<div class="example">부산∼의 차표 билет в Пусан</div>
-<div class="example">10페이지∼ 읽다 Читать до 10-й страницы</div>
-<div class="example">어디∼ 가십니까 Куда Вы едете?</div>
+<div class="example"><span class="source">부산∼의 차표 </span><span class="translation">билет в Пусан</span></div>
+<div class="example"><span class="source">10페이지∼ 읽다 </span><span class="translation">Читать до 10-й страницы</span></div>
+<div class="example"><span class="source">어디∼ 가십니까 </span><span class="translation">Куда Вы едете?</span></div>
 
 <div class="meaning">3. Вплоть до, даже (до) (верхний предел); не более (с отрицанием)</div>
 
-<div class="example">열차로 두 시간∼ 걸리지는 않는다 На поезде займет не более 2 часов.</div>
-<div class="example">옷∼ 다 타 버렸다 Даже одежда сгорела</div>
+<div class="example"><span class="source">열차로 두 시간∼ 걸리지는 않는다 </span><span class="translation">На поезде займет не более 2 часов.</span></div>
+<div class="example"><span class="source">옷∼ 다 타 버렸다 </span><span class="translation">Даже одежда сгорела</span></div>
 
 <div class="meaning">4. Вдобавок, что еще более</div>
 
-<div class="example">길이 바쁜데 차∼ 고장났다  Торопился в пути, вдобавок машина сломалась.</div>
-<div class="example">그는 책뿐만 아니라 많은 그림∼ 내게 주었다 От дал не только книги, но и картины впридачу.</div>
-<div class="example">노인들∼ 춤추고 있다 Танцуют даже старики.</div>
+<div class="example"><span class="source">길이 바쁜데 차∼ 고장났다  </span><span class="translation">Торопился в пути, вдобавок машина сломалась.</span></div>
+<div class="example"><span class="source">그는 책뿐만 아니라 많은 그림∼ 내게 주었다 </span><span class="translation">От дал не только книги, но и картины впридачу.</span></div>
+<div class="example"><span class="source">노인들∼ 춤추고 있다 </span><span class="translation">Танцуют даже старики.</span></div>
 
 <h3> 도	</h3>
 
 <div class="meaning">И, тоже, также; и тот, и этот; ни тот, ни другой (с отрицанием)</div>
 
-<div class="example">나∼ 그를 알고 있다 Я тоже знаю его.</div>
-<div class="example">그는 그 아이에게 용돈∼ 주었다 Он дал ребенку также денег (среди прочего).</div>
-<div class="example">바람이 세차게 불고 있었고 비∼ 내리기 시작했다 Дует сильный ветер, а также начался дождь.</div>
-<div class="example">「우표를 수집하고 싶다」 「나∼ 그래」 - Хочу собирать марки. - Я тоже. </div>
-<div class="example">자네가 가지 않으면 나∼ 안 가겠네 Если ты не пойдешь, то я тоже</div>
-<div class="example">그는 골프∼ 하고 테니스∼ 한다 Он играет и в гольф, и в теннис</div>
-<div class="example">그는 프랑스어를 읽지∼ 쓰지∼ 말하지∼ 못한다 Он не может ни читать, ни писать, ни говорить по-французски</div>
-<div class="example">보고∼ 싶었고 보는 것이 겁∼ 났다 Хочу и посмотреть, и в то же время страшно</div>
-<div class="example">그것은 이득∼ 해악∼ 되지 않는다 Это не причиняет ни пользы, ни вреда.</div>
-<div class="example">달지∼ 않고 시지∼ 않다 Ни сладкое, ни кислое.</div>
-<div class="example">그녀는 똑똑하기∼ 하고 친절하기∼ 하다 Она и умная, и (в то же время) любезный.</div>
+<div class="example"><span class="source">나∼ 그를 알고 있다 </span><span class="translation">Я тоже знаю его.</span></div>
+<div class="example"><span class="source">그는 그 아이에게 용돈∼ 주었다 </span><span class="translation">Он дал ребенку также денег (среди прочего).</span></div>
+<div class="example"><span class="source">바람이 세차게 불고 있었고 비∼ 내리기 시작했다 </span><span class="translation">Дует сильный ветер, а также начался дождь.</span></div>
+<div class="example"><span class="source">「우표를 수집하고 싶다」 「나∼ 그래」 - </span><span class="translation">Хочу собирать марки. - Я тоже. </span></div>
+<div class="example"><span class="source">자네가 가지 않으면 나∼ 안 가겠네 </span><span class="translation">Если ты не пойдешь, то я тоже</span></div>
+<div class="example"><span class="source">그는 골프∼ 하고 테니스∼ 한다 </span><span class="translation">Он играет и в гольф, и в теннис</span></div>
+<div class="example"><span class="source">그는 프랑스어를 읽지∼ 쓰지∼ 말하지∼ 못한다 </span><span class="translation">Он не может ни читать, ни писать, ни говорить по-французски</span></div>
+<div class="example"><span class="source">보고∼ 싶었고 보는 것이 겁∼ 났다 </span><span class="translation">Хочу и посмотреть, и в то же время страшно</span></div>
+<div class="example"><span class="source">그것은 이득∼ 해악∼ 되지 않는다 </span><span class="translation">Это не причиняет ни пользы, ни вреда.</span></div>
+<div class="example"><span class="source">달지∼ 않고 시지∼ 않다 </span><span class="translation">Ни сладкое, ни кислое.</span></div>
+<div class="example"><span class="source">그녀는 똑똑하기∼ 하고 친절하기∼ 하다 </span><span class="translation">Она и умная, и (в то же время) любезный.</span></div>
 
 <div class="meaning">Даже, вплоть (как 까지); не более (с отрицанием)</div>
 
-<div class="example">원숭이∼ 나무에서 때때로 떨어진다 И (даже) обезьяна иногда падает с дерева (пословица).</div>
-<div class="example">그것은 어린아이라∼ 안다 Это понятно и (даже) ребенку.</div>
-<div class="example">그는 사람을 죽이기까지∼ 했다 Он пошел даже (вплоть) до убийства.</div>
-<div class="example">5분∼ 안 되어 산은 시야에서 사라졌다 Гора скрылась из виду в течение не больше 5 минут.</div>
-<div class="example">3만 원∼ 들지 않습니다 это стоит не более 30000 вон.</div>
+<div class="example"><span class="source">원숭이∼ 나무에서 때때로 떨어진다 </span><span class="translation">И (даже) обезьяна иногда падает с дерева (пословица).</span></div>
+<div class="example"><span class="source">그것은 어린아이라∼ 안다 </span><span class="translation">Это понятно и (даже) ребенку.</span></div>
+<div class="example"><span class="source">그는 사람을 죽이기까지∼ 했다 </span><span class="translation">Он пошел даже (вплоть) до убийства.</span></div>
+<div class="example"><span class="source">5분∼ 안 되어 산은 시야에서 사라졌다 </span><span class="translation">Гора скрылась из виду в течение не больше 5 минут.</span></div>
+<div class="example"><span class="source">3만 원∼ 들지 않습니다 </span><span class="translation">это стоит не более 30000 вон.</span></div>
 
 <h3> 마다	</h3>
 
@@ -430,57 +440,57 @@
 
 <div class="meaning"> Прямое дополнение (объект, испытывающий действие) с переходными глаголами в активном залоге. </div>
 
-<div class="example">신문∼ 보다 читать газету.</div>
-<div class="example">컵에 물∼ 채우다 налить воду в стакан.</div>
-<div class="example">사람∼ 찾다 посещать человека.</div>
+<div class="example"><span class="source">신문∼ 보다 </span><span class="translation">читать газету.</span></div>
+<div class="example"><span class="source">컵에 물∼ 채우다 </span><span class="translation">налить воду в стакан.</span></div>
+<div class="example"><span class="source">사람∼ 찾다 </span><span class="translation">посещать человека.</span></div>
 
 <div class="meaning"> Прямое дополнение (объект, испытывающий действие) в страдательном залоге. </div>
 
-<div class="example">가슴∼ 차이다 Быть ударенным в грудь. (가슴∼ 차다 ударить в грудь)</div>
-<div class="example">물건∼ 빼앗기다 быть лишенным вещи.</div>
-<div class="example">(형이 동생에게서 장난감을 뺏었다 Старший брат отнял игрушку у младшего -> 동생이 형에게 장난감을 빼앗겼다 Младший брат был лишен игрушки старшим братом)</div>
+<div class="example"><span class="source">가슴∼ 차이다 </span><span class="translation">Быть ударенным в грудь. (가슴∼ 차다 ударить в грудь)</span></div>
+<div class="example"><span class="source">물건∼ 빼앗기다 </span><span class="translation">быть лишенным вещи.</span></div>
+<div class="example"><span class="source">(형이 동생에게서 장난감을 뺏었다 </span><span class="translation">Старший брат отнял игрушку у младшего -> 동생이 형에게 장난감을 빼앗겼다 Младший брат был лишен игрушки старшим братом)</span></div>
 
 
 <div class="meaning"> Отправная точка </div>
-<div class="example">서울∼ 떠나다 Покидать Сеул.</div>
-<div class="example">직장∼ 이탈하다 Оставить работу.</div>
+<div class="example"><span class="source">서울∼ 떠나다 </span><span class="translation">Покидать Сеул.</span></div>
+<div class="example"><span class="source">직장∼ 이탈하다 </span><span class="translation">Оставить работу.</span></div>
 
 <div class="meaning"> Цель, направление =</div>
-<div class="example">세계 일주 여행∼ 떠나다 отправляться в кругосветное путешествие.</div>
-<div class="example">영화 구경∼ 가다 Пойти на просмотр фильма.</div>
-<div class="example">언제 시장∼ 갈 셈이냐 Когда планируешь пойти за покупками? (가다 - переходной глагол с дополнением цели)</div>
+<div class="example"><span class="source">세계 일주 여행∼ 떠나다 </span><span class="translation">отправляться в кругосветное путешествие.</span></div>
+<div class="example"><span class="source">영화 구경∼ 가다 </span><span class="translation">Пойти на просмотр фильма.</span></div>
+<div class="example"><span class="source">언제 시장∼ 갈 셈이냐 </span><span class="translation">Когда планируешь пойти за покупками? (가다 - переходной глагол с дополнением цели)</span></div>
 
 <div class="meaning"> Движение через пространство </div>
-<div class="example">산∼ 넘다 Переваливать через горы</div>
-<div class="example">하늘∼ 날다 Летать в небе.</div>
+<div class="example"><span class="source">산∼ 넘다 </span><span class="translation">Переваливать через горы</span></div>
+<div class="example"><span class="source">하늘∼ 날다 </span><span class="translation">Летать в небе.</span></div>
 
 <div class="meaning"> Период времени действия </div>
-<div class="example">달∼ 넘기지 않고 Пока не истечет месяц.</div>
-<div class="example">사흘∼ 굶다 Голодать 3 дня.</div>
-<div class="example">두 시간∼ 자다 Спать 2 часа.</div>
-<div class="example">하루 8시간∼ 일하다 work for eight hours a day.</div>
+<div class="example"><span class="source">달∼ 넘기지 않고 </span><span class="translation">Пока не истечет месяц.</span></div>
+<div class="example"><span class="source">사흘∼ 굶다 </span><span class="translation">Голодать 3 дня.</span></div>
+<div class="example"><span class="source">두 시간∼ 자다 </span><span class="translation">Спать 2 часа.</span></div>
+<div class="example"><span class="source">하루 8시간∼ 일하다 </span><span class="translation">work for eight hours a day.</span></div>
 
 <div class="meaning"> Порядок </div>
-<div class="example">수석∼ 하다 Идти по старшенству</div>
-<div class="example">첨단∼ 가다[걷다] Быть в авангарде (впереди)</div>
+<div class="example"><span class="source">수석∼ 하다 </span><span class="translation">Идти по старшенству</span></div>
+<div class="example"><span class="source">첨단∼ 가다[걷다] </span><span class="translation">Быть в авангарде (впереди)</span></div>
 
 <div class="meaning"> Отглаголное сущ-ное как дополнение </div>
-<div class="example">꿈∼ 꾸다 Видет сон.</div>
-<div class="example">숨∼ 쉬다 Дышать (дыханием).</div>
-<div class="example">잠∼ 자다 Спат (сном).</div>
+<div class="example"><span class="source">꿈∼ 꾸다 </span><span class="translation">Видет сон.</span></div>
+<div class="example"><span class="source">숨∼ 쉬다 </span><span class="translation">Дышать (дыханием).</span></div>
+<div class="example"><span class="source">잠∼ 자다 </span><span class="translation">Спат (сном).</span></div>
 
 <div class="meaning"> [구어적]. </div>
-<div class="example">마음∼ 먹다 решиться на что-л.</div>
-<div class="example">앞장∼ 서다 Стоять во главе</div>
+<div class="example"><span class="source">마음∼ 먹다 </span><span class="translation">решиться на что-л.</span></div>
+<div class="example"><span class="source">앞장∼ 서다 </span><span class="translation">Стоять во главе</span></div>
 
 <div class="meaning"> Отношение </div>
-<div class="example">병∼ 구실로 Под предлогом болезни</div>
-<div class="example">결혼∼ 조건으로 С обещанием женитьбы with the condition that should unite in marriage / under the promise of marriage.</div>
+<div class="example"><span class="source">병∼ 구실로 </span><span class="translation">Под предлогом болезни</span></div>
+<div class="example"><span class="source">결혼∼ 조건으로 </span><span class="translation">С обещанием женитьбы with the condition that should unite in marriage / under the promise of marriage.</span></div>
 
 <div class="meaning"> Опущение, подчеркивание </div>
 
-<div class="example">하늘에는 영광∼, 땅에는 평화를 Слава в вышних Богу, и на земле мир.</div>
-<div class="example">나에게 자유가 아니면 죽음∼ 달라 Дай мне свободу или убей меня!.</div>
+<div class="example"><span class="source">하늘에는 영광∼, 땅에는 평화를 </span><span class="translation">Слава в вышних Богу, и на земле мир.</span></div>
+<div class="example"><span class="source">나에게 자유가 아니면 죽음∼ 달라 </span><span class="translation">Дай мне свободу или убей меня!.</span></div>
 
 <h2> Падежные атрибутивные частицы (관형격조사) </h2>
 
@@ -492,9 +502,9 @@
 
 <div class="meaning">Перед сказуемым с глаголами 되다 (“стать”) и 아니다 (“не быть”)</div>
 
-<div class="example">철수는 선생님이 되었다. Чхоль Су стал учителем</div>
-<div class="example">강물이 모여 바다가 된다 Речная вода, собираясь, становится морем</div>
-<div class="example">고래는 물고기가 아니다. Кит не рыба</div>
+<div class="example"><span class="source">철수는 선생님이 되었다. </span><span class="translation">Чхоль Су стал учителем</span></div>
+<div class="example"><span class="source">강물이 모여 바다가 된다 </span><span class="translation">Речная вода, собираясь, становится морем</span></div>
+<div class="example"><span class="source">고래는 물고기가 아니다. </span><span class="translation">Кит не рыба</span></div>
 
 <h2> Послекорневые окончания (선어말 어미) </h2>
 
@@ -513,7 +523,7 @@
 <div class="meaning">Перечисление двух или более однородных фактов.</div>
 
 <div class="example">형은 크고 동생은 작아요.</div>
-<div class="example">My older brother is big, and my younger brother is small.</div>
+<div class="example"><span class="source"></span><span class="translation">My older brother is big, and my younger brother is small.</span></div>
 
 <div class="example">나는 아내에게 항상 고맙고 미안하다.</div>
 <div class="example">지수는 키도 크고 예뻐서 인기가 많다.</div>
@@ -522,22 +532,22 @@
 <div class="meaning">The form ‘N도 Vst고 N도 V’ is used when combining two or more facts about the same subject.</div>
 
 <div class="example">형은 수영도 잘하고 농구도 잘해요.</div>
-<div class="example">My older brother is good at swimming and also (good at) basketball.</div>
+<div class="example"><span class="source"></span><span class="translation">My older brother is good at swimming and also (good at) basketball.</span></div>
 
 <div class="meaning"> Последовательность действий </div>
 
 <div class="meaning">Предстоящее и последующее действия происходят одно за другим.</div>
 
-<div class="example">나는 사고가 났다는 소식을 듣고 무척 놀랐다. Я услышал новость про происшествие и очень удивился.</div>
+<div class="example"><span class="source">나는 사고가 났다는 소식을 듣고 무척 놀랐다. </span><span class="translation">Я услышал новость про происшествие и очень удивился.</span></div>
 
-<div class="example">가: 지수야, 숙제는 하고 자야지. Джису, сделаешь д/з и спать.</div>
-<div class="example">나: 졸린데 그냥 자면 안 돼요? Спать хочется, можно просто поспать?</div>
+<div class="example"><span class="source">가: 지수야, 숙제는 하고 자야지. </span><span class="translation">Джису, сделаешь д/з и спать.</span></div>
+<div class="example"><span class="source">나: 졸린데 그냥 자면 안 돼요? </span><span class="translation">Спать хочется, можно просто поспать?</span></div>
 
 <div class="meaning"> Сохранение результата </div>
 
 <div class="meaning">Действие или результат предыдущего выражения остается неизменным, пока последующее происходит действие.</div>
 
-<div class="example">날이 추우니까 장갑을 끼고 나가요. Погода холодная, надену перчатки и выйду.</div>
+<div class="example"><span class="source">날이 추우니까 장갑을 끼고 나가요. </span><span class="translation">Погода холодная, надену перчатки и выйду.</span></div>
 
 <div class="example">지수는 새로 산 구두를 신고 학교에 갔다.</div>
 
@@ -547,8 +557,8 @@
 
 <div class="meaning"> Перечисление противоположных понятий </div>
 
-<div class="example">음식점의 손님이 많고 적고는 음식의 맛이 좌우한다. Много или мало посетителей в заведении питания, зависит от вкуса еды.</div>
-<div class="example">누가 잘했고 못했고를 구별하는 게 쉬운 일은 아니다. Определить хорошо было выполнено или плохо - непростая задача.</div>
+<div class="example"><span class="source">음식점의 손님이 많고 적고는 음식의 맛이 좌우한다. </span><span class="translation">Много или мало посетителей в заведении питания, зависит от вкуса еды.</span></div>
+<div class="example"><span class="source">누가 잘했고 못했고를 구별하는 게 쉬운 일은 아니다. </span><span class="translation">Определить хорошо было выполнено или плохо - непростая задача.</span></div>
 <div class="example">지수는 좋고 싫고가 확실해서 싫은 일은 절대 안 하려고 한다.</div>
 <div class="example">가: 우리 승규는 항상 성적이 안 좋은데, 머리가 나쁜가 봐요.</div>
 <div class="example">나: 머리가 좋고 나쁘고가 문제가 아니라 노력하지 않는 게 문제입니다.</div>
@@ -557,8 +567,8 @@
 
 <div class="meaning">Связывает два одинаковых прилагательных, тем самым усиливая его значение.</div>
 
-<div class="example">저 멀고 먼 별에 가 보고 싶다. Хочу полететь к далекой-далекой звезде.</div>
-<div class="example">높고 높은 가을 하늘이 정말 푸르다. Высокое-высокое осеннее небо такое синее.</div>
+<div class="example"><span class="source">저 멀고 먼 별에 가 보고 싶다. </span><span class="translation">Хочу полететь к далекой-далекой звезде.</span></div>
+<div class="example"><span class="source">높고 높은 가을 하늘이 정말 푸르다. </span><span class="translation">Высокое-высокое осеннее небо такое синее.</span></div>
 <div class="example">승규는 넓고 넓은 바다처럼 넓은 마음을 가졌다.</div>
 
 <div class="example">가: 취업 축하해.</div>
@@ -573,16 +583,16 @@
 <div class="meaning"> Окончание прошедшего времени </div>
 <div class="meaning">Не принимает окончаний прошлого времени:</div>
 
-<div class="example">어제 밥을 먹고 숙제를 했어요.(о)</div>
-<div class="example">어제 밥을 먹었고 숙제를 했어요.(х)</div>
-<div class="example">Вчера поел и сделал д/з</div>
+<div class="example"><span class="source">어제 밥을 먹고 숙제를 했어요.(</span><span class="translation">о)</span></div>
+<div class="example"><span class="source">어제 밥을 먹었고 숙제를 했어요.(</span><span class="translation">х)</span></div>
+<div class="example"><span class="source"></span><span class="translation">Вчера поел и сделал д/з</span></div>
 
 <h3> -지만 </h3>
 
 <div class="meaning">Контраст, противоречие, отличие между 1-й частью предложения и 2-й.</div>
 
-<div class="example">승규는 머리는 좋지만 다소 산만하다. Сынгю смышленный, но рассеянный.</div>
-<div class="example">내가 나이는 들었지만 아직 마음만은 젊다. Хотя с постарел, душой-то ещё молод.</div>
+<div class="example"><span class="source">승규는 머리는 좋지만 다소 산만하다. </span><span class="translation">Сынгю смышленный, но рассеянный.</span></div>
+<div class="example"><span class="source">내가 나이는 들었지만 아직 마음만은 젊다. </span><span class="translation">Хотя с постарел, душой-то ещё молод.</span></div>
 <div class="example">남편의 선물은 작은 성의였지만 충분히 감동적이었다.</div>
 
 <div class="example">가: 지수 정말 예쁘지?</div>
@@ -594,8 +604,8 @@
 <li>Последовательность событий</li>
 </ol>
 
-<div class="example">승규는 집에 빨리 가서 쉬고 싶었다. Сынгю быстро шел домой и захотел отдохнуть</div>
-<div class="example">우리는 살아 있는 새우를 잡아서 구워 먹었다. Мы поймали живых креветок, поджарили и съели их.</div>
+<div class="example"><span class="source">승규는 집에 빨리 가서 쉬고 싶었다. </span><span class="translation">Сынгю быстро шел домой и захотел отдохнуть</span></div>
+<div class="example"><span class="source">우리는 살아 있는 새우를 잡아서 구워 먹었다. </span><span class="translation">Мы поймали живых креветок, поджарили и съели их.</span></div>
 <div class="example">귀엽기만 하던 아들이 쑥쑥 자라서 어느덧 대학생이 되었다.</div>
 <div class="example">나는 지금까지 발표했던 글을 모아서 책을 한 권 내기로 했다.</div>
 
@@ -613,8 +623,8 @@
 <li>Средство, способ</li>
 </ol>
 
-<div class="example">실은 실패에 감아서 보관하는 것이 편리하다. Нить, намотав на катушку, удобно хранить</div>
-<div class="example">지수는 방에 풍선을 달아서 장식했다. Джису, повесив шарики, украсил комнату.</div>
+<div class="example"><span class="source">실은 실패에 감아서 보관하는 것이 편리하다. </span><span class="translation">Нить, намотав на катушку, удобно хранить</span></div>
+<div class="example"><span class="source">지수는 방에 풍선을 달아서 장식했다. </span><span class="translation">Джису, повесив шарики, украсил комнату.</span></div>
 <div class="example">보통 젖병은 삶아서 소독하는 경우가 많다.</div>
 <div class="example">가: 어머, 이 팔찌 정말 예쁘다!</div>
 <div class="example">나: 내가 직접 가죽을 꼬아서 만든 거야. 예쁘지?</div>
@@ -650,21 +660,21 @@
 
 <div class="meaning">Догадка или вопрос о чем-то неизвестном или еще непроисшедшем.</div>
 
-<div class="example">내일도 비가 올까요? Завтра тоже пойдет дождь?</div>
-<div class="example">지수가 우리 모임에 나올까요? Придет ли Джису на наше собрание?</div>
-<div class="example">아이들은 집에서 뭘 할까요? Что там дети-то дома делают?</div>
+<div class="example"><span class="source">내일도 비가 올까요? </span><span class="translation">Завтра тоже пойдет дождь?</span></div>
+<div class="example"><span class="source">지수가 우리 모임에 나올까요? </span><span class="translation">Придет ли Джису на наше собрание?</span></div>
+<div class="example"><span class="source">아이들은 집에서 뭘 할까요? </span><span class="translation">Что там дети-то дома делают?</span></div>
 
-<div class="example">가: 오늘도 고속 도로가 많이 막힐까요? И сегодня на шоссе пробки?</div>
-<div class="example">나: 연휴가 끝났으니까 괜찮을 거예요. Длинные праздники закончились, так что неудивительно.</div>
+<div class="example"><span class="source">가: 오늘도 고속 도로가 많이 막힐까요? </span><span class="translation">И сегодня на шоссе пробки?</span></div>
+<div class="example"><span class="source">나: 연휴가 끝났으니까 괜찮을 거예요. </span><span class="translation">Длинные праздники закончились, так что неудивительно.</span></div>
 
 <div class="meaning">Вопрос о мнении слушателя или предложежение слушателю.</div>
 
-<div class="example">오늘 오후에 영화 볼까요? Сегодня вечером посмотрим фильм?</div>
-<div class="example">일요일에 같이 테니스 칠까요? В воскресенье сыграем в теннис?</div>
-<div class="example">시간이 없으니까 지하철을 탈까요? Времени нет, поедем на метро.</div>
+<div class="example"><span class="source">오늘 오후에 영화 볼까요? </span><span class="translation">Сегодня вечером посмотрим фильм?</span></div>
+<div class="example"><span class="source">일요일에 같이 테니스 칠까요? </span><span class="translation">В воскресенье сыграем в теннис?</span></div>
+<div class="example"><span class="source">시간이 없으니까 지하철을 탈까요? </span><span class="translation">Времени нет, поедем на метро.</span></div>
 
-<div class="example">가: 출출한데 간식이라도 사 올까요? Проголодался, может принесу перекусить?</div>
-<div class="example">나: 그래요. 우리 빵이라도 먹어요. Хорошо, булочку бы съел.</div>
+<div class="example"><span class="source">가: 출출한데 간식이라도 사 올까요? </span><span class="translation">Проголодался, может принесу перекусить?</span></div>
+<div class="example"><span class="source">나: 그래요. 우리 빵이라도 먹어요. </span><span class="translation">Хорошо, булочку бы съел.</span></div>
 
 <h3> -(으)ㄹ래요 </h3>
 
@@ -672,21 +682,21 @@
 
 <div class="meaning">Намерение говорящего сделать что-то в будущем.</div>
 
-<div class="example">저는 집에서 쉴래요. Отдохну дома.</div>
-<div class="example">저는 엄마 따라 시장에 갈래요. Пойду с мамой на рынок.</div>
-<div class="example">오늘 저녁 준비는 제가 할래요. Сегодня ужин делаю я.</div>
+<div class="example"><span class="source">저는 집에서 쉴래요. </span><span class="translation">Отдохну дома.</span></div>
+<div class="example"><span class="source">저는 엄마 따라 시장에 갈래요. </span><span class="translation">Пойду с мамой на рынок.</span></div>
+<div class="example"><span class="source">오늘 저녁 준비는 제가 할래요. </span><span class="translation">Сегодня ужин делаю я.</span></div>
 
-<div class="example">가: 영어 말하기 대회가 있는데 참가하고 싶은 학생 있나요? Диалог на английском, желающие участвовать есть?</div>
-<div class="example">나: 선생님, 제가 그 대회에 나갈래요. Учитель, я войду в диалог.</div>
+<div class="example"><span class="source">가: 영어 말하기 대회가 있는데 참가하고 싶은 학생 있나요? </span><span class="translation">Диалог на английском, желающие участвовать есть?</span></div>
+<div class="example"><span class="source">나: 선생님, 제가 그 대회에 나갈래요. </span><span class="translation">Учитель, я войду в диалог.</span></div>
 
 <div class="meaning">Вопрос о мнении слушателя на действие говорящего в будущем.</div>
 
-<div class="example">땀을 흘리는 걸 보니 더운 것 같은데 주스라도 마실래요? Пот льется, похоже жарко на улице, выпить ли хотя бы сока?</div>
+<div class="example"><span class="source">땀을 흘리는 걸 보니 더운 것 같은데 주스라도 마실래요? </span><span class="translation">Пот льется, похоже жарко на улице, выпить ли хотя бы сока?</span></div>
 <div class="example">내일 산에 갈 때 몇 시에 출발할래요?</div>
 <div class="example">어느 방에서 주무실래요?</div>
 
-<div class="example">가: 어느 역에서 내릴래요? На какой станции сойдём?</div>
-<div class="example">나: 저는 2호선 신촌역에서 내릴게요. Я на Синчоне 2-й линии.</div>
+<div class="example"><span class="source">가: 어느 역에서 내릴래요? </span><span class="translation">На какой станции сойдём?</span></div>
+<div class="example"><span class="source">나: 저는 2호선 신촌역에서 내릴게요. </span><span class="translation">Я на Синчоне 2-й линии.</span></div>
 
 <h3> -(으)ㅂ시다 </h3>
 <h3> -(으)세요 </h3>
@@ -695,8 +705,8 @@
 
 <div class="meaning">Неформальная речь, восходящая интонация. Говорящий обещает или сообщает говорящему о намерении сделать что-либо.</div>
 
-<div class="example">도착하는 대로 전화드릴게요. Как прибуду, тут же позвоню.</div>
-<div class="example">앞으로는 약속을 잘 지킬게요. Впредь буду крепко держать обещание.</div>
+<div class="example"><span class="source">도착하는 대로 전화드릴게요. </span><span class="translation">Как прибуду, тут же позвоню.</span></div>
+<div class="example"><span class="source">앞으로는 약속을 잘 지킬게요. </span><span class="translation">Впредь буду крепко держать обещание.</span></div>
 <div class="example">제 방 청소는 제가 알아서 할게요.</div>
 <div class="example">가: 너, 올해 초에 계획 세운 대로 잘 하고 있니?</div>
 <div class="example">나: 아니요. 이번 달부터는 계획대로 실천할게요.</div>
@@ -720,7 +730,7 @@
 <div class="example">가: 이건 어렸을 때 찍은 제 가족사진이에요.</div>
 <div class="example">나: 민준 씨 어렸을 때는 키가 작고 통통했군요.</div>
 
-<div class="example">강원도에는 눈이 내리는군요. В Канвондо снег идет.</div>
+<div class="example"><span class="source">강원도에는 눈이 내리는군요. </span><span class="translation">В Канвондо снег идет.</span></div>
 <div class="example">저기에 새 도서관을 짓는군요.</div>
 <div class="example">아이가 음식을 가리지 않고 잘 먹는군요.</div>
 
@@ -734,9 +744,9 @@
 <div class="meaning"> Впечатление от личного опыта </div>
 <div class="meaning">Впечатление от вновь узнанного на основе личного прошлого опыта.</div>
 
-<div class="example">오늘은 날씨가 정말 좋네요. Погода сегодня действительно чудная!</div>
-<div class="example">주말이라 그런지 백화점에 사람이 정말 많네요. Выходные, вот в магазинах и толпища!</div>
-<div class="example">달력을 보니 어느새 크리스마스가 다가오고 있네요. Глянул в календарь, незаметно Рождество подходит!</div>
+<div class="example"><span class="source">오늘은 날씨가 정말 좋네요. </span><span class="translation">Погода сегодня действительно чудная!</span></div>
+<div class="example"><span class="source">주말이라 그런지 백화점에 사람이 정말 많네요. </span><span class="translation">Выходные, вот в магазинах и толпища!</span></div>
+<div class="example"><span class="source">달력을 보니 어느새 크리스마스가 다가오고 있네요. </span><span class="translation">Глянул в календарь, незаметно Рождество подходит!</span></div>
 
 <div class="example">가: 승규가 이번 대회에서 또 우승했대요.</div>
 <div class="example">나: 정말 대단하네요.</div>
@@ -745,7 +755,7 @@
 
 <div class="meaning">Выражает вопрос слушателю, чтобы подтвердить предположение говорящего.</div>
 
-<div class="example">고향이 제주도면 한라산에도 자주 가 봤겠네요? Ты из Чеджудо, на Халласан, наверное, часто ходил?</div>
+<div class="example"><span class="source">고향이 제주도면 한라산에도 자주 가 봤겠네요? </span><span class="translation">Ты из Чеджудо, на Халласан, наверное, часто ходил?</span></div>
 <div class="example">술에 금가루가 들어 있으면 무지 비싸겠네요?</div>
 <div class="example">내일 비가 온다고 하니 소풍은 못 가겠네요?</div>
 
@@ -803,5 +813,6 @@
 <h3> -게 되다 </h3>
 			
 	</div>
+
   </body>
 </html>

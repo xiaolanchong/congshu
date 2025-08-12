@@ -15,37 +15,34 @@ How to use:
 */
 
 $(function(){
-	
- // $(document).ready(function () {
-	  const KEY_SOURCE = 'showSource';
-	  const KEY_TRANSLATION = 'showTranslation';
+  const KEY_SOURCE = 'showSource';
+  const KEY_TRANSLATION = 'showTranslation';
 
-	  // Load and apply saved states
-	  const savedSource = localStorage.getItem(KEY_SOURCE);
-	  const showSource = savedSource === null ? true : JSON.parse(savedSource);
-	  $('#chk-source').prop('checked', showSource);
+  // Load and apply saved states
+  const savedSource = localStorage.getItem(KEY_SOURCE);
+  const showSource = savedSource === null ? true : JSON.parse(savedSource);
+  $('#chk-source').prop('checked', showSource);
 
-	  const savedTranslation = localStorage.getItem(KEY_TRANSLATION);
-	  const showTranslation = savedTranslation === null ? true : JSON.parse(savedTranslation);
-	  $('#chk-translation').prop('checked', showTranslation);
+  const savedTranslation = localStorage.getItem(KEY_TRANSLATION);
+  const showTranslation = savedTranslation === null ? true : JSON.parse(savedTranslation);
+  $('#chk-translation').prop('checked', showTranslation);
 
-	  // Function to update visibility
-	  function updateVisibility(){
-		$('.source').toggleClass('hidden', !$('#chk-source').is(':checked'));
-		$('.translation').toggleClass('hidden', !$('#chk-translation').is(':checked'));
-	  }
+  // Function to update visibility
+  function updateVisibility(){
+	$('.source').toggleClass('hidden', !$('#chk-source').is(':checked'));
+	$('.translation').toggleClass('hidden', !$('#chk-translation').is(':checked'));
+  }
 
-	  // Initial visibility
-	  updateVisibility();
+  // Initial visibility
+  updateVisibility();
 
-	  // On toggle, update and store
-	  $('#chk-source').on('change', function(){
-		localStorage.setItem(KEY_SOURCE, $(this).is(':checked'));
-		updateVisibility();
-	  });
-	  $('#chk-translation').on('change', function(){
-		localStorage.setItem(KEY_TRANSLATION, $(this).is(':checked'));
-		updateVisibility();
-	  });
- // });
+  // On toggle, update and store
+  $('#chk-source').on('change', function(){
+	localStorage.setItem(KEY_SOURCE, $(this).is(':checked'));
+	updateVisibility();
+  });
+  $('#chk-translation').on('change', function(){
+	localStorage.setItem(KEY_TRANSLATION, $(this).is(':checked'));
+	updateVisibility();
+  });
 });

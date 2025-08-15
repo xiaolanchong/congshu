@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" >
+    <title>Yonsei 3-1</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
+		      rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+	<script src="../../panel/panel.js"></script>
+	<link href="../../panel/panel.css" rel="stylesheet">
+	<style>
+		.topic { color: #FFCC00; }
+		.topic_aux { color: #EB5B00; }
+		.translation { margin-left: 1em; }
+		section {margin-top: 1em; margin-bottom: 1em;}
+	</style>
+  </head>
+  <body data-bs-theme="dark">
+	<div class="container">
+  		<div id="toggle-panel">
+		  <label><input type="checkbox" id="chk-source"> Source</label>
+		  <label><input type="checkbox" id="chk-translation"> Translation</label>
+		</div>	
+	  <h1>Yonsei 3-1</h1>
+	  <section>
+	  <div>
+	    <div class="source">1.1 취미가 뭐예요?</div>
+	    <div class="translation">Какие у вас увлечения?</div>
+	  </div>
+	  
+	  <div>
+	    <div class="source">제임스: 미선 씨는 취미가 뭐예요?</div>
+	    <div class="translation">Мисон, какие у тебя увлечения?</div>
+	  </div>  
+	  
+	  <div>
+	    <div class="source">미선: 저는 여행을 좋아해서 시간이 있을 때마다 여행을 가요.</div>
+	    <div class="translation">Мисон: Люблю путешествия, поэтому каждый раз, когда есть время, еду в поездку.</div>
+	  </div>
+	  <div>
+	    <div class="source">제임스: 그래요? 시간을 내기가 힘들지 않아요? </div>
+	    <div class="translation">Джеймс: Вот как? Не сложно ли уделять время?</div>
+	  </div>  
+	  <div>
+	    <div class="source">미선: 어렵기는 하지만 마음만 먹으면 시간을 내는 건 가능하던데요. 제임스 씨는요? </div>
+	    <div class="translation">Мисон: Сложно, но при желание выкраивать время возможно. А ты, Джеймс?</div>
+	  </div>  
+	  <div>
+	    <div class="source">제임스: 저는 우표 모으는 것을 좋아해요. 세계 여러 나라의 우표를 거의  5,000장 정도 모았어요. </div>
+	    <div class="translation">Джеймс: А я люблю коллекционировать марки. Собрал почти 5000 марок разных стран мира.</div>
+	  </div>  
+	  <div>
+	    <div class="source">미선: 정말 많이 모았네요.</div>
+	    <div class="translation">Мисон: Действительно много.</div>
+	  </div>  
+	  </section>
+	  
+	  
+	  <section>
+	  <div>
+	    <div class="source">1.2 가끔 풍경화도 그리고요.</div>
+	    <div class="translation">Еще иногда пишу пейзажи.</div>
+	  </div>  
+	  <div>
+	    <div class="source">마리아   그림이 참 좋네요. 언제부터 그림을 그리기 시작했어요?</div>
+	    <div class="translation">Мария: Отличная картина. Когда ты начал рисовать?</div>
+	  </div>  
+	  <div>
+	    <div class="source">웨이       얼마 안 됐어요. 그림을 배우고 싶어서 작년에 학원에 등록했어요. </div>
+	    <div class="translation">Вей:     Не так давно. Хотел научиться рисованию, поэтому записался в школу (рисования).</div>
+	  </div>  
+	  <div>
+	    <div class="source">마리아   이 그림은 완성하는 데 얼마나 걸렸어요?</div>
+	    <div class="translation">Мария: Сколько времени заняло закончить эту картину?</div>
+	  </div>  
+	  <div>
+	    <div class="source">웨이     두 달쯤 걸렸어요. </div>
+	    <div class="translation">Вей:     Примерно 2 месяца.</div>
+	  </div>  
+	  <div>
+	    <div class="source">마리아 생각보다 오래 걸린 편이네요. 주로 인물화를 그리세요? </div>
+	    <div class="translation">Мария: В целом, дольше, чем я думала. В основном, пишешь портреты?</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이 네, 가끔 풍경화도 그리고요.</div>
+	    <div class="translation">Вей:   Да, еще иногда пейзажи.</div>
+	  </div> 
+	  	  
+	  </section>
+	  
+	  <section>
+	  
+	  <div>1.2a<div>
+	  <div>
+	    <div class="source">웨이:  정희 씨, 취미가 뭐예요?</div>
+	    <div class="translation">Вей: Чонхый, какие у тебя увлечения?</div>
+	  </div>
+	  <div>
+	    <div class="source">정희:  저는 그림을 좋아해요. 그림을 잘 그리지는 못하지만 좋은 그림을 보면 기분이 좋아져요. 한 달에 한두 번은 그림을 꼭 보러 가요. </div>
+	    <div class="translation">Чонхый: Я люблю картины. Рисую не очень хорошо, но глядя на картины, настроение улучшается. Раз в месяц один-два раза обязательно хожу смотреть.</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이: 이번에 예술의 전당에서 유명 화가들의 전시회가 있다고 하는데 가 보셨어요? </div>
+	    <div class="translation">Вей: Слышал, сейчас в Центре искусств выставка известных художников, видела?</div>
+	  </div>
+	  <div>
+	    <div class="source">정희:  아, 동서양 유명 화가들의 전시회 말이지요? 저는 지난주에 갔다 왔어요. </div>
+	    <div class="translation">Чонхый: Ты о выставке известных художников Востока и Запада?</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이:  어땠어요? </div>
+	    <div class="translation">Вей: И как она?</div>
+	  </div>
+	  <div>
+	    <div class="source">정희: 유명한 그림을 볼 수 있어서 아주 좋았어요. 동양과 서양의 그림을 비교해 볼 수도 있었고요. </div>
+	    <div class="translation">Чонхый: Прекрасно иметь возможность увидеть знаменитые картины. Также можно сравнить картины Востока и Запада.</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이:  어떤 그림을 좋아하는데요? </div>
+	    <div class="translation">Вей: Какие картины тебе нравятся?</div>
+	  </div>
+	  <div>
+	    <div class="source">정희:  저는 풍경화가 좋아요. 인물화도 나쁘지는 않지만 자연을 그린 풍경화를 보면 제가 그 자연 속에 있는 것 같아서요. </div>
+	    <div class="translation">Чонхый: Пейзажи. Портреты неплохи, но, когда смотрю на картины, на которых нарисована природа, я как будту оказываюсь внутрии неё.</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이:  이번 전시회에 풍경화만 있었어요? </div>
+	    <div class="translation">Вей: На теперешней выставке были только пейзажи?</div>
+	  </div>
+	  <div>
+	    <div class="source">정희:  아니요. 인물화, 풍경화, 정물화 모두 있었어요. 화가들이 자신들의 모습을 그린 초상화도 많던데요. </div>
+	    <div class="translation">Чонхый: Нет. Были портреты, пейзажи, натюрморты, всё есть. Также много автопортретов самих художников.</div>
+	  </div>
+	  <div>
+	    <div class="source">웨이:  저도 한번 가 봐야겠네요.</div>
+	    <div class="translation">Вей: Мне тоже нужно пойти.</div>
+	  </div>
+	  </section>
+
+       <section>
+	   <div>
+	    <div class="source">1.3. 어떤 동아리에 들 거야? </div>
+	    <div class="translation">В какой кружок собираешься вступить?</div>
+	  </div>
+	  <div>
+	    <div class="source">마리아:   제임스, 어떤 동아리에 들 거야? </div>
+	    <div class="translation">Мария:  Джеймс, в какое кружок собираешься вступить?</div>
+	  </div>
+	  <div>
+	    <div class="source">제임스:   아직 못 정했어, 어떤 동아리가 좋을까?</div>
+	    <div class="translation">Джеймс: Еще не решил, какой лучше?</div>
+	  </div>
+	  <div>
+	    <div class="source">마리아:   넌 한국 문화에 관심이 있으니까 탈춤반이나 전통 음악반이 어때? </div>
+	    <div class="translation">Мария:  Посколько ты интересуешься корейской культурой, как насчет кружка танца в масках или кружка традиционной музыки?</div>
+	  </div>
+	  <div>
+	    <div class="source">제임스:   글쎄, 지난 번에 소개하는 것을 들었는데도 어떤 동아리에 들어가야 할지 결정을 못하겠어.</div>
+	    <div class="translation">Джеймс: Ну, я слышал их представление в прошлый раз, но в какой вступить не решу.</div>
+	  </div>
+	  <div>
+	    <div class="source">마리아:    그럼 학교 홈페이지에 들어가서 동아리 소개를 한번 찾아 봐. 사진하고 동영상도 있어. </div>
+	    <div class="translation">Мария:  Тогда зайди на сайт школы, поищи о них информацию. Там есть фото и видео.</div>
+	  </div>
+	  <div>
+	    <div class="source">제임스: 아, 맞다. 홈페이지에 들어가기만 하면 다 나오는데 괜히 고민했네.</div>
+	    <div class="translation">Джеймс: А, верно, нужно только зайти на сайт школы, и там всё есть. Зря я переживал.</div>
+	  </div>
+	   </section>
+
+	   <section>
+	   <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	   </section>
+
+
+       <section>
+	   <div>
+	    <div class="source">4. 등산을 제일 많이 한대요.</div>
+	    <div class="translation"> Чаще всего ходят в горы.</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:  한국 사람들은 시간이 있을 때 보통 뭘 해요? </div>
+	    <div class="translation">Риэ: Корейца, когда есть время, что делают?</div>
+	  </div>
+	  <div>
+	    <div class="source">미선:  조사 결과에 따르면 등산을 제일 많이 한대요.</div>
+	    <div class="translation">Мисон: По результатам исследования чаще всего идут в горы.</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:  그렇군요. 한국에는 산이 많아서 등산하기가 좋을 거예요.</div>
+	    <div class="translation">Риэ: Правда? В Корее много гор, значит, наверное, хорошо подниматься в горы.</div>
+	  </div>
+	  <div>
+	    <div class="source">미선:  네, 그리고 산이 별로 험하지 않아서 아이들도 쉽게 등산을 할 수 있어요. </div>
+	    <div class="translation">Мисон: К тому же горы не особенно крутые, дети тоже могут подниматься.</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:  미선 씨도 이번 연휴에 등산 가실 거예요? </div>
+	    <div class="translation">Риэ: Ты тоже в эти праздники пойдешь в горы?</div>
+	  </div>
+	  <div>
+	    <div class="source">미선:  아니요. 저는 수업이 끝나자마자 제주도에 갈 거예요. 친구들과 제주도 관광을 하기로 했어요.</div>
+	    <div class="translation">Мисон: Нет, после окончания занятий сразу же поеду на Чеджудо. С друзьями собирались осмотреть Чеджудо.</div>
+	  </div>
+	   </section>
+
+	<section>
+	  <div>
+	    <div class="source">한국인의 여가 활동.</div>
+	    <div class="translation">Досуг корейцев.</div>
+	  </div>
+	  <div>
+	    <div class="source">여가 활동이란 일을 하고 남는 시간을 활용하여 하는 활동을 말합니다. </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">또한, 여가 시간이란 직장 생활과 공부로부터 벗어난 자유로운 시간을 말합니다.</div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">따라서 여가 활동은 꼭 해야 하는 것이 아니라 스스로 즐기기 위해서 하는 활동입니다. </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">과거 우리 조상들은 씨름, 널뛰기, 줄다리기, 팽이치기, 썰매타기, 탈춤, 서예 등의 여가 활동을 즐겼습니다. </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">현대에는 여가 활동이 더 다양해졌습니다. </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">컴퓨터 게임과 같은 오락 활동에서부터 영화 감상, 다양한 스포츠 활동, 어려운 사람들을 도와주는 봉사 활동, </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">그리고 특별한 동식물을 키우는 취미 활동에 이르기까지 그 종류는 수없이 많습니다. </div>
+	    <div class="translation"></div>
+	  </div>
+	  <div>
+	    <div class="source">현대인들은 자신에게 맞는 적절한 여가 활동을 통해 일상생활에서 받는 스트레스를 풀고 건강하게 살려고 노력합니다.</div>
+	    <div class="translation"></div>
+	  </div>
+	
+	</section>
+	
+	<section>
+	  <div>
+	    <div class="source">일상생활 </div>
+	    <div class="translation">Повседневные занятия</div>
+	  </div>
+	  <div>
+	    <div class="source">2.1 앞집에 이사 온 리에라고 합니다.</div>
+	    <div class="translation">Я Риэ, переехала в дом напротив.</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:   안녕하세요? 저는 앞집에 이사 온 리에라고 합니다. 잘 부탁드립니다. </div>
+	    <div class="translation">Риэ: Здравствуйте! Я Риэ, переехала в дом напротив. Рада быть полезной.</div>
+	  </div>
+	  <div>
+	    <div class="source">이웃   그렇지 않아도 어떤 분인지 궁금해서 인사를 가려던 참이었어요. 그런데 외국분이신가 봐요. </div>
+	    <div class="translation">Соседка: Мне как раз стало интересно, кто же переехал, и я хотела нанести визит. Но вы, похоже, иностранка?</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:   네, 일본에서 왔어요. </div>
+	    <div class="translation">Риэ: Да, Я из Японии.</div>
+	  </div>
+	  <div>
+	    <div class="source">이웃:   한국말을 참 잘 하시네요. </div>
+	    <div class="translation">Соседка: У вас такой хороший корейский!</div>
+	  </div>
+	  <div>
+	    <div class="source">리에:   감사합니다. 이거 이사 떡인데 맛 좀 보세요. </div>
+	    <div class="translation">Риэ: Благодарю. Вот вам подарок в честь переезда - ттоки, очень вкусные.</div>
+	  </div>
+	  <div>
+	    <div class="source">이웃:   고맙습니다. 잘 먹겠습니다. 이사 때문에 바쁘실 텐데 언제 이런 걸 준비하셨어요?</div>
+	    <div class="translation">Соседка: Спасибо. Обязательно попробую. Из-за переезда вы, должно быть, заняты, когда вам удалось их приготовить?</div>
+	  </div>
+	
+	</section>
+
+       <section>
+	   </section>
+	  
+	  
+	  <div>
+	    <div class="source"></div>
+	    <div class="translation"></div>
+	  </div>
+	  
+	</div>
+  </body>
+</html>

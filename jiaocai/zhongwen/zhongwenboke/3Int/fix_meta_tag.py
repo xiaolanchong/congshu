@@ -7,7 +7,7 @@ import re
 from_str = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />'
 to_str = '<meta name="viewport" content="width=device-width, initial-scale=1" />'
 
-for filepath in glob.iglob('*.htm', recursive=True):
+for filepath in glob.iglob('*.htm*', recursive=True):
     with open(filepath, encoding='utf8') as file:
         content = file.read()
     if to_str in content:

@@ -5,20 +5,20 @@ import glob
 import re
 import bs4
 
-is_not_patched = '<body><h1>'
+is_patched = 'data-bs-theme'
 re_style = re.compile('<style>.*?</style>', re.IGNORECASE|re.DOTALL)
 bootstrap_link = '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">\n' +\
                  '<link href="style.css" rel="stylesheet">\n'
 
-for filepath in glob.iglob('*.html', recursive=True):
+for filepath in glob.iglob('*.htm*', recursive=True):
     with open(filepath, encoding='utf8') as file:
         content = file.read()
-    if is_not_patched not in content:
+    if is_patched in content:
         print(f'{filepath} skipped')
         continue
     # fix header
     content = re_style.sub(bootstrap_link, content, 1)
-    content = content.replace('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"', '<!DOCTYPE html>', 1)
+    content = content.replace('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN">', '<!DOCTYPE html>', 1)
     content = content.replace('<html>', '<html lang="zh-Hans">', 1)
     
     content = content.replace('width="90%"', '')

@@ -32,3 +32,6 @@ A: Tā zěnme méi lái shàngbān?
 B: Tīngshuō tā zuìjìn dé le kē, yīzhí zài xiūyǎng.
 A: Why didn’t he come to work?
 B: I heard he’s seriously ill and has been resting.
+
+## 瑙 
+瑙 (nǎo) means “jade” or “gemstone,” often used in words like 玛瑙 (mǎnǎo) — agate.

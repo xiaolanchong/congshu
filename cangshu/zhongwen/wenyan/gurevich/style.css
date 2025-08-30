@@ -1,0 +1,21 @@
+
+
+/* zhongwen text */
+.zh { color: wheat; }
+.zh_name {}
+
+
+/* emphasize in ZH text */
+.zh_emph, .ru_emph { color: pink; }
+
+/* ru transcription */
+.rutran { font-family: Verdana; font-style: italic; font-size: larger; }
+
+/* sentence sample */
+.sent { margin-left: 1em; margin-top: 0.5em; margin-bottom: 0.5em; }
+
+/* ZH word with ru transcription and meaning */
+.word { margin-left: 0.5em; margin-top: 0; margin-bottom: 0 }
+
+/* decrease the margin between p and word  */
+p:has(+ .word) { margin-bottom: 0em;  }

@@ -1,0 +1,188 @@
+
+Intermediate - Bank Transactions (C0248)
+
+Intermediate - Bank Transactions
+
+(C0248)
+
+您好。请问我可以开一个银行帐户吗？
+
+nínhǎo 。qǐng wèn wǒ kěyǐ kāi yī ge yínháng zhànghù ma ？
+
+Hello.  Can I open a bank account?
+
+可以的。您能先出示一下您的有效身份证件吗？
+
+kěyǐ de 。nín néng xiān chūshì yīxià nín de yǒuxiào shēnfèn zhèngjiàn ma ？
+
+Certainly.  Could you please give me a valid form of ID?
+
+没问题。这是我的护照。
+
+méiwèntí 。zhè shì wǒ de hùzhào 。
+
+No problem.  Here is my passport.
+
+谢谢。请您先填一张开户申请表，您可以选择活期存款帐户或者定期存款帐户。您只需在您要选择的类型前打勾就可以了。
+
+xièxie 。qǐng nín xiān tián yī zhāng kāihù shēnqǐngbiǎo ，nín kěyǐ xuǎnzé huóqī cúnkuǎn zhànghù huòzhě dìngqī cúnkuǎn zhànghù 。nín zhǐ xū zài nín yào xuǎnzé de lèixíng qián dǎgōu jiù kěyǐ le 。
+
+Thank you.  Please fill out a new account application form.  You may choose to open a current funds account or fixed-term deposit account.  Just check the box of your choice.
+
+好的。还需要填些什么吗？
+
+hǎo de 。hái xūyào tián xiē shénme ma ？
+
+All right.  Do I need to fill out anything else?
+
+请在这里写上您的联系方式和住址。您刚刚选择的这种帐户可以存取款、转帐和购物消费，但不可以透支。
+
+qǐng zài zhèlǐ xiěshàng nín de liánxì fāngshì hé zhùzhǐ 。nín gānggāng xuǎnzé de zhèzhǒng zhànghù kěyǐ cúnqǔ kuǎn 、zhuǎnzhàng hé gòuwù xiāofèi ，dàn bù kěyǐ tòuzhī 。
+
+Please write down your contact information and address here.  The type of account you chose will allow you to deposit and withdraw funds, transfer funds, and make purchases, but you cannot overdraw.
+
+办好后我可以直接在自动取款机上取钱了吗？需要手续费吗？
+
+bàn hǎo hòu wǒ kěyǐ zhíjiē zài zìdòng qǔkuǎnjī shàng qǔqiánle ma ？xūyào shǒuxùfèi ma ？
+
+Will I be able to withdraw money from an ATM after I open the account?  Do I need to pay a fee?
+
+是的，您可以在本市的任意一台本行的自动取款机上使用银行卡，查询帐户余额和取款是不需要收取手续费的。不过如果您要在别的银行的自动取款机上交易，我们将收取一定的手续费。
+
+shìde ，nín kěyǐ zài běnshì de rènyì yī tái běn háng de zìdòng qǔkuǎnjī shàng shǐyòng yínhángkǎ 。cháxún zhànghù yúé hé qǔkuǎn shì bù xūyào shōuqǔ shǒuxùfèi de 。bùguò rúguǒ nín yào zài biéde yínháng de zìdòng qǔkuǎnjī shàng jiāoyì ，wǒmen jiāng shōuqǔ yīdìng de shǒuxùfèi 。
+
+You can use the card at any of our bank's ATMs in the city, and there is no service charge for checking account balance or withdrawal.  However, if you do any transactions at other banks' ATMs, these transactions will be subject to a service charge.
+
+好的，我明白了，谢谢。
+
+hǎo de ，wǒ míngbai le ，xièxie 。
+
+All right, I see.  Thank you.
+
+Vocabulary
+
+出示
+
+chūshì
+
+to show
+
+有效
+
+yǒuxiào
+
+valid
+
+转帐
+
+zhuǎnzhàng
+
+transfer money from into an account
+
+透支
+
+tòuzhī
+
+to overdraw
+
+任意
+
+rènyì
+
+arbitrarily
+
+查询
+
+cháxún
+
+to inquire about
+
+交易
+
+jiāoyì
+
+exchange
+
+账户
+
+zhànghù
+
+account
+
+申请表
+
+shēnqǐngbiǎo
+
+application form
+
+活期
+
+huóqī
+
+current
+
+存款
+
+cúnkuǎn
+
+deposit
+
+定期
+
+dìngqī
+
+fixed
+
+自动取款机
+
+zìdòng qǔkuǎnjī
+
+ATM
+
+申请
+
+shēnqǐng
+
+application
+
+属于
+
+shǔyú
+
+to belong to
+
+利息
+
+lìxi
+
+interest
+
+损失
+
+sǔnshī
+
+to lose
+
+罚款
+
+fákuǎn
+
+to fine
+
+限制
+
+xiànzhì
+
+to limit
+
+转移
+
+zhuǎnyí
+
+to shift
+
+金额
+
+jīné
+
+value

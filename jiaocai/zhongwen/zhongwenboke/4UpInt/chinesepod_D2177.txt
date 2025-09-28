@@ -1,0 +1,412 @@
+
+Upper-Intermediate - Punctuation Issues
+
+Upper-Intermediate - Punctuation Issues
+
+(D2177)
+
+A:
+
+Kevin,我要写一封英文邮件给客户。你能不能帮我检查一下，看看有没有问题？
+
+Kevin, wǒ yào xiě yī fēng Yīngwén yóujiàn gěi kèhù. nǐ néng bu néng bāng wǒ jiǎnchá yīxià, kàn kan yǒumeiyǒu wèntí?
+
+Kevin, I want to write an English letter to a client. Can you help me look over it and see if there are any problems?
+
+B:
+
+当然可以。我来看看。嗯，内容没什么问题。不过，你标点点得有些问题呀。
+
+dāngrán kěyǐ. wǒ lái kàn kan. ng4, nèiróng méi shénme wèntí. bùguò, nǐ biāodiǎn diǎn de yǒuxiē wèntí ya.
+
+Of course I can. Let me see. Yeah, there's no problem with the content. However, there are some mistakes with your punctuation.
+
+A:
+
+嘿，这些我都搞不清楚，谁让我英语语法课都在睡觉呢！你帮我改改吧。
+
+hēi, zhèxiē wǒ dōu gǎo bu qīngchu, shéi ràng wǒ yīngyǔ yǔfǎkè dōu zài shuìjiào ne! nǐ bāng wǒ gǎigai ba.
+
+Yeah, I'm not clear at all on this stuff. That's what I get for sleeping through English grammar class. Maybe you should help me change it.
+
+B:
+
+首先所有的标点符号之前都不用空格，但是之后都要有一个空格，然后才能再写内容。
+
+shǒuxiān suǒyǒu de biāodiǎn fúhào zhīqián dōu bùyòng kònggé, dànshì zhīhòu dōuyào yǒu yī gè kònggé, ránhòu cáinéng zài xiě nèiróng.
+
+First of all, before all of the punctuation marks, you don't need to have a space. However, you have to have a space after them. Only then can you begin to write again.
+
+A:
+
+啊呀，那要改的地方可多了，让我记下来。
+
+āyā, nà yào gǎi de dìfang kě duō le, ràng wǒ jìxiàlai.
+
+Oh no! I'm going to have make lots of changes. Let me write this down.
+
+B:
+
+一开头就错了。“Dear Mr. Wang”的后面应该要加逗号。
+
+yī kāitóu jiù cuò le." Dear Mr. Wang” de hòumian yīnggāi yào jiā dòuhào.
+
+The greeting is wrong. After “Dear Mr. Wang” there should be a comma.
+
+A:
+
+中文里应该是冒号呀。
+
+Zhōngwén lǐ yīnggāi shì màohào ya.
+
+In Chinese there should be a colon.
+
+B:
+
+这是英文啊，小姐！除非是很正式的，比如“To Whom It May Concern要用冒号，其余都应该是逗号。还有，这些逗号也不对，应该用句号。
+
+zhè shì Yīngwén a, xiǎojie! chúfēi shì hěn zhèngshì de, bǐrú" To Whom It May Concern yào yòng màohào, qíyú dōu yīnggāi shì dòuhào. háiyǒu, zhèxiē dòuhào yě bù duì, yīnggāi yòng jùhào.
+
+This is English, Missy! Unless it's really formal, like “To Whom It May Concern”, you need to use a colon, otherwise you should always use a comma. Also these commas are incorrect. You should use periods.
+
+A:
+
+可是这句话还没有结束呀。
+
+kěshì zhè jù huà hái méiyǒu jiéshù ya.
+
+But this sentence hasn't finished yet!
+
+B:
+
+中文里，如果两个短句有关联的话，当中可以用逗号。但是在英语里，如果主谓宾齐全，那就是一个完整的句子了。就应该用句号。
+
+Zhōngwén lǐ, rúguǒ liǎng gè duǎnjù yǒu guānlián dehuà, dāngzhōng kěyǐ yòng dòuhào. dànshì zài yīngyǔ lǐ, rúguǒ zhǔ wèi bīn qíquán, nà jiùshì yī gè wánzhěng de jùzi le. jiù yīnggāi yòng jùhào.
+
+In Chinese, if two short sentences are related, you can place a comma between them. However, in English, if you have a subject, verb and object together, then it's a complete sentence. So you should use a period.
+
+A:
+
+原来如此。
+
+yuánláirúcǐ.
+
+So that's how it is.
+
+B:
+
+另外，书名号和顿号也是中国特有的标点符号，英语中根本不存在。
+
+lìngwài, shūmínghào hé dùnhào yě shì Zhōngguó tèyǒu de biāodiǎn fúhào, yīngyǔ zhōng gēnběn bù cúnzài.
+
+Also, title marks and serial commas are special Chinese punctuation marks. They simply don't exist in English.
+
+A:
+
+那要写书名怎么办？
+
+nà yào xiě shūmíng zěnme bàn?
+
+Then if you want to write the name of a book, what do you do?
+
+B:
+
+一般用斜体或者粗体就可以了。至于顿号一般都是逗号。
+
+yībān yòng xiétǐ huò zhě cūtǐ jiù kěyǐ le. zhìyú dùnhào yībān dōu shì dòuhào.
+
+Using italics or bold is usually okay. As for serial commas, we just use regular commas.
+
+A:
+
+好，我改一下。
+
+hǎo, wǒ gǎi yīxià.
+
+Okay. I'll make the changes.
+
+B:
+
+你为什么写两遍省略号？
+
+nǐ wèishénme xiě liǎng biàn shěnglüèhào?
+
+Why did you write two ellipses?
+
+A:
+
+没有啊。省略号不就是六个点吗？
+
+méiyǒu a. shěnglüèhào bù jiù shì liù gè diǎn ma?
+
+I didn't. Isn't an ellipsis six dots?
+
+B:
+
+不对，英语的省略号是三个点，而且在行底，不是行中。还有，句号和逗号必须置于引号之内；冒号和分号必须置于引号之外……
+
+bù duì, yīngyǔ de shěnglüèhào shì sān gè diǎn, érqiě zài háng dǐ, bùshì háng zhōng. háiyǒu, jùhào hé dòuhào bìxū zhìyú yǐnhào zhīnèi； màohào hé fēnhào bìxū zhìyú yǐnhào zhīwài……
+
+No. An English ellipsis is three dots, and it goes at the bottom of the line, not in the middle. Also, periods and commas have to be placed inside of quotation marks; colons and semicolons have to be placed outside of quotation marks...
+
+A:
+
+啊呀，我一个头两个大了！
+
+āyā, wǒ yī gè tóu liǎng gè dà le!
+
+Jeez! I'm so confused!
+
+Key Vocabulary
+
+封
+
+fēng
+
+measure word for letters
+
+检查
+
+jiǎnchá
+
+to check, investigate
+
+内容
+
+nèiróng
+
+content
+
+标点
+
+biāodiǎn
+
+punctuation
+
+点
+
+diǎn
+
+to make a mark (of punctuation)
+
+搞不清楚
+
+gǎo bu qīngchu
+
+to not be able to make clear
+
+符号
+
+fúhào
+
+symbol, mark
+
+空格
+
+kònggé
+
+space (in a text)
+
+记
+
+jì
+
+to remember
+
+冒号
+
+màohào
+
+colon
+
+除非
+
+chúfēi
+
+unless
+
+结束
+
+jiéshù
+
+to finish
+
+短句
+
+duǎnjù
+
+short sentence
+
+关联
+
+guānlián
+
+to be interrelated
+
+主
+
+zhǔ
+
+subject
+
+谓
+
+wèi
+
+predicate
+
+宾
+
+bīn
+
+object
+
+齐全
+
+qíquán
+
+together
+
+完整
+
+wánzhěng
+
+complete
+
+原来如此
+
+yuánláirúcǐ
+
+so that's how it is
+
+书名号
+
+shūmínghào
+
+title marks
+
+顿号
+
+dùnhào
+
+serial comma
+
+根本
+
+gēnběn
+
+simply
+
+斜体
+
+xiétǐ
+
+italics
+
+粗体
+
+cūtǐ
+
+bold
+
+至于
+
+zhìyú
+
+as for
+
+行
+
+háng
+
+line
+
+置于
+
+zhìyú
+
+to place
+
+一个头两个大
+
+yīgètóu liǎnggèdà
+
+someone completely confused
+
+尊敬
+
+zūnjìng
+
+respected
+
+其余
+
+qíyú
+
+the rest
+
+Supplementary Vocabulary
+
+结尾
+
+jiéwěi
+
+ending
+
+剩下的
+
+shèngxiàde
+
+remaining
+
+从句
+
+cóngjù
+
+dependent clause
+
+主语
+
+zhǔyǔ
+
+subject
+
+谓语
+
+wèiyǔ
+
+predicate
+
+宾语
+
+bīnyǔ
+
+object
+
+组成
+
+zǔchéng
+
+to consist of
+
+单引号
+
+dānyǐnhào
+
+apostrophe, single quotation mark
+
+双引号
+
+shuāngyǐnhào
+
+double quotation mark
+
+编辑
+
+biānjí
+
+to edit
+
+Online Review and Discussion
+
+.   ©2013 Praxis Language Ltd.

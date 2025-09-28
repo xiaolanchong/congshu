@@ -1,0 +1,15 @@
+td { 
+	padding-right: 1em; 
+}
+
+.pinyin {
+	font-size: smaller;
+}
+
+.english { 
+	font-style: italic;
+}
+
+td > span.chinese { 
+	text-wrap: nowrap;
+}

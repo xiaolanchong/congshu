@@ -1,0 +1,226 @@
+
+Intermediate - Weather Forecast
+
+Intermediate - Weather Forecast
+
+(C0701)
+
+欢迎收看天气预报。
+
+huānyíng shōukàn tiānqì yùbào.
+
+Welcome to today's weather forecast.
+
+未来三天，天气变化较大。
+
+wèilái sān tiān, tiānqì biànhuà jiàodà.
+
+In the next three days, there will be rather significant weather changes.
+
+前两天以阴雨天气为主。
+
+qiánliǎngtiān yǐ yīnyǔ tiānqì wéizhǔ.
+
+The first two days will see mainly cloudy skies and rain.
+
+局部地区雨量较大，并且有少许降温。
+
+júbù dìqū yǔliàng jiàodà, bìngqiě yǒu shǎoxǔ jiàngwēn.
+
+Some areas will see quite heavy rainfall, and there will also be a slight temperature drop.
+
+下面请看未来三天的具体天气预报：
+
+xiàmiàn qǐng kàn wèilái sān tiān de jùtǐ tiānqì yùbào:
+
+Now please take a look at the specific forecasts for the next three days:
+
+20日：阴，有时有雨，雨量中到大。
+
+èrshí rì: yīn, yǒushí yǒu yǔ, yǔliàng zhōng dào dà.
+
+The 20th: Cloudy, scattered showers, medium to heavy rainfall.
+
+最低温度18摄氏度，最高22度。
+
+zuì dī wēndù shíbā shèshìdù, zuì gāo èrshíèr dù.
+
+Low of 18 degrees Celsius, high of 22 degrees.
+
+21日：有雨，局部地区暴雨。
+
+èrshíyī rì: yǒu yǔ, júbù dìqū bàoyǔ.
+
+The 21st: Rain with storms in some areas.
+
+最低温度15摄氏度，最高20度。
+
+zuì dī wēndù shíwǔ shèshìdù, zuì gāo èrshí dù.
+
+Low of 15 degrees Celsius, high of 20 degrees.
+
+22日：多云转晴。
+
+èrshíèr rì: duōyún zhuǎnqíng.
+
+The 22nd: Cloudy, then sunny.
+
+最低温度18摄氏度，最高23度。
+
+zuì dī wēndù shíbā shèshìdù, zuì gāo èrshísān dù.
+
+Low of 18 degrees Celsius, high of 23 degrees.
+
+今天的预报就到这儿，我们下次再见。
+
+jīntiān de yùbào jiù dào zhèr, wǒmen xiàcì zàijiàn.
+
+That's it for today's forecast. See you next time.
+
+Key Vocabulary
+
+收看
+
+shōukàn
+
+to tune into
+
+天气预报
+
+tiānqì yùbào
+
+weather forecast
+
+阴雨
+
+yīnyǔ
+
+cloudy and rainy
+
+以......为主
+
+yǐ ... wéizhǔ
+
+mainly
+
+局部
+
+júbù
+
+area
+
+雨量
+
+yǔliàng
+
+rainfall
+
+少许
+
+shǎoxǔ
+
+a little
+
+降温
+
+jiàngwēn
+
+to cool off
+
+温度
+
+wēndù
+
+temperature
+
+摄氏度
+
+shèshìdù
+
+degrees Celcius
+
+暴雨
+
+bàoyǔ
+
+torrential rain
+
+多云
+
+duōyún
+
+cloudy
+
+转晴
+
+zhuǎnqíng
+
+to clear up (of weather)
+
+Supplementary Vocabulary
+
+潮湿
+
+cháoshī
+
+damp
+
+干燥
+
+gānzào
+
+dry; arid
+
+雾
+
+wù
+
+fog
+
+冰雹
+
+bīngbáo
+
+hail
+
+雷阵雨
+
+léizhènyǔ
+
+thunder shower
+
+打雷
+
+dǎléi
+
+thunder
+
+刮风
+
+guāfēng
+
+windy
+
+台风
+
+táifēng
+
+typhoon
+
+风力
+
+fēnglì
+
+force of the wind
+
+冷空气
+
+lěngkōngqì
+
+cold front
+
+沙尘暴
+
+shāchénbào
+
+sandstorm

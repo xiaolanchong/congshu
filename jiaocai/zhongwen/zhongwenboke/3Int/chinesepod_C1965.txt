@@ -1,0 +1,208 @@
+
+Intermediate - Using Excel
+
+Intermediate - Using Excel
+
+(C1965)
+
+A:
+
+小赵，你那个表格做好了吗？
+
+Xiǎo Zhào, nǐ nà ge biǎogé zuò hǎo le ma?
+
+Xiao Zhao, have you finished that table?
+
+B:
+
+还没有。
+
+hái méiyǒu.
+
+Not yet.
+
+A:
+
+怎么回事？两天了还没做完？
+
+zěnmehuíshì? liǎng tiān le hái méi zuò wán?
+
+How can that be? You still haven't finished it after two days?
+
+B:
+
+数据很多，有很多东西要计算。
+
+shùjù hěn duō, yǒu hěn duō dōngxi yào jìsuàn.
+
+There's a lot of data and a lot of calculations to do.
+
+A:
+
+Excel会自己计算。
+
+Excel huì zìjǐ jìsuàn.
+
+Excel can do the calculations itself.
+
+B:
+
+怎么算？
+
+zěnme suàn?
+
+How?
+
+A:
+
+用公式！你以前没学过？
+
+yòng gōngshì! nǐ yǐqián méi xué guo?
+
+Use a formula! You haven't learned this before?
+
+B:
+
+嗯。
+
+ng4.
+
+No.
+
+A:
+
+你看，在这里输入公式，它就算出来了。
+
+nǐ kàn, zài zhèlǐ shūrù gōngshì, tā jiù suàn chūlái le.
+
+Look. Enter the formula here and it'll just calculate it.
+
+B:
+
+那下面的呢？
+
+nà xiàmian de ne?
+
+What about the stuff below?
+
+A:
+
+这样往下一拉，就都算出来了。
+
+zhèyàng wǎng xià yī lā, jiù dōu suàn chūlái le.
+
+Pull it down like this and it'll calculate it.
+
+B:
+
+这么简单！
+
+zhème jiǎndān!
+
+It's so simple!
+
+A:
+
+是啊，很简单。快点儿做吧！
+
+shì a, hěn jiǎndān. kuài diǎnr zuò ba!
+
+Yep, it's very simple. Finish it up quick!
+
+Key Vocabulary
+
+表格
+
+biǎogé
+
+table
+
+怎么回事
+
+zěnmehuíshì
+
+what happened
+
+数据
+
+shùjù
+
+data
+
+计算
+
+jìsuàn
+
+to calculate
+
+算
+
+suàn
+
+to calculate
+
+公式
+
+gōngshì
+
+formula
+
+输入
+
+shūrù
+
+to enter
+
+出来
+
+chūlái
+
+to come out
+
+往
+
+wǎng
+
+towards
+
+拉
+
+lā
+
+to pull
+
+简单
+
+jiǎndān
+
+simple
+
+Supplementary Vocabulary
+
+计算机
+
+jìsuànjī
+
+computer
+
+计算器
+
+jìsuànqì
+
+calculator
+
+输入法
+
+shūrùfǎ
+
+input method
+
+单格
+
+dāngé
+
+cell
+
+Online Review and Discussion
+
+.   ©2012 Praxis Language Ltd.

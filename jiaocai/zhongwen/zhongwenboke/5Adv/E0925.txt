@@ -1,0 +1,190 @@
+
+Advanced - 垃圾回收
+
+Advanced - 垃圾回收
+
+(E0925)
+
+A
+
+香蕉皮给我，那边有垃圾桶。我去扔。
+
+xiāngjiāopí gěi wǒ, nàbian yǒu lājītǒng. wǒ qù rēng.
+
+B
+
+喂，那是分类垃圾桶，你扔错啦！香蕉皮是不可回收垃圾。
+
+wèi, nà shì fēnlèi lājī tǒng, nǐ rēng cuò la! xiāngjiāopí shì bù kě huíshōu lājī.
+
+A
+
+谁会注意啊！大家都是乱扔的，哪边方便就放哪边了。
+
+shéi huì zhùyì a! dàjiā dōu shì luàn rēng de, nǎ biān fāngbiàn jiù fàng nǎ biān le.
+
+B
+
+人人都像你这样不区分可回收垃圾和不可回收垃圾，那这些分类垃圾桶有什么用啊。
+
+rénrén dōu xiàng nǐ zhèyàng bù qūfēn kě huíshōu lājī hé bù kě huíshōu lājī, nà zhè xiē fēnlèi lājītǒng yǒu shénme yòng a.
+
+A
+
+还有人随手就扔地上呢！我已经很文明了。我分了又怎么样？别人不分的话，我分也是白分。我敢说很多人都不知道什么可回收什么不可回收。说实话，我也不太清楚。
+
+hái yǒurén suíshǒu jiù rēng dì shàng ne! wǒ yǐjīng hěn wénmíng le. wǒ fēn le yòu zěnmeyàng? biérén bùfēn dehuà, wǒ fēn yě shì báifēn. wǒ gǎn shuō hěn duō rén dōu bù zhīdào shénme kě huíshōu shénme bù kě huíshōu. shuō shíhuà, wǒ yě bùtài qīngchu.
+
+B
+
+像废纸、塑料瓶、玻璃、旧衣服、饮料罐什么的可以回收。瓜果皮、花生壳、面包等不可回收。对了，餐巾纸和卫生纸水溶性太强了，也不可回收。
+
+xiàng fèizhǐ, sùliàopíng , bōli, jiù yīfu, yǐnliàoguàn  shénme de kěyǐ huíshōu. guāguǒ pí, huāshēng ké, miànbāo děng bù kě huíshōu. duìle, cānjīnzhǐ hé wèishēngzhǐ shuǐróngxìng tài qiáng le, yě bù kě huíshōu.
+
+A
+
+你知道的还挺多的嘛！哎，在家里也没见你把垃圾分类。
+
+nǐ zhīdào de hái tǐng duō de ma! āi, zài jiālǐ yě méi jiàn nǐ bǎ lājī fēnlèi.
+
+B
+
+那是因为我们小区的垃圾不分类呀！我不是每次都把废电池放到那个专门回收的箱子里去吗？还把旧报纸、饮料瓶、易拉罐什么的收集起来卖给小区门口收破烂的阿姨。
+
+nà shì yīnwèi wǒmen xiǎoqū de lājī bù fēnlèi yā! wǒ bù shì měicì dōu bǎ fèi diànchí fàngdào  nàge zhuānmén huíshōu de xiāngzǐ lǐ qù ma? hái bǎ jiù bàozhǐ, yǐnliàopíng , yìlāguàn shénme de shōují qǐlai màigěi xiǎoqū ménkǒu shōu pòlàn de āyí.
+
+A
+
+不能卖钱的话，还不是都当垃圾丢掉了？垃圾分类和处理是个大问题，光靠路上几个分类的能有什么用？要分类就得分得彻底些，除了路上的分类垃圾桶，小区也要分类，清洁工也需要专门的培训。
+
+bùnéng màiqián dehuà, hái bù shì dōu dàng lājī diūdiào le ? lājī fēnlèi  hé chǔlǐ shì ge dàwèntí, guāng kào lùshang jǐge fēnlèi de néng yǒu shénme yòng? yào fēnlèi jiù děi fēn de chèdǐ xiē, chúle lùshang de fēnlèi lājītǒng, xiǎoqū yě yào fēnlèi, qīngjiégōng yě xūyào zhuānmén de péixùn.
+
+B
+
+嗯。这方面我们还做得不太好。一些发达国家都制定法律来强制人们分类投放垃圾。
+
+ng4. zhè fāngmiàn wǒmen hái zuò de bù tài hǎo. yīxiē fādá guójiā dōu zhìdìng fǎlǜ lái qiángzhì rénmen fēnlèi tóufàng lājī.
+
+A
+
+回收了还得利用好才行。管理、技术都得跟上。简单堆放和填埋的话，城市真的要被垃圾包围了。焚烧也不太好。都会造成二次污染。
+
+huíshōu le hái děi lìyòng hǎo cái xíng. guǎnlǐ, jìshù dōu děi gēnshàng . jiǎndān duīfàng hé tiánmái dehuà, chéngshì zhēnde yào bèi lājī bāowéi le. fén shāo  yě bù tài  hǎo. dōuhuì zàochéng èrcì wūrǎn.
+
+B
+
+你说得没错。应该建立一套完整的垃圾分类投放、回收和处理系统。很多专家已经着手处理这些问题了。人人都要有环保意识，自觉处理好自己的垃圾也是很重要的。
+
+nǐ shuō de méicuò. yīnggāi jiànlì yītào wánzhěng de lājī fēnlèi tóufàng, huíshōu hé chǔlǐ xìtǒng. hěn duō zhuānjiā yǐjīng zhuóshǒu chǔlǐ zhèxiē wèntí le. rénrén dōu yào yǒu huánbǎo yìshí, zìjué chǔlǐ  hǎo zìjǐ de lājī yě shì hěn zhòngyào de.
+
+A
+
+对！保护环境，人人有责嘛！
+
+duì! bǎohùhuánjìng, rénrén yǒu zé ma!
+
+Key Vocabulary
+
+分类
+
+fēnlèi
+
+to classify
+
+回收
+
+huíshōu
+
+to recycle
+
+文明
+
+wénmíng
+
+civilized
+
+水溶性
+
+shuǐróngxìng
+
+water-soluble
+
+废电池
+
+fèidiànchí
+
+used battery
+
+易拉罐
+
+yìlāguàn
+
+soda can
+
+收破烂的
+
+shōupòlànde
+
+scavenger collector
+
+强制
+
+qiángzhì
+
+to impose
+
+堆放
+
+duīfàng
+
+to pile up
+
+填埋
+
+tiánmái
+
+to bury
+
+焚烧
+
+fénshāo
+
+to burn
+
+二次污染
+
+èrcìwūrǎn
+
+secondary pollution
+
+着手
+
+zhuóshǒu
+
+to take action
+
+保护环境，人人有责
+
+bǎohùhuánjìng, rénrén yǒu zé
+
+environmental protection is everyone's responsibility
+
+Supplementary Vocabulary
+
+白色污染
+
+báisèwūrǎn
+
+white pollution
+
+环卫工人
+
+huánwèigōngrén
+
+street cleaner
+
+拾荒者
+
+shíhuāngzhě
+
+garbage picker

@@ -1,0 +1,250 @@
+
+Intermediate - Cracking QR Codes
+
+Intermediate - Cracking QR Codes
+
+(C2410)
+
+A:
+
+小姐，请问几位？
+
+xiǎojiě, qǐngwèn jǐ wèi?
+
+Miss, how many of you are there?
+
+B:
+
+两个。
+
+liǎng gè.
+
+Two.
+
+A:
+
+好的，这是你们的号码。请等一下。
+
+hǎode, zhè shì nǐmende hàomǎ. qǐng děng yīxià.
+
+Okay, this is your number. Please wait a moment.
+
+B:
+
+要等多久？
+
+yào děng duōjiǔ?
+
+How long do we have to wait?
+
+A:
+
+这个不确定。您可以在这里下个软件，然后去逛一下。它会告诉您排队的情况。
+
+zhè gè bù quèdìng. nín kěyǐ zài zhèlǐ xià gè ruǎnjiàn, ránhòu qù guàng yīxià. tā huì gàosu nín páiduì de qíngkuàng.
+
+It's not certain. You can download this software, and then go walk around. It will tell you the status of the line.
+
+B:
+
+喔。咦，这是什么呀？黑乎乎的。
+
+ō. yí, zhè shì shénme ya? hēihūhū de.
+
+Oh! Hey, what is this? The black thing.
+
+C:
+
+二维码呀，你也太落伍了。用手机扫一下，就会自动跳转到下载页面。
+
+èrwéimǎ ya, nǐ yě tài luòwǔ le. yòng shǒujī sǎo yīxià, jiù huì zìdòng tiào zhuǎn dào xiàzǎi yèmiàn.
+
+That's a QR code. You're so out of the loop. Use your cell phone to scan it, then it will automatically redirect you to the download page.
+
+B:
+
+啊，那么先进啊。
+
+ā, nàme xiānjìn ā.
+
+Oh, how advanced!
+
+C:
+
+二维码用得很多啊。上个礼拜我去了一场演唱会，都不用门票，只要二维码就行。
+
+èrwéimǎ yòng de hěn duō ā. shànggèlǐbài wǒ qù le yī chǎng yǎnchànghuì, dōu bù yòng ménpiào, zhǐ yào èrwéimǎ jiù xíng.
+
+QR codes are used a lot! Last week I went to a concert and I didn't use a ticket. All I needed was a QR code.
+
+B:
+
+我看很多商店都有这个。是不是扫一扫就能知道商品信息？
+
+wǒ kàn hěn duō shāngdiàn dōu yǒu zhè gè. shì bùshì sǎoyīsǎo jiù néng zhīdào shāngpǐn xìnxī?
+
+I've seen that a lot of stores all have these. So then if you scan them will you get information on their products?
+
+C:
+
+对啊。很多商家都用二维码做广告。
+
+duìa. hěn duō shāngjiā dōu yòng èrwéimǎ zuò guǎnggào.
+
+Yes. Many businesses use QR codes for advertising.
+
+B:
+
+那真方便。唉，你看那里就有一个二维码，我去扫一扫，看看是什么。
+
+nà zhēn fāngbiàn. ài, nǐ kàn nàlǐ jiù yǒu yī gè èrwéimǎ, wǒ qù sǎoyīsǎo, kànkan shì shénme.
+
+That's really convenient. Hey, there's a QR code over there. I'll go scan it and see what it is.
+
+C:
+
+你也别乱扫啊。有些二维码可能有病毒。
+
+nǐ yě bié luàn sǎo ā. yǒuxiē èrwéimǎ kěnéng yǒu bìngdú.
+
+Don't scan willy-nilly. Some QR codes could have viruses.
+
+Key Vocabulary
+
+软件
+
+ruǎnjiàn
+
+software
+
+逛
+
+guàng
+
+to stroll
+
+排队
+
+páiduì
+
+line, queue
+
+二维码
+
+èrwéimǎ
+
+QR code
+
+落伍
+
+luòwǔ
+
+old-fashioned, outdated
+
+黑乎乎
+
+hēihūhū
+
+black
+
+自动
+
+zìdòng
+
+automatically
+
+下载
+
+xiàzǎi
+
+to download
+
+页面
+
+yèmiàn
+
+web page
+
+先进
+
+xiānjìn
+
+advanced
+
+演唱会
+
+yǎnchànghuì
+
+concert
+
+只
+
+zhǐ
+
+only
+
+广告
+
+guǎnggào
+
+advertising
+
+乱
+
+luàn
+
+idly, messily
+
+病毒
+
+bìngdú
+
+virus
+
+Supplementary Vocabulary
+
+逛街
+
+guàngjiē
+
+to shop
+
+固定说法
+
+gùdìngshuōfǎ
+
+fixed expression
+
+红彤彤
+
+hóngtōngtōng
+
+red
+
+白茫茫
+
+báimángmáng
+
+white
+
+扫描
+
+sǎomiáo
+
+to scan
+
+随便
+
+suíbiàn
+
+as one wishes
+
+输
+
+shū
+
+to input
+
+Online Review and Discussion
+
+.   ©2014 ChinesePod Ltd.

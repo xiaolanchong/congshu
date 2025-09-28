@@ -1,0 +1,374 @@
+
+Upper-Intermediate - Editing a Photo
+
+Upper-Intermediate - Editing a Photo
+
+(D0977)
+
+A
+
+你好，现在忙吗？我想请你帮我处理一些图片和Flash。
+
+nǐhǎo, xiànzài máng  ma? wǒ xiǎng qǐng nǐ bāng wǒ chǔlǐ yīxiē túpiàn hé Flash.
+
+Hi, are you busy right now?  I want to ask you to help me process some pictures and Flash items.
+
+B
+
+好的，你说吧。
+
+hǎo de, nǐ shuō ba.
+
+OK, go ahead.
+
+A
+
+这些图片需要处理成468×60像素的，JPG格式。最好选择看起来清晰一点的字体，而且要能吸引眼球。
+
+zhèxiē túpiàn xūyào chǔlǐ chéng sìbǎi liùshí bā chéngyǐ liùshí  xiàngsù de, jpg géshì. zuìhǎo xuǎnzé kàn qǐlái qīngxī yīdiǎn de zìtǐ, érqiě yào néng xīyǐn yǎnqiú.
+
+I need these pictures at 468 by 60 pixel resolution, JPG format.  It would best if you could choose a clear-looking font, one that appeals to the eye.
+
+B
+
+好，没问题。图片颜色和亮度也要修正一下吧？
+
+hǎo, méiwèntí. túpiàn  yánsè hé liàngdù yě yào xiūzhèng  yīxià ba?
+
+OK, no problem.  Do you want me to correct the color and brightness of the picture as well?
+
+A
+
+这个你决定，需要的话加点儿特效，渐变色什么的。
+
+zhè ge nǐ juédìng, xūyào dehuà jiā diǎnr tèxiào, jiànbiànsè shénme de.
+
+You can decide.  If it needs it, you can add some special effects, gradients, etc.
+
+B
+
+好。
+
+hǎo.
+
+Sure.
+
+A
+
+这些照片要做成大二寸的，有红眼的话要去掉，弄漂亮些。
+
+zhèxiē zhàopiàn yào zuò chéng dà èr cùn de, yǒu hóngyǎn dehuà yào qùdiào, nòng piàoliang xiē.
+
+These photographs I want to resize to passport size, and get rid of any red-eye. Clean them up a bit.
+
+B
+
+放心吧。让皮肤变白，去掉眼袋和黑痣，呵呵，对吧？
+
+fàngxīn ba. ràng pífū biànbái, qùdiào yǎndài hé hēizhì, hēhē, duì ba?
+
+Don't worry.  Skin lightening, getting rid of bags under the eyes and moles. Heh heh, right?
+
+A
+
+你办事我放心，让客户看到我们的照片觉得干净、舒服就行。
+
+nǐ bànshì wǒ fàngxīn, ràng kèhù kàndào wǒmen de zhàopiàn juéde gānjìng, shūfu jiù xíng.
+
+With you handling this I can rest easy.  As long as when the clients look at the photographs they look clean and pleasing to the eye, that's good enough.
+
+B
+
+就这些吗？
+
+jiù zhèxiē ma?
+
+Just these, then?
+
+A
+
+还有Flash，我画了张草图，这个部分要做成动画，这幅画面消失之后切换成这幅，最后出现我们的广告语。背景要柔和一些。结构你看情况调整。
+
+hái yǒu Flash, wǒ huà  le zhāng cǎotú, zhè ge bùfen yào zuò chéng dònghuà, zhè fú huàmiàn xiāoshī zhīhòu qiēhuàn chéng zhè fú, zuìhòu chūxiàn wǒmen de guǎnggàoyǔ. bèijǐng yào róuhé yīxiē. jiégòu nǐ kàn qíngkuàng tiáozhěng.
+
+There's also the Flash stuff.  I've drawn a sketch.  This part has to be animated.  When this frame fades away it changes into this frame, and then in the end our catch phrase appears.  The background should be a bit softer.  The composition you can adjust according to what you think it needs.
+
+B
+
+图画我们自己选，对吗？
+
+túhuà wǒmén zìjǐ xuǎn, duì ma?
+
+And we choose the pictures ourselves, right?
+
+A
+
+对，得你们自己选，一幅主题是绝望，一幅是看到希望。过渡不要太快，给人留点思考空间。
+
+duì, děi nǐmen zìjǐ xuǎn, yī fú zhǔtí shì juéwàng, yī fú shì kàndào xīwàng. guòdù bùyào tài kuài, gěi rén liú diǎn sīkǎo kōngjiān.
+
+Right, you should choose them yourself.  One picture's theme is despair; the other is seeing hope.  The transition shouldn't be too quick; give people a little space to reflect.
+
+B
+
+图画的旁边要加旁白吗？
+
+túhuà de pángbiān yào jiā pángbái ma?
+
+Do you want to add any text next to the image?
+
+A
+
+Flash就网页这边的一小块，不要弄得太复杂。需要的话加点儿关键词，让客户对我们的宣传一目了然。
+
+Flash jiù wǎngyè zhèbiān de yī xiǎokuài, bùyào nòng de tài fùzá. xūyào dehuà jiā diǎnr guānjiàncí, ràng kèhù duì wǒmen de xuānchuán yīmùliǎorán.
+
+The Flash is just a little spot on the website, so don't overcomplicate it. If need be, add some keywords to make our message clear at a glance.
+
+B
+
+背景音乐要加吗？
+
+bèijǐng yīnyuè yào jiā ma?
+
+Do you want to add background music?
+
+A
+
+这个就不用加了。
+
+zhè ge  jiù bùyòng jiā le.
+
+We don't need it for this one.
+
+B
+
+你们什么时候要？
+
+nǐmen shénme shíhou yào?
+
+When do you need it?
+
+A
+
+越快越好。有什么问题再来问我吧。
+
+yuè kuài yuè hǎo. yǒu shénme wèntí zài lái wèn wǒ ba.
+
+The sooner the better. Come ask me if you have any questions.
+
+B
+
+好的，我做完就发给你。
+
+hǎo de, wǒ zuò wán jiù fā gěi nǐ.
+
+OK. I'll send it to you as soon as I'm done.
+
+Key Vocabulary
+
+处理
+
+chǔlǐ
+
+to handle
+
+像素
+
+xiàngsù
+
+resolution
+
+格式
+
+géshì
+
+format
+
+清晰
+
+qīngxī
+
+distinct
+
+字体
+
+zìtǐ
+
+font
+
+亮度
+
+liàngdù
+
+brightness
+
+修正
+
+xiūzhèng
+
+to correct
+
+特效
+
+tèxiào
+
+special effect
+
+渐变色
+
+jiànbiànsè
+
+gradient
+
+大二寸
+
+dà èr cùn
+
+passport size (photo size)
+
+红眼
+
+hóngyǎn
+
+red-eye
+
+眼袋
+
+yǎndài
+
+bags under the eyes
+
+黑痣
+
+hēizhì
+
+mole
+
+草图
+
+cǎotú
+
+sketch
+
+动画
+
+dònghuà
+
+animation
+
+消失
+
+xiāoshī
+
+to disappear
+
+切换
+
+qiēhuàn
+
+switch over
+
+广告语
+
+guǎnggàoyǔ
+
+advertising slogan
+
+背景
+
+bèijǐng
+
+background
+
+柔和
+
+róuhé
+
+gentle
+
+调整
+
+tiáozhěng
+
+to adjust
+
+过渡
+
+guòdù
+
+transition
+
+旁白
+
+pángbái
+
+aside
+
+关键词
+
+guānjiàncí
+
+keyword
+
+一目了然
+
+yīmùliǎorán
+
+to be clear at a glance
+
+Supplementary Vocabulary
+
+编辑
+
+biānjí
+
+to edit
+
+尺寸
+
+chǐcùn
+
+measurement
+
+放大
+
+fàngdà
+
+enlarge
+
+缩小
+
+suōxiǎo
+
+reduce
+
+旋转
+
+xuánzhuǎn
+
+to revolve
+
+叠加
+
+diéjiā
+
+to layer
+
+修复
+
+xiūfù
+
+to restore
+
+填充
+
+tiánchōng
+
+to fill in
+
+调焦
+
+tiáojiāo
+
+to focus

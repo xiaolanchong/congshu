@@ -1,0 +1,286 @@
+
+Intermediate - The Life of a Programmer 2: The Work Piles Up
+
+Intermediate - The Life of a Programmer 2: The Work Piles Up
+
+(C2156)
+
+A:
+
+大齐，我昨天跟你说的那个问题修好了吗？
+
+Dàqí, wǒ zuótiān gēn nǐ shuō de nà gè wèntí xiū hǎo le ma?
+
+Daqi, have you fixed that problem I told you about yesterday?
+
+B:
+
+哪个？
+
+nǎ gè?
+
+Which one?
+
+A:
+
+就是有个用户他更新了一下app，结果他以前下载的东西都没了。
+
+jiùshì yǒu gè yònghù tā gēngxīn le yīxià app, jiéguǒ tā yǐqián xiàzǎi de dōngxi dōu méi le.
+
+It's that when some user updated the app, he didn't have any of the stuff he downloaded before.
+
+B:
+
+哦，我等会儿看看。
+
+ò, wǒ děng huǐr kàn kan.
+
+Oh, I'll take a look at it in a bit.
+
+A:
+
+还有，今天有个用户说，他想买东西，但是一直进不了支付页面。
+
+háiyǒu, jīntiān yǒu gè yònghù shuō, tā xiǎng mǎi dōngxi, dànshì yīzhí jìnbuliǎo zhīfù yèmiàn.
+
+Also, today some user said that he wants to buy something but he can never get to the payment page.
+
+B:
+
+遇到这种情况的人多吗？
+
+yùdào zhè zhǒng qíngkuàng de rén duō ma?
+
+Have lots of people experienced this problem?
+
+A:
+
+目前就他一个。
+
+mùqián jiù tā yī gè.
+
+At the moment it's just this guy.
+
+B:
+
+那可能是浏览器的问题，你让他换个浏览器试试。
+
+nà kěnéng shì liúlǎnqì de wèntí, nǐ ràng tā huàn gè liúlǎnqì shì shi.
+
+Then it could be a problem with the browser. Tell him to change his browser and try it.
+
+A:
+
+试过，没用。
+
+shì guo, méiyòng.
+
+He tried it and it doesn't work.
+
+B:
+
+那可能是版本问题，让他更新到最新版本。
+
+nà kěnéng shì bǎnběn wèntí, ràng tā gēngxīn dào zuìxīn bǎnběn.
+
+Then it could be a problem with the version of the browser. Tell him to update to the newest version.
+
+A:
+
+好的。还有，快要上线的新功能，我看了一下，问题挺多的。
+
+hǎo de. háiyǒu, kuài yào shàngxiàn de xīn gōngnéng, wǒ kàn le yīxià, wèntí tǐng duō de.
+
+Okay. Also, there's the new feature about to go live. I've looked at it a bit and there are lots of problems.
+
+B:
+
+那个啊，我们下午开会的时候谈吧。
+
+nà gè a, wǒmen xiàwǔ kāihuì de shíhou tán ba.
+
+Really? Then we had better talk about it when we have a meeting this afternoon.
+
+A:
+
+也行。那你先忙。
+
+yě xíng. nà nǐ xiān máng.
+
+That's okay. You get busy then.
+
+Key Vocabulary
+
+修
+
+xiū
+
+to repair
+
+用户
+
+yònghù
+
+user
+
+更新
+
+gēngxīn
+
+to update
+
+结果
+
+jiéguǒ
+
+results
+
+下载
+
+xiàzǎi
+
+to download
+
+一直
+
+yīzhí
+
+continuously
+
+进不了
+
+jìnbuliǎo
+
+to be unable to enter
+
+支付
+
+zhīfù
+
+to pay
+
+页面
+
+yèmiàn
+
+web page
+
+遇到
+
+yùdào
+
+to encounter
+
+情况
+
+qíngkuàng
+
+situation
+
+目前
+
+mùqián
+
+at the moment, right now
+
+就
+
+jiù
+
+just
+
+浏览器
+
+liúlǎnqì
+
+browser
+
+让
+
+ràng
+
+to let
+
+换
+
+huàn
+
+to switch
+
+版本
+
+bǎnběn
+
+version
+
+最新
+
+zuìxīn
+
+newest
+
+快要
+
+kuài yào
+
+soon
+
+上线
+
+shàngxiàn
+
+to go online
+
+功能
+
+gōngnéng
+
+function
+
+的时候
+
+de shíhou
+
+when
+
+谈
+
+tán
+
+to discuss
+
+Supplementary Vocabulary
+
+程序员
+
+chéngxùyuán
+
+programmer
+
+付钱
+
+fùqián
+
+to pay money
+
+网站
+
+wǎngzhàn
+
+website
+
+到现在为止
+
+dào xiànzài wéizhǐ
+
+up to now
+
+升级
+
+shēngjí
+
+to upgrade
+
+Online Review and Discussion
+
+.   ©2013 Praxis Language Ltd.

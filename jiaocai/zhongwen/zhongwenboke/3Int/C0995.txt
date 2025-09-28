@@ -1,0 +1,316 @@
+
+Intermediate - Recovering a Cell Phone Number
+
+Intermediate - Recovering a Cell Phone Number
+
+(C0995)
+
+A
+
+你好，我的手机丢了，该怎么办？
+
+nǐhǎo, wǒ de shǒujī diū le , gāi zěnme bàn?
+
+Hello, I lost my cell phone.  What should I do?
+
+B
+
+先把卡号挂失吧。如果还想用这个号，就补办一张。手机密码是多少？
+
+xiān bǎ kǎhào guàshī ba. rúguǒ hái xiǎng yòng zhè ge hào, jiù bǔbàn yī zhāng. shǒujī mìmǎ shì duōshǎo?
+
+First report the lost number.  If you still want to use this number, then you can reapply for it.  What is your cell phone password?
+
+A
+
+不记得了。
+
+bù jìde le .
+
+I can't remember.
+
+B
+
+卡是用本人身份证办理的吗？
+
+kǎ shì yòng běnrén shēnfènzhèng bànlǐ de ma?
+
+Did you use your own ID card to apply for the SIM card?
+
+A
+
+不是。我是在小店买的，不用身份证。
+
+bù shì. wǒ shì zài xiǎodiàn mǎi de, bùyòng shēnfènzhèng.
+
+No.  I bought it in a small shop.  I didn't need an ID card.
+
+B
+
+那你有密码卡吗？
+
+nà nǐ yǒu mìmǎ kǎ ma?
+
+Then, do you have the password card?
+
+A
+
+密码卡？没有。
+
+mìmǎ kǎ? méiyǒu.
+
+Password card?  No.
+
+B
+
+那我们没办法帮你挂失。
+
+nà wǒmen méi bànfǎ bāng nǐ guàshī.
+
+Then there is no way we can help you.
+
+A
+
+啊？那小偷可以用我的卡？
+
+ǎ? nà xiǎotōu kěyǐ yòng wǒ de kǎ?
+
+Huh?  Then the thief can use my SIM card?
+
+B
+
+对。您的心情我理解，但没有密码，我也没办法。
+
+duì. nín de xīnqíng wǒ lǐjiě, dàn méiyǒu mìmǎ, wǒ yě méi bànfǎ.
+
+Yes.  I understand how you feel, but if you don't have the password, there's nothing I can do.
+
+A
+
+那我充的钱、卡里的信息都没了？
+
+nà wǒ chōng de qián, kǎ li de xìnxī dōu méi le ?
+
+So the money I put on the card, all the information on the card--it's all gone?
+
+B
+
+这样吧，你填一下这张表，填对了也可以拿回密码。
+
+zhèyàng ba, nǐ tián yīxià zhè zhāng biǎo, tián duì le yě kěyǐ náhuí mìmǎ.
+
+How about this--fill out this form.  If you fill it out correctly, you can get back your password.
+
+A
+
+啊，这么多东西，我怎么想得起来？
+
+ǎ, zhème duō dōngxi, wǒ zěnme xiǎng de qǐlai?
+
+Huh?  All of these things--how can I remember them all?
+
+B
+
+所以说，买了卡，最好来营业厅做个实名登记。
+
+suǒyǐ shuō, mǎi le  kǎ, zuìhǎo lái yíngyètīng zuò ge shímíng  dēngjì.
+
+That's why I said, when you buy a card, it's best to come to the company offices and formally register your name.
+
+A
+
+唉！
+
+āi!
+
+Ah.
+
+Key Vocabulary
+
+丢
+
+diū
+
+to lose
+
+卡号
+
+kǎhào
+
+card
+
+挂失
+
+guàshī
+
+to report the loss of something
+
+如果
+
+rúguǒ
+
+if
+
+补办
+
+bǔbàn
+
+to do over again
+
+密码
+
+mìmǎ
+
+password
+
+记得
+
+jìde
+
+to remember
+
+本人
+
+běnrén
+
+oneself
+
+身份证
+
+shēnfènzhèng
+
+identification card
+
+办理
+
+bànlǐ
+
+to handle
+
+没办法
+
+méi bànfǎ
+
+to have no way
+
+小偷
+
+xiǎotōu
+
+thief
+
+心情
+
+xīnqíng
+
+mood
+
+理解
+
+lǐjiě
+
+to understand
+
+充
+
+chōng
+
+to fill
+
+信息
+
+xìnxī
+
+information
+
+填
+
+tián
+
+to fill out
+
+表
+
+biǎo
+
+form
+
+拿回
+
+náhuí
+
+to take back
+
+想得起来
+
+xiǎng de qǐlai
+
+to be able to recall
+
+所以
+
+suǒyǐ
+
+therefore
+
+营业厅
+
+yíngyètīng
+
+business office
+
+实名
+
+shímíng
+
+real name
+
+登记
+
+dēngjì
+
+to register
+
+Supplementary Vocabulary
+
+充值
+
+chōngzhí
+
+to add money to
+
+充值卡
+
+chōngzhíkǎ
+
+top-up card
+
+通话记录
+
+tōnghuà jìlù
+
+call record
+
+发短信
+
+fā duǎnxìn
+
+to send a text message
+
+中国移动
+
+Zhōngguó Yídòng
+
+China Mobile
+
+中国联通
+
+Zhōngguó Liántōng
+
+China Unicom
+
+全球通
+
+Quánqiútōng
+
+GoTone

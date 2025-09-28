@@ -1,0 +1,322 @@
+
+Intermediate - Formatting a Word Document
+
+Intermediate - Formatting a Word Document
+
+(C1957)
+
+A:
+
+小于，我看了你编辑的文件，有几个地方要修改。
+
+Xiǎo Yú, wǒ kàn le nǐ biānjí de wénjiàn, yǒu jǐ ge dìfang yào xiūgǎi.
+
+Xiao Yu, I took a look at the document you edited. There are a few places that need to be revised.
+
+A:
+
+这是会议文件，标题的字体要正式一些。
+
+zhè shì huìyì wénjiàn, biāotí de zìtǐ yào zhèngshì yīxiē.
+
+This is a document for a meeting, so the title font should be a bit more formal.
+
+B:
+
+那我改成黑体吧。
+
+nà wǒ gǎi chéng hēitǐ ba.
+
+I'll make it Hei, then.
+
+A:
+
+嗯。这些数据做成表格会很清楚。
+
+ng4. zhèxiē shùjù zuò chéng biǎogé huì hěn qīngchǔ.
+
+Good. This data would be really clear as a table.
+
+B:
+
+好的。
+
+hǎo de.
+
+OK.
+
+A:
+
+还有，这个地方的格式很奇怪。
+
+háiyǒu, zhè ge dìfang de géshì hěn qíguài.
+
+Also, the formatting here is really weird.
+
+B:
+
+这些是从别的地方复制过来的，不好修改。
+
+zhèxiē shì cóng bié de dìfang fùzhì guòlai de, bù hǎo xiūgǎi.
+
+These are copied from somewhere else. I can't change them.
+
+A:
+
+可以用格式刷。选中上面的几句话，点一下格式刷，再刷一下下面的。
+
+kěyǐ yòng géshìshuā. xuǎn zhòng shàngmian de jǐ jù huà, diǎn yīxià géshìshuā, zài shuā yīxià xiàmian de.
+
+You can use the format painter. Select the sentences up top, click on the format painter, and then select the lower section.
+
+B:
+
+哎，这个刷子挺好用的。
+
+āi, zhè ge shuāzi tǐng hǎoyòng de.
+
+Hey, this brush is quite useful.
+
+A:
+
+还有这里，这些不重要，可以去掉。
+
+háiyǒu zhèlǐ, zhèxiē bù zhòngyào, kěyǐ qùdiào.
+
+Also, these parts here aren't important. You can get rid of them.
+
+B:
+
+好。
+
+hǎo.
+
+OK.
+
+A:
+
+你修改一下，改好后打印十份。
+
+nǐ xiūgǎi yīxià, gǎi hǎo hòu dǎyìn shí fèn.
+
+Fix it up and then when it's done print out ten copies.
+
+B:
+
+好，我马上去。
+
+hǎo, wǒ mǎshàng qù.
+
+OK, I'll be over there right away.
+
+Key Vocabulary
+
+编辑
+
+biānjí
+
+to edit
+
+文件
+
+wénjiàn
+
+document
+
+地方
+
+dìfang
+
+place
+
+修改
+
+xiūgǎi
+
+to revise
+
+会议
+
+huìyì
+
+meeting
+
+标题
+
+biāotí
+
+title
+
+字体
+
+zìtǐ
+
+font
+
+正式
+
+zhèngshì
+
+formal
+
+改
+
+gǎi
+
+to change
+
+成
+
+chéng
+
+to become
+
+黑体
+
+hēitǐ
+
+Hei font
+
+数据
+
+shùjù
+
+data
+
+表格
+
+biǎogé
+
+table
+
+清楚
+
+qīngchǔ
+
+clear
+
+格式
+
+géshì
+
+format
+
+奇怪
+
+qíguài
+
+strange
+
+复制
+
+fùzhì
+
+to copy
+
+从
+
+cóng
+
+from
+
+格式刷
+
+géshìshuā
+
+format painter
+
+选中
+
+xuǎn zhòng
+
+to select
+
+句
+
+jù
+
+sentence
+
+点
+
+diǎn
+
+to click
+
+刷
+
+shuā
+
+to brush
+
+刷子
+
+shuāzi
+
+brush
+
+好用
+
+hǎoyòng
+
+useful
+
+重要
+
+zhòngyào
+
+important
+
+去掉
+
+qùdiào
+
+to get rid of
+
+打印
+
+dǎyìn
+
+to print
+
+份
+
+fèn
+
+[measure word]
+
+Supplementary Vocabulary
+
+楷体
+
+kǎitǐ
+
+standard script
+
+牙刷
+
+yáshuā
+
+toothbrush
+
+删掉
+
+shāndiào
+
+to delete
+
+格式化
+
+géshìhuà
+
+to format
+
+粘帖
+
+niāntiē
+
+to paste
+
+Online Review and Discussion
+
+.   ©2012 Praxis Language Ltd.

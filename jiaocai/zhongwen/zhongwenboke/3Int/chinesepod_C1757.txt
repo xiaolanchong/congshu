@@ -1,0 +1,316 @@
+
+Intermediate - Airport Check-In Problems
+
+Intermediate - Airport Check-In Problems
+
+(C1757)
+
+A:
+
+你好，先生，有行李要托运吗？
+
+nǐhǎo, xiānsheng, yǒu xíngli yào tuōyùn ma?
+
+Hello sir. Do you have luggage to check?
+
+B:
+
+有，一个箱子和一个包。
+
+yǒu, yī ge xiāngzi hé yī ge bāo.
+
+Yes. One suitcase and one bag.
+
+A:
+
+请放上来。对不起，你的行李超重了。
+
+qǐng fàng shànglai. duìbuqǐ, nǐ de xíngli chāozhòng le.
+
+Please put it on here. I'm sorry, your luggage is overweight.
+
+B:
+
+不会吧？我在家里称过，刚好二十公斤。
+
+bùhuì ba? wǒ zài jiālǐ chēng guo, gānghǎo èrshí gōngjīn.
+
+No way! I weighed them at home; they were exactly 20 kilos.
+
+A:
+
+你的行李超重了两点五公斤，要罚款五百块。
+
+nǐ de xíngli chāozhòng le liǎng diǎn wǔ gōngjīn, yào fákuǎn wǔbǎi kuài.
+
+Your luggage is two and a half kilos overweight. We'll have to charge a fee of 500 RMB.
+
+B:
+
+这么贵？哎！算了算了！这是我的会员卡，帮我积一下里程。
+
+zhème guì? ài! suàn le suàn le! zhè shì wǒ de huìyuán kǎ, bāng wǒ jī yīxià lǐchéng.
+
+That expensive? Argh! OK, OK, whatever! Here's my membership card. Help me add my miles.
+
+A:
+
+你买的是打折机票，不能积里程。
+
+nǐ mǎi de shì dǎzhé jīpiào, bùnéng jī lǐchéng.
+
+You bought a discounted ticket. You can't add these miles.
+
+B:
+
+打折机票也是机票，凭什么不能积？
+
+dǎzhé jīpiào yě shì jīpiào, píng shénme bùnéng jī?
+
+A discounted ticket is still an airplane ticket. Why can't I add the miles?
+
+C:
+
+各位乘客，由于天气原因，从上海飞往哈尔滨的航班要取消！
+
+gèwèi chéngkè, yóuyú tiānqì yuányīn, cóng Shànghǎi fēiwǎng Hā'ěrbīn de hángbān yào qǔxiāo!
+
+Attention travelers: Due to weather related reasons, the flight from Shanghai to Ha'erbin is cancelled.
+
+B:
+
+今天是什么日子？怎么这么倒霉！
+
+jīntiān shì shénme rìzi? zěnme zhème dǎoméi!
+
+What is going on today? I'm having such terrible luck!
+
+Key Vocabulary
+
+行李
+
+xíngli
+
+luggage
+
+托运
+
+tuōyùn
+
+to check (baggage)
+
+箱子
+
+xiāngzi
+
+suitcase
+
+包
+
+bāo
+
+bag
+
+上来
+
+shànglai
+
+up (towards the speaker)
+
+超重
+
+chāozhòng
+
+overweight
+
+称
+
+chēng
+
+to weigh
+
+刚好
+
+gānghǎo
+
+just to be
+
+公斤
+
+gōngjīn
+
+kilogram
+
+罚款
+
+fákuǎn
+
+to pay a fine
+
+会员卡
+
+huìyuán kǎ
+
+membership card
+
+积
+
+jī
+
+to add
+
+里程
+
+lǐchéng
+
+mileage, miles
+
+打折
+
+dǎzhé
+
+to discount
+
+凭
+
+píng
+
+to base on
+
+各位
+
+gèwèi
+
+each
+
+乘客
+
+chéngkè
+
+passenger
+
+由于
+
+yóuyú
+
+because of
+
+原因
+
+yuányīn
+
+cause
+
+飞往
+
+fēiwǎng
+
+to fly to
+
+哈尔滨
+
+Hā'ěrbīn
+
+Harbin
+
+航班
+
+hángbān
+
+airline flight
+
+取消
+
+qǔxiāo
+
+to cancel
+
+日子
+
+rìzi
+
+day
+
+倒霉
+
+dǎoméi
+
+bad luck
+
+Supplementary Vocabulary
+
+行李箱
+
+xínglǐxiāng
+
+suitcase
+
+顺利
+
+shùnlì
+
+smoothly, without a hitch
+
+积累
+
+jīlěi
+
+to accumulate
+
+健身房
+
+jiànshēnfáng
+
+gym
+
+理发店
+
+lǐfàdiàn
+
+hair salon
+
+扣工资
+
+kòu gōngzī
+
+to dock a wage
+
+不公平
+
+bù gōngpíng
+
+unfair
+
+特殊
+
+tèshū
+
+special
+
+航空公司
+
+hángkōng gōngsī
+
+airline company
+
+换登机牌
+
+huàn dēngjīpái
+
+to change boarding passes
+
+办理
+
+bànlǐ
+
+to handle, to deal with
+
+登机
+
+dēngjī
+
+to board
+
+Online Review and Discussion
+
+.   ©2011 Praxis Language Ltd.

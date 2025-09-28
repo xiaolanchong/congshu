@@ -1,0 +1,282 @@
+
+Intermediate - The Life of a Programmer
+
+Intermediate - The Life of a Programmer
+
+(C2132)
+
+A:
+
+啊，你怎么睡在这里？吓了我一跳。
+
+ǎ, nǐ zěnme shuì zài zhèlǐ? xià le wǒ yī tiào.
+
+Oh, why are you sleeping here? You scared me.
+
+B:
+
+不好意思。昨晚加班加到半夜，懒得回去了，就在公司将就一下。
+
+bùhǎoyìsi. zuówǎn jiābān jiā dào bànyè, lǎnde huíqu le, jiù zài gōngsī jiāngjiù yīxià.
+
+I'm sorry. Last night I worked overtime until after midnight and I was too tired to go home, so I just made do with the office.
+
+A:
+
+辛苦辛苦。怎么这么忙？
+
+xīnkǔ xīnkǔ. zěnme zhème máng?
+
+You're working so hard. Why are you so busy?
+
+B:
+
+产品下周就要上线，这周搞测试，还有些bug要修。
+
+chǎnpǐn xiàzhōu jiùyào shàngxiàn, zhè zhōu gǎo cèshì, hái yǒu xiē bug yào xiū.
+
+A product goes online next week. This week we're running tests and there are still a few bugs that need fixing.
+
+A:
+
+那你再睡一会儿吧，才八点半。
+
+nà nǐ zài shuì yīhuǐr ba, cái bā diǎn bàn.
+
+Then you sleep a bit more. It's only 8:30.
+
+B:
+
+哦，我也要起来了。
+
+ò, wǒ yě yào qǐlái le.
+
+Oh, then I need to get up.
+
+A:
+
+还要编程序吗？
+
+hái yào biān chéngxù ma?
+
+Do you still need to edit the program?
+
+B:
+
+不是。调试一下。
+
+bùshì. tiáoshì yīxià.
+
+No. I just need to tweak it a bit.
+
+A:
+
+是不是呆会儿开会，要跟老板汇报啊？
+
+shì bu shì dāihuǐr kāihuì, yào gēn lǎobǎn huìbào a?
+
+Don't you have a meeting in a bit and you'll need to report to the boss?
+
+B:
+
+呵呵，算是吧。
+
+hēhē, suàn shì ba.
+
+Haha. Something like that.
+
+A:
+
+你这样一晚上不回家，你老婆不会不高兴吗？
+
+nǐ zhèyàng yī wǎnshang bù huíjiā, nǐ lǎopó bùhuì bù gāoxìng ma?
+
+You've gone a whole night without going home. Won't your wife be unhappy?
+
+B:
+
+我是单身，没人管我。
+
+wǒ shì dānshēn, méi rén guǎn wǒ.
+
+I'm single. No one will mind.
+
+A:
+
+这样啊。嗯，那你先忙，不打扰了。
+
+zhèyàng a. ng4, nà nǐ xiān máng, bù dǎrǎo le.
+
+I see. Well, then you get to it. I won't disturb you.
+
+B:
+
+好。哎，对了，你也是新来的吧？
+
+hǎo. āi, duìle, nǐ yě shì xīn lái de ba?
+
+Okay. Hey, right, you're also new here right?
+
+Key Vocabulary
+
+吓
+
+xià
+
+to scare
+
+吓一跳
+
+xiàyītiào
+
+to startle
+
+加班
+
+jiābān
+
+to work overtime
+
+懒得
+
+lǎnde
+
+to not feel like doing something
+
+将就
+
+jiāngjiù
+
+to have to make do with
+
+上线
+
+shàngxiàn
+
+online
+
+搞
+
+gǎo
+
+to do
+
+测试
+
+cèshì
+
+test
+
+修
+
+xiū
+
+to repair
+
+才
+
+cái
+
+only
+
+编
+
+biān
+
+to edit
+
+程序
+
+chéngxù
+
+program
+
+调试
+
+tiáoshì
+
+to adjust, tweak
+
+呆会儿
+
+dāihuǐr
+
+to hang around for a bit
+
+汇报
+
+huìbào
+
+to report back
+
+算是
+
+suàn shì
+
+to be considered
+
+单身
+
+dānshēn
+
+single
+
+管
+
+guǎn
+
+to take care of
+
+打扰
+
+dǎrǎo
+
+to disturb
+
+新来的
+
+xīn lái de
+
+newcomer
+
+Supplementary Vocabulary
+
+程序员
+
+chéngxùyuán
+
+programmer
+
+懒
+
+lǎn
+
+lazy
+
+改
+
+gǎi
+
+to change, alter
+
+编程
+
+biānchéng
+
+to program (a computer)
+
+调整
+
+tiáozhěng
+
+to adjust
+
+代码
+
+dàimǎ
+
+code
+
+Online Review and Discussion
+
+.   ©2013 Praxis Language Ltd.

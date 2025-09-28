@@ -1,0 +1,350 @@
+
+Intermediate - Using a Dictionary (C0220)
+
+Intermediate - Using a Dictionary
+
+(C0220)
+
+我现在正在学习查中文字典，可是我觉得好难。
+
+wǒ xiànzài zhèngzài xuéxí chá zhōngwén zìdiǎn ，kěshì wǒ juéde hǎo nán 。
+
+I am learning how to look up Chinese characters in a dictionary, but it's really tough.
+
+别担心，根据字的部首来查字典，一定要先弄清楚字的结构和部首。
+
+bié dānxīn ，gēnjù zì de bùshǒu lái chá zìdiǎn ，yīdìng yào xiān nòng qīngchu zì de jiégòu hé bùshǒu 。
+
+Don't worry. You look up a character according to its radical, but you have to first be clear about the character's structure and radical.
+
+我就是这样做的呀。我首先分析这个字是左右结构还是上下结构，然后再查找它的部首，可还是经常找不到。
+
+wǒ jiùshì zhèyàng zuò de yā 。wǒ shǒuxiān fēnxī zhège zì shì zuǒyòu jiégòu háishi shàngxià jiégòu ，ránhòu zài cházhǎo tā de bùshǒu ，kě hái shì jīngcháng zhǎobudào 。
+
+That's exactly the way I do it. I start by analyzing whether a character is structured left/right or top/bottom, then look for its radical. Still, I often can't find the character.
+
+是吗？你一定要先确定正确的部首，数清部首的笔画数。如果笔画数错了，就找不到了。
+
+shì ma ？nǐ yīdìng yào xiān quèdìng zhèngquè de bùshǒu ，shǔ qīng bùshǒu de bǐhuà shù 。rúguǒ bǐhuà shǔ cuò le ，jiù zhǎobudào le 。
+
+Really? You have to determine the correct radical, and count the number of strokes in the radical. If the number of the strokes is wrong, you won’t be able to find it.
+
+可是有一些很简单的字，我分不清哪个是它的部首，不知道要怎么去查。
+
+kěshì yǒu yīxiē hěn jiǎndān de zì ，wǒ fēnbuqīng nǎge shì tā de bùshǒu ，bù zhīdào yào zěnme qù chá 。
+
+But some of the characters are really simple, and I can't figure out which is the radical, so I never know how to look them up.
+
+这些字你可以直接根据这个字的所有笔画来查找。
+
+zhèxie zì nǐ kěyǐ zhíjiē gēnjù zhège zì de suǒyǒu bǐhuà lái cházhǎo 。
+
+For these kinds of characters, you can look them up by total number of strokes.
+
+原来如此，真是太感谢你了。那我如果想查一个词语的话，怎么办？
+
+yuánlái rúcǐ ，zhēnshì tài gǎnxiè nǐ le 。nà wǒ rúguǒ xiǎng chá yī ge cíyǔ dehuà ，zěnme bàn ？
+
+Ah, I see. I really appreciate your help. What should I do if I want to look up a word?
+
+如果你要查一个词语，就要用词典。
+
+rúguǒ nǐ yào chá yī ge cíyǔ ，jiù yào yòng cídiǎn 。
+
+To look up a word, you have to use a word dictionary.
+
+谢谢你教给我这些好方法，我现在就去试试。
+
+xièxie nǐ jiāo gěi wǒ zhèxie hǎo fāngfǎ ，wǒ xiànzài jiù qù shìshi 。
+
+Thanks for teaching me these methods. I’m going to go try them out now.
+
+Vocabulary
+
+正在
+
+zhèngzài
+
+currently
+
+查
+
+chá
+
+to look up
+
+字典
+
+zìdiǎn
+
+dictionary
+
+担心
+
+dānxīn
+
+to worry
+
+根据
+
+gēnjù
+
+according to
+
+字
+
+zì
+
+character
+
+部首
+
+bùshǒu
+
+character radical
+
+字典
+
+zìdiǎn
+
+character dictionary
+
+一定
+
+yīdìng
+
+definitely
+
+要
+
+yào
+
+must
+
+先
+
+xiān
+
+first
+
+弄清楚
+
+nòng qīngchu
+
+to make clear
+
+结构
+
+jiégòu
+
+structure
+
+部首
+
+bùshǒu
+
+character radical
+
+就是
+
+jiùshì
+
+to be exactly
+
+首先
+
+shǒuxiān
+
+first of all
+
+分析
+
+fēnxī
+
+to analyze
+
+这个
+
+zhège
+
+this
+
+左右
+
+zuǒyòu
+
+left and right
+
+上下
+
+shàngxià
+
+up and down
+
+结构
+
+jiégòu
+
+structure
+
+然后
+
+ránhòu
+
+then
+
+查找
+
+cházhǎo
+
+to locate
+
+它的
+
+tā de
+
+its
+
+部首
+
+bùshǒu
+
+character radical
+
+可
+
+kě
+
+but
+
+找不到
+
+zhǎobudào
+
+to be unable to find
+
+确定
+
+quèdìng
+
+to confirm
+
+正确
+
+zhèngquè
+
+correct
+
+数
+
+shǔ
+
+to count
+
+清
+
+qīng
+
+clearly
+
+笔画
+
+bǐhuà
+
+strokes of a Chinese character
+
+数
+
+shù
+
+number
+
+数错
+
+shǔ cuò
+
+miscount
+
+找不到了
+
+zhǎobudào le
+
+to be unable to find
+
+字
+
+zì
+
+character
+
+分不清
+
+fēnbuqīng
+
+to be unable to differentiate
+
+要
+
+yào
+
+to want
+
+查
+
+chá
+
+to look up
+
+直接
+
+zhíjiē
+
+directly
+
+通晓
+
+tōngxiǎo
+
+thoroughly understand
+
+概念
+
+gàiniàn
+
+concept
+
+建筑物
+
+jiànzhùwù
+
+building
+
+遵守
+
+zūnshǒu
+
+to respect
+
+清晰
+
+qīngxī
+
+clarity
+
+原始
+
+yuánshǐ
+
+first
+
+独立
+
+dúlì
+
+independence
+
+详细
+
+xiángxì
+
+in detail

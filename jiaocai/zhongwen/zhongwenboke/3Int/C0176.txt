@@ -1,0 +1,224 @@
+
+Intermediate - Standing in Line (C0176)
+
+Intermediate - Standing in Line
+
+(C0176)
+
+以前，我讨厌去银行取钱。因为总是要填很多表格，还要排很长时间的队。有些人还会插队。
+
+yǐqián ，wǒ tǎoyàn qù yínháng qǔqián 。yīnwèi zǒngshì yào tián hěn duō biǎogé ，háiyào pái hěn cháng shíjiān de duì 。yǒuxiērén hái huì chāduì 。
+
+I used to hate going to the bank to withdraw money, because you had to fill in lots of forms and stand in line for a long time.  Some people would even cut in line.
+
+没错。但是现在，情况好多了。你只需要拿一个号码，然后等工作人员叫你的号码。而且现在工作人员也比以前多，所以不需要花很长时间排队。基本上等15分钟就可以了。
+
+méicuò 。dànshì ，xiànzài qíngkuàng hǎo duō le 。nǐ zhǐ xūyào ná yī ge hàomǎ ，ránhòu děng gōngzuòrényuán jiào nǐ de hàomǎ 。érqiě xiànzài gōngzuòrényuán yě bǐ yǐqián duō ，suǒyǐ bù xūyào huā hěn cháng shíjiān páiduì 。jīběnshang děng shíwǔ fēnzhōng jiù kěyǐ le 。
+
+Exactly. But things are a lot better now. You only need to take a number and wait for the clerk to call your number. Moreover, there is more staff now than before, so you don't have to wait in the line for long. Waiting 15 minutes is usually enough.
+
+对。而且现在工作人员的态度也很好，总是很耐心地办理客户的交易。中国银行的服务水平比前几年提高了很多。
+
+duì 。érqiě xiànzài gōngzuòrényuán de tàidu yě hěn hǎo ，zǒngshì hěn nàixīn de bànlǐ kèhù de jiāoyì 。Zhōngguó Yínháng de fúwù shuǐpíng bǐ qián jǐ nián tígāo le hěn duō 。
+
+Right, and the staff's attitude is very good now. They are always very patient processing customers' transactions. The service standard of Chinese banks has improved tremendously from previous years.
+
+我想是因为市场竞争激烈。很多外资银行在中国开了营业点。所以国内的银行必须提高服务质量。总之，受益的是用户。
+
+wǒ xiǎng shì yīnwèi shìchǎng jìngzhēng jīliè 。hěn duō wàizī yínháng zài Zhōngguó kāi le yíngyè diǎn 。suǒyǐ guónèi de yínháng bìxū tígāo fúwù zhìliàng 。zǒngzhī ，shòuyì de shì yònghù 。
+
+I think it is due to intense market competition. Many foreign banks have opened branches in China. Therefore local banks have to raise the quality of their service. In the end, it's the customers that benefit.
+
+Vocabulary
+
+讨厌
+
+tǎoyàn
+
+to hate
+
+银行
+
+yínháng
+
+bank
+
+取钱
+
+qǔqián
+
+to withdraw money
+
+总是
+
+zǒngshì
+
+always
+
+填
+
+tián
+
+to fill in
+
+表格
+
+biǎogé
+
+form
+
+插队
+
+chāduì
+
+to cut in line
+
+排队
+
+páiduì
+
+to stand in line
+
+基本上
+
+jīběnshang
+
+basically
+
+态度
+
+tàidu
+
+attitude
+
+耐心
+
+nàixīn
+
+patiently
+
+办理
+
+bànlǐ
+
+to process
+
+交易
+
+jiāoyì
+
+transaction
+
+中国银行
+
+Zhōngguó Yínháng
+
+Bank of China
+
+水平
+
+shuǐpíng
+
+level
+
+前几年
+
+qián jǐ nián
+
+a few years ago
+
+提高
+
+tígāo
+
+to raise
+
+市场
+
+shìchǎng
+
+market
+
+竞争
+
+jìngzhēng
+
+competition
+
+激烈
+
+jīliè
+
+fierce
+
+外资
+
+wàizī
+
+foreign capital
+
+营业点
+
+yíngyè diǎn
+
+business office
+
+受益
+
+shòuyì
+
+benefit from
+
+秩序
+
+zhìxù
+
+order
+
+维持
+
+wéichí
+
+to keep
+
+自觉
+
+zìjué
+
+self-knowledge
+
+推出
+
+tuīchū
+
+to release
+
+自助服务
+
+zìzhù fúwù
+
+self-help service/
+
+柜台
+
+guìtái
+
+counter
+
+程序
+
+chéngxù
+
+program
+
+缩短
+
+suōduǎn
+
+to shorten
+
+效率
+
+xiàolǜ
+
+efficiency

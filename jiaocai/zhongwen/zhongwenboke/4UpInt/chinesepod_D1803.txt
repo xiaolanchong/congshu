@@ -1,0 +1,356 @@
+
+Upper-Intermediate - Teaching Japanese Go
+
+Upper-Intermediate - Teaching Japanese Go
+
+(D1803)
+
+A:
+
+好。小宝，咱们现在来学围棋。
+
+hǎo. Xiǎobǎo, zánmen xiànzài lái xué wéiqí.
+
+OK. Xiao Bao, let's learn how to play go.
+
+B:
+
+小宝，乖，听好哦。
+
+Xiǎobǎo, guāi, tīng hǎo o.
+
+Xiao Bao, be good and pay attention.
+
+A:
+
+围棋呢不仅是一种非常讲究策略的棋类，而且是一门非常高深的学问。
+
+wéiqí ne bùjǐn shì yīzhǒng fēicháng jiǎngjiu cèlǜe de qí lèi, érqiě shì yī mén fēicháng gāoshēn de xuéwèn.
+
+Go is not only a type of chess that emphasizes strategy, but also one that contains an extremely profound learning.
+
+B:
+
+唉，你尽量讲得通俗易懂些，方便孩子理解。
+
+ài, nǐ jìnliàng jiǎng de tōngsúyìdǒng xiē, fāngbiàn háizi lǐjiě.
+
+Make it as easy to understand as possible so that it's easier for him to comprehend.
+
+A:
+
+围棋入门的开篇都是这样讲的嘛。围棋的棋子啊像纽扣一样，下围棋的双方呢，一方用黑子，一方用白子。
+
+wéiqí rùmén de kāipiān dōu shì zhèyàng jiǎng de ma. wéiqí de qízǐ a xiàng niǔkòu yīyàng, xià wéiqí de shuāngfāng ne, yīfāng yòng hēizǐ, yīfāng yòng báizǐ.
+
+The fundamentals of go are always introduced this way. The pieces in go resemble buttons. When the game begins, one person uses black pieces and the other uses white pieces.
+
+B:
+
+小宝记住了，黑子和白子，和昨天讲的麻将牌样子是不一样的哦。
+
+Xiǎo bǎo jìzhu le, hēizǐ hé báizǐ, hé zuótiān jiǎng de májiàngpái yàngzi shì bù yīyàng de o.
+
+Remember, Xiao Bao, black pieces and white pieces. They're different from the Majiang pieces we talked about yesterday.
+
+A:
+
+那么，围棋最主要的目的呢就是要把对方的棋子给围起来。之后，就可以把围起来的棋子给拿掉，这个叫”提子”。
+
+nàme, wéiqí zuì zhǔyào de mùdì ne jiùshì yào bǎ duìfāng de qízǐ gěi wéi qǐlái. zhīhòu, jiù kěyǐ bǎ wéi qǐlái de qízǐ gěi ná diào, zhè ge jiào” tízǐ”.
+
+Now, the main goal of go is to encircle your opponent's pieces. Afterwards, you'll be able to take away the encircled pieces. This is called "lifting pieces."
+
+B:
+
+太抽象了，术语先不要讲,孩子不容易理解。
+
+tài chōuxiàng le, shùyǔ xiān bù yào jiǎng, háizi bù róngyì lǐjiě.
+
+That's too abstract. Don't discuss the technical terms for now, they're too difficult for children to understand.
+
+A:
+
+那你让我讲什么啊？
+
+nà nǐ ràng wǒ jiǎng shénme a?
+
+Then what do you want me to talk about?
+
+B:
+
+让他看看棋盘吧。
+
+ràng tā kàn kan qípán ba.
+
+Let him take a look at the board.
+
+A:
+
+好。小宝你看，这个是围棋的棋盘，总共有361个点，有9个很明显的黑点，叫”星位”。棋子放上去后，周围应该有”气”……
+
+hǎo. Xiǎo bǎo nǐ kàn, zhè ge shì wéiqí de qípán, zǒnggòng yǒu sānbǎi liùshí yī gè diǎnr, yǒu jiǔ ge hěn míngxiǎn de hēidiǎn, jiào” xīngwèi”. qízǐ fàng shàngqu hòu, zhōuwéi yīnggāi yǒu” qì”……
+
+OK. Look, Xiao Bao. This is the go board. There are 361 points in total and nine very noticeable black points. These are called "star points." After pieces are placed on the board, the surrounding areas should have "energy..."
+
+B:
+
+跟你说了，不要讲什么术语。这样吧，咱们来下一盘，让小宝感受一下。
+
+gēn nǐ shuō le, bù yào jiǎng shénme shùyǔ. zhèyàng ba, zánmen lái xià yī pán, ràng Xiǎo bǎo gǎnshòu yīxià.
+
+I told you, don't talk about technical terms. How about this, let's play a game to let Xiao Bao get a feel for it.
+
+A:
+
+我不会啊。
+
+wǒ bùhuì a.
+
+I can't play.
+
+B:
+
+那来五子棋吧。
+
+nà lái wǔzǐqí ba.
+
+Then play gobang.
+
+A:
+
+好，小宝，今天的围棋课就上到这里。哎呀，累死我了。你说他能听懂吗？
+
+hǎo, Xiǎo bǎo, jīntiān de wéiqí kè jiù shàng dào zhèlǐ. āiyā, lèi sǐ wǒ le. nǐ shuō tā néng tīngdǒng ma?
+
+OK, Xiao Bao, today's lesson on go is over. Agh, I'm exhausted. Do you think he could understand?
+
+B:
+
+当然能，他现在听觉系统已经发育完全了，隔着肚皮就能听到。人家胎教都是这样的。说不定咱们小宝以后就是新一代的围棋天元，哈哈。
+
+dāngrán néng, tā xiànzài tīngjué xìtǒng yǐjīng fāyù wánquán le, gé zhe dùpí jiù néng tīngdào. rénjiā tāijiào dōu shì zhèyàng de. shuōbudìng zánmen Xiǎo bǎo yǐhòu jiùshì xīnyīdài de wéiqí tiānyuán, hāhā.
+
+Of course he can. His auditory senses are all fully developed; he can hear you through my stomach. Prenatal education is always like this. Maybe our Xiao Bao will be the greatest of the next generation of go champions, ha ha.
+
+A:
+
+那明天教什么内容啊？
+
+nà míngtiān jiāo shénme nèiróng a?
+
+What should I teach tomorrow?
+
+B:
+
+中国象棋。
+
+Zhōngguó xiàngqí.
+
+Chinese chess.
+
+Key Vocabulary
+
+围棋
+
+wéiqí
+
+go
+
+乖
+
+guāi
+
+well-behaved
+
+不仅……而且……
+
+bùjǐn.......érqiě
+
+not only...but also...
+
+讲究
+
+jiǎngjiu
+
+to be particular about
+
+策略
+
+cèlǜe
+
+strategy
+
+棋类
+
+qí lèi
+
+type of chess
+
+高深
+
+gāoshēn
+
+profound
+
+学问
+
+xuéwèn
+
+learning
+
+尽量
+
+jìnliàng
+
+as much as possible
+
+通俗易懂
+
+tōngsúyìdǒng
+
+easy to understand
+
+入门
+
+rùmén
+
+to enter
+
+开篇
+
+kāipiān
+
+introduction
+
+棋子
+
+qízǐ
+
+board-game piece
+
+纽扣
+
+niǔkòu
+
+button
+
+黑子
+
+hēizǐ
+
+black piece
+
+白子
+
+báizǐ
+
+white piece
+
+麻将牌
+
+májiàngpái
+
+majiang piece
+
+围
+
+wéi
+
+to circle
+
+提子
+
+tízǐ
+
+‘lifting pieces‘
+
+抽象
+
+chōuxiàng
+
+abstract
+
+术语
+
+shùyǔ
+
+technical term
+
+棋盘
+
+qípán
+
+chessboard
+
+星位
+
+xīngwèi
+
+‘star point‘
+
+五子棋
+
+wǔzǐqí
+
+gobang (game)
+
+胎教
+
+tāijiào
+
+prenatal education
+
+天元
+
+tiānyuán
+
+champion; best of the best
+
+象棋
+
+xiàngqí
+
+chess
+
+Supplementary Vocabulary
+
+国际象棋
+
+guójì xiàngqí
+
+international chess
+
+知识
+
+zhīshi
+
+knowledge
+
+聂卫平
+
+Niè Wèipíng
+
+Nie Weiping (name)
+
+战略
+
+zhànlǜe
+
+strategy
+
+胎儿
+
+tāi'er
+
+fetus
+
+状元
+
+zhuàngyuan
+
+the very best (in a field)
+
+Online Review and Discussion
+
+.   ©2011 Praxis Language Ltd.

@@ -1,0 +1,344 @@
+
+Upper-Intermediate - Hard Drive Storage
+
+Upper-Intermediate - Hard Drive Storage
+
+(D1669)
+
+A:
+
+小丁，公司准备订购一批新的电脑设备，你看看你们部门需要什么？
+
+Xiǎo Dīng, gōngsī zhǔnbèi dìnggòu yī pī xīn de diànnǎo shèbèi, nǐ kàn kan nǐmen bùmén xūyào shénme?
+
+Xiao Ding, the company is going to order a new batch of computer equipment. Take a look and see what your department needs.
+
+B:
+
+我们办公用的机器太老了，什么时候能全部更新一下啊？咱们做的产品目录，数据量大，存储要求高。目前在用的电脑运行起来感觉很吃力啊。
+
+wǒmen bàngōng yòng de jīqì tài lǎo le, shénme shíhou néng quánbù gēngxīn yīxià ā? zánmen zuò de chǎnpǐn mùlù, shùjù liàng dà, cúnchǔ yāoqiú gāo. mùqián zài yòng de diànnǎo yùnxíng qǐlái gǎnjué hěn chīlì a.
+
+Our office appliances are too old. When can we update them? Our inventory is huge and we have a lot of data. We require a lot of storage space. As of right now, there's a lot of strain on the computers.
+
+A:
+
+我上次跟老板提了。他说能用的就先将就着，然后一部分一部分地升级。你也知道，电脑产品更新快，现在的主流配置，用个一两年就过时了。固定资产投资这一块，老板一直掐得比较紧，预算不多。
+
+wǒ shàngcì gēn lǎobǎn tí le. tā shuō néng yòng de jiù xiān jiāngjiu zhe, ránhòu yībùfēn yībùfēn de shēngjí. nǐ yě zhīdào, diànnǎo chǎnpǐn gēngxīn kuài, xiànzài de zhǔliú pèizhì, yòng ge yī liǎng nián jiù guòshí le. gùdìng zīchǎn tóuzī zhè yī kuài, lǎobǎn yīzhí qiā de bǐjiào jǐn, yùsuàn bù duō.
+
+I brought it up with the boss last time. He said to deal with whatever we can use, and that we'll upgrade things in batches. As you know, computer products improve quickly. Whatever current specs there are, they're outdated within a year or two. When investing in fixed assets like this, the boss is pretty tight on the budget. There isn't much there.
+
+B:
+
+那我们先申请几个大容量硬盘吧，这些是急需的。
+
+nà wǒmen xiān shēnqǐng jǐ ge dà róngliàng yìngpán ba, zhèxiē shì jíxū de.
+
+Then let's first apply for a few big harddrives. Those are urgent.
+
+A:
+
+好的，有没有具体要求，比如多大容量的？
+
+hǎo de, yǒumeiyǒu jùtǐ yāoqiú, bǐrú duō dà róngliàng de?
+
+OK. Do you have any specifics? For example, how large?
+
+B:
+
+那当然越大越好咯，至少要500G的，转速高的，SATA接口的硬盘。
+
+nà dāngrán yuè dà yuè hǎo lo, zhìshǎo yào wǔbǎi G de, zhuànsù gāo de, SATA jiēkǒu de yìngpán.
+
+Well, of course, the bigger the better. A harddrive with at least 500 gigs, a high rotational speed, and a SATA input.
+
+A:
+
+好，我都记下了。技术部这次也要换硬盘，都选这个1.5T的，你们也拿这个容量的吧。
+
+hǎo, wǒ dōu jìxià le. jìshù bù zhècì yě yào huàn yìngpán, dōu xuǎn zhè ge yī diǎn wǔ T de, nǐmen yě ná zhè ge róngliàng de ba.
+
+OK, I'll write that all down. The IT department is going to get new harddrives too. They chose this 1.5 terabyte one. You guys should get this size as well.
+
+B:
+
+好啊。这样可以增加备份空间，数据管理方面效率会高一些。
+
+hǎo a. zhèyàng kěyǐ zēngjiā bèifèn kōngjiān, shùjù guǎnlǐ fāngmiàn xiàolǜ huì gāo yīxiē.
+
+OK. This way we can have more back-up space and be more effective with our data management.
+
+A:
+
+其他还要什么吗？
+
+qítā hái yào shénme ma?
+
+Do you need anything else?
+
+B:
+
+哦，我们还想申请一个移动硬盘，转移大容量文件的话方便一些。
+
+ò, wǒmen hái xiǎng shēnqǐng yī ge yídòng yìngpán, zhuǎnyí dà róngliàng wénjiàn dehuà fāngbiàn yīxiē.
+
+Oh, we also want to apply for a portable harddrive. It will be convenient for transferring large documents.
+
+A:
+
+好的，有什么要求吗？
+
+hǎo de, yǒu shénme yāoqiú ma?
+
+OK. Any requirements?
+
+B:
+
+嗯，USB2.0接口的，哦不对，火线接口。
+
+ng4, USB èr diǎn líng jiēkǒu de, ò bù duì, huǒxiàn jiēkǒu.
+
+Yeah, one with a USB2 input. Oh, wait, firewire input.
+
+A:
+
+到底是什么？
+
+dàodǐ shì shénme?
+
+So what exactly?
+
+B:
+
+USB接口的，另外再配一根能连接火线接口的转接线吧。
+
+USB jiēkǒu de, lìngwài zài pèi yī gēn néng liánjiē huǒxiàn jiēkǒu de zhuǎnjiē xiàn ba.
+
+One with USB input, and then also an adapter cable that can convert it to firewire.
+
+A:
+
+好的。
+
+hǎo de.
+
+OK.
+
+Key Vocabulary
+
+订购
+
+dìnggòu
+
+to order goods
+
+批
+
+pī
+
+batch
+
+设备
+
+shèbèi
+
+equipment
+
+更新
+
+gēngxīn
+
+to update
+
+目录
+
+mùlù
+
+catalog
+
+数据
+
+shùjù
+
+data
+
+量
+
+liàng
+
+amount
+
+存储
+
+cúnchǔ
+
+to save, to store
+
+运行
+
+yùnxíng
+
+to run (computer, program)
+
+吃力
+
+chīlì
+
+to be a strain
+
+将就
+
+jiāngjiu
+
+to put up with, to make do
+
+升级
+
+shēngjí
+
+to upgrade
+
+主流
+
+zhǔliú
+
+mainstream
+
+配置
+
+pèizhì
+
+specifications
+
+过时
+
+guòshí
+
+to be outdated
+
+固定资产
+
+gùdìng zīchǎn
+
+fixed assets
+
+掐
+
+qiā
+
+to choke, to strangle
+
+预算
+
+yùsuàn
+
+budget
+
+容量
+
+róngliàng
+
+capacity
+
+硬盘
+
+yìngpán
+
+harddrive
+
+急需
+
+jíxū
+
+to urgently need
+
+转速
+
+zhuànsù
+
+rotational speed
+
+接口
+
+jiēkǒu
+
+input
+
+备份
+
+bèifèn
+
+to back-up
+
+效率
+
+xiàolǜ
+
+efficiency
+
+移动硬盘
+
+yídòng yìngpán
+
+portable hard drive
+
+转移
+
+zhuǎnyí
+
+to transfer
+
+火线
+
+huǒxiàn
+
+firewire
+
+转接
+
+zhuǎnjiē
+
+to convert
+
+Supplementary Vocabulary
+
+处理器
+
+chǔlǐqì
+
+processor
+
+内存
+
+nèicún
+
+RAM, internal memory
+
+勉强
+
+miǎnqiǎng
+
+to force someone to do something
+
+速率
+
+sùlǜ
+
+speed, rate
+
+配钥匙
+
+pèi yàoshi
+
+to make duplicate key
+
+配眼镜
+
+pèi yǎnjìng
+
+to have lenses made
+
+Online Review and Discussion
+
+.   ©2011 Praxis Language Ltd.

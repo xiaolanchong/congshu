@@ -1,0 +1,282 @@
+
+Intermediate - Computer Problems and Tech Support
+
+Intermediate - Computer Problems and Tech Support
+
+(C1336)
+
+A:
+
+玲玲，你的网速慢不慢？
+
+Língling, nǐ de wǎngsù màn bu màn?
+
+Lingling, is your internet speed slow?
+
+B:
+
+还好。
+
+hái hǎo.
+
+It's not bad.
+
+A:
+
+那我的怎么这么慢？什么网页都打不开。
+
+nà wǒ de zěnme zhème màn? shénme wǎngyè dōu dǎ bu kāi.
+
+Then how is mine so slow? I can't open any websites.
+
+B:
+
+你是不是打开了很多？
+
+nǐ shì bu shì dǎkāi le hěn duō?
+
+Is it because you opened a whole bunch?
+
+A:
+
+不会啊，就两个。咦，鼠标也动不了了。
+
+bùhuì a, jiù liǎng ge. yí, shǔbiāo yě dòng bu liǎo le.
+
+No way, only two. Ah, my mouse won't move either.
+
+B:
+
+你叫技术部的人帮你看看吧。
+
+nǐ jiào jìshùbù de rén bāng nǐ kàn kan ba.
+
+Call the tech department and have them come take a look for you.
+
+A:
+
+嗯。我去找他们。
+
+ng4. wǒ qù zhǎo tāmen.
+
+Yeah, I'll go get them.
+
+C:
+
+什么问题？
+
+shénme wèntí?
+
+What's the problem?
+
+A:
+
+你看，鼠标动不了了。
+
+nǐ kàn, shǔbiāo dòng bu liǎo le.
+
+Look, my mouse is stuck.
+
+C:
+
+死机了！你重启一下。
+
+sǐjī le! nǐ chóngqǐ yīxià.
+
+The computer froze! Restart it.
+
+A:
+
+哦。最近我的电脑经常死机。网页也打不开。
+
+ò. zuìjìn wǒ de diànnǎo jīngcháng sǐjī. wǎngyè yě dǎ bu kāi.
+
+Okay. My computer often freezes these days. Also, I can't open any websites.
+
+C:
+
+我帮你看看。
+
+wǒ bāng nǐ kàn kan.
+
+I'll take a look for you.
+
+A:
+
+对了，有时候还会出来一些乱七八糟的网页。
+
+duì le, yǒushíhou hái huì chūlái yīxiē luànqībāzāo de wǎngyè.
+
+That's right. Also, sometimes some random websites pop-up.
+
+C:
+
+那你可能中毒了。先杀杀毒。
+
+nà nǐ kěnéng zhòngdú le. xiān shā sha dú.
+
+Then it might be that you have a virus. First, remove the viruses.
+
+C:
+
+天啊，900个病毒！哎，真是服了你了。
+
+tiān a, jiǔ bǎi ge bìngdú! ài, zhēnshì fú le nǐ le.
+
+Geez, 900 viruses! Wow, you really are something else.
+
+A:
+
+那现在怎么办？
+
+nà xiànzài zěnme bàn?
+
+Well, what are we going to do now?
+
+C:
+
+最好的办法就是重装系统。
+
+zuì hǎo de bànfǎ jiùshì chóngzhuāng xìtǒng.
+
+It'd be best to just reinstall the operating system.
+
+Key Vocabulary
+
+网速
+
+wǎngsù
+
+internet speed
+
+网页
+
+wǎngyè
+
+webpage
+
+打开
+
+dǎkāi
+
+to open
+
+打不开
+
+dǎ bu kāi
+
+to be unable to open
+
+鼠标
+
+shǔbiāo
+
+computer mouse
+
+动不了
+
+dòng bu liǎo
+
+to be unable to move
+
+技术部
+
+jìshùbù
+
+tech department
+
+死机
+
+sǐjī
+
+to freeze [computer]
+
+重启
+
+chóngqǐ
+
+to restart a device
+
+有时候
+
+yǒushíhou
+
+sometimes
+
+乱七八糟
+
+luànqībāzāo
+
+in a mess
+
+中毒
+
+zhòngdú
+
+to be poisoned
+
+杀毒
+
+shādú
+
+to get rid of a virus
+
+病毒
+
+bìngdú
+
+virus
+
+办法
+
+bànfǎ
+
+solution
+
+重装
+
+chóngzhuāng
+
+to reinstall
+
+系统
+
+xìtǒng
+
+system
+
+Supplementary Vocabulary
+
+开机
+
+kāijī
+
+to turn on a machine
+
+关机
+
+guānjī
+
+to turn off a machine
+
+毛病
+
+máobìng
+
+mishap, trouble
+
+杀毒软件
+
+shādú ruǎnjiàn
+
+antivirus software
+
+网络
+
+wǎngluò
+
+network
+
+Online Review and Discussion
+
+.   ©2010 Praxis Language Ltd.

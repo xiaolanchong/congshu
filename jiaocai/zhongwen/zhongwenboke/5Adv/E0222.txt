@@ -1,0 +1,160 @@
+
+Advanced - 中国IT外包服务 (E0222)
+
+Advanced - 中国IT外包服务
+
+(E0222)
+
+我真后悔当时大学里没学电脑。现在，中国已经是提供国际软件外包服务最重要的国家之一。整体市场规模以平均每年百分之四十的水平高速增长。我有几个IT专业的同学，现在都干得热火朝天。
+
+wǒ zhēn hòuhuǐ dāngshí dàxué lǐ méi xué diànnǎo 。xiànzài ，Zhōngguó yǐjīng shì tígōng guójì ruǎnjiàn wàibāo fúwù zuì zhòngyào de guójiā zhīyī 。zhěngtǐ shìchǎng guīmó yǐ píngjūn měinián bǎi fēnzhī sìshí de shuǐpíng gāosù zēngzhǎng 。wǒ yǒu jǐge  ITzhuānyè de tóngxué ，xiànzài dōu gàn de rèhuǒcháotiān 。
+
+哎，各人有各人的路。你别看眼下IT好，可前几年网络泡沫的时候，还不是有一大批人失业。不过说到IT外包，这不是印度的天下吗？
+
+āi ，gè rén yǒu gè rén de lù 。nǐ bié kàn yǎnxià  IThǎo ，kě qián jǐ nián wǎngluò pāomò de shíhou ，hái bù shì yǒu yīdàpī rén shīyè 。bùguò shuōdào  ITwàibāo ，zhè bù shì Yìndù de tiānxià ma ？
+
+没错，近十年来，随着全球产业结构的调整，特别是发达国家企业为了节约成本，开始将企业的IT服务外包。印度恰恰在计算机工程方面有着很坚实的基础，再加上语言优势，所以顺理成章地成为了IT外包基地。但是随着中国经济的崛起和在世界产业链中占的位置，越来越多的跨国公司意识到中国在IT方面的关键性和潜能是不容忽视的。所以，在这几年，也纷纷尝试把这项业务转移到中国。
+
+méicuò ，jìn shí nián lái ，suízhe quánqiú chǎnyè jiégòu de tiáozhěng ，tèbiéshì fādá guójiā qǐyè wèile jiéyuē chéngběn ，kāishǐ jiāng qǐyè de  ITfúwù wàibāo 。Yìndù qiàqià zài jìsuànjī gōngchéng fāngmiàn yǒuzhe hěn jiānshí de jīchǔ ，zài jiāshang yǔyán yòushì ，suǒyǐ shùnlǐchéngzhāng de chéngwéi le  ITwàibāo jīdì 。dànshì suízhe Zhōngguó jīngjì de juéqǐ hé zài shìjiè chǎnyèliàn zhōng zhàn de wèizhi ，yuèláiyuèduō de kuàguó gōngsī yìshí dào Zhōngguó zài  ITfāngmiàn de guānjiànxìng hé qiánnéng shì bùróng hūshì de 。suǒyǐ ，zài zhèjǐnián ，yě fēnfēn chángshì bǎ zhè xiàng yèwù zhuǎnyídào Zhōngguó 。
+
+我是个门外汉，不过我想除了中国的经济活力和综合实力，专业素养也是海外IT发包商看重我们的重要原因。我们的教育系统向来重视理科，所以，绝对不缺优秀的软件开发人员。
+
+wǒ shì ge ménwàihàn ，bùguò wǒ xiǎng chúle Zhōngguó de jīngjì huólì hé zōnghé shílì ，zhuānyè sùyǎng yě shì hǎiwài  ITfābāoshāng kànzhòng wǒmen de chóngyào yuányīn 。wǒmen de jiàoyù xìtǒng xiànglái zhòngshì lǐkē ，suǒyǐ ，juéduì bù quē yōuxiù de ruǎnjiàn kāifā rényuán 。
+
+你说得没错。其实，这种人才储备的关键性也已经初见端倪。中国已经从前几年提供低端服务逐渐过渡到可以提供较为高端，产业利润也较高的服务。而且发包商和服务商也在不断尝试多样化、多层次的合作，中国软件外包服务产业整体市场现在已经呈现出“发包市场结构集中化”和“区域市场结构分散化”的趋势。
+
+nǐ shuō de méicuò 。qíshí ，zhèzhǒng réncái chǔbèi de guānjiànxìng yě yǐjīng chūjiànduānní 。Zhōngguó yǐjīng cóng qián jǐ nián tígōng dīduān fúwù zhújiàn guòdù dào kěyǐ tígōng jiàowéi gāoduān ，chǎnyè lìrùn yě jiàogāo de fúwù 。érqiě fābāoshāng hé fúwùshāng yě zài bùduàn chángshì duōyànghuà 、duōcéngcì de hézuò ，Zhōngguó ruǎnjiàn wàibāo fúwù chǎnyè zhěngtǐ shìchǎng xiànzài yǐjīng chéngxiàn chū “fābāo shìchǎng jiégòu jízhōnghuà ”hé “qūyù shìchǎng jiégòu fēnsànhuà ”de qūshì 。
+
+啊，这是什么意思啊？
+
+ā ，zhè shì shénme yìsi ā ？
+
+“发包市场结构集中化”就是指发包商和服务商的构成相对集中。目前，来自欧美的业务占了总体的比例的半壁江山。而且随着更多欧美发包企业在中国寻找合作伙伴，以及中国企业进一步开拓欧美市场，欧美发包市场的比例将继续提高。另一方面，日本发包市场规模也在稳步上升。
+
+“fābāo shìchǎng jiégòu jízhōnghuà ”jiùshì zhǐ fābāoshāng hé fúwùshāng de gòuchéng xiāngduì jízhōng 。mùqián ，láizì Oūměi de yèwù zhàn le zǒngtǐ de bǐlì de bànbìjiāngshān 。érqiě suízhe gèng duō Oūměi fābāo qǐyè zài Zhōngguó xúnzhǎo hézuò huǒbàn ，yǐjí Zhōngguó qǐyè jìn yī bù kāituò Oūměi shìchǎng ，Oūměi fābāo shìchǎng de bǐlì jiāng jìxù tígāo 。lìngyīfāngmiàn ，rìběn fābāo shìchǎng guīmó yě zài wěnbù shàngshēng 。
+
+那么，“区域市场结构分散化”是不是说外包业务将逐步分布在中国不同的城市，而不是集中在北京、上海这些大城市。这是不是主要为了控制成本？
+
+nàme ，“qūyù shìchǎng jiégòu fēnsànhuà ”shì bu shì shuō wàibāo yèwù jiāng zhúbù fēnbù zài Zhōngguó bùtóng de chéngshì ，ér bu shì jízhōng zài Běijīng 、Shànghǎi zhèxiē dà chéngshì 。zhè shì bu shì zhǔyào wèile kòngzhì chéngběn ？
+
+我想这是重要的原因之一。而且好多二三线城市也出台了许多相关政策，鼓励IT产业的发展。我看到过报道，说在这些二线城市，软件人才成本比上海、北京等大城市要低百分之四十左右，这对企业具有很大的吸引力；特别是分配一些相对低端的业务。
+
+wǒ xiǎng zhè shì zhòngyào de yuányīn zhīyī 。érqiě hǎo duō èr sān xiàn chéngshì yě chūtái le xǔduō xiāngguān zhèngcè ，gǔlì ITchǎnyè de fāzhǎn 。wǒ kàndào guo bàodǎo ，shuō zài zhèxiē èrxiàn chéngshì ，ruǎnjiàn réncái chéngběn bǐ Shànghǎi 、Běijīng děng dà chéngshì yào dī bǎifēnzhī sìshí zuǒyòu ，zhè duì qǐyè jùyǒu hěn dà de xīyǐnlì ；tèbiéshì fēnpèi yīxiē xiāngduì dīduān de yèwù 。
+
+那么中国在IT领域的增长是不是威胁到了印度？
+
+nàme Zhōngguó zài ITlǐngyù de zēngzhǎng shì bu shì wēixié dào le Yìndù ？
+
+不少人在炒作这种竞争。但是凭心而论，中国在IT业和印度，还是有很大的差距。中国可以从印度那儿学到许多宝贵的经验。其实不管在什么领域，印度和中国不应该是你死我活的对手，亚洲和世界有空间也有必要让这两个国家共同发展。
+
+bùshǎo rén zài chǎozuò zhèzhǒng jìngzhēng 。dànshì píngxīnérlùn ，Zhōngguó zài ITyè hé Yìndù ，hái shì yǒu hěn dà de chājù 。Zhōngguó kěyǐ cóng yìndù nàr5 xuédào xǔduō bǎoguì de jīngyàn 。qíshí bùguǎn zài shénme lǐngyù ，Yìndù hé Zhōngguó bù yīnggāi shì nǐsǐwǒhuó de duìshǒu ，Yàzhōu hé shìjiè yǒu kōngjiān yě yǒu bìyào ràng zhè liǎng ge guójiā gòngtóng fāzhǎn 。
+
+Vocabulary
+
+外包
+
+wàibāo
+
+outsourcing
+
+热火朝天
+
+rèhuǒcháotiān
+
+bustling with activity
+
+恰恰
+
+qiàqià
+
+precisely
+
+顺理成章
+
+shùnlǐchéngzhāng
+
+to be logical
+
+崛起
+
+juéqǐ
+
+ascent
+
+产业链
+
+chǎnyèliàn
+
+industry supply-chain
+
+不容忽视
+
+bùróng hūshì
+
+not to be ingored
+
+门外汉
+
+ménwàihàn
+
+layman
+
+初见端倪
+
+chūjiànduānní
+
+just starting to emerge
+
+低端
+
+dīduān
+
+low-end
+
+高端
+
+gāoduān
+
+high-end
+
+发包商
+
+fābāoshāng
+
+company that outsources labor
+
+服务商
+
+fúwùshāng
+
+service provider
+
+趋势
+
+qūshì
+
+trend
+
+半壁江山
+
+bànbìjiāngshān
+
+a part of the whole
+
+炒作
+
+chǎozuò
+
+to speculate
+
+凭心而论
+
+píngxīnérlùn
+
+to debate conscientiously
+
+你死我活
+
+nǐsǐwǒhuó
+
+to fight to the death

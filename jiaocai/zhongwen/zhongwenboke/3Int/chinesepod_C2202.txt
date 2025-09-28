@@ -1,0 +1,272 @@
+
+Intermediate - Chinese Input Methods
+
+Intermediate - Chinese Input Methods
+
+(C2202)
+
+A:
+
+女儿，电脑怎么不能打字了？
+
+nǚér, diànnǎo zěnme bùnéng dǎzì le?
+
+Daughter, why can't the computer input characters?
+
+B:
+
+等一下，我看看。
+
+děng yīxià, wǒ kàn kan.
+
+Hold on a second. I'll check.
+
+B:
+
+哎呀，现在是英文模式，你切换到中文模式就好了。
+
+āiyā, xiànzài shì Yīngwén móshì, nǐ qiēhuàn dào Zhōngwén móshì jiù hǎo le.
+
+Oh no! Now it's the English setting. Change it to the Chinese setting and it should be okay.
+
+A:
+
+怎么切换？
+
+zěnme qiēhuàn?
+
+How do I change it?
+
+B:
+
+同时按“ctrl”和空格键。
+
+tóngshí àn" ctrl” hé kònggéjiàn.
+
+Press “Control” and the spacebar at the same time.
+
+A:
+
+哦，我试试。出来了，“全拼”。
+
+ò, wǒ shì shi. chūlái le," quánpīn”.
+
+Oh, let me try it. It's come up. “Quan Pin”.
+
+B:
+
+你电脑上还有别的输入法吗？
+
+nǐ diànnǎo shàng hái yǒu bié de shūrùfǎ ma?
+
+Does your computer have any other input methods?
+
+A:
+
+不知道。
+
+bù zhīdào.
+
+I don't know.
+
+B:
+
+同时按“shift”和“ctrl”可以切换不同的输入法。
+
+tóngshí àn" shift” hé" ctrl” kěyǐ qiēhuàn bùtóng de shūrùfǎ.
+
+Press “Shift” and “Control” at the same time to change to other input methods.
+
+A:
+
+“shift”和“ctrl”。出来了。这个输入法好用吗？
+
+" shift” hé" ctrl”. chūlái le. zhè gè shūrùfǎ hǎoyòng ma?
+
+“Shift” and “Control”. It's come up. Is this input method good?
+
+B:
+
+不好用。
+
+bù hǎoyòng.
+
+It's not good.
+
+A:
+
+这个呢？
+
+zhè gè ne?
+
+How about this one?
+
+B:
+
+也不好用。我帮你下载个“搜狗”或者“Google”的输入法吧。
+
+yě bù hǎoyòng. wǒ bāng nǐ xiàzǎi gè" Sōugǒu” huòzhě" Google” de shūrùfǎ ba.
+
+It's not very good either. Let me help you download a “Sougou” or “Google” input method.
+
+A:
+
+怎么都是什么什么狗？把两个都下载下来吧。我比较一下哪个好用。
+
+zěnme dōu shì shénme shénme gǒu? bǎ liǎng gè dōu xiàzǎi xiàlai ba. wǒ bǐjiào yīxià nǎ gè hǎoyòng.
+
+Why are they all something something “gou”? Just download them both. I'll compare which one is better.
+
+B:
+
+好，老妈！
+
+hǎo, lǎomā!
+
+Okay, Mom!
+
+Key Vocabulary
+
+打字
+
+dǎzì
+
+to type
+
+模式
+
+móshì
+
+mode
+
+切换
+
+qiēhuàn
+
+to switch over
+
+同时
+
+tóngshí
+
+simultaneously, at the same time
+
+按
+
+àn
+
+according to
+
+空格键
+
+kònggéjiàn
+
+spacebar
+
+全拼
+
+quánpīn
+
+“Quan Pin”, a computer input method
+
+输入法
+
+shūrùfǎ
+
+input method
+
+不同
+
+bùtóng
+
+different
+
+好用
+
+hǎoyòng
+
+easy to use
+
+下载
+
+xiàzǎi
+
+to download
+
+搜狗
+
+Sōugǒu
+
+Sougou, a Chinese character input program
+
+或者
+
+huòzhě
+
+or
+
+把
+
+bǎ
+
+to take
+
+比较
+
+bǐjiào
+
+to compare
+
+Supplementary Vocabulary
+
+飞行模式
+
+fēixíng móshì
+
+airplane mode
+
+睡眠模式
+
+shuìmián móshì
+
+sleep mode
+
+一边……一边……
+
+yībiān ... yībiān ...
+
+used to express doing two actions at once
+
+输入
+
+shūrù
+
+to input
+
+输出
+
+shūchū
+
+to output
+
+谷歌
+
+Gǔgē
+
+Google
+
+微软输入法
+
+Wēiruǎn shūrùfǎ
+
+Microsoft input method
+
+五笔输入法
+
+Wǔbǐ shūrùfǎ
+
+Big 5 input method
+
+Online Review and Discussion
+
+.   ©2013 ChinesePod Ltd.

@@ -1,0 +1,324 @@
+
+Intermediate - Wang Tries to Excel at the Office
+
+Intermediate - Wang Tries to Excel at the Office
+
+(C1032)
+
+A
+
+朱丽叶，电脑表格怎么做啊？
+
+Zhū Lìyè, diànnǎo biǎogé zěnme zuò a?
+
+Zhu Liye, how do you make charts on the computer?
+
+B
+
+老王，你怎么突然要做这个？
+
+Lǎo Wáng, nǐ zěnme tūrán yào zuò zhè ge?
+
+Mr. Wang, how come you suddenly want to do that?
+
+A
+
+这个嘛，有用。
+
+zhè ge ma, yǒuyòng.
+
+Well, it's useful.
+
+B
+
+噢，你打开Excel就行了。
+
+ō, nǐ dǎkāi Excel jiù xíng le.
+
+Oh. Just open up Excel and you're good to go.
+
+A
+
+什么？
+
+shénme?
+
+What?
+
+B
+
+单击屏幕左下角的“开始”，然后点“所有程序”。你看到Microsoft Office了吧，点一下。
+
+dānjī píngmù zuǒxiàjiǎo de "kāishǐ" , ránhòu diǎn "suǒyǒu chéngxù" . nǐ kàn dào Microsoft Office le ba, diǎn yīxià.
+
+Click once on the "Start" at the bottom left corner of the screen. Then click on "All Programs." You can see Microsoft Office, right? Click on it.
+
+A
+
+啊呀，电话里说不清。你来我办公室弄给我看吧。
+
+āya, diànhuà lǐ shuōbuqīng. nǐ lái wǒ bàngōngshì nòng gěi wǒ kàn ba.
+
+Aw, it's impossible to explain it clearly on the phone. How about you come over to my office and show me.
+
+B
+
+好吧。喏，这个绿色的X，就是做表格的程序。叫Excel。
+
+hǎo ba. nuó, zhè ge lǜsè de X, jiùshì zuò biǎogé de chéngxù. jiào Excel.
+
+Oh, OK. This green X is the chart-making program. It's called Excel.
+
+A
+
+什么？
+
+shénme?
+
+What?
+
+B
+
+Excel.
+
+Excel.
+
+A
+
+Excel. 哦，表格出来了。
+
+Excel. o, biǎogé chūlái  le.
+
+Excel. Oh, a chart came up.
+
+B
+
+竖的是列，横的是行。
+
+shù de shì liè, héng de shì háng.
+
+The vertical ones are columns, the horizontal ones are rows.
+
+A
+
+这我知道。
+
+zhè wǒ zhīdào.
+
+I know that.
+
+B
+
+还可以调大小。
+
+hái kěyǐ tiáo dàxiǎo.
+
+And you can also adjust the size.
+
+A
+
+哟，那么简单！赵建国怎么还要参加培训班？
+
+yo, nàme jiǎndān! Zhào Jiànguó zěnme hái yào cānjiā péixùn bān?
+
+Oh, it's so simple! Why does Zhao Jianguo still need to go to an extra training course?
+
+B
+
+难的我没教你。
+
+nán de wǒ méi jiāo nǐ.
+
+I haven't shown you the hard stuff.
+
+A
+
+好了，我们继续吧！
+
+hǎo le, wǒmen jìxù ba!
+
+OK, let's keep going.
+
+Key Vocabulary
+
+表格
+
+biǎogé
+
+chart
+
+突然
+
+tūrán
+
+suddenly
+
+有用
+
+yǒuyòng
+
+useful
+
+打开
+
+dǎkāi
+
+to open
+
+单击
+
+dānjī
+
+to click once
+
+屏幕
+
+píngmù
+
+screen
+
+左下角
+
+zuǒxiàjiǎo
+
+lower left corner
+
+开始
+
+kāishǐ
+
+to start
+
+点
+
+diǎn
+
+to click on
+
+所有程序
+
+suǒyǒu chéngxù
+
+all programs
+
+说不清
+
+shuōbuqīng
+
+to be unable to explain clearly
+
+弄
+
+nòng
+
+to do
+
+程序
+
+chéngxù
+
+program
+
+竖
+
+shù
+
+vertical
+
+横
+
+héng
+
+horizontal
+
+列
+
+liè
+
+column
+
+行
+
+háng
+
+row
+
+调
+
+tiáo
+
+to adjust
+
+参加
+
+cānjiā
+
+to participate
+
+培训
+
+péixùn
+
+training
+
+教
+
+jiāo
+
+to teach
+
+继续
+
+jìxù
+
+to continue
+
+Supplementary Vocabulary
+
+双击
+
+shuāngjī
+
+to double-click
+
+点击
+
+diǎnjī
+
+to click on
+
+取消
+
+qǔxiāo
+
+to cancel
+
+关闭
+
+guānbì
+
+to close
+
+复制
+
+fùzhì
+
+to copy
+
+粘帖
+
+zhāntiē
+
+to paste
+
+删除
+
+shānchú
+
+to delete
+
+保存
+
+bǎocún
+
+to save

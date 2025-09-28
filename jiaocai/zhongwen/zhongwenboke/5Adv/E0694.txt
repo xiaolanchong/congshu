@@ -1,0 +1,214 @@
+
+Advanced - 输入法
+
+Advanced - 输入法
+
+(E0694)
+
+A
+
+你喜欢用哪一种汉字输入法？
+
+nǐ xǐhuan yòng nǎ yī zhǒng hànzì shūrùfǎ?
+
+B
+
+我一直都用微软拼音，习惯了。它可以连续输入，只要打一部分字，程序就会预测内容，自动提供选项。 哎，如果这世界上有一个人这么了解我，那该多好！
+
+wǒ yīzhí dōu yòng Wéiruǎn pīnyīn, xíguàn le. tā kěyǐ liánxù shūrù, zhǐyào dǎ yībùfèn zì, chéngxù jiù huì yùcè nèiróng, zìdòng tígōng xuǎnxiàng. āi, rúguǒ zhè shìjièshàng yǒu yī ge rén zhème liǎojiě wǒ, nà gāi duō hǎo!
+
+A
+
+我也用过微软拼音。可是我觉得它经常会给一些稀奇古怪的词汇选项。相比起来，谷歌的输入法就智能多了。不过微软拼音还是有一个非常人性化的功能，我估计好多人都没注意到。
+
+wǒ yě yòng guo Wéiruǎn pīnyīn. kěshì wǒ juéde tā jīngcháng huì gěi yīxiē xīqí gǔguài de cíhuì xuǎnxiàng. xiāngbǐ qǐlai, Gǔgē de shūrùfǎ jiù zhìnéng duō le. bùguò Wéiruǎn pīnyīn háishì yǒu yī ge fēicháng rénxìnghuà de gōngnéng, wǒ gūjì hǎo duō rén dōu méi zhùyì dào.
+
+B
+
+哦？是什么？
+
+ō? shì shénme?
+
+A
+
+“南方模糊音”，专门为南方口音设置的输入法。它可以识别很多南方人的发音习惯。方便了许多南方口音比较重的人。
+
+nánfāng móhu yīn", zhuānmén wèi nánfāng kǒuyīn shèzhì de shūrùfǎ. tā kěyǐ shíbié hěn duō nánfāngrén de fāyīn xíguàn. fāngbiàn le xǔduō nánfāng kǒuyīn bǐjiào zhòng de rén.
+
+B
+
+不会吧？这样一来，我们对自己普通话的要求不是又要大打折扣了吗？现在好多人都因为依赖电脑而淡忘了汉字的书写。以后岂不是连发音都不准了？
+
+bùhuì ba? zhèyàng yīlái, wǒmen duì zìjǐ pǔtōnghuà de yāoqiú bù shì yòu yào dà dǎ zhékòu le ma? xiànzài hǎo duō rén dū yīnwèi yīlài diànnǎo ér dànwàng le hànzì de shūxiě. yǐhòu qǐbùshì lián fāyīn dōu bùzhǔn le?
+
+A
+
+你真是忧国忧民，应该颁个大奖给你。不过我觉得不会这么极端吧。同样是微软，我自己倒是喜欢用智能ABC。它的词库很全。除了常用词，还有常用的方言词语和术语、人名、地名。还能自动记忆词库中没有的新词。
+
+nǐ zhēnshì yōuguóyōumín, yīnggāi bān ge dàjiǎng gěi nǐ. bùguò wǒ juéde bùhuì zhème jíduān ba. tóngyàng shì Wéiruǎn, wǒ zìjǐ dàoshì xǐhuan yòng ZhìnéngABC. tā de cíkù hěn quán. chúle chángyòngcí, hái yǒu chángyòng de fāngyán cíyǔ hé shùyǔ, rénmíng, dìmíng. hái néng zìdòng jìyì cíkù zhōng méiyǒu de xīncí.
+
+B
+
+我还是觉得智能ABC的设置和显示有点别扭，用起来不那么顺手。不过你刚刚提到的谷歌拼音，现在的确有好多人在用。据说它的设计完全是以人为本的。
+
+wǒ háishì juéde ZhìnéngABCde shèzhì hé xiǎnshì yǒudiǎn bièniu, yòng qǐlai bù nàme shùnshǒu. bùguò nǐ gānggāng tídào de Gǔgē pīnyīn, xiànzài díquè yǒu hǎo duō rén zài yòng. jùshuō tā de shèjì wánquán shì yǐ rén wéi běn de.
+
+A
+
+没错。它借助网络提供了很多附加价值，比如新词、热门词汇和搜索，准确率可高了。
+
+méicuò. tā jièzhù wǎngluò tígōng le hěn duō fùjiā jiàzhí, bǐrú xīncí, rèmén cíhuì hé sōusuǒ, zhǔnquèlǜ kě gāo le.
+
+B
+
+哎，现在的输入法真多。不过我觉得最有意思的还是五笔字形。它按照汉字的笔画、部首来输入。是一种最能体现汉字魅力的输入法。
+
+āi, xiànzài de shūrùfǎ zhēn duō. bùguò wǒ juéde zuì yǒu yìsi de háishì wǔbǐ zìxíng. tā ànzhào hànzì de bǐhuà, bùshǒu lái shūrù. shì yīzhǒng zuì néng tǐxiàn hànzì mèilì de shūrùfǎ.
+
+A
+
+不过好像很复杂，所以现在没什么人用。
+
+bùguò hǎoxiàng hěn fùzá, suǒyǐ xiànzài méi shénme rén yòng.
+
+B
+
+不是，其实五笔是好多专业打字员的首选。还有一些普通话和拼音不太标准的人也喜欢用它。虽然学起来花功夫，但是掌握了以后，输入速度是最快的。
+
+bù shì, qíshí wǔbǐ shì hǎo duō zhuānyè dǎzìyuán de shǒuxuǎn. hái yǒu yīxiē pǔtōnghuà hé pīnyīn bùtài biāozhǔn de rén yě xǐhuan yòng tā. suīrán xué qǐlai huā gōngfu, dànshì zhǎngwò le yǐhòu, shūrù sùdù shì zuì kuài de.
+
+A
+
+是吗？我还以为五笔是老掉牙、被淘汰的东西。看来真是我孤陋寡闻了。为什么五笔能那么快呢？
+
+shì ma? wǒ hái yǐwéi wǔbǐ shì lǎodiàoyá, bèi táotài de dōngxi. kànlai zhēnshì wǒ gūlòuguǎwén le. wèishénme wǔbǐ néng nàme kuài ne?
+
+B
+
+因为它完全根据汉字的字形结构来进行编码，编码与一个汉字的读音没有任何关系。会五笔字形的人，即使碰到一个不会念的字，只要知道它怎样写，分成几部分，就可以输入了。
+
+yīnwèi tā wánquán gēnjù hànzì de zìxíng jiégòu lái jìnxíng biānmǎ, biānmǎ yǔ yī ge hànzì de dúyīn méiyǒu rènhé guānxi. huì wǔbǐ zìxíng de rén, jíshǐ pèngdào yī ge bùhuì niàn de zì, zhǐyào zhīdào tā zěnyàng xiě, fēnchéng jǐ bùfèn, jiù kěyǐ shūrù le.
+
+A
+
+为什么要叫“五笔”呢？难道所有汉字都能在五笔内解决？
+
+wèishénme yào jiào"wǔbǐ"ne? nándào suǒyǒu hànzì dōu néng zài wǔbǐ nèi jiějué?
+
+B
+
+某种程度上说是这样的。它分析汉字的结构特点，把汉字的笔画归纳为横、竖、撇、捺（点）、折五种。
+
+mǒuzhǒng chéngdù shàng shuō shì zhèyàng de. tā fēnxī hànzì de jiégòu tèdiǎn, bǎ hànzì de bǐhuà guīnà wéi héng, shù, piě, nà(diǎn), zhé wǔ zhǒng.
+
+A
+
+我小时候学校还教过呢，不过现在都忘得一干二净。你可真是满腹经纶，深藏不露啊。对输入法那么了解。
+
+wǒ xiǎoshíhòu xuéxiào hái jiāo guo ne, bùguò xiànzài dōu wàng de yīgānèrjìng. nǐ kě zhēnshì mǎnfùjīnglún, shēncángbùlù a. duì shūrùfǎ nàme liǎojiě.
+
+B
+
+那要看和谁比了。
+
+nà yào kàn hé shéi bǐ le.
+
+Key Vocabulary
+
+智能
+
+zhìnéng
+
+intelligence
+
+打折扣
+
+dǎ zhékòu
+
+to discount
+
+岂不是
+
+qǐbùshì
+
+wouldn
+
+忧国忧民
+
+yōuguóyōumín
+
+concerned about the people
+
+老掉牙
+
+lǎodiàoyá
+
+obsolete
+
+淘汰
+
+淘汰
+
+eliminated
+
+孤陋寡闻
+
+gūlòuguǎwén
+
+ignorant
+
+编码
+
+biānmǎ
+
+encryption
+
+满腹经纶
+
+mǎnfùjīnglún
+
+mind like an encyclopedia
+
+深藏不露
+
+shēncángbùlù
+
+real knowledge is not showy
+
+Supplementary Vocabulary
+
+字根
+
+字根
+
+root of a character/ zi4gen1
+
+盲打
+
+mángdǎ
+
+touch-type
+
+心机
+
+xīnjī
+
+scheming
+
+高深莫测
+
+gāoshēnmòcè
+
+unfathomable
+
+熟能生巧
+
+shúnéngshēngqiǎo
+
+skill comes from practice
+
+快捷键
+
+kuàijiéjiàn
+
+to type fast

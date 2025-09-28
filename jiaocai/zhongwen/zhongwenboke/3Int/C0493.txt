@@ -1,0 +1,164 @@
+
+Intermediate - Subway Announcements (C0493)
+
+Intermediate - Subway Announcements
+
+(C0493)
+
+欢迎乘坐上海地铁一号线，本线起点上海火车站，终点莘庄。
+
+huānyíng chéngzuò Shànghǎi dìtiě yī hào xiàn ，běn xiàn qǐdiǎn Shànghǎi Huǒchēzhàn ，zhōngdiǎn Xīnzhuāng 。
+
+Welcome to Shanghai Subway Line One.  This line starts at Shanghai Railway Station.  It terminates at Xinzhuang.
+
+欢迎乘坐上海地铁二号线，本线起点淞虹路，终点张江高科。
+
+huānyíng chéngzuò Shànghǎi dìtiě èr hào xiàn ，běn xiàn qǐdiǎn Sōnghóng Lù ，zhōngdiǎn Zhāngjiāng Gāokē 。
+
+Welcome to Shanghai Subway Line Two.  This line starts at Songhang Road.  It terminates at Zhangjiang High-Technology Park.
+
+欢迎乘坐上海轨道交通三号线，本线起点上海南站，终点江湾镇。
+
+huānyíng chéngzuò Shànghǎi guǐdàojiāotōng sān hào xiàn ，běn xiàn qǐdiǎn Shànghǎi Nánzhàn ，zhōngdiǎn Jiāngwānzhèn 。
+
+Welcome to Shanghai Metro Light Rail System, Line Three.  This line starts at the South Shanghai Railway Station.  It terminates at Jiangwan Town.
+
+列车即将到站，这里是黄陂南路站。
+
+lièchē jíjiāng dàozhàn ，zhèlǐ shì Huángpí Nánlù Zhàn 。
+
+The train is about to arrive at the station.  This is Huangpi Road Station.
+
+Vocabulary
+
+乘坐
+
+chéngzuò
+
+to ride
+
+起点
+
+qǐdiǎn
+
+starting point
+
+终点
+
+zhōngdiǎn
+
+destination
+
+即将
+
+jíjiāng
+
+will shortly
+
+本
+
+běn
+
+this
+
+列车
+
+lièchē
+
+train
+
+一号线
+
+yīhàoxiàn
+
+Line One
+
+二号线
+
+èrhàoxiàn
+
+Line Two
+
+三号线
+
+sānhàoxiàn
+
+Line Third
+
+轻轨
+
+qīngguǐ
+
+light rail
+
+车厢
+
+chēxiāng
+
+railway car
+
+转乘
+
+zhuǎnchéng
+
+to transfer
+
+排队
+
+páiduì
+
+to stand in line
+
+有序
+
+yǒuxù
+
+orderly
+
+让座
+
+ràngzuò
+
+to give one's seat to another
+
+上海火车站
+
+Shànghǎi Huǒchēzhàn
+
+Shanghai Railway Station
+
+莘庄
+
+Xīnzhuāng
+
+Xinzhuang
+
+淞虹路
+
+Sōnghóng Lù
+
+Songhong Road
+
+张江高科
+
+Zhāngjiāng Gāokē
+
+Zhangjiang High-Technology Park
+
+上海南站
+
+Shànghǎi Nánzhàn
+
+South Shanghai Railway Station
+
+江湾镇
+
+Jiāngwānzhèn
+
+Jiangwan Town
+
+黄陂南路站
+
+Huángpí Nánlù Zhàn
+
+South Huangpi Road Station

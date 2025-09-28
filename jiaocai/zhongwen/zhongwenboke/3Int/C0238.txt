@@ -1,0 +1,206 @@
+
+Intermediate - Airport Announcements (C0238)
+
+Intermediate - Airport Announcements
+
+(C0238)
+
+乘坐中国东方航空公司MU583航班前往洛杉矶的旅客，我们抱歉地通知您由于天气原因，您乘坐的中国东方航空公司MU583航班不能按时起飞。
+
+chéngzuò Zhōngguó Dōngfāng Hángkōng Gōngsī MUwǔ bā sān hángbān qiánwǎng Luòshānjī de lǚkè ，wǒmen bàoqiàn de tōngzhī nín yóuyú tiānqì yuányīn ，nín chéngzuò de Zhōngguó dōngfāng hángkōng gōngsī MUwǔ bā sān hángbān bùnéng ànshí qǐfēi 。
+
+Passengers flying to Los Angeles on China Eastern flight MU583, we are sorry to announce that due to poor weather conditions China Eastern flight MU583 will not depart at the originally scheduled time.
+
+乘坐美国西北航空公司NW8643航班前往纽约的旅客，您乘坐的航班登机门有变动。请您由8号门登机。
+
+chéngzuò Měiguó Xīběi Hángkōng Gōngsī NWbā liù sì sān hángbān qiánwǎng Niǔyuē de lǚkè ，nín chéngzuò de hángbān dēngjīmén yǒu biàndòng 。qǐng nín yóu bā hào mén dēngjī 。
+
+Passengers flying Northwest Airlines flight NW8643 to New York, the boarding gate for your flight has been changed. Please proceed to Gate 8 for boarding.
+
+乘坐中国国际航空公司CA992航班前往温哥华的旅客，您乘坐的航班现在开始登机。
+
+chéngzuò Zhōngguó Guójì Hángkōng Gōngsī CAjiǔ jiǔ èr hángbān qiánwǎng Wēngēhuá de lǚkè ，nín chéngzuò de hángbān xiànzài kāishǐ dēngjī 。
+
+Passengers flying to Vancouver on Air China flight CA992, your flight is now boarding.
+
+Vocabulary
+
+乘坐
+
+chéngzuò
+
+to ride
+
+中国东方航空公司
+
+Zhōngguó Dōngfāng Hángkōng Gōngsī
+
+China Eastern Airlines Company
+
+航班
+
+hángbān
+
+airline flight
+
+前往
+
+qiánwǎng
+
+to go to
+
+洛杉矶
+
+Luòshānjī
+
+Los Angeles
+
+旅客
+
+lǚkè
+
+traveler
+
+抱歉
+
+bàoqiàn
+
+apologetically
+
+通知
+
+tōngzhī
+
+to inform
+
+由于
+
+yóuyú
+
+due to
+
+原因
+
+yuányīn
+
+reason
+
+按时
+
+ànshí
+
+on time
+
+起飞
+
+qǐfēi
+
+to take off
+
+美国西北航空公司
+
+Měiguó Xīběi Hángkōng Gōngsī
+
+Northwest Airline Company
+
+纽约
+
+Niǔyuē
+
+New York
+
+登机门
+
+dēngjīmén
+
+boarding gate
+
+变动
+
+biàndòng
+
+change
+
+由
+
+yóu
+
+by
+
+登机
+
+dēngjī
+
+to board
+
+中国国际航空公司
+
+Zhōngguó Guójì Hángkōng Gōngsī
+
+China International Aviation Company
+
+温哥华
+
+Wēngēhuá
+
+Vancouver
+
+中国南方航空公司
+
+Zhōngguó Nánfāng Hángkōng Gōngsī
+
+China Southern Airlines
+
+海南航空公司
+
+Hǎinán Hángkōng Gōngsī
+
+Hainan Airlines
+
+中华航空公司
+
+Zhōnghuá Hángkōng Gōngsī
+
+China Airlines
+
+长荣航空公司
+
+Chángróng Hángkōng Gōngsī /
+
+EVA Airlines /
+
+港龙航空公司
+
+Gǎnglóng Hángkōng Gōngsī /
+
+Hong Kong Dragon Airlines /
+
+美国联合航空公司
+
+Měiguó Hángkōng Gōngsī
+
+United Airlines
+
+汉莎航空公司
+
+Hànshā Hángkōng Gōngsī
+
+Lufthansa German Airlines
+
+大韩航空公司
+
+Dàhán Hángkōng Gōngsī
+
+Korean Air
+
+全日本航空公司
+
+Quán Rìběn Hángkōng Gōngsī
+
+All Japan Airlines
+
+维珍航空公司
+
+Wéizhēn Hángkōng Gōngsī /
+
+Virgin Airlines /

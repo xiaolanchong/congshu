@@ -1,0 +1,242 @@
+
+Intermediate - Ordering Chinese Take-out
+
+Intermediate - Ordering Chinese Take-out
+
+(C0747)
+
+A
+
+喂，你好，我要叫外卖。
+
+wéi, nǐhǎo, wǒ yào jiào wàimài.
+
+Hello, I want to order for delivery.
+
+B
+
+你要吃什么？
+
+nǐ yào chī shénme?
+
+What do you want to eat?
+
+A
+
+给我一个宫保鸡丁、一个麻婆豆腐、一个鱼香肉丝。你们菜的分量怎么样？
+
+gěi wǒ yī ge gōngbǎojīdīng, yī ge mápódòufu, yī ge yúxiāng ròusī. nǐmen cài de fènliàng zěnmeyàng?
+
+I'll have an order of Kung Pao Chicken, an order of Spicy Tofu, an order of Fish-flavored Shredded Pork.  What are the portions like?
+
+B
+
+挺大的，肯定够吃。你要吃辣吗？
+
+tǐng dà de, kěndìng gòuchī. nǐ yào chī là ma?
+
+They're quite satisfying--definitely enough.  Do you want it spicy?
+
+A
+
+多放一点辣。但是，要少放油，还有千万不要放味精。
+
+duō fàng yīdiǎn là. dànshì, yào shǎo fàng yóu, hái yǒu qiānwàn bùyào fàng wèijīng.
+
+Please make it extra spicy.  But, please use less oil, and absolutely do not add any MSG.
+
+B
+
+好的。要素菜和主食吗？
+
+hǎode. yào sùcài hé zhǔshí ma?
+
+All right.  Do you want any vegetable dishes or a starch dish?
+
+A
+
+炒青菜吧。你们有饺子吗？
+
+chǎo qīngcài ba. nǐmen yǒu jiǎozi ma?
+
+Stir-fried greens.  Do you have dumplings?
+
+B
+
+有的，一份十个。你要什么馅儿的？
+
+yǒude, yī fèn shí ge. nǐ yào shénme xiànr de?
+
+Yes.  There are ten per order.  What filling would you like?
+
+A
+
+猪肉白菜馅儿的。给我两份吧。好了，就这些。一共多少钱？
+
+zhūròubáicài xiànr de. gěi wǒ liǎng fèn ba. hǎo le, jiù zhèxiē. yígòng duōshao qián?
+
+Pork and cabbage.  Give me two orders.  All right, that's it.  What does that come to?
+
+B
+
+我算一下。一共是六十块。
+
+wǒ suàn yīxià. yígòng shì liùshí kuài.
+
+I'll just add it up.  All together it's 60 RMB.
+
+A
+
+大概多久能送到？
+
+dàgài duōjiǔ néng sòngdào?
+
+How long until you can deliver it?
+
+B
+
+半个小时左右。你的地址是？
+
+bàn ge xiǎoshí zuǒyòu. nǐ de dìzhǐ shì?
+
+Approximately half an hour.  What is your address?
+
+A
+
+中华花园六号楼503。麻烦少放油，别放味精。
+
+Zhōnghuáhuāyuán liùhàolóu wǔlíngsān. máfan shǎo fàng yóu, bié fàng wèijīng.
+
+China Gardens, Building 6, 503.  Please use less oil, and don't add MSG.
+
+B
+
+知道了。半小时后送到。再见。
+
+zhīdào le. bànxiǎoshí hòu sòngdào. zàijiàn.
+
+I know.  It will be delivered in half an hour.  Goodbye.
+
+Key Vocabulary
+
+叫外卖
+
+jiào wàimài
+
+to have food delivered
+
+宫保鸡丁
+
+gōngbǎojīdīng
+
+spicy diced chicken
+
+麻婆豆腐
+
+mápódòufu
+
+tofu in spicy sauce
+
+鱼香肉丝
+
+yúxiāng ròusī
+
+fish-flavored shredded meat
+
+分量
+
+fènliàng
+
+portion
+
+够吃
+
+gòuchī
+
+enough to eat
+
+放
+
+fàng
+
+to put
+
+千万
+
+qiānwàn
+
+absolutely
+
+味精
+
+wèijīng
+
+monosodium glutamate
+
+素菜
+
+sùcài
+
+vegetable dish
+
+主食
+
+zhǔshí
+
+staple food
+
+馅儿
+
+xiànr
+
+filling
+
+算
+
+suàn
+
+to calculate
+
+大概
+
+dàgài
+
+roughly
+
+麻烦
+
+máfan
+
+to trouble
+
+Supplementary Vocabulary
+
+主菜
+
+zhǔcài
+
+entree
+
+冷菜
+
+lěngcài
+
+cold dish
+
+甜点
+
+tiándiǎn
+
+dessert
+
+小区
+
+xiǎoqū
+
+residential complex
+
+外卖费
+
+wàimàifèi
+
+delivery charge

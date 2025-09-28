@@ -1,0 +1,242 @@
+
+Upper-Intermediate - Calculating Salaries
+
+Upper-Intermediate - Calculating Salaries
+
+(D1941)
+
+A:
+
+魏小姐，你忙吗？
+
+Wèi xiǎojie, nǐ máng ma?
+
+Ms. Wei, are you busy?
+
+B:
+
+还好。什么事啊？你说吧。
+
+hái hǎo. shénme shì a? nǐ shuō ba.
+
+Not too busy. What is it? Go ahead.
+
+A:
+
+我刚收到五月份的工资单，觉得有点不对劲儿。
+
+wǒ gāng shōudào wǔyuèfèn de gōngzīdān, juéde yǒudiǎnr bù duìjìnr.
+
+I just got the payslip for my salary during the month of May and feel like it's a bit off.
+
+B:
+
+我看看。你的基本工资是六千，对吧？
+
+wǒ kàn kan. nǐ de jīběngōngzī shì liùqiān, duìba?
+
+I'll take a look. Your base salary is 6000, right?
+
+A:
+
+嗯。
+
+ng4.
+
+Yeah.
+
+B:
+
+你五月份请了三天事假。事假是要扣工资的。
+
+nǐ wǔyuèfèn qǐng le sān tiān shìjià. shìjià shì yào kòu gōngzī de.
+
+You took three days of personal leave in May. Personal leave is deducted from your salary.
+
+A:
+
+我知道，可是怎么扣了这么多？是怎么算的？
+
+wǒ zhīdào, kěshì zěnme kòu le zhème duō? shì zěnme suàn de?
+
+I know, but how has this much been deducted? How is it calculated?
+
+B:
+
+劳动法规定，每个月的全勤天数是21.75天。不管是大月小月，都以这个为标准。
+
+láodòngfǎ guīdìng, měi ge yuè de quánqín tiānshù shì èrshíyīdiǎnqīwǔ tiān. bùguǎn shì dàyuè xiǎoyuè, dōu yǐ zhè ge wéi biāozhǔn.
+
+Labor law states that every month consists of 21.75 work days. Regardless of how long a month is, it's always calculated according to this standard.
+
+A:
+
+太复杂了，你就告诉我具体的计算公式。打个比方，我请了一天的事假，要怎么扣？
+
+tài fùzá le, nǐ jiù gàosu wǒ jùtǐ de jìsuàn gōngshì. dǎ ge bǐfāng, wǒ qǐng le yītiān de shìjià, yào zěnme kòu?
+
+That's too complicated. Just tell me the specific formula to calculate it. For example, if I take one day of personal leave, how is pay deducted?
+
+B:
+
+请一天就是，你的基本工资6000，除以21.75，等于275.86。请三天的话，在这个数字上乘以3，就是827.59。
+
+qǐng yītiān jiùshì, nǐ de jīběngōngzī liùqiān, chúyǐ èrshíyīdiǎnqīwǔ, děngyú liǎngbǎiqīshíwǔ diǎn bāliù. qǐng sān tiān dehuà, zài zhè ge shùzì shàng chéngyǐ sān, jiùshì bābǎièrshíqīdiǎnwǔjiǔ.
+
+For one day off, it's your base salary of 6000 divided by 21.75, which equals 275.86. For three days, multiply this number by 3 and you get 827.59.
+
+A:
+
+怪不得，亏大了，早知道就不请假了。对了，我五月份加了十个小时的班，加班工资是怎么算的？
+
+guàibude, kuīdà le, zǎo zhīdào jiù bù qǐngjià le. duìle, wǒ wǔyuèfèn jiā le shí gè xiǎoshí de bān, jiābān gōngzī shì zěnme suàn de?
+
+No wonder it was so much. If I'd known I wouldn't have taken the time off. Oh, I worked 10 hours of overtime in May. How is overtime pay calculated?
+
+B:
+
+晚上加班按1.5倍来计算。计算公式是，6000除以21.75，再除以8。
+
+wǎnshang jiābān àn yīdiǎnwǔ bèi lái jìsuàn. jìsuàn gōngshì shì, liùqiān chúyǐ èrshíyīdiǎnqīwǔ, zài chúyǐ bā.
+
+Evening overtime is calculated at one and a half times normal pay. The formula is 6000 divided by 21.75, then divided by 8.
+
+A:
+
+8是每天工作八小时？
+
+bā shì měitiān gōngzuò bāxiǎoshí?
+
+Eight represents the eight hours in every work day?
+
+B:
+
+对，再乘以你的加班时间，10。再乘以1.5。就是你的加班工资。
+
+duì, zài chéngyǐ nǐ de jiābān shíjiān, shí. zài chéngyǐ yīdiǎnwǔ. jiùshì nǐ de jiābān gōngzī.
+
+That's right. Then multiply the number by your overtime hours, 10, then multiply by 1.5. It equals 517.2. That's your overtime pay.
+
+A:
+
+哦。原来是这样算的。我明白了。谢谢啊！
+
+ò. yuánlái shì zhèyàng suàn de. wǒ míngbai le. xièxie a!
+
+Ah, so that's how it's calculated. I understand. Thank you!
+
+Key Vocabulary
+
+工资单
+
+gōngzīdān
+
+payslip
+
+不对劲儿
+
+bù duìjìnr
+
+‘something not quite right‘
+
+基本工资
+
+jīběngōngzī
+
+base salary
+
+事假
+
+shìjià
+
+personal leave
+
+扣
+
+kòu
+
+to deduct
+
+劳动法
+
+láodòngfǎ
+
+labor law
+
+全勤
+
+quánqín
+
+full work attendance
+
+公式
+
+gōngshì
+
+formula
+
+除以
+
+chúyǐ
+
+to divide
+
+等于
+
+děngyú
+
+equal to
+
+乘以
+
+chéngyǐ
+
+to multiply
+
+亏大了
+
+kuīdà le
+
+‘to suffer a great loss’
+
+以……为……
+
+yǐ……wéi……
+
+to take...regard as...
+
+Supplementary Vocabulary
+
+出勤
+
+chūqín
+
+to attend work
+
+加
+
+jiā
+
+to add
+
+减
+
+jiǎn
+
+to subtract
+
+加减乘除
+
+jiājiǎnchéngchú
+
+add, subtract, multiply and divide
+
+吃亏
+
+chīkuī
+
+to suffer a loss
+
+Online Review and Discussion
+
+.   ©2012 Praxis Language Ltd.

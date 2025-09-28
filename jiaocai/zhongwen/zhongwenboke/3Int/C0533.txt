@@ -1,0 +1,300 @@
+
+Intermediate - Booking a Plane Ticket
+
+Intermediate - Booking a Plane Ticket
+
+(C0533)
+
+A:
+
+吉祥旅行社，请问有什么可以帮您的吗？
+
+Lucky Travel Agency, what can I help you with?
+
+Jíxiáng Lǚxíngshè,  qǐng wèn yǒu shénme kěyǐ bāng nín de ma?
+
+B:
+
+你好，我想订从上海到温州的往返票。商务舱。
+
+Hello, I want to book a return ticket from Shanghai to Wenzhou.  Business class.
+
+Nǐhǎo,  wǒ xiǎng dìng cóng Shànghǎi dào Wēnzhōu de wǎngfǎn piào.  shāngwùcāng.
+
+A:
+
+什么日期？
+
+What dates?
+
+Shénme rìqī?
+
+B:
+
+这个月十号去，十三号回来。
+
+Leaving on the 10th of this month, returning on the 13th.
+
+Zhè ge yuè shí hào qù,  shí sān hào huílai.
+
+A:
+
+您要东航的还是国航的?
+
+Do you want to go on China Eastern or Air China?
+
+Nín yào Dōngháng de háishi Guóháng de?
+
+B:
+
+东航的。给我靠走廊的座位。
+
+China Eastern.  Give me the aisle seat.
+
+Dōngháng de.  gěi wǒ kào zǒuláng de zuòwèi.
+
+A:
+
+可以。先生，需要我为您安排行程吗？
+
+Sure.  Sir, do you need me to arrange any travel itinerary for you?
+
+Kěyǐ.  xiānsheng,  xūyào wǒ wèi nín ānpái xíngchéng ma?
+
+B:
+
+不用了，我是去参观当地的一个工厂的。
+
+No, I am going there to tour a local factory.
+
+Bùyòng le,  wǒ shì qù cānguān dāngdì de yī ge gōngchǎng de.
+
+A:
+
+好的。麻烦您把姓名和护照号码发短信给我。
+
+All right.  Please send me a text message with your full name and passport number.
+
+Hǎo de.  máfan nín bǎ xìngmíng hé hùzhào hàomǎ fā duǎnxìn gěi wǒ.
+
+B:
+
+好。
+
+OK.
+
+Hǎo.
+
+A:
+
+你好，Peter先生。
+
+Hello, Mr. Peter.
+
+Nǐhǎo, Peter xiānsheng.
+
+B:
+
+你好，真不好意思，我要改一下日期，可以吗？
+
+Hello, I'm very sorry, I have to change my dates.  Is that all right?
+
+Nǐhǎo,  zhēn bùhǎoyìsi,  wǒ yào gǎi yīxià rìqī,  kěyǐ ma?
+
+A:
+
+可以。但是，您必须付两百元手续费。
+
+Yes, but you have to pay a service fee of 200RMB.
+
+Kěyǐ.  dànshì,  nín bìxū fù liǎngbǎi yuán shǒuxùfèi.
+
+B:
+
+啊？为什么？
+
+Oh? Why?
+
+á?  wèishénme?
+
+A:
+
+因为您买的是打折机票。
+
+Because the plane ticket you bought was a discounted ticket.
+
+Yīnwèi nín mǎi de shì dǎzhé jīpiào.
+
+B:
+
+好吧。我改到十二号走，十四号回来。
+
+OK.  I want to change it to depart on the 12th, and return on the 14th.
+
+Hǎo ba.  wǒ gǎidào shí èr hào zǒu,  shí sì hào huílai.
+
+A:
+
+十二号没有座位了。我帮您申请候补。有位子马上通知您。
+
+There are no seats available on the 12th.  I can put you on the waiting list.  As soon as a seat comes available I will notify you.
+
+Shí èr hào méiyǒu zuòwèi le.  wǒ bāng nín shēnqǐng hòubǔ.  yǒu wèizi mǎshàng tōngzhī nín.
+
+B:
+
+好的。谢谢！
+
+All right.  Thank you.
+
+Hǎo de.  xièxie!
+
+A:
+
+Peter先生，您的机票已经确认了。
+
+Mr. Peter, your plane ticket is confirmed.
+
+Peter xiānsheng,  nín de jīpiào yǐjīng quèrèn le.
+
+B:
+
+是吗？太好了！十二号走，十四号回来，没错吧？
+
+It is?  That's great!  Leaving on the 12th, and coming back on the 14th, is that right?
+
+Shì ma?  tài hǎo le!  shí èr hào zǒu,  shí sì hào huílai,  méicuò ba?
+
+A:
+
+没错。您要今天出票吗？
+
+That's right.  Do you want to issue the ticket today?
+
+Méicuò.  nín yào jīntiān chūpiào ma?
+
+B:
+
+要。可以把机票送过来吗？
+
+Yes.  Can you deliver the ticket to me?
+
+Yào.  kěyǐ bǎ jīpiào sòng guòlai ma?
+
+A:
+
+可以。您怎么付钱？
+
+Yes, I can.  How will you be paying?
+
+Kěyǐ.  nín zěnme fùqián?
+
+B:
+
+付现金给送票的人。
+
+I will pay cash to the delivery person.
+
+Fù xiànjīn gěi sòng piào de rén.
+
+A:
+
+好的。
+
+OK.
+
+Hǎo de.
+
+Key Vocabulary
+
+往返
+
+wǎngfǎn
+
+roundtrip; return
+
+行程
+
+xíngchéng
+
+itinerary
+
+参观
+
+cānguān
+
+to tour
+
+当地
+
+dāngdì
+
+local
+
+改
+
+gǎi
+
+to change
+
+申请
+
+shēnqǐng
+
+to apply
+
+候补
+
+hòubǔ
+
+waiting list; alternate
+
+确认
+
+quèrèn
+
+to confirm
+
+出票
+
+chūpiào
+
+to issue a ticket
+
+Supplementary Vocabulary
+
+经济舱
+
+jīngjìcāng
+
+economy class
+
+头等舱
+
+tóuděngcāng
+
+first class
+
+外地
+
+wàidì
+
+a location outside of where one currently is
+
+开支票
+
+kāi zhīpiào
+
+to write a cheque
+
+网上支付
+
+wǎngshàng zhīfù
+
+to pay online
+
+汇款
+
+huìkuǎn
+
+to remit money

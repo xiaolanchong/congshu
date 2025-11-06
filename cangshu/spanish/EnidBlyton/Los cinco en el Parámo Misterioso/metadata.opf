@@ -1,0 +1,23 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Blyton, Enid">Enid Blyton</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">c6c9d818-5ddd-48d8-a62c-27eb3a2a564f</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6c9d818-5ddd-48d8-a62c-27eb3a2a564f</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1952-12-31T21:00:00+00:00</dc:date>
+        <dc:description>Tras pasar unos días en campamentos separados, Los Cinco se reúnen en la escuela de equitación donde Jorge, Ana y Tim disfrutan del verano junto con otras chicas. De nuevo juntos, Los Cinco planean una excursión al Páramo Misterioso, un extraño lugar cercado por una espesa bruma y marcado por una terrible leyenda, al que también se dirigen, sin razón aparente, un grupo de gitanos. Tras inspeccionar atentamente la zona, los chicos acampan cerca de una antigua mina, sin saber que en ese lugar corren un gran peligro… Al abrigo de la noche y en la soledad de la montaña alguien espera una señal para llevar a cabo sus planes.</dc:description>
+        <dc:publisher>Editorial Juventud</dc:publisher>
+        <dc:title>Los Cinco en el Páramo Misterioso</dc:title>
+<meta name="calibre:title_sort" content="Cinco en el Páramo Misterioso, Los"/>
+<meta name="calibre:series" content="Club de Los Cinco"/>
+<meta name="calibre:series_index" content="13.0"/>
+<dc:identifier opf:scheme="ISBN">84-261-0976-4</dc:identifier>
+<dc:subject>Aventuras</dc:subject>
+<dc:subject>Infantil y juvenil</dc:subject>
+<dc:language>spa</dc:language>
+</metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

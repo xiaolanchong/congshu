@@ -1,0 +1,514 @@
+01: 속눈썹 = eyelashes
+02: ----------
+03: Examples: 그 사람의 눈썹은 짙어요 = That person’s eyebrows are thick
+04: 저도 그런 눈썹이 있었으면 좋겠어요 = I wish I had that type of eyebrows, too
+05: ----------
+06: Examples: 저는 영어교사예요 = I am an English teacher
+07: ----------
+08: = If you want to study freely in university, my guidance counselor told me to choose my major later
+09: ----------
+10: 우리 반 = our class
+11: 2학년 3반 = class 2-3
+12: 반장 = class president
+13: ----------
+14: 몇 반이에요? = What class are you in?
+15: 그 여자는 우리 반에서 제일 못생긴 여자예요 = That girl is the ugliest in our class
+16: ----------
+17: Examples: 그는 직장에서 일찍 퇴근했어요 = He left work early
+18: 직장에서 더 멀리 이사하게 되었어요 = I ended up moving farther away from work
+19: 학업을 진행하면서 직장도 다녀요 = As I progress/continue my studies, I also go to work
+20: 저는 일반적으로 그 사람을 직장에서 보지 못해요 = I generally don’t see that person at work
+21: 자신감에 찬 표정으로 새로운 직장에 들어갔어요 = He went into a new workplace with a face full of confidence
+22: ----------
+23: 벽지 = wallpaper
+24: 절벽 = cliff
+25: 벽에 기대다 = to lean against a wall
+26: ----------
+27: 저는 사진을 벽에 걸었어요 = I hung a picture on a wall
+28: 그림은 벽에 걸려 있어요 = The picture is hanging on the wall
+29: ----------
+30: 벽에 붙어 있는 광고를 봤어요? = Did you see the advertisement that is attached to the wall?
+31: ----------
+32: = The workers stabilized the wall that was probably going to collapse
+33: ----------
+34: = (I) posted (attached) an information sign on the wall so that all the people (can) see it
+35: ----------
+36: 코털 = nose hair
+37: 깃털 = feathers
+38: 솜털 = soft, fine hair (“peach fuzz”)
+39: ----------
+40: 저는 팔에 털이 많아요 = I have a lot of hair on my arms
+41: 한국사람들이 가슴에 털이 없어요 = Korean people don’t have hair on their chest
+42: ----------
+43: = I am going to the beach tomorrow, so I have no choice but to shave my armpit hair
+44: ----------
+45: = Because of their fur, it looked like the giraffes were wearing yellow clothes. Giraffes have long necks, therefore I thought they would be scary, rather, they were cute.
+46: ----------
+47: 그 여자의 머리카락은 길어요 = That girl’s hair is long
+48: 저의 머리카락을 꼬지 말아 달라고 했어요 = I told her to please stop twisting my hair
+49: ----------
+50: 저녁으로 뭐 먹었어요? = What did you eat for dinner?
+51: 엄마가 온 후에 저는 저녁식사를 먹을 거예요 = After mom comes home, I will eat dinner
+52: 요리사들은 저녁을 부엌에서 준비했어요 = The chefs prepared the dinner in the kitchen
+53: 저는 저녁에 공부했어요 = I studied in the evening
+54: 저는 일요일에 저녁을 안 먹었어요 = I didn’t eat dinner on Sunday
+55: ----------
+56: 점심으로 뭐 먹고 싶어요? = What do you want to eat for lunch?
+57: 저는 보통 점심식사로 과일만 먹어요 = I usually only eat fruit for lunch
+58: 점심은 어땠어요? = How was lunch?
+59: 점심을 먹었어? = Did you eat lunch?
+60: 오빠는 바닥에 앉아서 점심을 먹었어요 = My brother ate lunch sitting on the floor
+61: ----------
+62: 옷을 입다 = to put on clothes
+63: 옷을 벗다 = to take off clothes
+64: 옷을 벗기다 = to take clothes off of another person
+65: 옷을 갈아입다 = to change clothes
+66: 비옷 = rain clothes
+67: 겉옷 = some kind of outer clothing
+68: ----------
+69: 저는 저의 옷을 벗었어요 = I took off my clothes
+70: 저는 자주 옷을 충동적으로 사요 = I often buy clothes impulsively
+71: 저는 따뜻한 옷을 입고 싶어요 = I want to wear (put on) warm clothes
+72: 옷을 갈아입으러 탈의실에 갔어요 = He went to the change-room to change his clothes
+73: 여행할 때 옷을 많이 챙길 필요가 없어요 = I/you don’t need to pack a lot of clothes when you travel
+74: 우리가 똑같은 옷을 입고 있어요 = We are wearing exactly the same clothes
+75: ----------
+76: 저는 내일 오전에 교회에 가야 돼요 = I have to go to church tomorrow in the morning
+77: 우리 영업시간은 오전 8시부터 오후 5시까지입니다 = Our business hours are from 8 am to 5 pm
+78: 오늘 일대일 면접이 오후에 있어서 오전 내내 면접 준비를 해야 해요 = Today I have a one on one interview in the afternoon, so all morning I need to prepare for it
+79: ----------
+80: 오후에 뭐 할 거예요? = What are you doing in the afternoon?
+81: 저는 오늘 오후에 낮잠을 잤어요 = I took a nap in the afternoon today
+82: 오후에 비가 올지 모르겠어요 = It might rain in the afternoon tomorrow
+83: 오후가 되면 햇살이 강해져요 = In the afternoon, the sun gets stronger
+84: 우리 부장님께서 오늘 오후에 출발할 예정이십니다 = Our boss is scheduled to depart this afternoon
+85: 이 의견에 동의하지 않는 사람은 제 사무실로 오후에 찾아오세요 = People who don’t agree with this opinion, please come and see (“find”) me in my office this afternoon
+86: ----------
+87: 여름 방학 = summer vacation
+88: ----------
+89: 이번 여름은 너무 더워요 = This summer is too hot
+90: 여름에 저는 공부하겠어요 = I will study in the summer
+91: 논문을 여름까지 끝낼 수 없을까 봐 걱정돼요  = I’m worried that I won’t finish my thesis by summer
+92: 놀이동산에 여름에는 사람이 많아요  = There are many people at the amusement park in the summer
+93: 매년 여름, 이 지역에는 홍수가 나요 = A flood occurs every summer in this area
+94: ----------
+95: = In Korea, winter vacation is longer than summer vacation
+96: ----------
+97: = The reason I like summer the most is because there is a long holiday
+98: ----------
+99: 가을이 시원해서 좋아요 = Fall is nice because it is cool
+100: 가을에 잎의 색깔은 변해요 = The color of the leaves changes in the fall
+101: 가을에는 낙엽이 많이 떨어져요 = In the fall, a lot of leaves fall to the ground
+102: 가을에는 단풍놀이를 가는 많은 사람들을 볼 수 있어요 = In the fall, you can see many people who go out to see the autumn colors
+103: ----------
+104: 겨울 방학 = winter vacation
+105: 겨울잠 = hibernation
+106: ----------
+107: 너무 추워서 저는 겨울이 싫어요 = I don’t like winter because it is too cold
+108: 캐나다는 겨울이 추운 나라예요 = Canada is  a country of/with cold winters
+109: ----------
+110: = I don’t understand why Korean people don’t close the door in the winter
+111: ----------
+112: = I even need to out on lotion in the winter because my skin is weak
+113: ----------
+114: 나무는 봄에 예뻐요 = The trees are pretty in spring
+115: 한국에는 황사가 중국에서 봄마다 와요 = Yellow dust comes to Korea every spring from China
+116: 봄에는 꽃가루 알레르기를 조심해 야 해요 = You need to be careful about pollen allergies in the spring
+117: ----------
+118: 저는 저의 지갑을 찾고 있어요 = I am looking for my wallet
+119: 누군가(는) 너를 찾고 있어 = Somebody is looking for you
+120: 저는 그 사실을 백과사전에 찾았어요 = I looked up that fact in an encyclopedia
+121: 우리 회사는 새로운 회사원을 찾고 있어요 = Our company is looking for new workers
+122: ----------
+123: 수업을 가르치다 = to teach a class
+124: 학생을 가르치다 = to teach a student
+125: ----------
+126: 저는 고등학교에서 10년 동안 영어를 가르쳤어요 = I taught English at a high school for 10 years
+127: 저는 학생들한테 한국어를 가르쳤어요 = I taught Korean to the students
+128: 어제 학생들한테 뭐 가르쳤어요? = What did you teach the students yesterday?
+129: 저는 선생님이 그것을 언제 가르쳤는지 기억 안 나요 = I don’t remember when the teacher taught that
+130: 선생님은 우리를 너무 잘 가르치셨어 = Our teacher taught us really well
+131: 이것을 가르쳐 줘서 감사합니다 = Thanks for teaching that to me
+132: 그 선생님은 한국어를 저에게 가르쳐 줬어요 = That teacher taught me Korean
+133: ----------
+134: 저는 내일 할 일이 있어요 = I have something I need to do tomorrow
+135: ----------
+136: 저는 그 회사에서 일해요 = I work at/for that company
+137: 저는 지난 월요일에 일했어요 = I worked last Monday
+138: 저는 2주 동안 열심히 일했어요 = I worked hard for 2 weeks
+139: 저는 그 회사에서 5월까지 일할 거예요 = I will work at that company until May
+140: 저는 회사를 위해 열심히 일할 거예요 = I will work hard for the company
+141: 아버지는 지금 일하고 있어요 = Dad is working now
+142: 그 사람은 10년 동안 열심히 일하고 부자가 되었어요 = That person worked hard for 10 years and then became a rich person
+143: ----------
+144: 집을 짓다 = to build a house
+145: ----------
+146: 그 집을 언제 지었어요? = When did you build that house?
+147: 저는 집을 지었어요 = I built a house
+148: 저는 우리 집을 나무로 지었어요 = I built our house out of wood
+149: 새로 지어진 건물이 멋있어요 = The newly built building is really cool/stylish
+150: ----------
+151: = This building was built based on the blueprints of a famous architect
+152: ----------
+153: = The newly built park has very good exercise facilities so many people exercise there
+154: ----------
+155: 가지고 있다 = to have
+156: ----------
+157: 저는 펜을 가지고 있어요 = I have a pen
+158: 저는 지금 돈을 가지고 있어요 = I have money now
+159: 그 여자는 자연스러운 머리를 가지고 있어요 = That girl has natural hair
+160: 그는 항상 사진기를 가지고 다녀요 = He always carries his camera with him (while walking around)
+161: 열쇠를 가지고 나왔어요? = Did you bring your keys (did you come out while possessing your keys?)
+162: ----------
+163: = I was really amazed they could eat a big fish with their little mouth. I approached the penguins slowly with food, and as soon as I had food, the penguins drew close around me.
+164: ----------
+165: 수도꼭지를 잠그다 = to turn the water (from a tap) off
+166: ----------
+167: 저는 문을 잠갔어요 = I locked the door
+168: 아버지는 창문을 잠갔어요 = Dad locked the window
+169: 문을 잠가야 되었는데 깜박했어요! = I was supposed to lock the door, but I forgot!
+170: 수압이 너무 세서 수도꼭지를 잠가 놓으세요 = The water pressure is too strong, so turned off (“lock”) the faucet
+171: ----------
+172: 잊어버리다 = to forget
+173: ----------
+174: 저를 잊지 마세요! = Don’t forget me!
+175: 저는 아빠의 죽음을 잊지 않았어요 = I didn’t forget the death of my father
+176: 열쇠를 어디 둔지 잊어버렸어요 = I forget where I put my keys
+177: 저는 사막에서 살았을 때를 잊어버리고 싶어요 = I want to forget the time I lived in the desert
+178: ----------
+179: = If you (continue to) live a busy life, sometimes you will forget important things/tasks/jobs
+180: ----------
+181: = Freshmen participating in the art competition, don’t forget, and be sure to gather by 10 o’clock
+182: ----------
+183: = My brother told me not to forget to buy some famous souvenirs in England and send them to Korea
+184: ----------
+185: 도와주다 = to give help
+186: ----------
+187: 도와주세요! = help me please!
+188: 제가 선생님이 아니라 학생을 도와주는 사람이에요 = I am not a teacher, I’m a student helper
+189: ----------
+190: = I wasn’t able to go to school on time because I was helping a person going through some trouble
+191: ----------
+192: = It is important to learn science, because it helps me understand the place/environment that I live (in) better
+193: ----------
+194: 나는 엄마를 도와 정리를 했다. 거실을 깨끗하게 정리하고 엄마한테 진심으로 감사하다는 말을 전했다 = I helped mom clean-up/organize. We organized the living room (cleanly), and thanked mom from the bottom of our hearts
+195: ----------
+196: 밥을 많이 주세요 = Give me lots of rice
+197: ----------
+198: 이것을 만들어 주세요 = Please, make this for me
+199: ----------
+200: 그 그릇을 주세요 = Give me that bowl, please
+201: 밥을 사 주세요 = Buy me food, please
+202: 어머님은 너에게 돈을 줬어? = Did your mother give you money?
+203: 저는 저의 친구에게 돈을 줬어요 = I gave my friend money
+204: 아빠는 나에게 음식을 줬어 = Dad gave me food
+205: 그 선생님은 한국어를 저에게 가르쳐 줬어요 = That teacher taught me Korean
+206: ----------
+207: 입맛에 맞다 = to fit one’s taste in food
+208: ----------
+209: 선생님! 이 거 맞아요? = Teacher! Is this correct?
+210: 고객님들은 항상 맞아요 = The customer is (customers are) always right
+211: 이 자세 맞아요? = Is this posture right/correct?
+212: 그 학설은 맞을 리가 없어요 = That theory cannot be right
+213: ----------
+214: 그 일은 너무 쉬웠어요 = that task was very easy
+215: 저는 쉬운 일을 했어요 = I did easy work
+216: 누구나 그 쉬운 일을 잘 해요 = Anybody can do that easy job well
+217: ----------
+218: 날씨가 덥다 = the weather is hot
+219: ----------
+220: 오늘 날씨가 너무 더워요 = Today the weather is too hot
+221: 오늘은 어제보다 더 더워 = Today is hotter than yesterday
+222: 너무 더워서 창문을 열었어요 = I opened a window because it is too hot
+223: 날씨가 춥다가 갑자기 더워졌어요 = The weather was cold, and then suddenly became hot
+224: 오늘 날씨가 너무 더워 가지고 약속을 취소했어요 = Because the weather is so hot today, I cancelled my plans
+225: ----------
+226: 저는 우리 학교가 그리워요 = I miss our school
+227: 저는 한국 음식이 그리워요 = I miss Korean food
+228: 저는 결혼한 게 좋지만 한편으로 결혼 전 생활도 그리워요  = I like being married, but, on the other hand, I also miss my life before I got married
+229: ----------
+230: 귀여운 여자 = cute girl
+231: ----------
+232: 저의 여자 친구는 너무 귀여워요 = My girlfriend is very cute
+233: 저는 귀여운 여자를 좋아해요 = I like cute girls
+234: 그 강아지의 꼬리는 아주 귀여워요 = That puppy’s tail is very cute
+235: ----------
+236: = My younger sibling is so cute that sometimes I pinch his/her cheeks
+237: ----------
+238: = Seulgi’s cheeks are very chubby and cute, so I want kiss them everyday
+239: ----------
+240: = I was walking down the street and I felt somebody looking at me, so I looked and saw a cute man standing there looking at me
+241: ----------
+242: = Because of their fur, it looked like the giraffes were wearing yellow clothes. Giraffes have long necks, therefore I thought they would be scary, rather, they were cute.
+243: ----------
+244: 날씨가 춥다 = the weather is cold
+245: ----------
+246: 캐나다는 겨울이 추운 나라예요 = Canada is a cold country in the winter
+247: 날씨는 주말에 추워졌어요 = The weather got cold over the weekend
+248: 너무 추워서 저는 겨울이 싫어요 = I don’t like winter because it is too cold
+249: 현재 날씨는 평소보다 조금 추워요 = The present/recent weather is colder than normal
+250: 요즘에 날씨가 점점 추워져요 = Lately, the weather is getting gradually colder
+251: 날씨가 추워서 따뜻한 옷을 입었어요 = The weather is cold, so I put on warm clothes
+252: ----------
+253: 어려운 문제 = difficult problem
+254: ----------
+255: 수학은 너무 어려워요 = Math is too difficult
+256: 한국에서 대학교는 고등학교보다 덜 어려워요 = In Korea, University is not as hard as high school
+257: 저는 어려운 내용을 천천히 설명했어요 = I explained the difficult content slowly
+258: 부장님을 만족시키는 것은 어려워요 = Is it is difficult to satisfy our boss
+259: 고등학교는 한국에서 어려워요 = High school is difficult in Korea
+260: ----------
+261: 우리 집은 지금 매우 더러워요 = Our house is really dirty right now
+262: 쥐는 너무 더러워요 = Rats are very dirty
+263: 바다는 춥고 더러워요 = The ocean is cold and dirty
+264: 제가 세수를 하지 않았기 때문에 얼굴이 더러워 보여요 = My face looks dirty because I didn’t wash it
+265: ----------
+266: 제가 너무 바빠서 내일 못 가요 = I can’t go tomorrow because I am so busy
+267: 저는 어제 너무 바빴어요 = I was very/too busy yesterday
+268: ----------
+269: = I will probably be very busy at the beginning of this month because I have a lot of meetings with friends
+270: ----------
+271: = We originally decided to meet tomorrow, but we delayed it to next week because we were both so busy
+272: ----------
+273: 저는 같은 바지가 있어요 = I have the same pants
+274: 캐나다 사람들은 한국 사람들과 같아요 = Canadian people are the same as Korean people
+275: 이 학교는 우리 학교와 같아요 = This school and our school are the same
+276: 저 식당은 이 식당과 같아요 = That restaurant is the same as this one
+277: 우리 아빠는 저것을 싫어할 것 같아요 = Dad will probably not like that
+278: 선생님이 그 수업을 하지 않을 것 같아요 = The teacher probably won’t (teach) that lesson
+279: ----------
+280: 안전띠 = safety belt, seat belt
+281: ----------
+282: 이 직업은 안전해서 좋아요 = This job is good because it is safe
+283: 저는 거리를 안전하게 건넜어요 = I crossed the street safely
+284: 우리 아버지는 차를 항상 안전하게 운전해요= Our dad always drives his car safely
+285: 주위가 안전하지 않아요 = This area/surrounding area isn’t safe
+286: ----------
+287: = Even though that apartment (complex) has a security guard, it isn’t safe
+288: ----------
+289: = When people drive, only when they obey the traffic signals is it safe
+290: ----------
+291: 이 빵은 너무 딱딱해요 = This bread is too hard
+292: 다이아몬드는 딱딱하다 = Diamonds are hard
+293: 저는 반죽을 딱딱할 때까지 저었어요 = I stirred the batter until it was hard
+294: 바나나가 초록색일수록 딱딱해요 = The greener bananas are, the harder they are
+295: ----------
+296: = I have a herniated disk, so I need to sleep on a hard floor
+297: ----------
+298: = If you eat a lot of hard food, it puts too much stress on your chin so it is not good
+299: ----------
+300: 그녀의 손은 부드러워요 = Her hands are very soft
+301: 그 여자의 피부가 너무 부드러워요 = That girl’s skin is very smooth/soft
+302: 손이 부드럽지 않아서 로션을 발랐어요 = I put lotion on my hands because they weren’t soft
+303: 매우 부드럽고도 이상한 느낌이었다 = It had a very soft, but also a very strange feel
+304: 이 베개를 저것과 비교하면 이 베개가 훨씬 부드러워요 = If you compare this pillow with that one, this pillow is much softer
+305: ----------
+306: 가능성 = possibility
+307: 환불 가능 = refunds are possible (you would see this on a sign in a store)
+308: 교환 가능 = exchanges are possible (usually seen on a sign at a store)
+309: ----------
+310: 그것이 가능하다고 생각해요? = Do you think that is possible?
+311: 그것은 경제적으로 가능하지 않아요 = That isn’t economically possible
+312: 교환은 1주일 이내 가능합니다 = Exchanges are possible within one week
+313: ----------
+314: = The government issued a red alert because of the possibility of an earthquake
+315: ----------
+316: = It is possible for North Korean people to be captured and killed even when they are trying to escape the country
+317: ----------
+318: 그것을 움직이는 것이 불가능해요 = It is impossible to move that
+319: ----------
+320: 예쁜 여자 = pretty girl
+321: ----------
+322: 그 여자가 너무 예뻐요 = That girl is very pretty
+323: 저의 여자 친구는 귀엽고 예뻐요 = My girlfriend is cute and pretty
+324: 그 여자의 구두가 예뻐요 = That girl’s boots are pretty
+325: 여자 친구는 얼마나 예뻐요? = How pretty is your girlfriend?
+326: 그 여자들은 예뻐요 = Those girls are pretty
+327: ----------
+328: 우리는 일찍 도착했어요 = We arrived early
+329: 우리는 늦게 도착했어요 = We arrived late (it would be awkward to say “lately” in English)
+330: ----------
+331: 우리는 내일 일찍 일어나야 돼요 = We need to wake up early tomorrow morning
+332: 왜 이렇게 일찍 가요? = Why are you going so early (like this)?
+333: 제가 일찍 가도 돼요? = May I go early?
+334: 저는 아침에 일찍 일어났어요 = I woke up early in the morning
+335: 그는 직장에서 일찍 퇴근했어요 = He left work early
+336: 밖에 일찍 나가려고 숙제를 빨리 했어요 = I did my homework fast in order to go out early
+337: ----------
+338: 저는 매일 운동하겠습니다 = I will exercise everyday
+339: 저는 매일 운동해요 = I exercise everyday
+340: 매일 같은 운동을 하지 말고 많이 쉬세요 = Don’t do the same exercise every day, and get lots of rest
+341: 그 남자는 매일 까만색 옷을 입어요 = That man wears black clothes everyday
+342: 저는 공휴일을 빼고 매일 일해요 = I work every day except for public holidays
+343: 저의 엄마는 매일 운동해요 = My mother exercises every day
+344: ----------
+345: 어렵다 + ~았/었어 = 어려웠어
+346: ----------
+347: If the last letter of a word stem ends in ㅅ (for example: 짓다 = to build), the ㅅ gets removed when adding a vowel. For example, when conjugating:
+348: ----------
+349: 짓다 = to make/build
+350: 짓 + 어 = 지어
+351: 나는 집을 지어 = I build a house
+352: ----------
+353: 짓 + 었어요 = 지었어요
+354: 저는 집을 지었어요 = I built a house
+355: ----------
+356: 집을 짓는다 = to  build a house
+357: ----------
+358: 낫다 = better (adjective) – You will learn more about this word in Lesson 19
+359: 잇다 = to continue (verb)
+360: ----------
+361: 웃다 (to laugh) = 저는 웃었어요 = I laughed
+362: 벗다 (to take off clothes) = 저는 저의 옷을 벗었어요 = I took off my clothes
+363: 씻다 (to wash) = 저는 저의 손을 씻었어요 = I washed my hands
+364: ----------
+365: If the last letter of a word stem ends in ㄷ (for example: 걷다 = to walk), the ㄷ gets changed to ㄹ when adding a vowel. This is only done with verbs. For example:
+366: ----------
+367: 걷다 = to walk
+368: 걷 + 어 = 걸어
+369: 저는 걸어요 = I walk
+370: ----------
+371: 걷 + 었어요 = 걸었어요
+372: 저는 걸었어요 = I walked
+373: ----------
+374: This is done to most stems ending in ㄷ. Common words that this does not apply to (like 걷다 = to tuck) are:
+375: ----------
+376: 받다 (to get/receive) = 돈을 받았어요 = I received money
+377: 묻다 = 묻어요 (to bury) = 저는 저의 강아지를 묻었어요 = I buried my dog
+378: 닫다 = 닫아요 (to close) = 저는 문을 닫았어요 = I closed the door
+379: ----------
+380: If the last letter of a word stem ends in ㅂ (쉽다 = easy), the ㅂ changes to 우 when adding a vowel. 우 then gets added to the next syllable in the conjugated word.
+381: ----------
+382: 쉽다 = to be easy
+383: 쉽 + 어 = 쉬 + 우 + 어 = 쉬워
+384: 그것은 쉬워 = That is easy
+385: ----------
+386: 어렵다 = to be difficult
+387: 어렵 + 어요 = 어려 + 우 + 어요 = 어려워요
+388: 그것은 어려워요 = That is difficult
+389: ----------
+390: 귀엽다 = cute
+391: 귀엽 + 어요 = 귀여 + 우 + 어요 = 귀여워요
+392: 그 여자는 귀여워요 = That girl is cute
+393: ----------
+394: 돕다 = to help
+395: 돕 + 았어요 = 도 + 오 + 았어요 = 도왔어요
+396: 저는 저의 어머니를 도왔어요 = I helped my mother
+397: ----------
+398: 사과는 크다 = Apples are big
+399: 나는 큰 사과를 좋아한다 = I like big apples
+400: ----------
+401: 귀엽 + ㄴ = 귀여 + 우 + ㄴ = 귀여운
+402: 저는 귀여운 여자를 좋아해요 = I like cute girls
+403: ----------
+404: 쉽다 = easy
+405: 쉽 + ㄴ = 쉬 + 우 + ㄴ = 쉬운
+406: 저는 쉬운 일을 했어요 = I did easy work
+407: ----------
+408: 부드럽다 = soft
+409: 부드럽 + ㄴ = 부드러 + 우 + ㄴ = 부드러운
+410: 나는 부드러운 손이 있어= I have soft hands
+411: ----------
+412: 춥다 = cold
+413: 춥 + ㄴ = 추 + 우 + ㄴ = 추운
+414: 저는 추운 날씨를 좋아해요 = I like cold weather
+415: ----------
+416: 아름답다 = beautiful:
+417: 아름답 + 어요 = 아름다 + 우 + 어요 = 아름다워요
+418: 그 여자는 아름다워요 = That girl is beautiful
+419: ----------
+420: 새롭다 = new
+421: 새롭 + 어요 = 새로 + 우 + 어요 = 새로워요
+422: 그 학교는 새로워요 = That school is new
+423: 그것은 새로운 학교예요 = That (thing) is a new school
+424: ----------
+425: 좁다 (narrow) = 이 방은 좁아요 = This room is narrow
+426: 잡다 (to catch/grab) = 저는 공을 잡았어요 = I caught the ball
+427: 넓다 (wide) 이 방은 넓어요 = This room is wide
+428: ----------
+429: If the final letter in a stem is ㅡ (for example: 잠그다 = to lock), when adding ~아/어, you can not determine whether you need to add ~어 or ~아 to the stem by looking at ㅡ. Instead, you must look at the vowel in the second last syllable. For example, in the word 잠그다, the second last syllable in the stem is 잠, and the vowel here is ㅏ. We use the same rules as above to determine  whether 아 or 어 is added. If the vowel in the second last syllable is ㅏ or ㅗ, 아 is added. If the vowel in the second last syllable is anything other than ㅏ or ㅗ, 어 is added. For example:
+430: ----------
+431: = 잠그아
+432: ----------
+433: = 슬프어
+434: ----------
+435: 잠그다 = to lock
+436: 잠그 + 아 = 잠가
+437: ----------
+438: 바쁘다 = to be busy
+439: 바쁘 + 아 = 바빠
+440: ----------
+441: 예쁘다 = pretty
+442: 예쁘 + 어 = 예뻐
+443: ----------
+444: 슬프다 = to be sad
+445: 슬프 + 어 = 슬퍼
+446: ----------
+447: 저는 문을 잠갔어요 = I locked the door
+448: 저는 바빠요 = I am busy
+449: 그 여자는 예뻐요 = That girl is pretty
+450: 저는 아주 슬퍼요 = I am very sad
+451: ----------
+452: 크다 = to be big
+453: 크 + 어 = 커
+454: 그 집은 커요 = That house is big
+455: ----------
+456: 긁다 = to scratch
+457: 긁 + 어요 = 긁어요
+458: 저는 머리를 긁었어요 = I scratched my head
+459: ----------
+460: 듣다 = to hear
+461: 듣 + 었어요 = 듣었어요
+462: ----------
+463: 듣 + 었다 = 들었다
+464: 저는 쥐를 들었어요 = I heard a mouse
+465: ----------
+466: 만들다 = to make
+467: = 만들어요
+468: ----------
+469: When adding ~아/어 to these words, an additional ㄹ is created and placed in the syllable preceding 르 as the last consonant. The 르 also gets changed to either 러 or 라 (depending on if you are adding 어 or 아). This is done to both verbs and adjectives (the only exceptions are 따르다 = to follow/to pour; and 푸르다 = to be calming blue). This is difficult to explain, and much easier to show with examples:
+470: ----------
+471: 다르다 = different
+472: 다르 + 아요 = 다 + ㄹ + 라요 = 달라요
+473: 그것은 달라요 = That thing is different
+474: ----------
+475: 빠르다 = to be fast
+476: 빠르 + 아요 = 빠 + ㄹ + 라요 = 빨라요
+477: 그 남자는 빨라요 = That man is fast
+478: ----------
+479: 부르다 = to call somebody’s name
+480: 부르 + 었어요 = 부 + ㄹ + 렀어요 = 불렀어요
+481: 저는 저의 누나를 불렀어요 = I called my sister
+482: ----------
+483: 크다 = 큰 남자
+484: 작다 = 작은 남자
+485: ----------
+486: 길다 = long
+487: 길 + ㄴ = 긴
+488: 저는 긴 거리를 건넜어요 = I crossed the long street
+489: ----------
+490: 멀다 = far away
+491: 멀 + ㄴ = 먼
+492: 저는 먼 병원에 갔어요 = I went to a far away hospital (a hospital that is far away)
+493: ----------
+494: 열다 = to open
+495: 열 + ㄴ = 연
+496: ----------
+497: 나는 집에 간다 = I go home
+498: 나는 밥을 먹는다 = I eat rice
+499: ----------
+500: 나는 문을 연다 = I open the door
+501: 나는 케이크를 만든다 = I make a cake
+502: ----------
+503: 저는 집에 갑니다 = I go home
+504: 저는 밥을 먹습니다 = I eat rice
+505: ----------
+506: 그 여자는 예쁩니다 = That girl is pretty
+507: 이 방은 넓습니다 = This room is big/wide
+508: ----------
+509: 저는 문을 엽니다 = I open the door
+510: 저는 케이크를 만듭니다 = I make a cake
+511: ----------
+512: 그 병원은 멉니다 = That hospital is far
+513: 그 여자의 머리카락은 깁니다 = That girls hair is long
+514: ----------

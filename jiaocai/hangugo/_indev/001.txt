@@ -1,0 +1,413 @@
+Lesson 1
+[한국, Korea, Korean]
+한국 = Korea
+한국 사람 = Korean person
+한국어 = Korean language (For Korean people, Korean language class is called “국어 (수업)”)
+한국인 = Korean person
+한국 역사 = Korean history (in school, Korean history class is usually called “한국사 (수업)”)
+한국 문화 = Korean culture
+한국 경제 = Korean economy
+한국 전쟁 = the Korean War
+한국주식시장 = Korean stock market
+한국어능력시험 = Test of Proficiency in Korean (TOPIK)
+한국 사람 = Korean person
+한국어 = Korean language (For Korean people, Korean language class is called “국어 (수업)”)
+한국인 = Korean person
+한국 역사 = Korean history (in school, Korean history class is usually called “한국사 (수업)”)
+한국 문화 = Korean culture
+한국 경제 = Korean economy
+한국 전쟁 = the Korean War
+한국주식시장 = Korean stock market
+한국어능력시험 = Test of Proficiency in Korean (TOPIK)
+대한민국 = The formal name of the country
+저는 7년 동안 한국에서 살았어요 = I lived in Korea for seven years
+저는 내년에 한국에 갈 거예요 = I will go to Korea next year
+저의 어머니는 올해 한국에 올 것입니다 = My mom will come to Korea this year
+저는 한국어를 한국에서 배웠어요 = I learned Korean in Korea
+고등학교는 한국에서 어려워요 = High school is difficult in Korea
+그 집은 한국에서 지어졌어요 = that house was built in Korea
+저는 한국에서 살고 있어요 = I live in Korea
+
+[도시, city]
+도시 = city
+대도시 = a large city
+신도시 = a new city (usually a city that is planned to serve a specific purpose)
+도시가스 = the gas that is used in one’s home (by the heating systems and stoves)
+도시남자 = a city boy/man (kind of a “cool” and “cold” style of man)
+서울은 큰 도시예요 = Seoul is a big city
+어느 도시에 갈 거예요? = What city are you going to go to?
+이 도시는 분위기가 좋아요 = This city has a good atmosphere
+서울 대신에 다른 도시에 갈 거예요? = Other than Seoul, will you go to another city?
+강가에는 도시에서 내려온 많은 쓰레기가 쌓여 있어요 = A great deal of garbage that had flowed down from the city was piled on the riverbank
+
+[이름, name]
+이름 = name
+이름이 뭐예요? = What is your name?
+제 이름은 __이에요 = My name is__
+이름을 개명하다 = to change to one’s name
+이름을 쓰다 = to write one’s name
+이름을 부르다 = to call one’s name
+그 사람의 이름은 뭐예요? = What is that person’s name?
+저의 이름은 김한성이에요 = My name is 김한성
+저는 그 사람의 이름이 기억 안 나요 = I can’t remember that person’s name
+저는 그의 이름을 불렀어요 = I called his name
+덕석은 흔하지 않은 이름이에요 = “덕석” is not a common name
+이 길의 이름이 뭐죠? = What is the name of this road/street?
+친구 이름을 잊어버려서는 안 돼요 = You shouldn’t forget your friend’s name
+
+[저, I, my, My]
+저 = I, me (formal)
+저는 = I
+제가 = I
+저의 = my
+저는 그 여자를 사랑해요 = I love that girl
+그 여자는 저를 사랑해요 = That girl loves me
+제가 한국을 좋아해요 = I like Korea
+저는 한국을 좋아해요 = I like Korea
+저는 친구를 만났어요 = I met a friend
+저의 친구는 저를 만났어요 = My friend met me
+저는 지난 주에 영화를 봤어요 = I saw a movie last week
+저는 삼일 동안 밥을 안 먹었어요 = I didn’t eat rice for 3 days
+
+[나, I, me]
+나 = I, me (informal)
+나는 = I
+내가 = I
+나의 = my
+나는 그 여자를 사랑해 = I love that girl
+그 여자는 나를 사랑해 = That girl loves me
+나는 한국을 좋아해 = I like Korea
+나는 친구를 만났어 = I met a friend
+나의 친구는 나를 만났어 = My friend met me
+나는 내년에 한국에 갈 거야 = I will go to Korea next year
+나는 사과 한 개를 샀어 = I bought one apple
+
+[남자, man]
+남자 = man
+잘생긴 남자 = handsome man
+강한 남자 = strong man
+남자 친구 = boyfriend
+도시 남자 = a city boy
+남자화장실= men’s bathroom
+그는 잘생긴 남자예요 = He is a handsome man
+남자는 방에 들어왔어요 = That man came into room
+저는 잘생긴 남자를 만났어요 = I met a handsome man
+저의 친구는 주로 남자예요 = My friends are mostly men
+그 남자가 키가 너무 커요 = That man is very tall
+어떤 남자는 어제 여기에 왔어 = Some man came here yesterday
+
+[여자, woman]
+여자 = woman
+예쁜 여자 = pretty girl
+아름다운 여자 = beautiful girl
+여자 친구 = girlfriend
+여자화장실 = women’s bathroom
+그녀는 예쁜 여자예요 = She is a beautiful girl
+그 여자의 머리 색깔은 자연스러워요 = That girl’s hair color is natural
+저의 여자 친구는 귀엽고 예뻐요 = My girlfriend is cute and pretty
+저는 그 여자를 사랑해요 = I love that girl
+
+[이, this, This, that, which]
+이 = this
+이 사람 = this person
+그 사람 = that person
+모든 사람 = all people
+어떤 사람 = which person
+이 차는 너무 비싸요 = This car is too expensive
+이 방은 넓습니다 = This room is big/wide
+저는 이 영화를 더 이상 보고 싶지 않아요 = I don’t want to watch this movie anymore
+이 고기는 돼지고기입니다 = This meat is pork
+이 사람은 저의 누나예요 = This (person) is my sister
+
+그 = that
+그것 = that thing
+그 사람 = that person
+그 남자는 저의 아버지예요 = That man is my father
+그 여자는 나랑 결혼하고 싶었어요 = That girl wanted to marry me
+저는 그 책을 원해요 = I want that book
+그 병원은 멉니다 = That hospital is far
+그 여자의 머리카락은 깁니다 = That girls hair is long
+
+저 = that (when something is far away)
+저 사람은 누구예요? = Who is that person?
+저는 저 케이크를 먹고 싶어요 = I want to eat that cake
+저 바지가 얼마예요? = How much are those pants?
+저의 친구는 저 쪽으로 갔어요 = My friend went that way
+저 학교는 역사적인 건물이에요 = That school is a historical building
+다음 버스는 저 정류장에서 출발할 거예요 = The next bus will depart from that station
+
+것 = thing
+저는 비싼 것만 좋아해요 = I only like expensive things
+그것을 어떻게 해요? = How do you do that (thing)?
+이것은 뭐야? = What is this (thing)?
+이것은 얼마예요? = How much is this (thing)?
+
+이것 = this (thing)
+이것저것 = this thing and that thing (this and that)
+이것은 뭐야? = What is this (thing)?
+이것은 너무 작은가요? = Is this (thing) too small?
+이것은 여권이야 = This (thing) is a passport
+이것이 더 좋아요 = This (thing) is better
+이것을 보셔요 = Look at this (thing)
+이것을 먹어 봐! = Eat this (thing)! (Try eating this (thing)!)
+모든 프린터 중에 이것이 제일 싸요 = Among all the printers, this (one) is the cheapest
+이것을 다 작성해 주실래요?  = Can you write all of this up for me?
+이것은 처음이자 마지막 기회예요 = This is the first and last chance
+
+저는 그것을 손으로 만들었어요 = I built that (thing) with my hands
+저는 그것을 지난 번에 배웠어요 = I learned that (thing) last time
+저는 그것을 처음부터 끝까지 복습했어요 = I reviewed that (thing) from start to finish
+저는 그것을 영어로 할 거예요 = I will say that (thing) in English
+저는 그것을 친구한테서 들었어요 = I heard that (thing) from my friend
+
+저것 = that (thing)
+저것은 사과예요 = That (thing) is an apple
+우리 아빠는 저것을 싫어할 것 같아 = Dad will probably not like that (thing)
+저것은 사람이 아니라 눈사람이에요 = That (thing) is not a person, it is a snowman
+
+의자 = chair
+의자에 앉다 = sit on a chair
+그녀는 의자에서 일어났어요 = She rose up from her chair
+고양이는 의자 밑에 있다 = The cat is under the chair
+의자는 탁자보다 더 낮아요 = The chair is lower than the table
+저는 의자를 앞으로 움직였어요 = I moved my chair forward
+
+탁자 = table
+탁자 위에 = on top of the table
+탁자에 놓다 = to place on a table
+저는 잡지를 탁자 위에 놓을 거예요 = I will put the magazine on the table
+펜이 탁자에 놓여 있었어요 = The pen was (laying) on the table
+의자는 탁자보다 더 낮아요 = The chair is lower than the table
+밖에 나가기 전에 열쇠를 탁자에 두었어요 = Before I went outside, I put the keys on the table
+이 탁자가 너무 낮아요 = This table is too low
+병이 탁자에서 떨어졌다 = The bottle fell from the table
+
+선생님 = teacher
+교장선생님 = principal
+교감선생님 = vice-principal
+영어 선생님 = English teacher
+중국어 선생님 = Chinese (language) teacher
+저는 선생님이 되고 싶어요 = I want to be a teacher
+저는 학교에서 저의 선생님을 항상 봐요 = I always see my teacher at school
+저는 선생님이에요 = I am a teacher
+저는 어제 선생님을 처음 만났어요 = I met my teacher for the first time yesterday
+선생님들은 다 나갔어요 = All the teachers left (went out)
+선생님은 학생들과 박물관에 갔다 = The teacher went to the museum with the students
+저는 선생님과 함께 공부했어요 = I studied with my teacher
+선생님들은 똑똑해요 = Teachers are smart
+
+침대 = bed
+이층침대 = bunk bed
+간이침대 = cot
+침대에 눕다 = to lay in bed
+침대에서 자다 = to sleep in a bed
+애기는 침대에서 자고 있어요 = The baby is sleeping in the bed
+저는 침대에 누워 있어요 = I’m lying in bed
+저의 사진은 침대 위에 걸려 있어요 = My picture is hanging above my bed
+피곤한 사람은 침대에 누워서 잤어요 = The tired person lay on the bed and slept
+저는 침대에 잠깐 눕고 싶어요 = I want to lie down in bed for just a second
+
+집 = house
+집에 가다 = to go home
+집값 = the price of houses
+우리 집 = our house (this is used more commonly that “my house”)
+어린이집 = daycare (literally a “kids house”)
+맛집 = a new term used to refer to a “cool” and delicious restaurant
+집사람 = wife (older men often use this to refer to their wife)
+집을 짓다 = to build a house
+집 청소를 하다 = to clean one’s house
+저는 집에 돌아갈 거예요 = I am going back (returning) home
+집 값은 비싸지고 있어 = House prices are getting expensive
+저는 내일 선생님의 집을 방문하겠어요 = I will visit the teacher’s house tomorrow
+저는 어제 집을 두 번 청소했어요 = I cleaned the house twice yesterday
+엄마는 우리를 위해 점심을 집에서 만들 거예요 = Mom will make lunch for us at home
+우리 엄마는 집에 와서 빨리 요리했습니다 = Our/my mom came home and quickly cooked
+우리는 집에 와서 바로 잤어요 = We came home and went to sleep immediately
+집에 가지 마! = Don’t go home!
+저는 세탁을 집에서 할 수 있어요 = I can do laundry at home
+
+차 = car
+소형차 = small sized car (If you study Hanja, 소 (小) means “small”)
+중형차 = mid-sized car (If you study Hanja, 중 (中) means “middle”)
+대형차 = large sized car (If you study Hanja,  대 (大) means “large”)
+수입차 = foreign (imported) car
+국산차 = Korean (domestic) car
+차를 운전하다 = to drive a car
+차를 타다 = to be riding in a car
+우리 아버지는 차를 항상 안전하게 운전해요= Our dad always drives his car safely
+저는 차 두 대가 있어요 = I have two cars
+어떤 종류의 차를 원해요? = What type of car do you want
+이 차는 너무 비싸요 = This car is too expensive
+저는 새로운 차를 샀어요 = I bought a new car
+
+사람 = person
+한국 사람 = Korean person
+캐나다 사람 = Canadian person
+유럽 사람 = European person
+그 사람 = that person
+이 사람 = this person
+모든 사람 = all people
+대부분(의) 사람 = most people
+그 사람은 아주 똑똑해요 = That person is very smart
+모든 아시아 사람들은 젓가락을 잘 쓴다 = All Asian people use chopsticks well
+그 사람은 미국에서 왔어요 = That person came from the United States
+저는 그 사람을 알아요 = I know that person
+저 사람은 저의 동생이에요 = That person is my younger sibling
+저는 그 사람을 싫어해요 = I don’t like that person
+한국 사람들은 보통 아주 착해요 = Korean people are usually very nice
+
+책 = book
+책상 = desk
+공책 = notebook
+책방 = bookstore
+책자 = booklet, leaflet
+책벌레 = bookworm
+책갈피 = bookmark
+만화책 = comic book
+책을 읽다 = to read a book
+책을 반납하다 = to return a book
+책을 빌리다 = to borrow a book (usually from a library)
+저는 좋은 책을 읽고 싶어요 = I want to read a good book
+저는 그것에 대해 책을 쓸 거예요 = I will write a book about it
+저는 친구에게 책을 돌려줬어요 = I gave my friend back his book
+저는 책 두 권을 읽었어요 = I read two books
+저는 그 책을 읽고 싶어요 = I want to read that book
+그 학생은 하루 종일 책을 읽을 수 있어요 = That student can read books all day
+이 박스에 책이 들어가 있어요 = There are books in this box
+저는 누워서 책을 읽었어요 = I lied down and read a book
+
+컴퓨터 = computer
+컴퓨터를 켜다 = turn on a computer
+컴퓨터를 끄다 = turn off a computer
+컴퓨터가 고장 났다 = for a computer to be broken
+컴퓨터가 꺼져 있어요 = The computer is turned off
+저는 컴퓨터를 켰어요 = I turned the computer on
+컴퓨터가 켜져 있어요 = The computer is (in the state of being) on
+그는 고장 난 컴퓨터를 수리했어요 = He repaired the broken computer
+교실에서 선생님들을 컴퓨터로 대체할 수 없어요 = You can’t replace teachers with computers in the classroom
+
+나무 = tree/wood
+소나무 = pine tree
+대나무 = bamboo
+단풍나무 = maple tree
+나무뿌리 = root of a tree
+나무를 심다 = to plant a tree
+저는 집을 나무로 지었어요 = I made a house out of wood
+나는 우리 집을 나무로 지었어 = I built our house out of wood
+대부분의 원숭이는 나무에서 살아요 = Most monkeys live in trees
+아이들은 나무 주위에서 놀고 있어요 = The children are playing around the tree
+
+소파 = sofa
+그는 소파에 앉아 있어요 = He is sitting on the couch
+이 소파는 아주 편해요 = This sofa is very comfortable
+애기는 높은 소파에서 떨어졌어요 = The baby fell from the high sofa
+
+중국 = China
+중국인 = Chinese person
+중국 사람 = Chinese person
+중국어 = Chinese language
+우리는 곧 중국에 갈 거예요 = We are going to China soon
+그 사람은 중국에서 왔어요 = That person came from China
+그 사람은 중국인이에요 = That person is Chinese
+중국 사람들은 한국사람들보다 더 가난해요 = Chinese people are poorer than Korean people
+한국 사람과 중국 사람은 문화적으로 달라요 = Korean and Chinese people are culturally different
+한국에는 황사가 중국에서 봄마다 와요 = Yellow dust comes to Korea every spring from China
+중국 사람들은 소금을 쓰는 것 대신에 음식에 간장을 뿌려요 = Instead of using salt, Chinese people put soy sauce on their
+
+일본 = Japan
+일본 사람 = Japanese Person
+일본어 = Japanese language
+그 사람은 일본에서 왔어요 = That person is from Japan
+일본은 전쟁에서 한국을 공격했어요 = Japan attacked Korea in the war
+저는 일본에 스무 번 넘게 가 봤어요 = I’ve been to Japan more than twenty times
+요즘에 한국 사람들은 일본에 별로 가고 싶지 않아요 = These days, Korean people don’t really want to go to Japan
+한국 집값은 일본 집값보다 훨씬 높아요 = The price of Korean houses is much higher than the price of houses in Japan
+일본에서 성인들은 미국 청소년보다 만화책을 더 많이 읽어요 = In Japan, adults read more comic books than young people in America
+
+문 = door
+창문 = window
+정문 = main entrance
+뒷문 = back door
+앞문 = front door
+동대문 = “east big gate” – tourist attraction and neighborhood in Seoul
+남대문 = “south big gate” – tourist attraction and market in Seoul
+서대문 = “west big gate” – tourist attraction and neighborhood in Seoul
+문을 닫아야 돼요 = You have to close the door
+저는 문을 잠갔어요 = I locked the door
+저는 문을 열 거예요 = I will open the door
+너무 추워서 문을 닫았어요 = I closed the door because it is too cold
+내리실 문은 왼쪽/오른쪽이에요 = The doors are on your left/right.
+문이 완전히 열릴 때까지 버스에서 내리거나 문에 기대지 마세요 = Until the door is fully/completely open, don’t get off the bus or lean on the door
+
+의사 = doctor
+한의사 = Korean/oriental doctor
+외과의사 = surgeon
+치과의사 = dentist
+정형외과의사 = orthopedic doctor
+내과의사 = internal medicine doctor
+정신과의사 = psychiatrist
+비뇨기과의사 = urologist
+산부인과의사 = gynecologist
+저는 의사가 무서워요 = I am afraid of doctors
+의사들은 돈이 많아요 = doctors have a lot of money
+저의 친구는 의사예요 = My friend is a doctor
+의사들은 문제에 대해 과학적으로 생각했어요 = The doctors thought about the problem scientifically
+저는 정신과의사가 되려고 열심히 공부하고 있어요 = I am studying hard to become a psychiatrist
+
+학생 = student
+학생증 = student ID
+학생회 = student council
+대학생 = university student
+초등학생 = elementary school student
+중학생 = middle school student
+고등학생 = high school student
+교환학생 = foreign exchange student
+저는 좋은 학생이에요 = I am a good student
+저는 학생이 아니에요 = I am not a student
+선생님은 내일 학생들을 만날 거야 = The teacher will meet the students tomorrow
+저는 학생들이 실망스러웠어요 = I was disappointed in the students
+저는 학생들에게 수업을 가르쳤어요 = I taught the class to the students
+선생님은 학생들과 박물관에 갔다 = The teacher went to the museum with the students
+
+이다 = to be
+제 이름은 __이에요 = My name is __
+이름이 뭐예요? = What is your name?
+저는 ____이에요 = I am a ______
+저는 예쁜 여자예요 = I am a beautiful girl
+저 건물은 학교입니다 = That building is a school
+그것은 사진이에요 = That thing is a picture
+이 사람은 저의 누나예요 = This (person) is my sister
+그것은 큰 비밀이었어요 = That was a big secret
+저는 의사였어요 = I was a doctor
+
+네 = yes
+네, 저는 가고 싶어요 = Yes, I want to go
+네, 알겠습니다 = Yes, okay. (I got it)
+네, 그렇습니다 = Yes, that is correct (that is the way it is)
+네, 그럴게요 = Yes/Okay, I will do that if that’s what you want
+네, 갔다 올게요 = Yes/Okay, I will go, and then come back
+
+아니 = no
+아니요, 안 했어요 = No, I didn’t do it
+
+안녕하세요 = hello
+감사합니다 = thank you (offic)
+감사해요 = thank you
+고마워 = thank you 2
+고맙습니다 = thank you 2
+고마워요 = thank you 2
+잘 지내세요?  = How are you?
+제발 = Please
+
+나는 여자야 / 저는 여자예요 = I am a woman
+나는 선생님이야 / 저는 선생님이에요 = I am a teacher
+나는 사람이야 / 저는 사람이에요 = 나는 사람이야 / 저는 사람이에요
+
+그 사람은 의사야 / 그 사람은 의사예요 = That person는 doctor is
+그 사람은 선생님이야 / 그 사람은 선생님이에요 = That person is a teacher
+이것은 탁자야 / 이것은 탁자예요  = This (thing) is a table
+저것은 침대야 / 저것은 침대예요 = That (thing) is a bed
+그 사람은 남자야 / 그 사람은 남자예요 = That person is a man
+그 사람은 여자야 / 그 사람은 여자예요 = That person is a woman
+그것은 차야 / 그것은 차예요 = That (thing) is a car
+이것은 나무야 / 이것은 나무예요 = This (thing) is a tree

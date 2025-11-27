@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="sl">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Slovene Cases — Color-coded Study Sheet</title>
+
+<!-- Simple responsive styling + color coding per case. Adapts to light/dark mode. -->
+<style>
+  :root{
+    --bg: #ffffff;
+    --text: #111827;
+    --card: #f7f7fb;
+    --nominative: #2563eb;   /* blue */
+    --genitive:    #dc2626;  /* red */
+    --dative:      #16a34a;  /* green */
+    --accusative:  #f59e0b;  /* amber/orange */
+    --locative:    #7c3aed;  /* purple */
+    --instrumental:#0ea5a4;  /* teal */
+    --muted: #6b7280;
+    --table-border: #e6e6f0;
+    --code-bg: #f3f4f6;
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0b1220;
+      --text:#e6eef6;
+      --card:#071020;
+      --table-border: #112030;
+      --code-bg: #071324;
+      --muted:#9aa6b2;
+    }
+  }
+
+  body{font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:var(--bg); color:var(--text); margin:0; padding:2rem;}
+  .container{max-width:980px;margin:0 auto;}
+  h1{font-size:1.6rem;margin:0 0 .25rem;}
+  p.lead{margin:.25rem 0 1rem;color:var(--muted);}
+
+  .legend{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+  .legend .item{display:flex;align-items:center;gap:.5rem;padding:.35rem .5rem;border-radius:.5rem;background:var(--card);border:1px solid var(--table-border)}
+  .swatch{width:14px;height:14px;border-radius:3px;display:inline-block}
+
+  table{width:100%;border-collapse:collapse;margin-bottom:1.25rem}
+  thead th{ text-align:left;padding:.5rem;border-bottom:2px solid var(--table-border);font-weight:600}
+  tbody td{padding:.6rem;border-bottom:1px solid var(--table-border);vertical-align:top}
+  tbody tr.case-row td{background:linear-gradient(90deg, rgba(255,255,255,0.02), rgba(0,0,0,0));}
+  .case-name{font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+
+  .example-slo{font-weight:600}
+  .trans{display:block;color:var(--muted);margin-top:.25rem;font-size:.95rem}
+
+  /* colored left border for each case block */
+  .case-block{border-left:6px solid var(--table-border);padding-left:1rem;margin-bottom:1rem;border-radius:6px;background:var(--card);border:1px solid var(--table-border)}
+
+  .nominative   {border-left-color:var(--nominative)}
+  .genitive     {border-left-color:var(--genitive)}
+  .dative       {border-left-color:var(--dative)}
+  .accusative   {border-left-color:var(--accusative)}
+  .locative     {border-left-color:var(--locative)}
+  .instrumental {border-left-color:var(--instrumental)}
+
+  .case-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+  .card{padding:.8rem;border-radius:.5rem;background:transparent}
+  .note{font-size:.9rem;color:var(--muted);margin-top:.5rem}
+  footer{margin-top:1.25rem;color:var(--muted);font-size:.9rem}
+  pre.code{background:var(--code-bg);padding:.6rem;border-radius:.4rem;overflow:auto}
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Slovene: cases — color-coded quick study</h1>
+    <p class="lead">For each case you'll find one example phrase per gender (m / f / n). Structure: <em>verb + (prep) + adjective + noun</em>. English translation included.</p>
+
+    <div class="legend" aria-hidden="true">
+      <div class="item"><span class="swatch" style="background:var(--nominative)"></span><strong>Nominative</strong> — subject</div>
+      <div class="item"><span class="swatch" style="background:var(--genitive)"></span><strong>Genitive</strong> — of / from / without</div>
+      <div class="item"><span class="swatch" style="background:var(--dative)"></span><strong>Dative</strong> — to / for</div>
+      <div class="item"><span class="swatch" style="background:var(--accusative)"></span><strong>Accusative</strong> — direct object / motion</div>
+      <div class="item"><span class="swatch" style="background:var(--locative)"></span><strong>Locative</strong> — about / in / on (with prep.)</div>
+      <div class="item"><span class="swatch" style="background:var(--instrumental)"></span><strong>Instrumental</strong> — with / by</div>
+    </div>
+
+    <!-- Nominative -->
+    <section class="case-block nominative" aria-labelledby="nom">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="nom">Nominative (Kdo? Kaj?)</div>
+          <p class="note">subject — basic dictionary form</p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Lep pes teče.</div>
+          <div class="trans">A beautiful dog is running.</div>
+          <div class="note">m — <em>pes</em> (masculine)</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Dobra ženska čaka.</div>
+          <div class="trans">A good woman is waiting.</div>
+          <div class="note">f — <em>ženska</em> (feminine)</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Majhno mesto raste.</div>
+          <div class="trans">A small town is growing.</div>
+          <div class="note">n — <em>mesto</em> (neuter)</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Genitive -->
+    <section class="case-block genitive" aria-labelledby="gen">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="gen">Genitive (Koga? Česa?)</div>
+          <p class="note">possession, absence, partitive, after some verbs/prepositions</p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Bojim se <strong>velikega psa</strong>.</div>
+          <div class="trans">I'm afraid of the big dog.</div>
+          <div class="note">m — fear of someone (<em>bojim se</em> + gen.)</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Brez <strong>dobre ženske</strong bi bilo težko.</div>
+          <div class="trans">Without a good woman it would be hard.</div>
+          <div class="note">f — <em>brez</em> + genitive</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Ni <strong>majhnega mesta</strong na zemljevidu.</div>
+          <div class="trans">There is no small town on the map.</div>
+          <div class="note">n — negation uses genitive</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Dative -->
+    <section class="case-block dative" aria-labelledby="dat">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="dat">Dative (Komu? Čemu?)</div>
+          <p class="note">indirect object — to/for someone</p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Pomagam <strong>staremu prijatelju</strong>.</div>
+          <div class="trans">I help the old friend.</div>
+          <div class="note">m — give help <em>pomagam</em> + dative</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Pišem <strong>dragi sestri</strong>.</div>
+          <div class="trans">I am writing to my dear sister.</div>
+          <div class="note">f — indirect object</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Približam se <strong>majhnemu mestu</strong>.</div>
+          <div class="trans">I approach / come closer to the small town.</div>
+          <div class="note">n — <em>približati se</em> takes dative</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Accusative -->
+    <section class="case-block accusative" aria-labelledby="acc">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="acc">Accusative (Koga? Kaj?)</div>
+          <p class="note">direct object; motion toward (with certain verbs)</p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Vidim <strong>velikega psa</strong>.</div>
+          <div class="trans">I see the big dog.</div>
+          <div class="note">m — animate masc uses genitive-like acc.</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Poznam <strong>dobro žensko</strong>.</div>
+          <div class="trans">I know a good woman.</div>
+          <div class="note">f — direct object</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Obiščem <strong>majhno mesto</strong>.</div>
+          <div class="trans">I visit a small town.</div>
+          <div class="note">n — motion / visit takes accusative</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Locative -->
+    <section class="case-block locative" aria-labelledby="loc">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="loc">Locative (O kom? O čem? / location with prep.)</div>
+          <p class="note">used only with prepositions (o, v, pri, na, etc.)</p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Govorimo <strong>o starem prijatelju</strong>.</div>
+          <div class="trans">We are talking about the old friend.</div>
+          <div class="note">m — <em>o</em> + locative</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Sedim <strong>v dobri restavraciji</strong>.</div>
+          <div class="trans">I sit in a good restaurant.</div>
+          <div class="note">f — <em>v</em> + locative</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Živimo <strong>v majhnem mestu</strong>.</div>
+          <div class="trans">We live in a small town.</div>
+          <div class="note">n — place of residence</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Instrumental -->
+    <section class="case-block instrumental" aria-labelledby="ins">
+      <div class="case-grid">
+        <div class="card">
+          <div class="case-name" id="ins">Instrumental (S kom? S čim?)</div>
+          <p class="note">with / by means of — often with <em>s/ z</em></p>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Potujem <strong>z velikim psom</strong>.</div>
+          <div class="trans">I travel with the big dog.</div>
+          <div class="note">m — companion (s/z + instr.)</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Govorim <strong>z dobro prijateljico</strong>.</div>
+          <div class="trans">I speak with a good (female) friend.</div>
+          <div class="note">f — companion</div>
+        </div>
+
+        <div class="card">
+          <div class="example-slo">Pišem <strong>z novim pisalom</strong>.</div>
+          <div class="trans">I write with a new pen.</div>
+          <div class="note">n — instrument / tool</div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      Tip: print this sheet (File → Print) or save as PDF for offline practice.  
+      Want me to generate a **print-optimized PDF** or an **Anki deck** from these examples? Say which and I’ll make it.
+    </footer>
+  </div>
+</body>
+</html>

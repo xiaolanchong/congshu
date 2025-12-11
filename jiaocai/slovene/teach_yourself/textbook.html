@@ -6,41 +6,49 @@
     <title>Teach Yourself Slovene</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
 		      rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+			  
+	<style>
+		.author { font-weight: bold; }
+		.author::after {
+		  content: ":";
+		}
+		.tran { color: var(--bs-secondary-color); }
+	</style>
   </head>
   <body data-bs-theme="dark">
 	<div class="container">
 	<h1>Teach Yourself Slovene</h1>
 	
-	<h2>Dobro jutro! Good morning!</h2>
+<h2>Dobro jutro! Good morning!</h2>
 
-	<p>
-Natakar Dobro jutro! <br>
-Sara    Dobro jutro! <br>
-Natakar Prosim?  <br>
-Sara    En čaj, prosim. <br>
-Natakar Izvoli! Tukaj je sladkor in mleko. <br>
-Sara    Hvala!
-	</p>
+<p>
+<span class="author">Natakar</span> Dobro jutro! <br>
+<span class="author">Sara</span>    Dobro jutro! <br>
+<span class="author">Natakar</span> Prosim?  <br>
+<span class="author">Sara</span>    En čaj, prosim. <br>
+<span class="author">Natakar</span> Izvoli! Tukaj je sladkor in mleko. <br>
+<span class="author">Sara</span>    Hvala!
+</p>
 	
 <p>
-natakar     waiter <br>
-dobro jutro good moming  <br>
-prosim?     please <br>
-en čaj      one tea <br>
-Tukaj je sladkor here is sugar <br>
-in         and <br>
-mleko      milk <br>
-Izvoli!    Here you are! <br>
-hvala      thanks
+natakar     <span class="tran">waiter</span> <br>
+dobro jutro <span class="tran">good moming</span>  <br>
+prosim?     <span class="tran">please</span> <br>
+en čaj      <span class="tran">one tea</span> <br>
+Tukaj je sladkor <span class="tran">here is sugar</span> <br>
+in         <span class="tran">and</span> <br>
+mleko      <span class="tran">milk</span> <br>
+Izvoli!    <span class="tran">Here you are!</span> <br>
+hvala      <span class="tran">thanks</span>
 </p>
 
 <h3>Je to tvoja denarnica? (Is this your purse?)</h3>
 <p>
-Natakar Oprosti, je to tvoja denarnica? <br>
-Sara  Prosim? <br>
-Natakar Je to tvoja denarnica? <br>
-Sara Joj! Ja, to je moja denarnica! Najlepša hvala! <br>
-Natakar Ni za kaj!
+<span class="author">Natakar</span> Oprosti, je to tvoja denarnica? <br>
+<span class="author">Sara</span>  Prosim? <br>
+<span class="author">Natakar</span> Je to tvoja denarnica? <br>
+<span class="author">Sara</span> Joj! Ja, to je moja denarnica! Najlepša hvala! <br>
+<span class="author">Natakar</span> Ni za kaj!
 </p>
 <p>
 oprosti... excuse me... <br>
@@ -55,11 +63,11 @@ Ni za kaj!  Not at all
 
 <h3>Me veseli! (Nice to meet you!)</h3>
 <p>
-Gospa Slak  Oprosti, si ti Sara? <br>
-Sara        Ja, jaz sem Sara.  <br>
-Gospa Slak  Jaz sem gospa Slak. Me veseli! <br>
-Sara        Me veseli! <br>
-Gospa Slak  Naj ti predstavim... 
+<span class="author">Gospa Slak</span>  Oprosti, si ti Sara? <br>
+<span class="author">Sara</span>        Ja, jaz sem Sara.  <br>
+<span class="author">Gospa Slak</span>  Jaz sem gospa Slak. Me veseli! <br>
+<span class="author">Sara</span>        Me veseli! <br>
+<span class="author">Gospa Slak</span>  Naj ti predstavim... 
          To je moja hčerka, to je moj sin, 
 		 in to je moj mož.
 </p>
@@ -79,17 +87,17 @@ moj mož  my husband
 
 <h3>Kako ti je ime? (What's your name?)</h3>
 <p>
-Gospod Slak Kako gre? <br>
-Sara Dobro, hvala. <br>
-Sara Kako ti je ime? <br>
-Matic Matic. <br>
-Sara Me veseli! <br>
-Matic Me veseli! Kako se imaš? <br>
-Sara Dobro, hvala. <br>
-Sara Kako ti je ime? <br>
-Lara Lara sem. Kako si? <br>
-Sara Dobro, hvala. In ti? <br>
-Lara Zelo dobro, hvala.
+<span class="author">Gospod Slak</span> Kako gre? <br>
+<span class="author">Sara</span> Dobro, hvala. <br>
+<span class="author">Sara</span> Kako ti je ime? <br>
+<span class="author">Matic</span> Matic. <br>
+<span class="author">Sara</span> Me veseli! <br>
+<span class="author">Matic</span> Me veseli! Kako se imaš? <br>
+<span class="author">Sara</span> Dobro, hvala. <br>
+<span class="author">Sara</span> Kako ti je ime? <br>
+<span class="author">Lara</span> Lara sem. Kako si? <br>
+<span class="author">Sara</span> Dobro, hvala. In ti? <br>
+<span class="author">Lara</span> Zelo dobro, hvala.
 </p>
 
 <p>
@@ -137,10 +145,8 @@ In vi? (if you are on formal terms).
 <h3>5. Prosim (Please)</h3>
 <p>
 <ul>
-<li> I beg your pardon? indicating that you did not hear 
-  what the person said and that you would like them to repeat it
-<li> Yes, please? or How can I help you? if you are in a bar 
-  ordering a drink or in a shop waiting to be served
+<li> I beg your pardon? you did not hear what said, would like them to repeat it
+<li> Yes, please? or How can I help you? ordering smth. or in a shop waiting to be served
 <li> hello when answering the telephone
 <li> hello when answering a knock or ring at the door 
 <li> you're welcome, as a reply to 'thank you'
@@ -221,16 +227,16 @@ Jaz sem...		I am...
 
 
 <p>
-Metka   Živio, Sara! Vstopi! Kako se imaš?  <br>
-Sara 	Dobro, hvala. Danes je vroče.  <br>
-Metka 	Ja, že ves teden je vroče. Za jutri je napovedano poslabšanje vremena.   <br>
+<span class="author">Metka</span>   Živio, Sara! Vstopi! Kako se imaš?  <br>
+<span class="author">Sara</span>  	Dobro, hvala. Danes je vroče.  <br>
+<span class="author">Metka</span>  	Ja, že ves teden je vroče. Za jutri je napovedano poslabšanje vremena.   <br>
         Kaj lahko ponudim? Kavo, čaj, sok...  <br>
-Sara 	Kavo, prosim, in kozarec vode. Žejna sem.  <br>
-Metka 	Samo trenutek! (She comes back with the drinks.)   <br>
-Metka   Izvoli. Tukaj sta sladkor in mleko.  <br>
-Sara	Hvala.  <br>
-Metka   Kako ti je všeč Ljubljana?  <br>
-Sara	Zelo mi je všeč.
+<span class="author">Sara</span>  	Kavo, prosim, in kozarec vode. Žejna sem.  <br>
+<span class="author">Metka</span>  	Samo trenutek! (She comes back with the drinks.)   <br>
+<span class="author">Metka</span>    Izvoli. Tukaj sta sladkor in mleko.  <br>
+<span class="author">Sara</span> 	Hvala.  <br>
+<span class="author">Metka</span>    Kako ti je všeč Ljubljana?  <br>
+<span class="author">Sara</span> 	Zelo mi je všeč.
 </p>
 
 <p>
@@ -255,7 +261,7 @@ Zelo mi je všec.		I like it very much.
 <h2>Dobrodošli Welcome</h2>
 
 <p>
-Tanja:
+<span class="author">Tanja</span>
 Pozdravljeni! Dobrodošli v Sloveniji! Jaz sem Tanja Kos, 
 vaša učiteljica in to je Zmago Kerec, moj asistent. Oba sva Slovenca.
 </p>
@@ -269,7 +275,8 @@ oba sva Slovenca we (two) are both Slovene
 </p>
 
 <p>
-Caroline: Jaz sem Caroline. Američanka sem. V Sloveniji sem na dopustu. 
+<span class="author">Caroline</span>
+Jaz sem Caroline. Američanka sem. V Sloveniji sem na dopustu. 
 Moj oče je Slovenec. Govorim zelo malo slovensko ampak razumem veliko.
 </p>
 
@@ -289,7 +296,7 @@ veliko		a lot
 </p>
 
 <p>
-Klaus: Jaz sem Nemec. Ime mi je Klaus.   <br>
+<span class="author">Klaus</span> Jaz sem Nemec. Ime mi je Klaus.   <br>
 Tukaj sem službeno, že tri mesece.   <br>
 Računovodja sem in delam na banki.
 </p>
@@ -305,7 +312,7 @@ banka: na banki 	bank: at a/the bank
 </p>
 
 <p>
-Susan: Jaz sem Susan. Angležinja sem. V Sloveniji sem z družino, že eno leto. 
+<span class="author">Susan</span> Jaz sem Susan. Angležinja sem. V Sloveniji sem z družino, že eno leto. 
 Imam eno hčerko in dva sina. Moj mož dela tukaj, na veleposlaništvu Velike Britanije.
 </p>
 
@@ -322,7 +329,7 @@ Velika Britanija: Velike Britanije	Great Britain: of Great Britain
 </p>
 
 <p>
-David: Jaz sem David.  <br>
+<span class="author">David</span> Jaz sem David.  <br>
 Tudi jaz sem Anglež.  <br>
 V Sloveniji sem že pet let.  <br>
 Stanujem v Ljubljani.  <br>
@@ -625,19 +632,19 @@ Berlin
 </p>
 
 <p>
-Zmago Si Američanka? <br>
-Sara  Ne, Angležinja sem. Iz Oxforda sem. <br>
-Zmago Si prvič v Sloveniji? <br>
-Sara  Ja, že tri tedne sem tukaj. <br>
-Zmago Kje stanuješ? <br>
-Sara  V Ljubljani, v centru. Pri eni družini. <br>
-Zmago Dobro govoriš slovensko. <br>
-Sara  Hvala. Govorim malo, ampak razumem veliko. Slovenščina je težek jezik. <br>
-Zmago Kako dolgo se že učiš slovensko? <br>
-Sara  Štiri leta. <br>
-Zmago Pridna si! Jaz mislim, da je angleščina težek jezik.  <br>
-Sara  Vsak jezik je po svoje težek. <br>
-Zmago Ja, prav imaš!
+<span class="author">Zmago</span> Si Američanka? <br>
+<span class="author">Sara </span>  Ne, Angležinja sem. Iz Oxforda sem. <br>
+<span class="author">Zmago</span>  Si prvič v Sloveniji? <br>
+<span class="author">Sara </span>  Ja, že tri tedne sem tukaj. <br>
+<span class="author">Zmago</span>  Kje stanuješ? <br>
+<span class="author">Sara </span>  V Ljubljani, v centru. Pri eni družini. <br>
+<span class="author">Zmago</span>  Dobro govoriš slovensko. <br>
+<span class="author">Sara </span>  Hvala. Govorim malo, ampak razumem veliko. Slovenščina je težek jezik. <br>
+<span class="author">Zmago</span>  Kako dolgo se že učiš slovensko? <br>
+<span class="author">Sara </span>  Štiri leta. <br>
+<span class="author">Zmago</span>  Pridna si! Jaz mislim, da je angleščina težek jezik.  <br>
+<span class="author">Sara </span>  Vsak jezik je po svoje težek. <br>
+<span class="author">Zmago</span>  Ja, prav imaš!
 </p>
 
 <p>
@@ -2995,6 +3002,597 @@ zasebnik: pri zasebnikih in private houses
 kmečki dom farmhouse
 idr. (in drugje) and elsewhere
 </pre>
+
+<h2>12 NE POČUTIM SE DOBRO I don't feel well</h2>
+
+<h3>Kako se počutiš? (How are you feeling?)<h3>
+<p>
+Branka Kako se počutiš? <br>
+Simona Še vedno slabo. Glava me boli in kašljam. In zelo me zebe.  <br>
+Branka Prehladila si se. Imaš temperaturo? <br>
+Simona Ne vem, nisem si je izmerila. Zelo sem utrujena in zaspana. <br>
+Branka Najbolje je, de ostaneš par dni doma. Si vzela kakšen aspirin? <br>
+Simona Ne, pijem limonin čaj. <br>
+Branka Ali hočeš, da skočim v lekarno in ti kupim kakšne tablete? 
+Simona Če imaš čas. Ampak prepričana sem, da bo čez par dni bolje. 
+Branka Seveda, gripa ne traja dolgo.
+</p>
+
+<p>
+prehladiti se  to catch a cold <br>
+imeti temperaturo to have a temperature <br>
+izmeriti si temperaturo to take one's temperature <br>
+najbolje je it is best <br>
+ostati to stay <br>
+par dni a few days <br>
+vzeti aspirin to take aspirin <br>
+limonin čaj lemon tea <br>
+skočiti lit. to jump, also to pop <br>
+lekarna chemist <br>
+tablete tablets <br>
+čez par dni in a few days <br>
+bolje better <br>
+gripa flu <br>
+trajati/ne trajati to last/not to last
+</p>
+
+<p>
+ZDRAVNIK SVETUJE <br>
+Vpliv prehrane na dobro počutje <br>
+V zimskih mesecih se prehranjujemo drugače kot v poletnih.  <br>
+Pozimi telo potrebuje nekoliko več maščobe kot v drugih letnih časih.  <br>
+V poletni vročini pa težka in mastna hrana ne obremenjuje le želodca, temveč dodatno ovira tudi normalno delovanje krvnega obtoka.  <br>
+Zato le lahka in sveža prehrana prispeva k ugodnemu počutju in zdravemu videzu.  <br>
+Poleti potrebujemo: <br>
+-Več sadja in sveže zelenjave in zelo malo maščob in beljakovin v obliki mesa, mesnih izdelkov, jajc, in drugih takih proizvodov <br>
+-Več tekočine v obliki navadne in mineralne vode, razredčenih sokov in zeliščnih čajev. <br>
+-Če en dan na teden ne jemo in pijemo samo sadne sokove to dodatno zagotavlja dobro delovanje prebavnih organov.
+Upoštevati moramo tudi naslednje:
+Pivo, vino in ostale alkoholne pijače ne sodijo med tiste pijače, ki zdravo odžejajo
+Bolniki naj se izogibajo kavi in alkoholnim pijačam, še posebej v vročih dneh. Posebej nevarne so kombinacije alkohola, kave in zdravil.
+</p>
+
+<p>
+telo potrebuje the body needs <br>
+maščobe cholesterol <br>
+v drugih letnih časih in other seasons <br>
+težka in mastna hrana heavy and fat food <br>
+ne obremenjuje le želodca it is not only heavy on the stomach <br>
+temveč dodatno ovira tudi normalno delovanje krvnega obtoka but it also hinders your circulation <br>
+lahka in sveža prehrana  light and fresh food <br>
+prispeva k ugodnemu počutju in zdravemu videzu contributes to a feeling of health and to a healthy appearance <br>
+v obliki mesa in a form of meat <br>
+mesni izdelki meat products  <br>
+jajca eggs <br>
+drugi taki proizvodi  other such products <br>
+tekočine liquids
+</p>
+
+<p>
+navadna in mineralna voda  tap and mineral water  <br>
+razredčeni sokovi  squashes <br>
+zeliščni čaji herbal teas <br>
+dodatno zagotavlja  to be assured <br>
+dobro delovanje prebavnih organov good working of digestive organs <br>
+upoštevati take into account <br>
+naslednje the following <br>
+ostale other <br>
+ne sodijo med tiste pijače, kl zdravo odžejajo are not amongst those drinks which refresh you in a healthy manner <br>
+bolniki patients <br>
+naj se izogibajo should avoid <br>
+še posebej v vročih dneh  particularly on hot days <br>
+posebej nevarne especially dangerous <br>
+kombinacije alkohola, kave in zdravil particularly dangerous
+</p>
+
+<h3>1 Če zbolim... (If I get ill . . .)</h3>
+<p>
+k zdravniku  to a doctor <br>
+ambulanta clinic <br>
+Dežurni zdravnik (a doctor on duty)  <br>
+bo prišel na dom will come to your house. <br>
+v lekarni (in a pharmacy).  <br>
+Recept  a cooking recipe or a prescription. <br>
+Ta zdravila dobiš samo ne recept. This medicine can only be obtained on prescription. <br>
+Kako dobna torta! Ali imaš recept? What a good cake! Do you have a recipe?
+</p>
+
+<h3>2 Naravna zdravilišča (Natural Health resorts)</h3>
+<p>
+3 Kaj vas boli? (What's hurting you?) <br>
+boleti 'to hurt', in 3rd person usually <br>
+Kaj te boli? kaj vas boli? What hurts you? <br>
+Glava ma boli. I have a headache (lit. (My) head is hurting me.) <br>
+Grlo ga boli. He has a sore throat. (Ilt. (His) throat is hurting him.) <br>
+Zob jo boli. She has a toothache. (lit. (Her) tooth is hurting her.)
+</p>
+
+<p>
+roka arm, hand <br>
+noga leg <br>
+oko eye <br>
+uho ear <br>
+koleno knee <br>
+stomach želodec <br>
+prst finger <br>
+prst na nogi toe <br>
+hrbet back  <br>
+srce heart
+</p>
+
+<p>
+Lačen, -čna sem. I'm hungry <br>
+Žejen, -jna sem. I'm thirsty <br>
+Utrujen, -a sem. I'm tired <br>
+Zaspan, -a sem. I'm sleepy <br>
+Jezen, -zna sem. I'm angry <br>
+Nisem lačen I'm not hungry <br>
+Nisem žejna I'm not thirsty <br>
+</p>
+
+<h3>5 This</h3>
+<p>
+ta this, masculine and feminine <br>
+to this, neuter <br>
+Ta svinčnik ne piše. This pencil doesn't write. <br>
+Ta knjiga je zelo dobra. This book is very good.  <br>
+To drevo je staro. This tree is old. <br>
+ <br>
+to (verb) this (is/are) <br>
+To je moj svinčnik. This is my pen. <br>
+To je njegova knjiga. This is his book. <br>
+To je staro drevo. This is an old tree.
+</p>
+
+<h3>6 This/that</h3>
+<p>
+   masculine feminine neuter  <br>
+close by   ta  ta to <br>
+further away  tisti tista tisto <br>
+very far away oni ona ono
+</p>
+
+<h3>7 Reflexive verbs</h3>
+<p>
+vrniti se to return  <br>
+počutiti se to feel <br>
+sprehajati se to walk (to promenade) <br>
+izposoditi si to borrow <br>
+privoščiti si  to treat oneself <br>
+ogledati si to view
+</p>
+
+<p>
+Se is also used with some impersonal expressions: <br>
+zdi se It seems <br>
+(ne) splača se it is (not) worth, it pays (does not pay)  <br>
+zgodi se It happens <br>
+The presence of 'se' can change the meaning, as in these examples: <br>
+hvaliti  to praise <br>
+hvaliti se to boast <br>
+posoditi to lend <br>
+izposoditi sl to borrow <br>
+učiti to teach <br>
+učiti se to learn
+</p>
+
+<h3>8 More about verbs</h3>
+<p>
+- gledati  to look <br>
+pregledati to check <br>
+zagledati se to stare at <br>
+izgledati to appear, to seem <br>
+pogledati to take a look <br>
+- pisati to write <br>
+opisati to describe <br>
+prepisati to copy <br>
+pripisati to add <br>
+odpisati to write back <br>
+stopiti  to step <br>
+izstopiti to step out, to get out (of a bus, train, etc.) <br>
+vstopiti to step in, to get into (a bus, train, etc.) <br>
+prestopiti  to change (bus, train, etc.) <br>
+odstopiti to resign, to withdraw
+</p>
+
+<h3>9 Comparing things</h3>
+<p>
+The comparative form of adjectives: + —ši, ji, or-ejši onto the adjective: <br>
+lep beautiful <br>
+lepši more beautiful <br>
+drag expensive <br>
+dražji more expensive <br>
+poceni cheap <br>
+cenejši cheaper <br>
+ <br>
+The last letter change: <br>
+nizek - nižji <br>
+širok - širši <br>
+drag - dražji <br>
+hud - hujši <br>
+</p>
+
+<p>
+a comparative with bolj (like more), not good: <br>
+rjav  brown <br>
+bolj rjav more brown, browner <br>
+trmast stubborn <br>
+bolj trmast more stubborn
+</p>
+
+<p>
+superlative: naj- + comparative:  <br>
+najnižji  <br>
+najširši  <br>
+najdražji
+</p>
+
+<p>
+superlative: najbolj + adj:  <br>
+najbolj rjav  <br>
+najbolj trmast
+</p>
+
+<h4>Irregular comparatives and superlatives of adjectives and adverbs:</h4>
+<p>
+dober, boljši, najboljši  good, better, the best <br>
+dobro, bolje, najbolje well, better, the best <br>
+veliko, več, največ a lot, more, the most <br>
+malo, manj, najmanj a little, less, the least <br>
+</p>
+
+<h3>10 Comparative: 'as' and 'than'</h3>
+<p>
+as … as (equal): tako... kot: <br>
+Miha je tako velik kot Matjaž.  Miha is as tall as Matjaž. <br>
+'than': <br>
+kot followed by the noun in the nominative or  <br>
+od followed by the noun in the genitive: <br>
+Miha je večji kot Matjaž Miha je večji od Matjaza. <br>
+Miha is taller than Matjaž.
+</p>
+
+<p>
+Superlative: <br>
+od or izmed + genitive plural, or <br>
+med + instrumental case: <br>
+Miha je največji od vseh. Miha je največji izmed vseh. <br>
+Miha is the tallest of all. <br>
+Miha je največji med vsemi.
+</p>
+
+<p>
+Ne počutim se dobro.  I'm not well. <br>
+Glava me boli. I have a headache. <br>
+Grlo me boli.  I have a sore throat.  <br>
+Zob me boli. I have a toothache. <br>
+Zebe me. I feel cold. <br>
+Prehlajen, -a sem I have a cold. <br>
+Prehladil, -a sem se. I caught a cold. <br>
+Gripo imam. I have flu. <br>
+Bolan sem. (m.) Bolna sem. (f.) I'm ill.  <br>
+Nekaj imam v očesu.  I have something in my eye. <br>
+Temperaturo imam. I have a temperature.  <br>
+Kje je najbližja ambulanta?  Where is the nearest clinic?  <br>
+Moram k zdravniku. I have to see a doctor. <br>
+Kje je najbližja lekarna? Where is the nearest chemist?
+</p>
+
+<h3>Prva pomoč (First aid)</h3>
+<p>
+Najprej moramo oceniti ponesrečenca: pokličemo ga, rahlo stresemo in vprašamo, če nas sliši.  <br>
+Če ne odgovori, ga malo uščipnemo, da vidimo, če se odziva na bolečino. <br>
+Ugotoviti moramo, če diha.  <br>
+Če ne, mu položimo glavo nazaj in dva do trikrat počasi, a močno vpihnemo zrak v njegova odprta usta.  <br>
+Opazujemo, če se prsni koš dvigne.  <br>
+Če je ponesrečenec v avtomobilu, ga ne vlečemo ven, tudi če je pri zavesti.  <br>
+Lahko mu zlomimo hrbtenico. Še to: če je kdo v nezavesti, vendar diha in mu bije srce, ga samo položite na bok in pokličite zdravnika.
+</p>
+
+<p>
+oceniti  to assess <br>
+ponesrečenec  the casualty  <br>
+poklicati to call  <br>
+rahlo stresti slightly shake <br>
+malo uščipniti to pinch a little <br>
+odzivati se to react <br>
+na bolečino to react to pain <br>
+ugotoviti  to establish <br>
+dihati  to breathe <br>
+položiti to lay <br>
+nazaj backwards  <br>
+vpihniti to blow  <br>
+zrak air  <br>
+odprta usta opened mouth <br>
+opazovati  observe  <br>
+prsni koš chest <br>
+dvigniti se to rise  <br>
+vleči ven pull out <br>
+biti pri zavesti to be conscious <br>
+zlomiti  to break <br>
+hrbtenica  back <br>
+biti v nezavesti to be unconscious  <br>
+srce bije  heart beats <br>
+položiti na bok to lay on side
+</p>
+
+
+<h2>13 GREMO NA IZLET! Let's go for a trip!</h2>
+
+<h3>Izlet zvlakom (A trip by train)</h3>
+<p>
+'Oddajamo sobe po ugodnih cenha (Reasonably priced rooms to let)'.
+</p>
+<p>
+Alenka
+Dobro jutro, Alenka Bogataj pri telefonu. V časopisu sem videla oglas, da oddajate sobe. <br>
+Gospa Kotnik Ja, oddajamo jih. V zasebni hiši, ki ni daleč iz središča mesta. <br>
+Alenka Ali imate proste sobe za ta konec tedna?  <br>
+Gospa Kotnik Za koliko oseb pa? <br>
+Alenka Za dve. <br>
+Gospa Kotnik Imamo sobo z dvema posteljama, ampak brez kopalnice. Kopalnica s tušem in straniščem je zraven sobe.  <br>
+Alenka Prav. Bi lahko rezervirala to sobo? <br>
+Gospa Kotnik Ja, seveda. Na kakšno ime? <br>
+Alenka Mojca Dolišek in Alenka Bogataj. <br>
+Gospa Kotnik In kdaj boste prišli?  <br>
+Alenka V petek popoldne, okoli petih. <br>
+Gospa Kotnik Pričakovali vas bomo torej v petek.
+</p>
+
+<p>
+v časopisu in a newspaper <br>
+oglas  advertisement <br>
+oddajati sobe to let rooms <br>
+zasebna hiša: v zasebni hiši  private house: in a private house <br>
+oseba: Za koliko oseb? person: For how many people? <br>
+postelja: z dvema posteljama bed: with two beds <br>
+tuš: s tušem shower: with shower <br>
+stranišče: s straniščem lavatory: with lavatory <br>
+zraven next to <br>
+Na kakšno Ime? In what name? <br>
+pričakovati to expect  <br>
+torej so, thus
+</p>
+
+<h3>Kaj boš oblekla? (What will you wear?)</h3>
+<p>
+Alenka Boš vzela s seboj veliko oblek? <br>
+Mojca Ne preveč. Hlače, dve majici in en debel pulover ali jakno. Ob večerih je po navadi hladno. <br>
+Alenka Boš vzela tudi anorak? <br>
+Mojca Ne vem. Misliš, da bo deževalo? <br>
+Alenka Kdo ve? Marca je vreme neprevidljivo. <br>
+Mojca Boš obula čevlje ali teniske? <br>
+Alenka Za potovanje bom imela obute teniske, čevlje pa bom vzela zraven. <br>
+Mojca Kaj pa za zvečer, če greva ven? <br>
+Alenka Črne hlače in eno bluzo. <br>
+Mojca Dobra ideja!
+</p>
+
+<p>
+vzeti s seboj to take with one <br>
+za obleči to wear <br>
+preveč too much <br>
+hlače trousers <br>
+majica T-shirt <br>
+pulover: debel pulover pullover: thick pullover  <br>
+jakna jacket <br>
+Kdo ve? Who knows? <br>
+previdljiv (-a, o)/neprevidljiv (-a,-o) predictable/unpredictable <br>
+čevlji shoes  <br>
+toniske trainers <br>
+za potovanje for travelling <br>
+imeti obuto to wear on the feet <br>
+iti ven: če greva ven to go out: if we (two) go out  <br>
+čme hlače black trousers <br>
+bluza blouse
+</p>
+
+<p>
+potovanje z vlakom travel by train <br>
+dijak  student (at high school)  <br>
+delavec worker <br>
+ugodna možnost special offer, lit. 'beneficial possibility'  <br>
+vožnja: za vožnjo drive, ride: for travelling <br>
+na delo to work  <br>
+letni, -a, -o annual <br>
+mesečni, -čna, -o monthly  <br>
+dijaška vozovnica student (i.e. high school student) ticket <br>
+študentska vozovnica  student ticket <br>
+delavska vozovnica worker's ticket  <br>
+popust discount <br>
+polletna vozovnica half-year ticket <br>
+večinoma mostly <br>
+mladinska izkaznica youth pass <br>
+posebna ugodnost special benefit  <br>
+znesek the price <br>
+poravnati znesek to pay the price <br>
+obrok: v enem obroku  instalment: in one instalment  <br>
+namesto instead of
+</p>
+
+<p>
+Z VLAKOM NA POTOVAN <br>
+Z VLAKOM V ŠOLO IN V SLUŽBO! <br>
+Slovenske železnice so za dijake, študente in delavce pripravile dve ugodní možnosti za vožnjo v šolo ali na delo:  <br>
+MESEČNO in LETNO dijaško, študentsko ali delavsko vozovnico.
+</p>
+
+<p>
+DIJAŠKE IN ŠTUDENTSKE VOZOVNICE <br>
+- tedenska vozovnica 45% popusta <br>
+- mesečna vozovnica 60% popusta <br>
+- letna ali polletna vozovnica 20% cenejše od mesečne <br>
+Dijakom in študentom, ki večinoma potujejo na koncu tedna, priporočamo mladinsko izkaznico, s katero imajo 30% popusta. <br>
+ <br>
+DELAVSKE VOZOVNICE <br>
+tedenska vozovnica 20% popusta <br>
+mesečna vozovnica 25 % popusta <br>
+letna ali polletna vozovnica 50% popusta <br>
+ <br>
+POSEBNA UGODNOST  <br>
+Če znesek za letno vozovnicoporavnate v enem obroku, plačate samo 8 mesečnih vozivnic namesto 12. <br>
+V dveh obrokih plačate 8,5 mesečno vozovnice in v treh obrokih 9 mesečnih vozovnic. <br>
+Slovenske železnice
+</p>
+
+<h3>1 Rezervacija sobe (Reserving a room)</h3>
+<p>
+na kmetiji at farms
+</p>
+
+<h3>2 Oblačila (Clothes)</h3>
+<p>
+bluza blouse <br>
+srajca shirt <br>
+pulover pullover <br>
+krilo skirt  <br>
+hlače trousers <br>
+plašč coat  <br>
+dežni plašč raincoat <br>
+obleka a woman's dress or a man's suit.
+</p>
+
+<p>
+Te črne hlače so mi zelo všeč. I very much like these black trousers. <br>
+Kje si kupila to lepo krilo? Where did you buy this beautiful skirt? <br>
+Letos si moram kupiti novi plašč. I must buy a new coat this year.
+</p>
+
+<h3>3 Obutev (Footwear)</h3>
+<p>
+čevlji shoes <br>
+škornji boots <br>
+sandall sandals <br>
+copati slippers
+</p>
+
+<h3>4 Katero številko? (What size?)</h3>
+<p>
+številka size (clothes), number. <br>
+Lahko to pomerim? May I try this on? <br>
+Katero številko želite? What size would you like?
+</p>
+
+<h3>5 Premalo/preveliko (Too little/too much)</h3>
+<p>
+pre- + adj or adv  too … <br>
+prevelik  too big <br>
+premajhen too small <br>
+prepočasi  too slowly <br>
+prehitro too fast <br>
+Ta bluza mi je prevelika.  This blouse is too big for me. <br>
+Premalo denarja imam. I have too little money.
+</p>
+
+<h3>6 Smem...? (May I...?)</h3>
+<p>
+smeti + inf = to be allowed to inf: <br>
+Smem ponuditi...?  May I offer...? <br>
+Smem poskusiti to...? May I try this...? <br>
+Smem telefonirati od tukaj? May I make a telephone call from here?
+</p>
+
+<h3>7 Numbers are declined</h3>
+'One' is declined like an adjective when it modifies a noun,  <br>
+Imam eno sestro in enega brata. I have one sister and one brother.
+
+<h3>8 More about personal pronouns</h3>
+<p>
+personal pronouns in the nominative case used if you want to express a contrast,  <br>
+if you want to emphasise who you are referring to: <br>
+Jaz sem šel v kino, ona pa v gledališče. I went to the cinema and she went to the theatre. <br>
+Ti ne smeš piti vina, gripo imaš! You can't drink wine, you have flu! <br>
+Zdaj sem jaz na vrsti! It is my turn now!
+</p>
+
+<p>
+two forms - a longer and a short one.  <br>
+The long form is used for emphasis and after prepositions,  <br>
+the short form is used more often. <br>
+In addition, with prepositions which take the accusative case, you can add the short form onto the preposition: <br>
+Je to zame (za mene)? Is this for me? <br>
+Velikokrat mislim nate (na tebe). I often think of you. <br>
+Prišel bom pote (po tebe). I'll come to pick you up.
+</p>
+
+<h3>9 Šolski sistem v Sloveniji (The school system In Slovenia)</h3>
+<p>
+vrtec kindergarten (up to 6 years). <br>
+razred form (grade) <br>
+hoditi to go regularly, to attend <br>
+Marija hodi v prvi razred. Marija is in the first form. <br>
+Janez hodi v peti razred. Janez is in the fifth form. <br>
+osnovna šola, osemletka  primary school, 8 years) for eight years; <br>
+učenec (m.)/učenka (f.). pupil <br>
+srednja šola secondary school (3-5 years) <br>
+dijak (m.) dijakinja (f.). pupil of secondary school <br>
+študent/študentka student
+</p>
+
+<p>
+matematika maths  <br>
+fizika  physics  <br>
+kemija  chemistry  <br>
+blologija biology <br>
+tuji jeziki  foreign languages <br>
+zgodovina history  <br>
+geografija geography
+</p>
+
+<p>
+Kje bi lahko prenočili? Where could we stay overnight? <br>
+Radi bi bili v mestu/na kmetiji/ob morju/ob jezeru We would like to be in town/on a farm/by the sea/by the lake <br>
+Imate proste sobe? Have you any vacancies? <br>
+Koliko stane soba?  How much is the room? <br>
+Rezerviral sem sobo. I reserved a room. <br>
+Ostanem od... do...  I will stay from... until...  <br>
+Je zajtrk vključen? Is breakfast included?
+</p>
+
+<p>
+vpisati to fill in <br>
+čitljivo legible <br>
+z modrim ali črnim pisalom  with blue or blank ink  <br>
+Uporabite velike tiskane črke. Use block capitals. <br>
+vključno including <br>
+številka omrežne skupine the area code <br>
+na katero on which <br>
+vas lahko pokličemo we can telephone you
+</p>
+
+<p>
+James Dober večer. <br>
+Receptorka Dober večer. Želite, prosim? <br>
+James Prejšnji teden sem rezerviral sobo. Pravzaprav, moja tajnica je rezervirala sobo zame. <br>
+Receptorka Ja, kako se pišete? <br>
+James Roberts <br>
+Receptorka Samo trenutek. Ja, imamo sobo za vas. Enoposteljna soba s kopalnico in majhnim balkonom je. V petem nadstropju je, v hotelu je dvigalo. <br>
+James Prav. <br>
+Receptorka Številka sobe je 532. Izvolite ključ. Poklicala bom postrežčka, on bo odnesel vašo prtljago.  <br>
+James Je še odprta restavracija? <br>
+Receptorka Ne več, ampak če želite kaj pojesti, v sobi je jedilni list za postrežbo v sobo. <br>
+James Prav, pogledal bom. In še nekaj: kdaj je zjutraj zajtrk?  <br>
+Receptorka Od sedmih do desetih. Če želite, vam lahko prinesemo tudi zajtrk v sobo. <br>
+James Hvala za enkrat.
+</p>
+
+<p>
+rezervirati sobo to reserve a room  <br>
+pravzaprav actually, that is to say  <br>
+moja tajnica my secretary <br>
+zame for me <br>
+Kako se pišete? What is your surname? <br>
+enoposteljna soba a room with a single bed <br>
+v petem nadstropju on the fifth floor <br>
+dvigalo lift  <br>
+ključ key  <br>
+postrežček porter <br>
+nesti: odnesti carry: take away  <br>
+prtljaga luggage <br>
+če želite kaj pojesti if you would like something to eat <br>
+postrežba v sobo room service  <br>
+gledati: pogledati look: to take a look
+</p>
 
 	</div>
   </body>

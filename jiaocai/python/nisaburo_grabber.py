@@ -56,10 +56,11 @@ if __name__ == "__main__":
     # create it if it doesn't exist
     output_dir.mkdir(exist_ok=True)
 
-    start = 201
+    start = 281
     end = 488 #488
     for page in range(start, end+1):
-        url = f'https://web.archive.org/web/20240217092306fw_/http://viethuong.web.fc2.com/MONDAI/{page:03}.html'
+        # url = f'https://web.archive.org/web/20240217092306fw_/http://viethuong.web.fc2.com/MONDAI/{page:03}.html'
+        url = f'https://web.archive.org/web/20240226041219fw_/http://viethuong.web.fc2.com/MONDAI/{page:03}.html'
     
         html_to_text(url, output_dir / f"{page:03}.txt")
         time.sleep(5)

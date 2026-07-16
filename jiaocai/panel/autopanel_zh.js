@@ -53,8 +53,8 @@ $(function(){
 
   // Function to update visibility
   function updateVisibility(){
-	$('.chinese, .pinyin').toggleClass('hidden', !$('#chk-source').is(':checked'));
-	$('.english').toggleClass('hidden', !$('#chk-translation').is(':checked'));
+	$('.chinese, .pinyin, .studied').toggleClass('hidden', !$('#chk-source').is(':checked'));
+	$('.english, .helping').toggleClass('hidden', !$('#chk-translation').is(':checked'));
   }
 
   // Initial visibility

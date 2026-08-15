@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Словенская матрица</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="controls">
+    <label>
+      <input type="checkbox" id="displaySource" checked>
+      Display source
+    </label>
+    <label>
+      <input type="checkbox" id="displayLearning" checked>
+      Display learning
+    </label>
+  </div>
+
+  <main>
+    <table>
+      <thead>
+        <tr>
+          <th id="sourceHeader">Source</th>
+          <th id="learningHeader">Learning</th>
+        </tr>
+      </thead>
+      <tbody id="sentenceTableBody"></tbody>
+    </table>
+    <div id="error" class="error"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

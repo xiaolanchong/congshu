@@ -1,37 +1,31 @@
 async function loadSentences() {
   const response = await fetch("sentences.txt");
-
-  if (!response.ok) {
+  if (!response.ok)
     throw new Error(`Could not load sentences.txt (${response.status})`);
-  }
 
-  const text = await response.text();
-
-  return text
+  return (await response.text())
     .split(/\r?\n/)
-    .filter(line => line.trim() !== '' && !line.trim().startsWith('#'))
+    .filter(line => line.trim() !== "" && !line.trim().startsWith("#"))
     .map((line, index) => {
-      const separator = line.indexOf('\t');
-
+      const separator = line.indexOf("\t");
       if (separator === -1) {
         console.warn(`Ignoring line ${index + 1}: no TAB separator`);
         return null;
       }
-
       return {
-        source: line.slice(separator + 1).trim(),
-        learning: line.slice(0, separator).trim()
+        learning: line.slice(0, separator).trim(),
+        source: line.slice(separator + 1).trim()
       };
     })
     .filter(Boolean);
 }
 
-const tbody = document.getElementById('sentenceTableBody');
-const displaySource = document.getElementById('displaySource');
-const displayLearning = document.getElementById('displayLearning');
-const sourceHeader = document.getElementById('sourceHeader');
-const learningHeader = document.getElementById('learningHeader');
-const errorElement = document.getElementById('error');
+const tbody = document.getElementById("sentenceTableBody");
+const displaySource = document.getElementById("displaySource");
+const displayLearning = document.getElementById("displayLearning");
+const sourceHeader = document.getElementById("sourceHeader");
+const learningHeader = document.getElementById("learningHeader");
+const errorElement = document.getElementById("error");
 
 let rows = [];
 
@@ -39,32 +33,36 @@ function render() {
   const showSource = displaySource.checked;
   const showLearning = displayLearning.checked;
 
-  sourceHeader.style.display = showSource ? '' : 'none';
-  learningHeader.style.display = showLearning ? '' : 'none';
+  sourceHeader.style.display = showSource ? "" : "none";
+  learningHeader.style.display = showLearning ? "" : "none";
+  tbody.innerHTML = "";
 
-  tbody.innerHTML = '';
+  rows.forEach((row, index) => {
+    const tr = document.createElement("tr");
 
-  for (const row of rows) {
-    const tr = document.createElement('tr');
+    const number = document.createElement("td");
+    number.className = "number";
+    number.textContent = index + 1;
+    tr.appendChild(number);
 
     if (showSource) {
-      const td = document.createElement('td');
+      const td = document.createElement("td");
       td.textContent = row.source;
       tr.appendChild(td);
     }
 
     if (showLearning) {
-      const td = document.createElement('td');
+      const td = document.createElement("td");
       td.textContent = row.learning;
       tr.appendChild(td);
     }
 
     tbody.appendChild(tr);
-  }
+  });
 }
 
-displaySource.addEventListener('change', render);
-displayLearning.addEventListener('change', render);
+displaySource.addEventListener("change", render);
+displayLearning.addEventListener("change", render);
 
 loadSentences()
   .then(loadedRows => {

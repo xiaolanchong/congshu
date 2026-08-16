@@ -3,25 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Словенская матрица</title>
+  <title>Slovene Sentence Table</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="controls">
-    <label>
-      <input type="checkbox" id="displaySource" checked>
-      Display source
-    </label>
-    <label>
-      <input type="checkbox" id="displayLearning" checked>
-      Display learning
-    </label>
+    <label><input type="checkbox" id="displaySource" checked> Display RU/EN</label>
+    <label><input type="checkbox" id="displayLearning" checked> Display SI</label>
   </div>
 
   <main>
     <table>
       <thead>
         <tr>
+          <th class="number-header">#</th>
           <th id="sourceHeader">Source</th>
           <th id="learningHeader">Learning</th>
         </tr>
@@ -31,6 +26,6 @@
     <div id="error" class="error"></div>
   </main>
 
-  <script src="script.js"></script>
+  <script src="script.js?v=1"></script>
 </body>
 </html>

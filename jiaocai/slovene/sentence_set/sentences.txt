@@ -29,49 +29,153 @@ Pride čez dve minuti.	Придет через 2 минуты.
 Vedno zamuja?	Часто опаздывает?
 zamujati	to be late
 Skoraj vedno.	Почти всегда.
-Kam greste na kosilo?   Куда идешь на обед?
-Greš z nama?    Идешь с нами двумя?
-Greš z mano?    Идешь со мной?
-Greš z nami?    Идешь с нами?
-Kaj boš jedel?  Что будешь есть?
-Jaz bom juho    Я буду суп
-Jaz bom testenine.	Я буду/закажу пасту
-Kaj delaš po službi?    Что после работы делаешь?
-Potem pa počitek.   Потом на отрых?
-Kakšni so načrti za vikend? Какие планы на выходные?
-Še nimam načrtov    Еще нет планов
-Dobiva se ob devetih?   Встретимся в 9?
-Nimam pojma.    Не имею понятия.
-Si že našel stanovanje? Уже нашел квартиру?
-včeraj sem podpisal pogodbo.    вчера подписал контракт.
-Čestitam!   Поздравляю!
-To je blizu pisarne.    Это близко от офиса.
-Peš potrebujem približno deset minut.   Пешком потребуется около 10 минут.
-Na Smetanovi ulici. На Сметановой улице.
-danes sem se preselil.  сегодне переехал (в квартиру)
-Če boste kaj potrebovali, pozvonite.    Если надо что, позвоните (в дверь)
-Iščete kaj posebnega?   Ищете что-то специальное?
-Tam zadaj, poleg mleka. Там сзади, напротив молока.
-Na isti polici. На той же полке
-Kje imajo jajca?    Где имеются яйца?
-Koliko stanejo paradižniki? Сколько стоят помидоры?
-Dajte mi en kilogram.   Дайте 1 кг
-Poskušam govoriti vsak dan  Пробую говорить каждый день
-mirno   peaceful
-Z marmelado ali s čokolado? С мармеладом или шоколадом
-Enega z marmelado.  Один (круасан) с мармеладом
-kdaj gre naslednji avtobus za Ljubljano?    Когда след. автобус на Любльяну
-pri vozniku у водителя
-Na avtobusni postaji  На авто остановке
-uslužbenka  сотрудник
-vozovnica   билет (автобус)
-Ob devetih deset.   9:10
-Si bil že v Ljubljani?  Был уже в Любльяне
-Koliko časa potrebujem? Сколько времени понадобится мне
-Kaj pa priporočata? И что рекомендуете (вы два)?
-Kaj pa ti?  Что насчет тебя?
-Kako vam lahko pomagam? Как вам могу помочь?
-nekaj proti glavobolu.  что-от от головы
-Bom vzel.   возьму/куплю (это)
-Si pogosto hodil v gore?    Часто ходил в горы?
-imaš veliko možnosti.   имеешь много возможностей
+Kam greste na kosilo?	Куда идешь на обед?
+Greš z nama?	Идешь с нами двумя?
+Greš z mano?	Идешь со мной?
+Greš z nami?	Идешь с нами?
+Kaj boš jedel?	Что будешь есть?
+Jaz bom juho	Я буду суп
+Jaz bom testenine	Я буду/закажу пасту
+Kaj delaš po službi?	Что после работы делаешь?
+Potem pa počitek.	Потом на отрых?
+Kakšni so načrti za vikend?	Какие планы на выходные?
+Še nimam načrtov	Еще нет планов
+Dobiva se ob devetih?	Встретимся в 9?
+Nimam pojma.	Не имею понятия.
+Si že našel stanovanje?	Уже нашел квартиру?
+včeraj sem podpisal pogodbo.	вчера подписал контракт.
+Čestitam!	Поздравляю!
+To je blizu pisarne.	Это близко от офиса.
+Peš potrebujem približno deset minut.	Пешком потребуется около 10 минут.
+Na Smetanovi ulici	На Сметановой улице.
+danes sem se preselil.	сегодне переехал (в квартиру)
+Če boste kaj potrebovali, pozvonite.	Если надо что, позвоните (в дверь)
+Iščete kaj posebnega?	Ищете что-то специальное?
+Tam zadaj, poleg mleka	Там сзади, напротив молока
+Na isti polici	На той же полке
+Kje imajo jajca?	Где имеются яйца?
+Koliko stanejo paradižniki?	Сколько стоят помидоры?
+Dajte mi en kilogram.	Дайте 1 кг
+Poskušam govoriti vsak dan	Пробую говорить каждый день
+mirno	peaceful
+Z marmelado ali s čokolado?	С мармеладом или шоколадом?
+Enega z marmelado.	Один (круасан) с мармеладом
+kdaj gre naslednji avtobus za Ljubljano?	Когда след. автобус на Любльяну
+pri vozniku	у водителя
+Na avtobusni postaji	На авто остановке
+uslužbenka	сотрудник
+vozovnica	билет (автобус)
+Ob devetih deset	9:10
+Si bil že v Ljubljani?	Был уже в Любльяне
+Koliko časa potrebujem?	Сколько времени понадобится мне
+Kaj pa priporočata?	И что рекомендуете (вы два)?
+Kaj pa ti?	Что насчет тебя?
+Kako vam lahko pomagam?	Как вам могу помочь?
+nekaj proti glavobolu.	что-от от головы
+Bom vzel	возьму/куплю (это)
+Si pogosto hodil v gore?	Часто ходил в горы?
+imaš veliko možnosti	имеешь много возможностей
+Pohorje mi je bilo res všeč	Pohorje mi je bilo res všeč.
+Si bil prvič v slovenskih gorah?	Was this your first time in the Slovenian mountains?
+Presenetilo me je, koliko ljudi hodi v hribe.	I was surprised by how many people go to the mountains.
+Saj smo skoraj vsi planinci.	Well, almost all of us are mountaineers.
+Nekateri bolj, nekateri manj.	Some more, some less.
+Očitno bom moral kupiti boljše čevlje.	Očitno bom moral kupiti boljše čevlje.
+To pa zagotovo.	That's for sure.
+Saj bo jutri lepše.	Well, It will be better tomorrow.
+Spet dež.	Rain again.
+Ali tukaj pogosto dežuje?	Does it rain here often?
+Jeseni kar pogosto	Quite often in the fall
+vreme se hitro spremeni.	The weather changes quickly.
+Včeraj je bilo sonce, danes pa dež	Yesterday it was sunny, today it's raining.
+Iščem knjigo za učenje slovenščine	I'm looking for a book to learn Slovenian.
+Za začetnike?	For beginners?
+Katerega priporočate?	Which one do you recommend?
+Danes bom malo zamudila	I'm going to be a little late today.
+Lahko začneš brez mene	You can start without me.
+Po sestanku	After the Meeting
+Kako se ti zdi projekt?	What do you think of the project?
+Bo pa veliko dela	But it will be a lot of work.
+Če bomo sodelovali, ne bo težav	If we cooperate, there will be no problems.
+Veselim se	I'm looking forward to it.
+Dobil sem obvestilo o paketu.	I got a notification about a package.
+Želite odpreti račun?	Do you want to open an account?
+Ste že izbrali?	Have you chosen yet?
+Opazil sem nekaj zanimivega	I noticed something interesting.
+Ljudje se veliko pozdravljajo	People greet each other a lot.
+Tudi če se ne poznajo	Even if they don't know each other.
+V manjših krajih je to čisto običajno	This is quite common in smaller towns.
+Večer s prijatelji	An Evening with Friends
+Kako napreduje slovenščina?	How is your Slovenian progressing?
+Govoriš že veliko bolje kot prvi teden.	You speak much better than the first week.
+Včasih razumem vse, včasih skoraj nič.	Sometimes I understand everything, sometimes almost nothing.
+Samo vztrajaj.	Just keep at it.
+Čez nekaj mesecev bo veliko lažje.	It will be much easier in a few months.
+Pokvarjena žarnica	burned out light bulb
+Je kaj narobe?	Is something wrong?
+Mislim, da je v hodniku pregorela žarnica.	I think there's a light bulb burned out in the hallway.
+v stanovanju vse deluje.	Everything in the apartment works.
+Jutri bom prišel pogledat.	I'll come check tomorrow.
+Ste se že navadili na Maribor?	Have you gotten used to Maribor yet?
+Predvsem je zelo mirno.	Above all, it is very peaceful.
+To je eden od razlogov, da živim tukaj.	That's one of the reasons I live here.
+Kličem zaradi pralnega stroja.	I'm calling about the washing machine.
+Serviser: Potem pridem med deveto in deseto.	Serviceman: Then I'll be there between nine and ten.
+Vas bom čakal.	I will wait for you.
+Je ta sedež prost?	Is this seat free?
+Greste v Ljubljano?	Are you going to Ljubljana?
+Poslovno ali zasebno?	Business or private?
+Lep izlet vam želim.	Have a nice trip.
+Potem pa obvezno pojdimo še na tržnico.	Then we must go to the market.
+Potem pa nimamo izbire.	Then we have no choice.
+Vsi se nasmehnejo	Everyone smiles
+Zamujen avtobus	Missing Bus
+Videti si utrujen. Si slabo spal?	You look tired. Did you sleep badly?
+Ko sem pogledal vozni red, sem ugotovil, da bi moral čakati skoraj pol ure. 	When I looked at the timetable, I realized that I would have to wait almost half an hour.
+Zdelo se mi je hitreje iti peš.	It seemed faster to walk.
+No, vsaj malo si se razgibal.	Well, at least you got some exercise.
+V stanovanju mi ves čas kaplja pipa.	My apartment has a constant dripping faucet.
+Potem boste verjetno potrebovali novo tesnilo.	Then you probably need a new gasket.
+Nisem povsem prepričan	I'm not entirely sure
+Lastnik je rekel, naj najprej pogledam, ali je mogoče samo nekaj priviti.	The landlord said to see if I could just screw something in first.
+Mislim, da bo zadostovalo novo tesnilo.	I think a new gasket will do.
+Potem bom poskusil s tem.	Then I'll try that.
+Postrezi si.	Угощайтесь сами.
+Diši odlično.	Пахнет замечательно.
+babičin recept	Рецепт бабушки
+skrivnost v dobri jušni osnovi.	Секрет в хорошем бульоне для супа.
+z več česna.	С большим количеством чеснока.
+doma pripravljamo nekaj podobnega	Мы готовим что-то похожее дома.
+Potem boš moral naslednjič kuhati ti.	Тогда вам придется готовить в следующий раз.
+Dogovorjeno	Agreed
+Pozabil sem prenosnik.	Я забыла свой ноутбук.
+Ostal je na kuhinjski mizi.	Left на кухонном столе.
+Če hočeš, ga lahko pripeljem.	Могу принести, если хотите.
+Bi bilo super, če ti ni odveč.	Было бы здорово, если бы вы не возражали.
+Brez skrbi. Tako ali tako grem čez deset minut od doma.	Не волнуйтесь. Я всё равно ухожу из дома через десять минут.
+Kako se počutiš po prvem mesecu v Sloveniji?	How do you feel after your first month in Slovenia?
+Iskreno? Bolje, kot sem pričakoval.	Honestly? Better than I expected.
+Kaj ti je bilo najtežje?	What was the hardest thing for you?
+Verjetno to, da na začetku skoraj ničesar nisem razumel, kadar sta se dva Slovenca pogovarjala med seboj.	Probably the fact that at the beginning I could hardly understand anything when (generally) two Slovenians talked to each other.
+To je normalno.	That's normal.
+Zdaj je precej bolje. 	It's much better now.
+Še vedno ne razumem vsega, ampak vsaj sledim pogovoru.	I still don't understand everything, but at least I can follow the conversation.
+To je največji korak.	That's the biggest step.
+Čez pol leta boš presenečen, koliko boš že znal.	In six months you'll be surprised how much you'll know.
+Nepričakovan obisk	An Unexpected Visit
+Kdo pa je ob tej uri?	Who's home at this hour?
+Upam, da ne motim.	I hope I'm not interrupting.
+Kar naprej.	come in / go ahead
+Šla sem mimo in sem pomislila, da bi ti lahko prinesla tisto knjigo o Sloveniji, o kateri sva govorila prejšnji teden.	I was just passing by and thought I could bring you that book about Slovenia we were talking about last week.
+To pa je prijetno presenečenje.	This is a pleasant surprise.
+Si imel kakšne načrte za večer?	Did you have any plans for the evening?
+Hotel sem malo brati in se naučiti nekaj novih besed.	I wanted to read a little and learn a few new words.
+Potem pa si lahko skuhava čaj.	Then we can make some tea.
+nič resnega	nothing serious
+Deloma. Poleg tega sem ostal pokonci precej dlje, kot sem nameraval.	Partly. Plus, I stayed up much longer than I intended.
+Kaj pa si počel?	What were you doing?
+Začel sem gledati eno slovensko serijo in sem popolnoma pozabil na uro.	I started watching a Slovenian series and completely forgot about the clock.
+To se zgodi tudi najboljšim.	This happens even to the best.
+Letos je bilo vreme ravno pravšnje.	The weather was just right this year.
+Potem mi jih dajte kilogram.	Then give me a kilo.
+Ne, mislim, da bo to dovolj.	No, I think that will be enough.

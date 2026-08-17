@@ -1,4 +1,5 @@
 # Learning language<TAB>source language
+@Assimil-like set
 Živjo!	Hi!
 Ti si novi sodelavec? 	Are you a new colleague? 
 Jaz sem Evgenij.	I'm Evgenij.
@@ -179,3 +180,22 @@ To se zgodi tudi najboljšim.	This happens even to the best.
 Letos je bilo vreme ravno pravšnje.	The weather was just right this year.
 Potem mi jih dajte kilogram.	Then give me a kilo.
 Ne, mislim, da bo to dovolj.	No, I think that will be enough.
+Kateri ti je bil najtežji?	Which one was the hardest for you?
+Koliko jezikov pravzaprav govoriš?	How many languages do you actually speak?
+Težko vprašanje.	A tough question.
+Mislim, da slovenščina ni najtežja, je pa precej drugačna, kot sem pričakoval.	I don't think Slovenian is the hardest, but it's quite different than I expected.
+Presenetilo me je predvsem to, koliko pomena imajo majhne besede, kot so pa, saj in kar.	What surprised me most was how much meaning small words like pa, saj and kar have.
+To pa drži.	That's true.
+Brez prevoda	Without Translation
+Veš, kaj sem opazil?	You know what I noticed?
+Pred nekaj tedni sem poskušal prevesti vsako slovensko besedo v ruščino ali angleščino.	A few weeks ago I tried to translate every Slovenian word into Russian or English.
+Včasih kakšno besedo preprosto razumem, ne da bi jo prevedel.	Sometimes I just understand a word without translating it.
+Takrat začneš razmišljati v jeziku.	Then you start thinking in the language.
+Upam, da je to šele začetek.	I hope this is just the beginning.
+Tik pred odhodom	Just Before Leaving
+Si pripravljen?	Are you ready?
+Samo še jakno vzamem in sem pripravljen.	Только возьму пиджак и готов
+Vedno potrebuješ še pet minut.	Тебе всегда требуется еще 5 минут
+to poslušam že eno leto.	Слышу это уже один год
+vedno je enako	всегда одно и тоже
+Pet minut pomeni najmanj petnajst.	5 мин значат по меньшей мере 15

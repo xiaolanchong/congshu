@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  background: #121212;
+  color: #e8e8e8;
+}
+
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  display: flex;
+  gap: 28px;
+  align-items: center;
+
+  padding: 14px 20px;
+
+  background: #1e1e1e;
+  border-bottom: 1px solid #3a3a3a;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.controls label {
+  cursor: pointer;
+  user-select: none;
+  font-size: 15px;
+}
+
+.controls input {
+  width: 16px;
+  height: 16px;
+  margin: 0 8px 0 0;
+
+  vertical-align: -3px;
+  accent-color: #888;
+}
+
+main {
+  max-width: 1200px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #181818;
+}
+
+th,
+td {
+  padding: 13px 16px;
+  border: 1px solid #363636;
+
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  position: sticky;
+  top: 52px;
+
+  background: #252525;
+  color: #f0f0f0;
+
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background: #1d1d1d;
+}
+
+tbody tr:hover {
+  background: #292929;
+}
+
+td {
+  color: #ddd;
+}
+
+/*
+ * Chinese text is usually the most important visual element,
+ * so give it a little more room.
+ */
+td:nth-child(2) {
+  font-size: 18px;
+}
+
+/* Subtle sentence number column */
+.number-header,
+.number {
+  width: 48px;
+
+  padding-left: 8px;
+  padding-right: 8px;
+
+  text-align: right;
+
+  color: #666;
+  font-size: 12px;
+}
+
+.number-header {
+  color: #666;
+  font-weight: 500;
+}
+
+/* Section/tag rows: @Something */
+.sentence-tag td {
+  background: #303030;
+  color: #f0c674;
+
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+
+  padding-top: 9px;
+  padding-bottom: 9px;
+
+  border-top: 2px solid #555;
+  border-bottom: 2px solid #555;
+}
+
+.error {
+  margin-top: 20px;
+  color: #ff8080;
+}

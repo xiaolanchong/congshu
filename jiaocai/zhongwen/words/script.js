@@ -11,7 +11,7 @@ async function loadSentences() {
     .map((line, index) => {
       line = line.trim();
 
-      // Tag/source line.
+      // Section/tag line.
       if (line.startsWith("@")) {
         return {
           type: "tag",
@@ -19,25 +19,47 @@ async function loadSentences() {
         };
       }
 
-      const separator = line.indexOf("\t");
+      const fields = line.split("\t").map(field => field.trim());
 
-      if (separator === -1) {
-        console.warn(`Ignoring line ${index + 1}: no TAB separator`);
+      if (fields.length === 0 || !fields[0]) {
         return null;
       }
 
-      return {
+      const row = {
         type: "sentence",
-        learning: line.slice(0, separator).trim(),
-        source: line.slice(separator + 1).trim()
+        chinese: fields[0],
+        pinyin: "",
+        source: ""
       };
+
+      switch (fields.length) {
+        case 1:
+          // Chinese only.
+          break;
+
+        case 2:
+          // Chinese + translation.
+          row.source = fields[1];
+          break;
+
+        default:
+          // Chinese + pinyin + translation.
+          row.pinyin = fields[1];
+          row.source = fields.slice(2).join("\t");
+          break;
+      }
+
+      return row;
     })
     .filter(Boolean);
 }
 
 const tbody = document.getElementById("sentenceTableBody");
+
+const displayChinese = document.getElementById("displayChinese");
+const displayPinyin = document.getElementById("displayPinyin");
 const displaySource = document.getElementById("displaySource");
-const displayLearning = document.getElementById("displayLearning");
+
 const errorElement = document.getElementById("error");
 
 let rows = [];
@@ -54,17 +76,15 @@ function render() {
       tr.className = "sentence-tag";
 
       const td = document.createElement("td");
-
-      // Table has 3 columns: number + source + learning.
-      td.colSpan = 3;
+      td.colSpan = 4;
       td.textContent = row.text;
 
       tr.appendChild(td);
       tbody.appendChild(tr);
+
       return;
     }
 
-    // Sentence
     sentenceNumber++;
 
     const tr = document.createElement("tr");
@@ -75,28 +95,38 @@ function render() {
     number.textContent = sentenceNumber;
     tr.appendChild(number);
 
-    // Learning
-    const learning = document.createElement("td");
-    learning.textContent = row.learning;
-    
-    learning.style.visibility =
-      displayLearning.checked ? "visible" : "hidden";
-    tr.appendChild(learning);
+    // Chinese
+    const chinese = document.createElement("td");
+    chinese.textContent = row.chinese;
+    chinese.style.visibility =
+      displayChinese.checked ? "visible" : "hidden";
+    tr.appendChild(chinese);
 
-    // Source
+    // Pinyin
+    const pinyin = document.createElement("td");
+    pinyin.textContent = row.pinyin;
+    pinyin.style.visibility =
+      displayPinyin.checked && row.pinyin
+        ? "visible"
+        : "hidden";
+    tr.appendChild(pinyin);
+
+    // Source / translation
     const source = document.createElement("td");
     source.textContent = row.source;
-
     source.style.visibility =
-      displaySource.checked ? "visible" : "hidden";
+      displaySource.checked && row.source
+        ? "visible"
+        : "hidden";
     tr.appendChild(source);
 
     tbody.appendChild(tr);
   });
 }
 
+displayChinese.addEventListener("change", render);
+displayPinyin.addEventListener("change", render);
 displaySource.addEventListener("change", render);
-displayLearning.addEventListener("change", render);
 
 loadSentences()
   .then(loadedRows => {

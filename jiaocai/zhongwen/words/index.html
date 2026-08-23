@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Sentence Table</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="controls">
+    <label>
+      <input type="checkbox" id="displayChinese" checked>
+      中文
+    </label>
+
+    <label>
+      <input type="checkbox" id="displayPinyin" checked>
+      拼音
+    </label>
+
+    <label>
+      <input type="checkbox" id="displaySource" checked>
+      翻译
+    </label>
+  </div>
+
+  <main>
+    <table>
+      <thead>
+        <tr>
+          <th class="number-header">#</th>
+          <th id="chineseHeader">中文</th>
+          <th id="pinyinHeader">拼音</th>
+          <th id="sourceHeader">翻译</th>
+        </tr>
+      </thead>
+
+      <tbody id="sentenceTableBody"></tbody>
+    </table>
+
+    <div id="error" class="error"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

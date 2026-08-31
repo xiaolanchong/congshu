@@ -1,0 +1,181 @@
+@!ERSTE LEKTION
+ERSTE LEKTION	ПЕРВЫЙ УРОК
+Im Café	В КАФЕ
+Herr Ober!	Официант! (Господин официант)
+Der Tee ist kalt!	Чай холодный!
+Wie ist der Tee?	Какой чай?
+Er ist kalt!	Он холодный! 
+Oh, Verzeihung!	О, простите!
+Herr Ober, der Tee ist jetzt gut; aber die Tasse...	Официант, чай сейчас хорош, но чашка ...
+Ja, die Tasse?	Да, (а что) чашка?
+Sie ist zu klein!	Она слишком маленькая!
+
+@!ZWEITE LEKTION
+ZWEITE LEKTION	ВТОРОЙ УРОК
+Das Restaurant	PECTOPAH
+Ich bin sehr müde und ich habe Hunger.	Я очень устал, и я голоден.
+Dort ist ein Restaurant.	Там (есть) ресторан.
+Es ist schön, nicht wahr?	Он красив, не правда ли?
+Ja..., aber...	Да... но...
+Haben Sie auch Hunger?	Вы (ведь) тоже голодны?
+Ja, aber...	Да, но ...
+Sind Sie nicht müde?	(Разве) вы не устали?
+Doch, aber das Restaurant ist zu teuer.	Ну, конечно, да, но ресторан слишком дорог.
+Dort ist eine Kneipe; sie ist auch schön, nicht wahr?	Там есть закусочная; она тоже прекрасна, не правда ли?
+
+@!DRITTE LEKTION
+DRITTE LEKTION	ТРЕТИЙ УРОК
+Im Park	В ПАРКЕ
+- Verzeihung! Ist dieser Platz noch frei?	Простите, это место еще свободно?
+- Ich glaube, ja.	Я думаю, да.
+- Danke! Wunderbar, diese Sonne, nicht wahr?	Спасибо! Это солнце чудесно, не правда ли?
+Die Luft ist auch so gut!	Воздух тоже хорош.
+Sind Sie oft hier?	Вы часто бываете здесь? 
+Warum antworten Sie nicht?	Почему вы не отвечаете? 
+Sprechen Sie Deutsch?	Вы говорите по-немецки ?
+- Nein, ich bin Französin.	Нет, я француженка.
+Ich spreche nur ein wenig Deutsch.	Я говорю по-немецки только (совсем) немного.
+- Schade!	Жаль!
+	
+@!VIERTE LEKTION
+VIERTE LEKTION	ЧЕТВЕРТЫЙ УРОК
+Wie geht's?	КАК ДЕЛА?
+Guten Tag, Wolfgang!	Добрый день, Вольфганг!
+Hallo, Anne! Wie geht's?	Привет, Анне! Как дела?
+Gut, danke.	Хорошо, спасибо.
+Kommst du mit ins Café?	Пойдешь со мной в кафе?
+Ja, gern. Ich habe Durst.	Да, с удовольствием. Я хочу пить.
+Was trinkst du?	Что ты пьешь (будешь пить)?
+Ich trinke eine Limonade. Und du?	Я пью лимонад. А ты?
+Ich nehme ein Bier.	Я беру (возьму) одно пиво (одну кружку пива).
+Anne (sie) trinkt eine Limonade, und Wolfgang (er) trinkt ein Bier.	Анне (она) пьет лимонад, и (а) Вольфганг (он) пьет пиво.
+Guten Abend, Frau Herder!	Добрый вечер, госпожа Хердер!
+Guten Abend, Herr Schmitt!	Добрый вечер, господин Шмитт!
+Das ist Fräulein Wagner.	Это госпожа (фройляйн) Вагнер.
+Freut mich! Trinken Sie ein Glas Wein mit mir?	Очень рад! Выпьете со мной стакан (бокал) вина?
+	
+@!FÜNFTE LEKTION
+FÜNFTE LEKTION	ПЯТЫЙ УРОК
+Am Telefon	У ТЕЛЕФОНА
+Guten Tag! Hier ist Peter Schmitt.	Добрый день! Говорит Петер Шмитт (Это Петер Шмитт. Буквально: "Здесь Петер Шмитт).
+Ich möchte bitte Fräulein Wagner sprechen.	Я хотел бы поговорить с фройляйн Вагнер (пожалуйста).
+Verzeihung! Wer sind Sie?	Простите! Кто это говорит? (Буквально: "Кто вы?)
+Mein Name ist Peter Schmitt.	Мое имя Петер Шмитт.
+Einen Moment, bitte. Meine Tochter kommt sofort.	Один момент, пожалуйста. Моя дочь сейчас придет (буквально: "... сразу приходит). 
+Hallo, Peter! Wo bist du?	Привет, Петер! Ты где? (Где ты?)
+Ich bin noch im Büro; aber ich fahre jetzt nach Hause.	Я еще в бюро (в офисе, на работе), но сейчас (уже) еду домой.
+Gehen wir heute abend ins Kino?	Идем (пойдем) сегодня вечером в кино?
+Nein, lieber morgen; heute möchte ich fernsehen.	Нет, лучше завтра; сегодня вечером я хотела бы (хочу) смотреть телевизор.
+Gut! Dann bis morgen!	Хорошо! Тогда до завтра!
+Ich bin, du bist, er/sie/es ist, Sie sind.	Я есть (являюсь, нахожусь), ты есть (являешься, находишься), он-она-оно есть (является, находится), вы есть (являетесь, находитесь).
+	
+@!SECHSTE LEKTION
+SECHSTE LEKTION	ШЕСТОЙ УРОК
+Immer dasselbe ...	ВСЕГДА ОДНО И ТО ЖЕ
+Komm schnell! Der Zug fährt in zehn Minuten.	иди быстро (быстрее)! Поезд отходит через десять минут.
+Hast du die Fahrkarten?	У тебя есть билеты?
+Ich habe meine Fahrkarte, aber nicht deine.	У меня есть мой билет, но не твой.
+Vielleicht hast du meine und nicht deine?	(А) может быть, у тебя мой, а не твой?
+Also gut, ich habe nur eine Karte. Wer hat die andere?	Ну, хорошо, у меня только один билет. У кого другой?
+Ich habe sie nicht. Du mußt zwei Karten haben.	У меня его нет. Ты должен иметь два билета. (У тебя должны быть оба).
+Oh Gott, das ist immer dasselbe Theater! Ich fahre allein!	- О Боже, (это)всегда один и тот же театр! Я еду один!
+Warte! Hier ist meine Karte - in meiner Manteltasche	- Подожди! Вот мой билет в кармане моего пальто!
+Endlich...! Wir haben nur noch zwei Minuten Zeit.	- Наконец! [Ну, наконец-то!] У нас еще только [всего] две минуты времени.
+Ich habe, du hast, er/sie/es hat, wir haben, Sie haben.	- У меня (у тебя, у него, у нас, у вас) есть (или я имею, ты имеешь и т.д.).
+
+@!ACHTE LEKTION
+ACHTE LEKTION	ВОСЬМОЙ УРОК
+Ein Fest	ПРАЗДНИК (ВЕЧЕРИНКА)
+Viele Leute sind heute abend bei Fischers.	Много народу (людей) сегодня вечером у Фишеров. (Сегодня вечером у Фишеров много народу).
+Fischers geben eine Party.	Фишеры дают (устраивают) вечеринку.
+Man trinkt, tanzt und lacht viel.	Люди (все) пьют (выпивают), танцуют и много смеются.
+Alle amüsieren sich gut. Alle? (5)	Все развлекаются (хорошо). Все? (Но все ли?)
+Wer ist die Frau dort? 	Кто вон та женщина (дама)? (Кто таженщина, которая там?)
+Sie ist ganz allein. 	Она совсем одна.
+Ich möchte wissen, wer sie ist.	Я бы хотел (хочу) знать, кто она.
+Anne, wer ist die blonde Frau dort?	Анне, кто вон та блондинка? (белокурая женщина там?)
+Ich weiß nicht. Ich kenne sie nicht. (6)	Я не знаю. Я с ней не знакома (я ее не знаю).
+Aber ich glaube, sie ist eine Freundin von Frau Fischer. (7)	Но я думаю, она подруга госпожи Фишер. 
+Gut! Ich frage sie... (8)	Хорошо (ладно)! Я ее спрошу ...
+(Fortsetzung folgt)	(Продолжение следует)
+	
+@!NEUNTE LEKTION
+NEUNTE LEKTION	ДЕВЯТЫЙ УРОК
+Ein Fest (Fortsetzung)	ПРАЗДНИК (продолжение)
+Guten Abend! Tanzen Sie nicht gern? 	Добрый вечер! Вы не любите танцевать? (Вы танцуете неохотно! без охоты?
+Doch, sehr gern. Aber ich kenne niemand hier. (1)	Что вы (конечно, нет), очень люблю (очень охотно). Но я никого здесь не знаю (ни с кем не знакома).
+Ach so. Darf ich mich vorstellen? (2) 	Ах, так (ах, вот что). Можно, я представл- юсь? 
+Mein Name ist Klaus Frisch.	(Могу я представиться?) Мое имя Клаус Фриш.
+Ich bin ein Kollege von Herrn Fischer.	Я коллега господина Фишера.
+Ich heiße Elisabeth. Frau Fischer ist meine Schwester. (5)	Меня зовут Элизабет. Госпожа Фишер - моя сестра.
+Ihre Schwester? Das ist nicht möglich! (6)	Ваша сестра? Это невозможно!
+Warum nicht?	Почему? (Почему нет?)
+Sie sind groß, blond und schlank und (7)	Вы высокого роста (высоки), белокуры и худощавы, и (а)
+Ihre Schwester ist klein, dunkel und ... mh... nicht so schlank.	ваша сестра низкоросла, смугла и ... мм не так (уж) худа.
+Das ist ganz einfach. Mein Vater ist groß, dick und dunkel,	Это совсем просто. Мой отец высокоросл, толст и темноволос,
+ und meine Mutter klein, blond und dünn.	 а моя мать невелика ростом, светловолоса и худощава.
+	
+@!ZEHNTE LEKTION
+ZEHNTE LEKTION	ДЕСЯТЫЙ УРОК
+Eine Überraschung	СЮРПРИЗ
+Was machst du heute abend, Peter?	Что ты делаешь сегодня вечером, Петер?
+Ich weiß noch nicht. Ich habe Zeit. (1)	Я еще не знаю. У меня есть время (я свободен).
+Meine Freundin kommt nicht. Ihre Mutter ist krank.	Моя подруга не придет. Ее мать больна. 
+Gehen wir ins Kino! Meine Freundin kommt auch nicht.	Пойдем в кино! Моя подруга тоже не придет.
+Sie hat zuviel Arbeit. (2)	У нее слишком много работы. 
+Vielleicht hat Helmut auch Zeit. (3) Seine Frau ist nicht da.	Возможно, Хельмут тоже свободен. Его жена отсутствует (его жены нет здесь, его жена в отъезде).
+Prima! Wir sind alle frei. (4) Treffen wir uns um acht Uhr! (5)	Великолепно! Мы все свободны. Встречаемся в восемь часов!
+Um acht Uhr im Kino:	В восемь часов в кино:
+Schau 'mal, Peter! Ist das nicht deine Freundin dort? (6)	Посмотрите-ка, Петер! (Разве) не твоя подруга вон там?
+Mensch, ja! Und deine Freundin und Helmuts Frau auch!	Ей-богу, да! И твоя подруга, и жена Хельмута тоже!
+Na sowas! Das ist ja eine Überraschung!	Вот это да! Вот это (уже) сюрприз!
+	
+@!ELFTE LEKTION
+ELFTE LEKTION	ОДИННАДЦАТЫЙ УРОК
+Eine Begegnung	ВСТРЕЧА
+Was machen Sie denn hier? Sind Sie verrückt? (2)	Что (это) вы здесь делаете? Вы (что), сумасшедший?
+Warum? Ich möchte nur schlafen!	Почему? Я только хочу спать.
+Ja, aber das ist meine Garage. Woher kommen Sie? (3)	Да, но это мой гараж. Откуда вы взялись (пришли),
+Ich komme aus Frankreich, aus England, aus Asien, aus Südamerika. (4)(5)	Я прибыл из Франции, Англии, Индии и Южной Америки.
+Ja, aber wo wohnen Sie?	Да, но где вы живете?
+Ich wohne in Frankreich, in England, in Indien und manchmal in Australien. (6)	Я живу во Франции, в Англии, в Индии и иногда в Австралии.
+- Ja, aber Sie sind hier in Deutschland, und das ist meine Garage.	Да, но здесь вы в Германии, и это мой гараж. 
+Oh, das ist Ihre Garage! Das tut mir leid. Dann suche ich ein Hotel. (N1)(7)	О, это ваш гараж! Мне (очень) жаль. Тогда я поищу гостиницу.
+Haben Sie denn Geld?	(А) деньги у вас есть?
+-Ja, ich habe viel Geld in Frankreich, in England und in Spanien.	Да, у меня много денег Англии и в Испании. во Франции, в
+- Ja, aber verstehen Sie nicht? Sie sind in der Bundesrepublik Deutschland, und das ist meine Garage.	Да, но вы не понимаете? (Вы что, не понимаете?) Вы находитесь в Федеративной Республике Германии, и (а) это мой гараж.
+- Ach ja, das ist richtig; in Deutschland habe ich leider kein Bankkonto. Wo ist der Bahnhof, bitte?	— Ах, да. К сожалению, в Германии у меня нет банковского счета. (Скажите), пожалуйста, где (тут) вокзал?
+	
+@!ZWÖLFTE LEKTION
+ZWÖLFTE LEKTION	ДВЕНАДЦАТЫЙ УРОК
+Wenn das Wetter schön ist... (1)	ЕСЛИ (БУДЕТ) ХОРОШАЯ ПОГОДА...
+Wohin fahren Sie in Urlaub, Frau Herder?	Куда вы поедете в отпуск, госпожа Хердер?
+ Ich fahre nach Hamburg und an die Ostsee..., wenn das Wetter schön ist...	 - Я еду (поеду) в Гамбург и на Балтику... если (будет) хорошая погода...
+Kennen Sie Hamburg?	Вы знаете Гамбург?
+Ja, ich kenne die Stadt gut. Meine Schwester wohnt dort.	Да, я знаю (этот) город хорошо. Моя сестра живет там.
+Und Sie, Herr Huber, wohin fahren Sie?	А вы, господин Хубер, куда поедете (вы)?
+Wir fahren nach Österreich in die Alpen und nach Salzburg..., wenn das Wetter schön ist... (4)	 Мы поедем в Австрию, в Альпы и в Зальцбург... если (будет) хорошая погода...
+Kennen Sie schon Salzburg?	Вы (уже) знаете Зальцбург?
+Ja, ich kenne es gut, aber meine Frau kennt es noch nicht.	Да, я знаю его хорошо, но моя жена его еще не знает.
+Die Altstadt ist wirklich sehr schön und die Umgebung auch.	Старый город действительно очень красив, и пригород тоже.
+Und Sie, Fräulein Wagner, wohin fahren Sie? 	А вы, фройляйн Вагнер, куда поедете?
+Ach wissen Sie, ich fliege nach Mallorca, denn hier ist das Wetter immer so schlecht. (5)(6)	Ах, знаете, я лечу на Майорку, ведь здесь погода всегда такая плохая.
+	
+@!DREIZEHNTE LEKTION
+DREIZEHNTE LEKTION	ТРИНАДЦАТЫЙ УРОК
+Ich kann es versuchen...	Я МОГУ ПОПРОБОВАТЬ
+Was machen Sie da, Herr Samson?	Что вы здесь делаете, господин Самсон? 
+Ich lerne Deutsch.	Учу немецкий.
+Warum lernen Sie Deutsch?	Почему вы учите немецкий?
+Ich will in Deutschland arbeiten. Meine Firma hat eine Filiale in Frankfurt.	Хочу работать в Германии. У моей компании есть филиал во Франкфурте.
+Und wann wollen Sie nach Frankfurt gehen?	И когда вы хотите поехать во Франкфурт, 
+Meine Arbeit beginnt in vier Monaten. Aber das ist nicht möglich. 	Моя работа начинается через четыре месяца. Но это невозможно. 
+Sie können nicht in vier Monaten Deutsch lernen.	Вы не можете за четыре месяца выучить немецкий язык
+Ich kann es versuchen. Aller Anfang ist schwer.	Я могу попробовать. Всякое начало трудно (начинать всегда трудно).
+Sie sprechen doch Englisch, oder?	Вы говорите по-английски (или нет),
+Natürlich spreche ich Englisch. Aber hören Sie, ich spreche auch schon ein bißchen Deutsch:	Конечно, я говорю по-английски. Но (вы) послушайте: я также уже немного говорю по-немецки:
+"Ich möchte bitte ein Bier und ein Steak!	"Я хотел бы одно пиво и один бифштекс (это слово в немецком языке среднего рода). 
+- Wo ist das Hotel Rizz?	Где находится отель "Ритц"?
+- Kommen Sie mit?	- Вы пойдете со мной? 
+- Wann fährt der nächste Zug nach Frankreich?"	Когда идет следующий поезд во Франкфурт?"
+Das ist doch schon ganz gut, nicht wahr?	Уже совсем неплохо, не правда ли?

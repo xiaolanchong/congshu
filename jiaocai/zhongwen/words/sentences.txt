@@ -24,47 +24,47 @@
 拿一把闪亮的小刀	ná yī bǎ shǎnliàng de xiǎo dāo	держать блестящий маленький нож 
 用劲地割	yòngjìn de gē	с силой резать
 
-# 狂人日记 notes
-昆仲    brother, close friend(s)
-分隔多年    was separated/far many years
-消息渐阙    news from him become gradually sparse
-适归故乡    happens to return to hometown
-迂道往访    take a detour to visit him
-则仅晤一人  but I met only one man
-劳君远道来视    I made you trouble to come from far to see (him
-赴某地候补矣    has gone to some place to await an appointment.”), 候补 - wait for an appointiment, 矣-situation changed.
-不妨献诸旧友    no harm to present 诸 = 之于 (this to)
-知所患盖X   know that (所患 what he suffered from) probably (盖)
-语颇错杂无伦次  said _ quite _ confused _ without order
-亦不著月日  also _ did not _ record _ dates (in the diary)
-所书    what was written / written by [someone]
-间  occasionally
-亦  also
-略具联络者 — somewhat having/possessing connection _ those
-撮录    cuōlù   select and copy down / extract and record
-以 + verb   in order to…
-人名虽皆村人    people names only villagers
-悉易去  all _ changed/removed
-不复改  not any further _ change
-所题    what was titled/written
-精神    vigor, spirit
-分外    exceptionally
-爽快    refreshed, rejuvinated
-发昏    to faint, to be unconscienst
-眼色便怪    his look (became) [immediately/at once] strange
-交头接耳    whisper among themselves
-一……便……    as soon ... then ... 
-他们布置    they arranged (stuff)
-都已妥当了  everything is in order
-踹了一脚    chuài   to kick
-听到风声    heard rumors
-代抱不平    to take up the grievance on someone's behalf
-教我纳罕    make me amazed
-给知县打枷  put in the cangue by the magistrate
-给绅士掌嘴  be slapped by a gentry member
-衙役占妻子  yamen runners take their wives
-老子娘被债主逼死    parents driven to death by creditors
-我出了一惊  got startled
-遮掩不住    zhēyǎn bú zhù   can't hide
-那青面獠牙的一伙人  ferociuos-looking company
-哄笑起来    started laughtering loud
+@ 狂人日记 notes
+昆仲	brother, close friend(s)
+分隔多年	was separated/far many years
+消息渐阙	news from him become gradually sparse
+适归故乡	happens to return to hometown
+迂道往访	take a detour to visit him
+则仅晤一人	but I met only one man
+劳君远道来视	I made you trouble to come from far to see (him
+赴某地候补矣	has gone to some place to await an appointment.”), 候补 - wait for an appointiment, 矣-situation changed.
+不妨献诸旧友	no harm to present 诸 = 之于 (this to)
+知所患盖X	know that (所患 what he suffered from) probably (盖)
+语颇错杂无伦次	said _ quite _ confused _ without order
+亦不著月日	also _ did not _ record _ dates (in the diary)
+所书	what was written / written by [someone]
+间	occasionally
+亦	also
+略具联络者	somewhat having/possessing connection _ those
+撮录	cuōlù	select and copy down / extract and record
+以 + verb	in order to…
+人名虽皆村人	people names only villagers
+悉易去	all _ changed/removed
+不复改	not any further _ change
+所题	what was titled/written
+精神	vigor, spirit
+分外	exceptionally
+爽快	refreshed, rejuvinated
+发昏	to faint, to be unconscienst
+眼色便怪	his look (became) [immediately/at once] strange
+交头接耳	whisper among themselves
+一……便……	as soon ... then ... 
+他们布置	they arranged (stuff)
+都已妥当了	everything is in order
+踹了一脚	chuài   to kick
+听到风声	heard rumors
+代抱不平	to take up the grievance on someone's behalf
+教我纳罕	make me amazed
+给知县打枷	put in the cangue by the magistrate
+给绅士掌嘴	be slapped by a gentry member
+衙役占妻子	yamen runners take their wives
+老子娘被债主逼死	parents driven to death by creditors
+我出了一惊	got startled
+遮掩不住	zhēyǎn bú zhù   can't hide
+那青面獠牙的一伙人	ferociuos-looking company
+哄笑起来	started laughtering loud

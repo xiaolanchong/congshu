@@ -193,3 +193,10 @@ At the beginning of man, his nature is originally good. (也 is the final assert
 而已	Ограничение / «и всё»	言之而已	Сказано и всё
 焉耳	Ограничение / «и только так»	此可焉耳	Так можно и только так
 
+# Tomo news 01.09.2026
+
+日本宮崎縣2歲博美犬 Haku 通過特殊考試，正式受聘成為警犬，負責協尋失蹤人口與遺失物。訓練師表示牠體型小又可愛，搜索時更不容易引起戒心！
+
+宮崎 Miyazaki (prefecture)
+博美犬 Pomeranian dog breed
+受聘  invited to be/do etc.

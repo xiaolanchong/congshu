@@ -100,44 +100,73 @@
   }
 
   function makeSentence(source, rows, index) {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "bilingual-sentence";
-    button.textContent = source;
-    button.setAttribute("aria-haspopup", "dialog");
-    button.setAttribute("aria-label", `Show translation: ${source}`);
-    button.addEventListener("click", () => showTranslation(button, rows, index));
-    return button;
+    const sentence = document.createElement("span");
+    sentence.className = "bilingual-sentence";
+    sentence.textContent = source;
+    sentence.setAttribute("role", "button");
+    sentence.tabIndex = 0;
+    sentence.setAttribute("aria-haspopup", "dialog");
+    sentence.setAttribute("aria-label", `Show translation: ${source}`);
+    sentence.addEventListener("click", () => {
+      const selection = window.getSelection();
+      if (!selection || selection.isCollapsed) showTranslation(sentence, rows, index);
+    });
+    sentence.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        showTranslation(sentence, rows, index);
+      }
+    });
+    return sentence;
   }
 
   function parseTsv(text) {
-    return text.replace(/^\uFEFF/, "").split(/\r?\n/).reduce((rows, line, index) => {
-      if (!line.trim() || line.trimStart().startsWith("#")) return rows;
+    const rows = { valid: [], invalid: [], sourceLanguage: "", title: "" };
+    let beforeText = true;
+    text.replace(/^\uFEFF/, "").split(/\r?\n/).forEach((line, index) => {
+      const trimmed = line.trim();
+      if (!trimmed) return;
+      if (beforeText) {
+        const directive = trimmed.match(/^#\s*source_encoding\s*=\s*([A-Za-z0-9-]+)\s*$/i);
+        if (directive) rows.sourceLanguage = directive[1];
+        const titleDirective = trimmed.match(/^#\s*title\s*=\s*(.+?)\s*$/i);
+        if (titleDirective) rows.title = titleDirective[1];
+      }
+      if (trimmed.startsWith("#")) return;
+      beforeText = false;
       const columns = line.split("\t");
       if (columns.length < 2) {
         rows.invalid.push(index + 1);
       } else {
         rows.valid.push({ source: columns[0], translation: columns[1] });
       }
-      return rows;
-    }, { valid: [], invalid: [] });
+    });
+    return rows;
   }
 
   function render(text, fileUrl) {
-    const { valid, invalid } = parseTsv(text);
+    const { valid, invalid, sourceLanguage, title } = parseTsv(text);
+    const language = sourceLanguage || params.get("lang") || "en";
+    document.documentElement.lang = language;
+    if (title) document.title = title;
     if (!valid.length) {
       message("The TSV contains no valid source/translation rows.", "error");
       return;
     }
     root.replaceChildren();
     const heading = document.createElement("h1");
-    heading.textContent = decodeURIComponent(fileUrl.pathname.split("/").pop() || "Bilingual text");
+    heading.textContent = title || decodeURIComponent(fileUrl.pathname.split("/").pop() || "Bilingual text");
     const hint = document.createElement("p");
     hint.className = "hint";
     hint.textContent = "Click or tap a sentence to show its translation. Press Escape to close it.";
     const textBlock = document.createElement("article");
-    textBlock.lang = params.get("lang") || "";
-    valid.forEach((row, index) => textBlock.append(makeSentence(row.source, valid, index)));
+    textBlock.lang = language;
+    valid.forEach((row, index) => {
+      const line = document.createElement("div");
+      line.className = "bilingual-line";
+      line.append(makeSentence(row.source, valid, index));
+      textBlock.append(line);
+    });
     root.append(heading, hint, textBlock);
     if (invalid.length) {
       const warning = document.createElement("p");

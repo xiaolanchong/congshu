@@ -4,6 +4,8 @@
 # src_lang=zh
 # tgt_lang=ru
 # total_pairs=374
+# title=离婚 第6
+# source_encoding=zh-Hans
 source_text	target_text	confidence
 第六	ГЛАВА ШЕСТАЯ	0.7156
 一	1	0.7934

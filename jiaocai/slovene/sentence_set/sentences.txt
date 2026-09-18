@@ -728,3 +728,112 @@ zaradi spornego pogoja 	due to a disputed condition
 sodnih in upravnih postopkov 	judicial and administrative proceedings
 obenem bi pa tudi poudaril  	At the same time, however, I would also like to emphasize...
 odprava pogoja javnega financiranja ni be pomenila, da bi štela prav tekmovanja 	Removing the public funding requirement would not mean that competitions themselves would count.
+preveri programe, ki so ti na voljo	check the programs available to you
+z enim izdelkom 	 with one product
+z dvema izdelkoma 	 with two products
+s tremi izdelki 	 with three products
+s štirimi izdelki 	 with four products
+s petimi izdelki 	 with five products
+s šestimi izdelki 	 with six products
+štiri knjige 	4 books
+pet knjig 	5 books
+štiri jabolka 	4 apples
+pet jabolk 	5 apples
+okus ki ga dobro poznam	Вкус, который мне хорошо знаком.
+premagane oz. ustavljene	Побеждены или остановлены
+za prizorišče glavne akcije	as the setting for the main action.
+spet udarijo in si izberejo Kras, kjer je Evi na etnološkem taboru. 	They strike again, choosing the Karst—where Eva is attending an ethnology camp
+se mora upreti še negativcem	Ей также приходится сражаться со злодеями
+doživi kup presenečenj 	she encounters a host of surprises
+je napačno presodila, kdo je kdo.	 she misjudged who was who.
+
+majavo presenečenje	Неуверенная неожиданность
+zobek se maje	Зуб шатается
+goljufati	to cheet
+kukati	подглядывать
+bodi pogumna	будь смелым
+zmeraj	всегда
+žgečka	щекотка
+obdaja	окружает
+Ta vozovnica velja danes	this ticket is valid today
+ob razvpitem intervencijskom zakonu	with the notorious intervention law
+sprejel še pred imenovanjem vlade	adopted before the government was appointed
+začnem z dogajanjem na osrednjem slovenskem zunajnopolitičnem srečanju	I'll start with what happened at the central Slovenian foreign policy meeting.
+prihodnost Evrope	the future of Europe
+predsednik vlade	Prime Minister
+meniti	to think
+naiven odgovor	naive answer
+odgovor na migracije in nepremišljen zeleni prehod	response to migration and reckless green transition
+minister je za uvod nakazal	The minister indicated for the introduction
+evropske zadeve	european affairs
+odpovedujemo lastnim vrednotam	we give up our own values
+četudi kdaj vzbuja dvoma in delitve	even if it sometimes raises doubts and divisions
+spremeniti v ustvarjalnosti	to change into creativity
+o prihodnji vloge Evrope v svetu	on Europe's future role in the world
+
+@rojstni dan medvedv
+Prigail je do sove, potrkal. 	approach the owl, knocked
+
+@News
+rast izdatkov za plače	рост расходов на заработную плату
+tri velika povečanja 	3 major increases
+izplačani bodo vse socialni prejemki	All social benefits will be paid out.
+javnih storitev 	of public services
+kamena doba 	stone age
+bronasta doba 	bronze age
+izzum iz kamene 	stone age invention
+naštej namene uporabe	перечислите цели использования
+razvoj človeka Эволюция человека
+v čem se razlikujeta avstralopitek in sodobni človek 	В чем разница между австралопитеками и современными людьми?
+bil je premišljen 	was intelligent
+v hladnem podnebju 	in the cold climate
+zavetje iz lesa in kože 	shelter made of wood and hide
+kovinska zrna 	metal grains
+v času kovinskih dob 	during the metal ages
+umetnost 	art
+kaj so tam izvajali 	Что они там делали?
+sinočnji poraz 	last night's defeat
+sigurno 	конечно
+pljučno 	pulmonary
+pravokotnik	rectangle
+romb 	rombus
+trikotnik 	triangle
+krog 	circle
+kvadrat 	square
+trapez 	trapezoid
+kocka 	cube
+piramida 	pyramid
+valj 	cylinder
+krogla 	sphere
+kvader 	 rectangular cuboid
+poklicna in strokovna šola 	PTU
+poimenujte like in telesa 	name shapes and solids
+gradivo je namenjeno interni uporabi 	The material is intended for internal use.
+vsebina 	contents (of a book)
+uvod v geometrijo 	introduction to geometry
+osnovni pojmi 	main terms
+geometrija se ukvarja s točkami, premicami 	Geometry deals with points and lines.
+geometrija proučuje njihove lastnosti 	Geometry studies their properties.
+odnose v prostoru 	пространственные взаимоотношения
+razsežnost 	dimension
+ločimo 	we distinguish
+sklenjene črte 	closed lines
+premica 	direct line
+ploskva/ploskev 	surface
+ravnina 	plane
+grškega izvora 	of Greek origin
+površina 	surface area
+izračunavanje calculation
+po vsakoletnih poplavah 	after the annual floods
+je pospešilo razvoj geometrije 	ускорило развитие геометрии
+ob tem pa je veliko znanja zahtevala gradja 	At the same time, the construction required a great deal of knowledge.
+gradnje templjev 	temple construction
+najbolj znani matematik 	the most famous mathematician
+bi si pogledala kaj vse je na voljo 	I'd like to take a look what's available
+storitev za primerjavo 	service for comparison
+področje umetne inteligence 	field of AI
+strojne učenje 	machine learning
+obdelave naravnega jezika 	natural language processing
+analize omrežij 	network analysis
+pod umetno inteligenco jaz predstavljam	By artificial intelligence, I mean...
+najbolj pomembna zadeva 	the most important thing

@@ -837,3 +837,199 @@ obdelave naravnega jezika 	natural language processing
 analize omrežij 	network analysis
 pod umetno inteligenco jaz predstavljam	By artificial intelligence, I mean...
 najbolj pomembna zadeva 	the most important thing
+
+@internet, songs
+se je rodila nova ljubezen	a new love was born
+Rojena, da mi je lepo	Рождена для того, чтобы наслаждаться жизнью
+našeškaj kdaj pa kdaj 	spank me now and then
+Zakone bom kršila, daj, odpelji me 	I'll break the laws, go on, take me away
+Nočna sem izmena in sem varuh naš’ga kraja 	it's the night shift, guardian of out town
+vklopim modre lučke 	switch on the blue lights (police)
+v daljavi pa zasvetijo se njene lepe učke 	and in the distance, her lovely eyes catch the light.
+n’č me ne skrbi 	I don't worry at all
+V marici sem varna, tam se marsikaj zgodi. I’m safe in the police van; all sorts of things happen there.
+nemško govoreče prebivalstvo	German-speaking population
+reševalec	rescuer
+po nedeli zaslutimo premembo	After Sunday, we sense a change.
+zaključkov vsekakor ne bomo naredili danes 	We certainly won't be drawing any conclusions today.
+
+@weather cast
+bo nastalo nekaj plitve kopasti oblačnosti 	some shallow cumulus clouds will form
+pihali bodo šibke lokalni vetrovi 	Weak local winds will blow.
+s primernimi jesenskimi temperaturami 	with suitable autumn temperatures
+oblačne koprene	облачные завесы
+sprememba bo komaj opazna 	Изменения будут едва заметны.
+ponujam vam ga še ob koncu tedna 	Я предложу это вам в конце недели.
+imate še kakšen izgovor 	У вас есть другое оправдание?
+
+
+@Relative question words
+Kdor išče ta najde 	Кто (всякий) ищет, тот найдёт.
+Kdor je tam, naj pride sem.	Whoever is there, let him come here.
+Ko sem prišel domov, je deževalo.	Когда я пришёл домой, шёл дождь. (→ one particular occasion)
+Kadar pridem domov, najprej skuham kavo.	Когда / всякий раз когда я прихожу домой, я сначала варю кофе. (→ habitual/repeated)
+Vem, kje živiš.	I know where you live
+Hiša, kjer živim, je stara.	Дом, в котором / где я живу, старый.
+Kamor gre on, grem tudi jaz.	Куда (куда бы ни) он идёт, туда и я иду.
+Živim tam, kjer je mirno.	Я живу там, где спокойно.
+Grem tja, kamor greš ti.	Я иду туда, куда идёшь ты.
+Vračam se od tam, od koder sem prišel.	Я возвращаюсь оттуда, откуда пришёл.
+
+@TV
+kurilno olje 	heating oil/мазут
+
+@Slovene Dialogs
+je v Sloveniji že leto dni 	has been in Slovenia for a year now
+sta vedala v kaj se podajata 	They knew what they were getting themselves into.
+sta izpopolnevala znanje jezika 	они улучшили свои языковые навыки
+
+@Dnevnik nabritega mulca, 5 kolo
+Začel veliko prej 	Started much earlier 
+Kajti kdorkoli kadarkoli zahotelo je 	if someone one time wants 	
+V letih pred šole 	in years before school
+Na srečo 	luckly
+Vsega, kar se mi je zgodilo 	all that happened to me
+Doživel stvari  	experienced things/events
+Obdobje   period
+Sem in tja 	here and there
+kakovostni dremež 	quality dream
+kaj zaboga slišim 	What on earth am I hearing?
+Izvedel 	realized
+Predvajala glasbo 	broadcast music
+nekakšen genij 	some genius
+Postal genij	become a genius
+Porod 	birth
+Mikrofon 	mike
+Slušalki 	earphones
+Se vrnil iz službe 	got back from work
+Sem ga pomolil pod nos   I thrusted it (contract) under nose
+glede spanja   regarding dreams
+me zeza	It's messing with me
+nenajavlena kontrolka  unannounced test/inspection
+Nikakor se nisem mogel spomniti xxx 	I simply couldn't remember xxx
+Podrobnosti 	details
+
+@Trezor series
+varnostnica deluje presebno ampak zmedeno 	female safeguard distinctive but confused
+kako se znašla v trezorju 	how she ended up in the vault
+nato sem izvedla standardni postopek 	then I carried out the standard procedure
+kluče prevzamem 	I'll pick up the keys
+vse zaposleni zapustili prostore 	all employees have left the premises
+Odsvetovala bi vam Vrtec 	would adviced against Kindergarden of XXX
+zaradi stanovanjskih razmer odstopimo psa	We are rehoming the dog due to housing circumstances.
+uspeh zagotovljen 	success is guaranteed
+instruiram matimatiko 	I tutor mathematics.
+pazi na red in snago 	maintaine order and cleanliness
+ko boš utegnil 	when you have a time
+posedovanje drog 	drug possession
+tatvine	thefts
+bila je na odvajanju	she was in rehub
+si je prskrbila potrdilo	раздобыла подтверждение
+to je moja obljuba in obveza 	This is my promise and commitment.
+v čast mi je 	it's an honor for mi
+prezračevalen sistem je onesposobljen 	The ventilation system is disabled.
+jemljete kakšno zdravilo 	Are you taking any medication?
+po mojih izkušnjah 	In my experience
+odvzem krvi 	taking blood sample
+kar naprej je ponavljala eno ime 	She kept repeating one name over and over.
+ni malo zgodaj za ugibanje 	Ещё довольно рано делать предположения.
+se opravičujem 	Я прошу прощения.
+je ta novica precej vznemirila 	эта новость весьма встревожила
+zelo bom hvaležen, če mi boste poslali čim več podatkov o njej 	Я был бы очень благодарен, если бы вы могли прислать мне как можно больше информации о ней.
+kakšna pa je nadaljna procedura 	Какова будет дальнейшая процедура?
+naj kar pride 	Let him come right ahead.
+lahko sporočite gospodu X naj ga ne skrbi 	You can let Mr. X know not to worry.
+lahko še vedno računamo na vaše diskretnost 	мы по-прежнему можем рассчитывать на вашу осмотрительность.
+najbrž veste, zakaj smo vas poklicali 	Вы, наверное, знаете, почему мы вам позвонили.
+oropali so trezor 	They robbed the vault.
+ker so vse zmetali po tleh 	because they threw everything on the floor
+seznam vseh pogodb 	list of all contracts
+sefov označenih kot VIP 	safes marked as VIP
+večina strank 	большинство клиентов
+vaši nadrejeni so angažirali mene 	Your superiors hired me.
+moram opraviti svoje delo 	I have to do my job.
+gospod s katerim sem se srečal na vhodu 	the gentleman I met at the entrance
+kar za mano 	right behind me
+jebemti 	Damn it
+samo še tega je nam bilo treba 	только этого не хватала
+banka ima pravico do tega 	The bank has the right to this.
+prosim da banka kontaktira oškodovane kliente 	Просим банк связаться с пострадавшими клиентами.
+kako ti sploh pade na pamet 	Откуда тебе вообще это пришло в голову?
+pošleš k meni drogerašico 	присылаете ко мне наркоманку
+A se tebi čisto skegljalo? 	ТЫ совсем с ума сошёл?
+Bejž, kako lepo! 	Надо же, как здорово
+varnostnica čuva milione v moji banki 	Охранница охраняет миллионы в моем банке.	
+a me ti zajebavaš 	Ты меня наёбываешь?
+Rezultati bodo do konca dneva 	The results will be at the end of the day
+je sposobna za zaslišanje 	готова к допросу
+izpis klicev z njenega mobitela	 	calls from her mobile
+kdaj ste nazadnje videli Sonjo 	When did you last see Sonja?
+včeraj proti večeru 	вчера ближе к вечеру
+se pravi okrog sedmih 	то есть, около семи
+potem sva se slišala 	Затем мы обменялись сообщениями.
+peljem Vida v šolo	I'm taking Vid to school.
+kako je pa njemu ime 	And what is his name?
+je česa osumljena 	Is she suspected of anything?
+snemali bomo 	We will be filming.
+kar se spomniti pa si ne znate razložiti 	something you remember but cannot explain to yourself
+spomnim se samo teme 	remember only the darkness
+Vida naenkrat ni bilo več zraven 	Suddenly, Vid was no longer there.
+naj bo dosegljiva 	let it be accessible
+policisti nekaj so zamešali 	the police mixed up something
+so te zaslišali za brezveze 	they questioned you for nothing
+ne sekiraj se 	do not worry
+kako sem se ustrašil ko sem slišal poročila 	How scared I was when I heard the reports.
+
+
+@Wiki
+pojavi se 	appears
+objavljeni v mladinskem listu	published in a youth magazine
+pogumen in prijazen pastirček 	brave and kind little shepherd
+strahopeten 	cowardly
+Zviti in iznajdljivi Kekec 	cunning and resourceful Kekec
+prelisičiti 	outwit
+z nekajletnim razmikom 	at intervals of a few years
+nadaljevanje 	sequel, continuation
+pripovedka 	tale
+začudil kozi 	surprised goats
+preteklik 	past tense
+sedanjik 	present tense
+prihodnjik 	future tense
+nisi pretepala na vasi in tudi bodla 	You didn't go around the village stabbing
+Volka se ti ni treba bati 	Волка тебе не нужно бояться
+tast 	тесть
+
+@Zgodovina
+se je na območju Slovenie odvila ena vojn proti rimskemu imperiju	One of the wars against the Roman Empire took 
+200000 bojevnikov 	200,000 warriors
+bitka 	battle
+leta 32 pred našim štetjem 	32 BCE
+zgodba temelji na antičnih virih 	The story is based on ancient sources.
+v tem videu 	in this video
+je raziskana v knigi X 	is explored in book X
+komu sploh verjeti 	так кому же верить?
+pregleden pogled na možnosti za investiranje 	a clear overview of investment options
+njihove prednosti, tveganja 	their advantages, risks
+Vprašanja, ki si jih je smiselno zastaviti pred odločitvijo. 	Вопросы, которые стоит задать себе перед принятием решения.
+brez zapletenego žargona 	w/o complex jargon
+brez obljub hitrem zaslužku 	without promises of quick earnings
+prenesite eknigo 	Download the e-book.
+kaj narediti s svoimi prihranki 	Что делать со своими сбережениями?
+ponudnik kriptosredstev 	поставщик криптовалют
+vlaganje v kriptosredstva vključuje visoko stopnjo tveganja 	Инвестирование в криптоактивы сопряжено с высоким уровнем риска.
+vrednost lahko zraste ali pade 	значение может увеличиться или уменьшиться
+pretekli donosi niso pokazatelj prihodnjih rezultatov 	Past returns are not an indicator of future results.
+Moja raven jezika je šele začetna. 	Мой уровень языка пока только начальный
+začetna raven	начальный уровень
+srednja raven	средний уровень
+napredna raven	продвинутый уровень
+stopnja izobrazbe	ступень образования
+stopnja razvoja	стадия/степень развития
+visoka raven kakovosti 	высокий уровень качества
+719 po nastanku Rima 	719 year from Rome foundation
+32 let pred Kristusovim rojstvom 	32 BCE
+kakršenkoli vzrok ali žaljivo dejanje s strani Panoncev 	any cause or offensive act on the part of the Pannonians
+ljudje ki so šibkejši od njega 	people who are weaker than him
+najprej zadrževal svoje vojake od grabeža in ropanja 	сначала удержал своих солдат от грабежа и мародерства.
+sklenili kljubovati obleganjem 	decided to defy the sieges
+plovni reki 	navigable rivers

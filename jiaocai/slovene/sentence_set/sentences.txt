@@ -979,6 +979,35 @@ policisti nekaj so zamešali 	the police mixed up something
 so te zaslišali za brezveze 	they questioned you for nothing
 ne sekiraj se 	do not worry
 kako sem se ustrašil ko sem slišal poročila 	How scared I was when I heard the reports.
+Naporna je v božjo mater 	Она ужасно / чертовски / невыносимо напрягает.
+operacija okrevanja 	recovery operation
+moraš jo razumeti 	You have to understand her
+krvni izvidi so prišli	The blood test results have come
+nalog za hišno preiskavo 	house search warrant
+spustite me 	Let me go.
+a lahko izvem zakaj ste tukaj 	May I ask why you are here?
+aretirani ste zaradi suma sodelovanja pri ropu banke 	You are under arrest on suspicion of involvement in a bank robbery.
+takoj bom nazaj 	I'll be right back.
+potrebujem dostop do kraja incidenta 	I need access to the scene of the incident.
+kriminalistična preiskava 	уголовное расследование
+izvid ni pokazal sled drog 	The test showed no traces of drugs.
+bila si pri zavesti 	ты была в сознании.
+zgleda je res zmedena 	She really seems confused.
+pustiva jo nekaj časa 	Let's leave her for a while.
+upamo da bomo kmalu našli storilce 	We hope to find the perpetrators soon.
+drži 	Верно / Точно / Так и есть
+preiskava je še v teku 	The investigation is still ongoing.
+po prvih ocenah 	according to initial estimates
+koliko ludji je bilo vpletenih v rop 	How many people were involved in the robbery?
+koliko strank je bilo oškodovanih 	сколько клиентов пострадало
+kako se kliče 	как (его) зовут
+Nikoli se ne pritožuje. 	She never complain
+Rabi denar za sina.	Needs money for the son
+samohranilka 	single mother
+zmeraj dobre volje 	always in a good mood
+nikoli ne teži 	Она никогда не достаёт / не напрягает / не пилит / не действует на нервы.
+
+
 
 
 @Wiki
@@ -1033,3 +1062,107 @@ ljudje ki so šibkejši od njega 	people who are weaker than him
 najprej zadrževal svoje vojake od grabeža in ropanja 	сначала удержал своих солдат от грабежа и мародерства.
 sklenili kljubovati obleganjem 	decided to defy the sieges
 plovni reki 	navigable rivers
+
+@Case test 1 from ChatGTP
+Pogovarjam se z novim sodelavcem.	I am talking to a new colleague.  
+Brez glavnega direktorja ne moremo začeti sestanka.	We cannot start the meeting without the managing director.  
+Kupil sem darilo za mlajšo sestro.	I bought a present for my younger sister.  
+Živimo blizu stare železniške postaje. 	We live near the old railway station.  
+Govorili smo o novem slovenskem zakonu.	We talked about the new Slovenian law.  
+Na mizi sta dve skodelici črnega čaja.	There are two cups of black tea on the table.  
+Včeraj sem srečal dva stara prijatelja.	Yesterday I met two old friends.  
+Prišel je z dvema mladima otrokoma.	He came with two young children.  
+To sem povedal moji dobri prijateljici.	I told this to my good friend.  
+Ne spomnim se njegovega novega naslova.	I don't remember his new address.  
+Med tema dvema možnostma je velika razlika.	There is a big difference between these two options.  
+Vesel sem vašega velikega uspeha.	I am happy about your great success.  
+Ukvarja se s slovensko zgodovino.	He/She studies/deals with Slovenian history.  
+Na izlet smo šli s tremi novimi študenti.	We went on a trip with three new students.  
+Zaradi slabega vremena smo ostali doma.	We stayed at home because of the bad weather.  
+O tej pomembni težavi smo govorili že včeraj.	We already talked about this important problem yesterday.  
+Pred novo mestno hišo stoji veliko ljudi.	Many people are standing in front of the new town hall (house).  
+Ne poznam nobenega dobrega slovenskega zdravnika.	I don't know any good Slovenian doctor.  
+Pomagal sem dvema starejšima človekoma.	I helped two elderly people.  
+V Sloveniji sem že več kot eno leto.	I have been in Slovenia for more than a year.  
+S njenim prvim predlogom se nisem strinjal.	I didn't agree with her first proposal.  
+To je ena od najboljših restavracij v mestu.	This is one of the best restaurants in the city.  
+Pogovarjali smo se z obema novima sodelavkama.	We talked to both new female colleagues.  
+Brez teh izkušenih ljudi tega ne bi mogli narediti.	We couldn't do this without these experienced people.  
+Med našimi tremi sestanki ni bilo nobenih težav.	There were no problems during our three meetings.  
+Razmišljam o nakupu novega električnega avta.	I am thinking about buying a new electric car.  
+Vrnili smo se iz majhne slovenske vasi.	We returned from a small Slovenian village.  
+Otroci so tekli proti visokim zelenim vratom.	The children ran towards the tall green gate.  
+Zadovoljen sem z obema končnima rezultatoma.	I am satisfied with both final results.  
+To je zgodba o dveh mladih slovenskih študentkah.	This is a story about two young Slovenian female students.
+
+@Imenilnik - endings
+Dva nova sodelavca delata doma.	Two new colleagues work from home.
+Dve mladi študentki študirata slovenščino.	Two young female students study Slovenian.
+Dve veliki okni sta odprti. 	Two large windows are open.
+Trije novi sodelavci delajo doma.	Three new colleagues work from home.
+Tri mlade študentke čakajo zunaj. 	Three young female students are waiting outside.
+Štiri velika okna so odprta.	Four large windows are open.
+Pet novih sodelavcev dela doma.	Five new colleagues work from home.
+Pet mladih študentk čaka zunaj. 	Five young female students are waiting outside.
+Pet velikih oken je odprtih. 	Five large windows are open.
+
+@Rodilnik - endings
+Brez novega sodelavca ne moremo začeti. 	We cannot start without the new colleague.  
+Prihajam iz majhne slovenske vasi.	I come from a small Slovenian village.  
+Zaradi slabega vremena smo ostali doma. 	We stayed home because of the bad weather.
+Brez dveh novih sodelavcev ne moremo začeti. 	We cannot start without two new colleagues.  
+Brez dveh dobrih prijateljic bi bilo težko. 	It would be difficult without two good female friends.  
+V bližini dveh velikih mest je veliko prometa. 	There is a lot of traffic near two large cities.
+Brez treh novih sodelavcev ne moremo začeti. 	We cannot start without three new colleagues.  
+Prihajamo iz treh majhnih slovenskih vasi. 	We come from three small Slovenian villages.  
+V bližini štirih velikih mest je veliko prometa. 	There is a lot of traffic near four large cities.
+
+@Dajalnik
+Pomagal sem novemu sodelavcu. 	I helped the new colleague.  
+To sem povedal mladi študentki. 	I told this to the young female student.  
+Približujemo se staremu mestu. 	We are approaching the old town.
+Pomagal sem dvema novima sodelavcema. 	I helped two new colleagues.  
+To sem povedal dvema mladima študentkama. 	 I told this to two young female students.  
+Približujemo se dvema starima mestoma. 	We are approaching two old towns.
+Pomagal sem trem novim sodelavcem. 	 I helped three new colleagues.  
+To sem povedal trem mladim študentkam. 	 I told this to three young female students.  
+Približujemo se štirim starim mestom. 	 We are approaching four old towns.
+
+@Tožilnik
+Videl sem novega sodelavca. 	 I saw the new colleague.  
+Poznam mlado študentko. 	 I know the young female student.  
+Kupili smo novo stanovanje. 	 We bought a new apartment.
+Videl sem dva nova sodelavca. 	 I saw two new colleagues.  
+Poznam dve mladi študentki. 	 I know two young female students.  
+Kupili smo dve novi stanovanji. 	 We bought two new apartments.
+Videl sem tri nove sodelavce. 	 I saw three new colleagues.  
+Poznam tri mlade študentke. 	 I know three young female students.  
+Kupili smo štiri nova stanovanja. 	 We bought four new apartments.
+Videl sem tri nove sodelavce. 	 I saw three new colleagues.  
+Poznam tri mlade študentke. 	 I know three young female students.  
+Kupili smo štiri nova stanovanja. 	 We bought four new apartments.
+Videl sem pet novih sodelavcev. 	 I saw five new colleagues.  
+Poznam pet mladih študentk. 	 I know five young female students.  
+Kupili smo pet novih stanovanj. 	 We bought five new apartments.
+
+@Mestnik
+Govorimo o novem sodelavcu. 	 We are talking about the new colleague.  
+Živim v majhni slovenski vasi. 	 I live in a small Slovenian village.  
+Razmišljam o novem stanovanju. 	I am thinking about the new apartment.
+Govorimo o dveh novih sodelavcih. 	 We are talking about two new colleagues.  
+Bili smo v dveh majhnih slovenskih vaseh. 	 We were in two small Slovenian villages.  
+Govorimo o dveh novih stanovanjih. 	 We are talking about two new apartments.
+Govorimo o treh novih sodelavcih. 	We are talking about three new colleagues.  
+Bili smo v treh majhnih slovenskih vaseh. 	 We were in three small Slovenian villages.  
+Govorimo o štirih novih stanovanjih. 	 We are talking about four new apartments.
+
+@Orodnik
+Pogovarjam se z novim sodelavcem. 	I am talking with the new colleague.  
+Potujem z dobro prijateljico. 	I am travelling with a good female friend.  
+Zadovoljen sem z novim stanovanjem. 	I am satisfied with the new apartment.
+Pogovarjam se z dvema novima sodelavcema. 	I am talking with two new colleagues.  
+Potujem z dvema dobrima prijateljicama.	I am travelling with two good female friends.  
+Zadovoljen sem z dvema novima stanovanjema. 	I am satisfied with two new apartments.
+Pogovarjam se s tremi novimi sodelavci. 	I am talking with three new colleagues.  
+Potujem s tremi dobrimi prijateljicami. 	I am travelling with three good female friends.  
+Zadovoljen sem s štirimi novimi stanovanji. 	I am satisfied with four new apartments.

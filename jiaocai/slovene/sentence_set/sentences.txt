@@ -1007,6 +1007,26 @@ samohranilka 	single mother
 zmeraj dobre volje 	always in a good mood
 nikoli ne teži 	Она никогда не достаёт / не напрягает / не пилит / не действует на нервы.
 Tudi naju s sestro je mama vzgajala sama 	My mother raised my sister and me on her own, too.
+jaz sem potisniti tega gospoda 	I pushed this gentleman.
+zakaj si ga pa potem porinil 	So why did you push it then?
+če ti tega njemu ne dovoliš 	if you don't allow him to do that
+povozil zraven 	ran over (someone/something) while driving
+dajem na stran 	I'm setting it aside
+zbrala bova pravi čas 	We'll pick the right time
+je bilo samo par sefov tarča 	Only a few safes were targeted.
+dosti je 	that's enough
+kredit ki so ti ga zavrnili 	the loan they rejected
+ni odtisov, ni prič 	No fingerprints, no witnesses.
+ali dvomite v mene 	Do you doubt me?
+Če je Sonja res sama uprizorila rop 	If Sonja really staged the robbery herself
+za zdaj si na ravni domnev 	Пока ты находишься на уровне предположений
+mapa je tudi izginila 	The folder has also disappeared.
+mapo imajo roparji 	The robbers have the folder.
+kakšno sranje je to 	What kind of crap is this?
+se zavedam 	Я в курсе
+izsiljevati 	шантажировать
+Se mi policija namala na vrata. 	И тут у меня под дверью нарисовалась полиция.
+prizore 	scenes
 
 
 
@@ -1166,3 +1186,9 @@ Zadovoljen sem z dvema novima stanovanjema. 	I am satisfied with two new apartme
 Pogovarjam se s tremi novimi sodelavci. 	I am talking with three new colleagues.  
 Potujem s tremi dobrimi prijateljicami. 	I am travelling with three good female friends.  
 Zadovoljen sem s štirimi novimi stanovanji. 	I am satisfied with four new apartments.
+
+@RTV
+ravnatelj 	princial (of school)
+hrana je močno vpeta v vsak aspekt življenja 	Food is deeply woven into every aspect of life.
+kosilo ki je bilo zagotovo(=ziher) mastno 	a lunch that was definitely greasy
+

@@ -1027,6 +1027,52 @@ se zavedam 	Я в курсе
 izsiljevati 	шантажировать
 Se mi policija namala na vrata. 	И тут у меня под дверью нарисовалась полиция.
 prizore 	scenes
+zapor 	jail
+v veliko krajšem času	in much more shorter time
+ti premori, ki jih dela 	those pauses he takes
+jaz nisem prejel podkupnine 	I did not receive a bribe.
+pojasnite mi 	explaint to me
+jih (stranke) najavim v banki 	notify the bank about them (clients)
+stranka pusti denar 	The customer leaves the money.
+pusti kolikor hoče 	leave as much as he wants
+vsak prihod se beleži v bazi	Every arrival is recorded in the database.
+mi vodimo evidenco 	we keep a record
+kot ta zadnja budala	как последний дурак
+vse za nazaj bojo pregledali	They’re going to review everything retroactively.
+zaslišujejo me 	Они меня допрашивают
+preklucejejo 	they are switching
+That reminds me of the effects of barbiturates. 	That reminds me of the effects of barbiturates.
+centralni živčni sistem 	central nervous system
+dan, dva po zaužitju 	in a day or two after ingestion
+to substanco na tržišču praktično ne da dobiti 	This substance is virtually impossible to find on the market.
+obveščevalna služba 	разведывательная служба
+rad bi povezal dogodke 	I'd like to connect the events
+kaj je v ozadju vsega tega 	Что за всем этим стоит?
+zakaj bi tvegala 	Зачем рисковать?
+sežigalnica 	мусоросжигатель
+pomanjkanje nadzora 	lack of control
+škodljive snovi 	harmful substances
+kolikor vidim 	As far as I can see
+celo isti dobavitelj je v igri 	Even the same supplier is involved.
+selektivno navajate nepreverne podatke 	Вы выборочно цитируете непроверенную информацию.
+vpogled v zadevo 	понимание сути дела
+zgleda da ne več 	Похоже, что это уже не так.
+ne morem si tega privoščiti 	Я не могу себе этого позволить.
+otrinil in podrl na tla 	shoved and knocked to the ground
+izredna situacija 	emergency situation
+mediji vas nadlegujejo 	The media are harassing you.
+ljudje lahko zdrsnejo 	люди могут поскользнуться
+če pristaneš v zaporu 	if you end up in prison
+če začneš jemati, bom prisiljena ukrepati 	If you start taking it, I will be forced to take action.
+pakiram 	I am packing
+biti zraven 	be there (next to)
+nekaj smo spregledali 	мы что-то упустили
+vse se bo porihtalo 	всё образуется
+si sigurna 	Are you sure?
+omamljena 	drugged / dazed / intoxicated
+koga briga mulec 	Who cares about the kid?
+stolpnica nasproti banke 	высотное здание напротив банка
+zamujaš 	you are late
 
 
 
@@ -1192,3 +1238,20 @@ ravnatelj 	princial (of school)
 hrana je močno vpeta v vsak aspekt življenja 	Food is deeply woven into every aspect of life.
 kosilo ki je bilo zagotovo(=ziher) mastno 	a lunch that was definitely greasy
 
+@Cartoons
+se znoči 	Night falls
+likovno vzgojo 	art education
+nisem te nalašč porinil 	I didn't push you on purpose
+žgečkljivi stol 	стул для щекотки
+smeh hitro prežene bolečino 	Смех быстро избавляет от боли.
+obliž ti bom prilepila 	I'll put a plaster on you.
+orjaški pajek 	giant spider
+Ne ganita se 	don't move
+sta se zaletela 	они столкнулись
+ob trku 	при ударе
+le koleni sta si opraskala 	They only scraped their knees.
+kje tekata in se dričata 	where they run around and slide about
+med odmorom 	during the break
+imeli nezgodo 	had an accident
+čedni 	they handsome
+me nasmeji 	makes me smile

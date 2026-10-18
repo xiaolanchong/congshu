@@ -1,0 +1,402 @@
+@Lesson 1  이/그/저  이다
+
+That person is a doctor 그 사람은 의사야 / 그 사람은 의사예요
+That person is a teacher    그 사람은 선생님이야 / 그 사람은 선생님이에요
+This thing is a table   이것은 탁자야 / 이것은 탁자예요
+That thing is a bed 저것은 침대야 / 저것은 침대예요
+That person is a man    그 사람은 남자야 / 그 사람은 남자예요
+That person is a woman  그 사람은 여자야 / 그 사람은 여자예요
+That thing is a car 그것은 차야 / 그것은 차예요
+This thing is a tree    이것은 나무야 / 이것은 나무예요
+
+@Lesson 2  있다 + prepositions
+I have a pen	저는 펜이 있어요
+I have a car	저는 차가 있어요
+I have a magazine	저는 잡지가 있어요
+I have a backpack	저는 가방이 있어요
+I am at school	나는 학교에 있어 / 저는 학교에 있어요
+I am in Canada	나는 캐나다에 있어 / 저는 캐나다에 있어요
+I am in-front of the school	나는 학교 앞에 있어 / 저는 학교 앞에 있어요
+I am behind the school	나는 학교 뒤에 있어 / 저는 학교 뒤에 있어요
+I am beside the school	나는 학교 옆에 있어 / 저는 학교 옆에 있어요
+I am inside the bank	나는 은행 안에 있어 / 저는 은행 안에 있어요
+The dog is in the house	개는 집 안에 있어 / 개는 집 안에 있어요
+The cat is under the chair	고양이는 의자 밑에 있어 / 고양이는 의자 밑에 있어요
+The restaurant is next to the bank	식당은 은행 옆에 있어 / 식당은 은행 옆에 있어요
+The hotel is next to the school	호텔은 학교 옆에 있어 / 호텔은 학교 옆에 있어요
+The cat is behind the house 고양이는 집 뒤에 있어 / 고양이는 집 뒤에 있어요
+The cat is behind the house	고양이가 집 뒤에 있어 / 고양이가 집 뒤에 있어요
+
+@Lesson 3 Adjectives, verbs
+I make a cake	나는 케이크를 만들어 / 저는 케이크를 만들어요
+I want a boat	나는 배를 원해 / 저는 배를 원해요
+I speak Korean	나는 한국어를 말해 / 저는 한국어를 말해요
+I go to the park 	나는 공원에 가 / 저는 공원에 가요
+I close the door	나는 문을 닫아 / 저는 문을 닫아요
+I open the window	나는 창문을 열어 / 저는 창문을 열어요
+I understand	나는 이해해 / 저는 이해해요
+나는 아름답다 = I am beautiful
+나는 작다 = I am small
+이 버스는 크다 = This bus is big
+그 병원은 새롭다 = That hospital is new
+이 공원은 매우 작다 = This park is very small
+그 사람은 뚱뚱하다 = That person is fat
+선생님의 차는 크다 = The teacher’s car is big
+나는 선생님의 차를 원하다 = I want the teacher’s car
+나의 손가락은 길다 = My finger is long
+그 여자의 눈은 아름답다 = That woman’s eyes are beautiful
+I meet my friend	나는 나의 친구를 만나 / 저는 저의 친구를 만나요
+I meet (my/a) friend	나는 친구를 만나 / 저는 친구를 만나요
+이 음식은 좋다 = this food is good
+그 선생님은 좋다 = that teacher is good
+이 학교는 좋다 = This school is good
+I like this food	저는 이 음식을 좋아해요
+I like that teacher’s	나는 그 선생님을 좋아해 / 저는 그 선생님을 좋아해요
+We like you	우리는 너를 좋아해
+The teacher likes us 	선생님은 우리를 좋아해요
+Our teacher is a woman’s	우리 선생님은 남자야 | 우리 선생님은 남자예요
+우리 집은 크다 = Our house is big
+
+@Lesson 4
+안녕히 가세요 = Goodbye (said to somebody going)
+안녕히 계세요 = Goodbye (said to somebody staying)
+만나서 반갑습니다 = Nice to meet you
+실례합니다 = Excuse me
+죄송합니다/미안합니다	Sorry
+이름이 뭐예요?	What is your name?
+저의 이름은 ______이에요	My name is
+어디에서 왔어요?	Where are you from?
+
+
+I want a boat	나는 배를 원해 / 저는 배를 원해요
+음식은 비싸다 = The food is expensive
+비싼 음식 = expensive food
+I eat expensive food	저는 비싼 음식을 먹어요
+
+
+I like expensive food	 저는 비싼 음식을 좋아해요
+Expensive food is delicious	비싼 음식은 맛있어요
+I go to the small house	저는 작은 집에 가요
+I want a big car	저는 큰 차를 원해요
+I meet a handsome man	저는 잘생긴 남자를 만나요
+I have a lot of money	나는 많은 돈이 있어 / 저는 많은 돈이 있어요
+I meet a fat student	저는 뚱뚱한 학생을 만나요
+I go to the small house	저는 작은 집에 가요
+That house is small	그 집은 작아요
+I want a big car	저는 큰 차를 원해요
+This car is big		이 차는 커요
+The man eats food	남자는 음식을 먹어요
+The happy girl is inside the small car	행복한 여자는 작은 차 안에 있어요
+that man is a funny man		그 남자는 재미있는 남자예요
+I eat delicious food	저는 맛있는 음식을 먹어요
+ I eat a lot of food	나는 많은 음식을 먹어 / 저는 많은 음식을 먹어요
+ I have a lot of money	는 많은 돈이 있어 / 저는 많은 돈이 있어요
+I have a lot of wives (ha!)	나는 많은 아내가 있어 / 저는 많은 아내가 있어요
+there is a lot of people	사람이 많아요
+there is a lot of food	 음식이 많아요
+I speak Korean as well (In addition to other people)	나도 한국어를 말해 / 저도 한국어를 말해요
+I speak Korean as well (in addition to other languages)	나는 한국어도 말해 / 저는 한국어도 말해요
+ I eat apples as well	나도 사과를 먹어 / 저도 사과를 먹어요
+ I eat apples as well	나는 사과도 먹어 / 저는 사과도 먹어요
+ I know that, too	나도 그것을 알아 / 저도 그것을 알아요
+ I am tired, too	나도 피곤해 / 저도 피곤해요
+My daughter is happy, too	나의 딸도 행복해 / 저의 딸도 행복해요
+
+@Lesson 5
+나는 친구를 만난다 = I meet a friend
+나는 그것을 이해한다 = I understand that
+나는 한국어를 배운다 = I learn Korean
+나는 집에 간다 = I go home
+나는 밥을 먹었다 = I ate rice
+나는 문을 닫았다 = I closed the door 
+나는 창문을 열었다 = I opened the window
+나는 한국어를 공부하였다 = I studied Korean
+나는 박물관에 갔다 = I went to the museum
+삼촌은 가게에 왔다 = (My) uncle came to the store
+오빠는 영어를 배웠다 = (My) older brother learned English
+나는 공을 던졌다 = I threw the ball
+나는 길을 건넜다 = I crossed the street
+나는 친구를 만났다 = I met friends
+나는 한국어를 공부했다 = I studied Korean
+나는 먹겠다 = I will eat
+나는 가겠다 = I will go
+나는 배우겠다 = I will learn
+그 선생님은 아름답다 = that teacher is beautiful
+그 길은 길다 = that street is long
+나의 손은 크다 = my hand is big
+그 길은 길었다 = That street was long
+그 음식은 맛있었다 = That food was delicious 
+그 선생님은 좋았다 = That teacher was good 
+그 식당이 오래되었다 = That restaurant is old
+이것은 비쌌다 = This was expensive
+그 남자는 잘생겼다 = That man was handsome 
+그 사람은 뚱뚱했다 = That person was fat 
+나는 행복하겠다 = I will be happy
+그것은 맛있겠다 = That thing will be delicious
+나는 배고프겠다 = I will be hungry
+
+
+@Lesson 6
+나는 항상 저녁에 음식을 먹어 = I always eat food in the evening 
+나는 나의 선생님을 항상 봐 = I always see my teacher 
+나는 항상 아침에 운동해 = I always exercise in the morning 
+저는 항상 저녁에 음식을 먹어요 = I always eat food in the evening 
+저는 저의 선생님을 항상 봐요 = I always see my teacher 
+저는 항상 아침에 운동해요 = I always exercise in the morning 
+저는 항상 저녁에 음식을 먹습니다 = I always eat food in the evening
+저는 저의 선생님을 항상 봅니다 = I always see my teacher
+저는 항상 아침에 운동합니다 = I always exercise in the morning
+나는 먹었어 = I ate 
+나는 들어봤어 = I listened
+나는 운동했어 = I exercised 
+나는 먹겠어 = I will eat 
+나는 배우겠어 = I will learn
+저는 먹겠어요 = I will eat 
+저는 배우겠어요 = I will learn 
+저는 먹겠습니다 = I will eat 
+저는 배우겠습니다 = I will learn 
+
+@Lesson 7
+
+# ㅅ Irregular
+나는 집을 지어 = I build a house
+저는 웃었어요 = I laughed
+저는 저의 옷을 벗었어요 = I took off my clothes
+저는 저의 손을 씻었어요 = I washed my hands
+
+# ㄷ irregular
+저는 걸어요 = I walk
+돈을 받았어요 = I received money
+저는 저의 강아지를 묻었어요 = I buried my dog
+저는 문을 닫았어요 = I closed the door
+
+# ㅂ 
+그것은 쉬워 = That is easy
+그것은 어려워요 = That is difficult
+저는 저의 어머니를 도왔어요 = I helped my mother
+
+나는 큰 사과를 좋아한다 = I like big apples
+저는 귀여운 여자를 좋아해요 = I like cute girls
+저는 쉬운 일을 했어요 = I did easy work
+나는 부드러운 손이 있어= I have soft hands
+저는 추운 날씨를 좋아해요 = I like cold weather
+그 여자는 아름다워요 = That girl is beautiful
+그 학교는 새로워요 = That school is new
+그것은 새로운 학교예요 = That (thing) is a new school
+
+이 방은 좁아요 = This room is narrow
+저는 공을 잡았어요 = I caught the ball
+이 방은 넓어요 = This room is wide
+
+# ㅡ Irregular
+저는 문을 잠갔어요 = I locked the door
+저는 바빠요 = I am busy
+그 여자는 예뻐요 = That girl is pretty
+저는 아주 슬퍼요 = I am very sad
+그 집은 커요 = That house is big
+저는 머리를 긁었어요 = I scratched my head
+저는 쥐를 들었어요 = I heard a mouse
+
+# 르 Irregular
+그것은 달라요 = That thing is different
+그 남자는 빨라요 = That man is fast
+저는 저의 누나를 불렀어요 = I called my sister
+
+# ㄹ Irregular
+저는 긴 거리를 건넜어요 = I crossed the long street
+저는 먼 병원에 갔어요 = I went to a far away hospital (a hospital that is far away)
+나는 케이크를 만든다 = I make a cake
+
+저는 집에 갑니다 = I go home
+저는 밥을 먹습니다 = I eat rice
+그 여자는 예쁩니다 = That girl is pretty
+이 방은 넓습니다 = This room is big/wide
+저는 문을 엽니다 = I open the door
+저는 케이크를 만듭니다 = I make a cake
+그 병원은 멉니다 = That hospital is far
+그 여자의 머리카락은 깁니다 = That girls hair is long
+
+
+@Lesson 8
+저는 병원을 공원 옆에 지었어요 = I built a hospital beside the park
+저는 화요일에 가겠어요 = I will go on Tuesday
+저는 저녁에 공부했어요 = I studied in the evening
+저는 가을에 공원 옆에 병원을 지었어요 = I built a hospital beside the park in the fall
+
+여름에 저는 공부하겠어요 = I will study in the summer
+저는 한국에 오늘 도착했어요 = I arrived in Korea today
+저는 도서관에 어제 갔어요 = I went to the library yesterday
+저는 내일 한국어를 공부하겠어요 = I will study Korean tomorrow.
+
+저는 저의 친구를 자주 만나요 = I meet my friend often
+저는 밥을 많이 먹었어요 = I ate a lot of food (rice)
+저는 집에 바로 갔어요 = I went home immediately
+저는 숙제를 빨리 했어요 = I did my homework quickly
+
+저는 많은 밥을 먹었어요 = I ate a lot of rice
+저는 밥을 많이 먹었어요 = I ate a lot of rice.
+저는 조용하게 먹었어요 = I ate quietly
+저는 거리를 안전하게 건넜어요 = I crossed the street safely
+저는 행복하게 살았어요 = I lived happily
+저는 매우 빨리 달렸어요 = I ran really quickly
+저는 빨리 먹었어요 = I ate fast
+저는 바로 떠났어요 = I left immediately
+저는 저의 친구를 목요일에 자주 만나요 = I often meet my friend on Thursday
+저는 가끔 너무 많이 먹어요 = I eat too much sometimes
+
+그 여자는 안 예뻐요 = That girl isn’t pretty
+저는 생선을 안 좋아해요 = I don’t like fish
+저는 내일 학교에 안 가겠어요 = I’m not going to school tomorrow
+그 여자는 예쁘지 않아요 = That girl isn’t pretty
+저는 생선을 좋아하지 않아요 = I don’t like fish
+저는 내일 학교에 가지 않겠어요 = I’m not going to school tomorrow
+
+저는 공부를 안 했어요 = I didn’t study
+저는 실수를 안 했어요 = I didn’t make (do) a mistake
+저는 여행을 안 했어요 = I didn’t travel
+저는 공부하지 않았어요 = I didn’t study
+저는 공부를 하지 않았어요 = I didn’t study
+저는 실수하지 않았어요 = I didn’t make a mistake
+저는 실수를 하지 않았어요 = I didn’t make a mistake
+저는 여행하지 않았어요 = I didn’t travel
+저는 여행을 하지 않았어요 = I didn’t travel
+
+저는 안 행복해요 = I am not happy
+저는 행복하지 않아요 = I am not happy
+
+I am not a teacher	저는 선생님이 아니에요
+I am not your friend	나는 너의 친구가 아니야
+I am not a University Student	저는 대학생이 아니에요
+
+저는 돈이 없어요 = I don’t have money
+저는 시간이 없어요 = I don’t have time
+우리는 차가 없어요 =  We don’t have a car
+
+저의 친구는 지금 한국에 없어요 = My friend is not in Korea now
+사람이 없었어요 = There was no people
+
+저는 과일을 싫어해요 = I dislike fruit
+
+@Lessong 9
+이것은 여권이야 = This is a passport
+야구는 좋은 스포츠야 = Baseball is a good sport
+
+나는 학생이 아니야 = I am not a student
+그것은 책이 아니야 = That thing is not a book
+그것은 사진이에요 = That thing is a picture
+저는 선생님이에요 = I am a teacher
+저것은 사과예요 = That thing is an apple
+
+저는 의사입니다 = I am a doctor
+저는 선생님입니다 = I am a teacher
+이 고기는 돼지고기입니다 = This meat is pork
+
+저는 의사가 아닙니다 = I am not a doctor
+저는 학생이 아닙니다 = I am not a student
+그것은 저의 직업이 아닙니다 = That (thing) is not my job
+그 건물은 극장이 아닙니다 = That building is not a theater
+
+나는 바쁜 선생님이었어 = I was a busy teacher
+나는 학생이었어 = I was a student
+나는 선생님이었어 = I was a teacher
+나는 나쁜 애기였어 = I was a bad baby
+나는 나쁜 의사였어 = I was a bad doctor
+그것은 큰 비밀이었어요 = That was a big secret
+저는 의사였어요 = I was a doctor
+저는 나쁜 애기였어요 = I was a bad baby
+나는 선생님이었다 = I was a teacher
+나는 의사였다 = I was a doctor
+저는 선생님이었습니다 = I was a teacher
+저는 의사였습니다 = I was a doctor
+
+저는 밥을 먹을 것이에요 = I will eat rice
+저는 밥을 먹을 거예요 = I will eat rice
+나는 내일 친구를 만날 것이야 = I will meet my friend tomorrow
+나는 내일 친구를 만날 거야 = I will meet my friend tomorrow
+저는 내일 학교에 갈 것입니다 = I will go to school tomorrow
+저는 영어를 공부할 거예요 = I will study English
+
+저는 곧 선생님이 될 것입니다 = I will become a teacher soon
+나는 미래에 의사가 될 거야 = I will become a doctor in the future
+나는 미래에 의사일 거야 = I will be a doctor in the future
+한국이 곧 좋은 나라가 될 것이다 = Korea will become a good country soon
+한국이 곧 좋은 나라일 것이다 = Korea will be a good country soon
+이 장소는 공원이 될 것이다 = This place will become a park
+이 장소는 공원일 것이다 = This place will be a park
+
+그 사람이 의사일 거예요 = That person is probably/most likely a doctor
+그것은 여권일 거예요 = That thing is probably/most likely a passport
+문제는 돈일 거예요 = The problem is probably/most likely money
+
+그 사람이 의사가 아닐 거야 = That person is probably/most likely not a doctor
+그것은 여권이 아닐 거야 = That thing is probably/most likely not a passport
+문제는 돈이 아닐 거야 = The problem is probably/most likely not money
+
+@Lesson 10
+사람 두 명 = 2 people
+펜 다섯 개 = 5 pens
+펜 마흔네 개 = 44 pens
+
+두 명의 사람 = 2 people
+다섯 개의 펜 = 5 pens
+나는 펜 네 개를 샀어 = I bought four pens
+나는 햄버거 두 개를 먹었어 = I ate two hamburgers
+나는 어제 친구 다섯 명을 만났어 = I met five friends yesterday
+
+나는 네 개의 펜을 샀어 = I bought four pens
+나는 두 개의 햄버거를 먹었어 = I ate two hamburgers
+나는 어제 다섯 명의 친구를 만났어 = I met five friends yesterday
+
+그 사람은 차 네 대가 있어요 = That person has four cars
+저는 우유 두 잔을 샀어요 = I bought two glasses of milk
+저는 땅콩 두 개를 먹었어요 = I ate two peanuts
+
+저는 어제 학교에 세 번 갔어요 = I went to school three times yesterday
+저는 그 영화를 다섯 번 봤어요 = I saw that movie five times
+저는 오늘 두 번 운동할 것입니다 = I will exercise twice (two times) today
+저는 어제 고기를 두 번 먹었어요 = I ate meat twice yesterday
+저는 오늘 축구를 네 번 할 거예요 = I will play soccer four times today
+
+
+두 시 삼십 분 = Two thirty
+
+열두 시 오십 분 = Twelve fifty
+나는 2시 30분에 왔어 = I came at 2:30
+
+우리는 7시 20분에 시작할 거예요 = We will start at 7:20
+저는 열 살이에요 = I am ten years old
+저의 여자 친구는 스물여섯 살이에요 = My girlfriend is twenty six years old
+
+몇 살이에요? = How old are you?
+저의 첫 번째 친구는 착했어요 = My first friend was nice
+저는 첫 번째 차를 싫어했어요 = I didn’t like that first car
+
+그 두 번째 선생님은 똑똑했어요 = That second teacher was smart
+저는 두 번째 남자를 골랐어요 = I chose the second man
+이 여권은 저의 세 번째 여권이에요 = This passport is my third passport
+저는 세 번째 문을 열었어요 = I opened the third door
+
+저는 네 번째 사람이었어요 = I was the fourth person
+이 아이는 저의 네 번째 아들이에요 = This person is my fourth son
+
+이 수업은 오늘 저의 열 번째 수업입니다 = This is my tenth class today
+저는 백 번째 페이지를 읽었어요 = I read the 100th page
+
+
+우리 둘째 아들은 고등학생이에요 = Our second son is a high school student
+우리 셋째 아이는 야구를 좋아해요 = Our third child likes baseball
+이 아이는 우리 첫째 아들이에요 = This (child) is our first son
+
+
+이것은 저의 마지막 수업이에요 = This is my last class
+저는 마지막 것을 안 봤어요 = I didn’t see the last thing (I didn’t see that last one)
+
+
+처음에 그 여자를 싫어했어요 = I didn’t like that girl at first
+저는 처음에 체육 수업을 싫어했어요 = At first I didn’t like PE class
+
+
+저는 어제 선생님을 처음 만났어요 = I met my teacher for the first time yesterday
+저는 내일 한국에 처음 갈 것입니다 = I will go to Korea for the first time tomorrow
+
+

@@ -104,3 +104,6 @@
 抓破了鼻子 	поцарапать нос
 打青了眼 	подбить глаз
 A 和 B 还差着…… 	A is still … away from B / there's still a … gap between A and B.
+
+@History
+通史 	narrative history / comprehensive history 
